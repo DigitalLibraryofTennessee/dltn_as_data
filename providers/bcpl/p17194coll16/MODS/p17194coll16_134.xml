@@ -1,1 +1,29 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Dennis Curtin interview</title></titleInfo><location><url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll16/id/134</url><url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll16/id/134</url></location><abstract>Lt. Dennis Curtin, USMC, served as an artillery forward observer and in a fire direction center. He served in-country February 1968 to February 1969.</abstract><name><namePart>Curtin, Dennis; Caudill, Ed; Minser, Billy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>May 1, 2020</dateCreated></originInfo><subject><topic>Curtin, Dennis</topic></subject><subject><topic>Vietnam War, 1961-1975</topic></subject><recordInfo><recordContentSource>Blount County Public Library</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dennis Curtin interview</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll16/id/134</url>
+    <url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll16/id/134</url>
+  </location>
+  <abstract>Lt. Dennis Curtin, USMC, served as an artillery forward observer and in a fire direction center. He served in-country February 1968 to February 1969.</abstract>
+  <name>
+    <namePart>Curtin, Dennis; Caudill, Ed; Minser, Billy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>May 1, 2020</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Curtin, Dennis</topic>
+  </subject>
+  <subject>
+    <topic>Vietnam War, 1961-1975</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

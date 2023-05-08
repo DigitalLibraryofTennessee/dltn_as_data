@@ -1,1 +1,41 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Newlyweds</title></titleInfo><location><url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll17/id/176</url><url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll17/id/176</url></location><abstract>Four newlyweds pose at a photo prop in St. Louis</abstract><name><namePart>Edwin Best</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>1914</dateCreated></originInfo><subject><topic>Kidd, Roy</topic></subject><subject><topic>McCollum, Ruth</topic></subject><subject><topic>Hall, Earl</topic></subject><subject><topic>Hall, Blanche</topic></subject><subject><topic>Jena</topic></subject><subject><topic>Greenback (Tenn.)</topic></subject><recordInfo><recordContentSource>Blount County Public Library</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Newlyweds</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll17/id/176</url>
+    <url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll17/id/176</url>
+  </location>
+  <abstract>Four newlyweds pose at a photo prop in St. Louis</abstract>
+  <name>
+    <namePart>Edwin Best</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1914</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Kidd, Roy</topic>
+  </subject>
+  <subject>
+    <topic>McCollum, Ruth</topic>
+  </subject>
+  <subject>
+    <topic>Hall, Earl</topic>
+  </subject>
+  <subject>
+    <topic>Hall, Blanche</topic>
+  </subject>
+  <subject>
+    <topic>Jena</topic>
+  </subject>
+  <subject>
+    <topic>Greenback (Tenn.)</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

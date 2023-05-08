@@ -1,1 +1,27 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Jim Loftis interview</title></titleInfo><location><url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll16/id/3</url><url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll16/id/3</url></location><abstract>Lt. James Loftis served in the 2nd Civil Affairs, in which he was a combat engineer and unit commander. He was in Vietnam September 1969 to September 1970. This interview was conducted Sept. 17, 2020, at Burgess State Park by Ed Caudill and Billy Minser.</abstract><name><namePart>Minser, Billy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>09/17/2020</dateCreated></originInfo><subject><topic>Vietnam War, 1961-1975</topic></subject><typeOfResource>sound recording-nonmusical</typeOfResource><recordInfo><recordContentSource>Blount County Public Library</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jim Loftis interview</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll16/id/3</url>
+    <url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll16/id/3</url>
+  </location>
+  <abstract>Lt. James Loftis served in the 2nd Civil Affairs, in which he was a combat engineer and unit commander. He was in Vietnam September 1969 to September 1970. This interview was conducted Sept. 17, 2020, at Burgess State Park by Ed Caudill and Billy Minser.</abstract>
+  <name>
+    <namePart>Minser, Billy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>09/17/2020</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Vietnam War, 1961-1975</topic>
+  </subject>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

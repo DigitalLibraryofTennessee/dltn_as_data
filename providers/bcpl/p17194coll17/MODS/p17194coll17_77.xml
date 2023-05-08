@@ -1,1 +1,26 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Joe Kerr Walker</title></titleInfo><location><url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll17/id/77</url><url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll17/id/77</url></location><abstract>Young boy on pony, holding on to horn of saddle. Feet do not reach the stirrups. Small colt next to pony. It is in a grassy field with a fence and buildings in the background. Woman is barely visible on right side of photograph. Harris Kerr Walker is written on back of photo.</abstract><name><namePart>Edwin Best</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><subject><topic>Greenback (Tenn.)</topic></subject><subject><topic>Walker, Joe Kerr</topic></subject><recordInfo><recordContentSource>Blount County Public Library</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Joe Kerr Walker</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17194.contentdm.oclc.org/cdm/ref/collection/p17194coll17/id/77</url>
+    <url access="preview">http://cdm17194.contentdm.oclc.org/utils/getthumbnail/collection/p17194coll17/id/77</url>
+  </location>
+  <abstract>Young boy on pony, holding on to horn of saddle. Feet do not reach the stirrups. Small colt next to pony. It is in a grassy field with a fence and buildings in the background. Woman is barely visible on right side of photograph. Harris Kerr Walker is written on back of photo.</abstract>
+  <name>
+    <namePart>Edwin Best</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Greenback (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Walker, Joe Kerr</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
