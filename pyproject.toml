@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dltn-as-data"
+version = "0.1.0"
+description = ""
+authors = ["Mark Baggett <mbagget1@utk.edu>"]
+readme = "README.md"
+packages = [{include = "dltn_as_data"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lxml = "^4.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
