@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Department of Energy Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <titleInfo>
+    <title>J. Nash Copeland store</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16107.contentdm.oclc.org/cdm/ref/collection/p15388cdi/id/335</url>
+    <url access="preview">http://cdm16107.contentdm.oclc.org/utils/getthumbnail/collection/p15388cdi/id/335</url>
+  </location>
+  <abstract>A group of people assemble in front of a store with a gas pump in front.</abstract>
+  <name>
+    <namePart>United States Department of Energy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Thompson Photo Products, Knoxville, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1940s</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Gasoline pumps</topic>
+  </subject>
+  <subject>
+    <topic>Robertsville neighborhood (Oak Ridge, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Signs</topic>
+  </subject>
+  <subject>
+    <topic>Stores and shops</topic>
+  </subject>
+  <subject>
+    <topic>Copeland, J. Nash</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Oak Ridge Public Library</recordContentSource>
+  </recordInfo>
+</mods>

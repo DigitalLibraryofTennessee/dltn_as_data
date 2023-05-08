@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Edward Dougherty Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <titleInfo>
+    <title>Edward Dougherty working at Park Sign Company</title>
+  </titleInfo>
+  <identifier>EDC 0040</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16107.contentdm.oclc.org/cdm/ref/collection/p16107coll3/id/38</url>
+    <url access="preview">http://cdm16107.contentdm.oclc.org/utils/getthumbnail/collection/p16107coll3/id/38</url>
+  </location>
+  <abstract>A man wearing glasses and a hat is holding a yardstick and a pencil next to a blank piece of paper on an drawing board.</abstract>
+  <name>
+    <namePart>James A. Dougherty</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Park Sign Company</topic>
+  </subject>
+  <subject>
+    <topic>Dougherty, Edward W.</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Oak Ridge Public Library</recordContentSource>
+  </recordInfo>
+</mods>

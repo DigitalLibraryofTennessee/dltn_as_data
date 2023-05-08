@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Department of Energy Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <titleInfo>
+    <title>George Paxton Orchestra</title>
+  </titleInfo>
+  <identifier>REC 0410</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16107.contentdm.oclc.org/cdm/ref/collection/p15388cdi/id/634</url>
+    <url access="preview">http://cdm16107.contentdm.oclc.org/utils/getthumbnail/collection/p15388cdi/id/634</url>
+  </location>
+  <abstract>A crowd of people listen to a man singing into a microphone.</abstract>
+  <name>
+    <namePart>Edward Westcott</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>United States Department of Energy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Thompson Photo Products, Knoxville, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1945-10-09</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Bands</topic>
+  </subject>
+  <subject>
+    <topic>Interiors</topic>
+  </subject>
+  <subject>
+    <topic>Military uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Singing</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Oak Ridge Public Library</recordContentSource>
+  </recordInfo>
+</mods>

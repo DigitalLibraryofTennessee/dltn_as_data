@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Department of Energy Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <titleInfo>
+    <title>Aerial view of construction at Y-12</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16107.contentdm.oclc.org/cdm/ref/collection/p15388cdi/id/979</url>
+    <url access="preview">http://cdm16107.contentdm.oclc.org/utils/getthumbnail/collection/p15388cdi/id/979</url>
+  </location>
+  <abstract>A large multistory building under construction next to a smokestack. A parking lot is in the background.</abstract>
+  <name>
+    <namePart>United States Department of Energy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Thompson Photo Products, Knoxville, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1944-04-22</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Building construction</topic>
+  </subject>
+  <subject>
+    <topic>Construction</topic>
+  </subject>
+  <subject>
+    <topic>Smokestacks</topic>
+  </subject>
+  <subject>
+    <topic>Y-12 Plant</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Oak Ridge Public Library</recordContentSource>
+  </recordInfo>
+</mods>

@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Department of Energy Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <titleInfo>
+    <title>Wheat district runners up</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16107.contentdm.oclc.org/cdm/ref/collection/p15388cdi/id/304</url>
+    <url access="preview">http://cdm16107.contentdm.oclc.org/utils/getthumbnail/collection/p15388cdi/id/304</url>
+  </location>
+  <abstract>Eleven young women, six standing and five sitting, are posed for a group portrait. One is holding a trophy.</abstract>
+  <name>
+    <namePart>United States Department of Energy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Thompson Photo Products, Knoxville, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1940</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Athletes</topic>
+  </subject>
+  <subject>
+    <topic>Awards</topic>
+  </subject>
+  <subject>
+    <topic>Wheat (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Arnold, Sara</topic>
+  </subject>
+  <subject>
+    <topic>Butler, Frances</topic>
+  </subject>
+  <subject>
+    <topic>Cooper, Marion</topic>
+  </subject>
+  <subject>
+    <topic>Devaney, Billie Mae</topic>
+  </subject>
+  <subject>
+    <topic>Johnson, Earl</topic>
+  </subject>
+  <subject>
+    <topic>Johnson, Edna</topic>
+  </subject>
+  <subject>
+    <topic>King, Hope</topic>
+  </subject>
+  <subject>
+    <topic>Qualls, Fleta</topic>
+  </subject>
+  <subject>
+    <topic>Silva, Dora</topic>
+  </subject>
+  <subject>
+    <topic>Silva, Yvonne</topic>
+  </subject>
+  <subject>
+    <topic>Stinecipher, Bonita</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Oak Ridge Public Library</recordContentSource>
+  </recordInfo>
+</mods>
