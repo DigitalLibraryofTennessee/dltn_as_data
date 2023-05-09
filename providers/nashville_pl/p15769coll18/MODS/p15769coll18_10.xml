@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt 1 from Oscar Rayo Conversation</title>
+  </titleInfo>
+  <name>
+    <namePart>Rayo, Oscar (storyteller)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/edt">Storyteller</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <publisher>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</publisher>
+  </originInfo>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/p15769coll18/id/10</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/p15769coll18/id/10</url>
+  </location>
+  <abstract>Oscar Rayo discusses beginning school in Nashville after leaving Mexico</abstract>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville's New Faces</title>
+    </titleInfo>
+    <abstract>A series of interviews conducted with recent immigrants and first generation Americans in Nashville. The collection includes conversations with people from 27 countries, including our Latino, Somali, Laotian, Kurdish, Vietnamese, Sudanese, and other foreign-born and immigrant communities. In the interviews, participants were invited to bring a friend or family member and discuss whatever they wished. This resulted in a wide variety of conversations covering immigration, identity, love, family, education, and more. This project was conducted as part of a StoryCorps @ your library pilot program.</abstract>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/p15769coll18</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

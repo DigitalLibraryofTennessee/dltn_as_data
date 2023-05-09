@@ -1,0 +1,105 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee Theatre on Church Street, Nashville, Tennessee, 1952</title>
+  </titleInfo>
+  <identifier>CreightonColl-NashProjects Tennessee Theater 1952 001 - 019</identifier>
+  <name>
+    <namePart>Creighton III, Wilbur (donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1952</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/9077</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/9077</url>
+  </location>
+  <abstract>Interior and exterior views of the historic Tennessee Theater (527 Church Street), located in the Sudekum Building, circa 1952. This palatial Art Deco movie palace opened on February 28th, 1952. It featured a 2,000-seat auditorium adjoining the Sudekum Building (Warner Building). This new portion of the building was done by Marr &amp; Holman, architects and Foster-Creighton, General Contractors. The theatre sign was nine stories high. Both the theatre and Sudekum Building were razed in the late 1980s to make way for a new highrise. The Foster &amp; Creighton construction contracting firm was founded in 1885 by Wilbur F. Foster and Robert T. Creighton, who had both served as City Engineer of Nashville. Forms part of the Foster &amp; Creighton General Contractors Collection. 19 b &amp; w photographs.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Foster &amp; Creighton General Contractors Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Tennessee Theatre (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sudekum Building (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Warner Building (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Watkins Building (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Central business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Construction industry--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Motion picture theaters--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Church Street (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sixth Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

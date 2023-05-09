@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Army Day Parade, Nashville, Tennessee, 1942 April</title>
+  </titleInfo>
+  <identifier>RG 412 872 Army Day Parade April 1942 013</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1942-04</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/5663</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/5663</url>
+  </location>
+  <abstract>“Army Day Parade Plans Announced: Arrangements for a colorful demonstration as Nashville’s observance of Army Day are being worked out under a committee headed by Walter Stokes, Jr., which provides for an elaborate parade Monday at 2 o’clock in which some 1,500 Camp Forrest troops will participate. The parade will form at Eighth Avenue and Broadway at 1:30 o’clock, and units will march in the following order: Marshal Herbert Corson with police escort of 25 county, city, and state motorcycle officers; Camp Forrest band followed by 1,200 marching infantrymen and a motorized detachment of 300 members; Drum and Bugle Corps of the Sons of the American Legion; detail from the United States Navy Recruiting Station; 200 uniformed members of the American Red Cross, Post 5 American Legion members and Post 6 (Negro) American Legion; Spanish-American War Veterans; Tennessee State Guard band and troops; Drum and Bugle Corps of the ROTC and marching units of that organization. Route of the parade will be north on Eighth Avenue to Church Street; east on Church to Fifth Avenue, north on Fifth to Cedar Street, west on Cedar to Capitol Boulevard, where it will pass in review before Gov. Prentice Cooper, thence to Eighth Avenue and Union Street, where the parade will disband. Soldiers Arrive Sunday: Soldiers from Camp Forrest will arrive at the Nashville city limits Sunday morning at 9:30 o’clock and will be met by Police Lt. Emmett Franklin. The troops will be escorted to the State Fair Grounds.” Source: Nashville Banner, Wednesday, April 1st, 1942. Forms part of Record Group 412, Photographs Collection. 1 photograph negative : b &amp; w ; 4 x 5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Record Group 412</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Metro Archives, Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>World War, 1939-1945--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Civilian participation--Tennessee, Middle</topic>
+  </subject>
+  <subject>
+    <topic>Parades--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, Middle--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,119 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of the Tennessee State Capitol, Nashville, Tennessee, circa 1980s</title>
+  </titleInfo>
+  <identifier>WSC 0522</identifier>
+  <name>
+    <namePart>Estate of Charles W. Warterfield, Jr., F.A.I.A. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Warterfield, Charles W. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated qualifier="approximate">ca. 1980s</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <form>still image</form>
+    <form>slides</form>
+    <form>architectural photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219.</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/485</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/485</url>
+  </location>
+  <abstract>A photograph of the Tennessee State Capitol, focusing primarily on the cupola and part of one portico. The State Capitol was constructed between 1845 and 1859. It was designed in Greek Revival style by architect William Strickland (1788-1854). Strickland died before construction was completed and was interred in the walls of the north portico. His son, Francis W. Strickland, oversaw the completion of the project. The cupola, unusual in Greek Revival style, was reputedly modeled on a Greek monument to Lysicrates and designed to be illuminated at night like a lantern. The building was constructed of Tennessee Limestone and underwent major restoration from 1956-1960. During the restoration, much of the limestone, including most in the cupola and the Ionic columns and capitals, was replaced with Indiana limestone. Further restoration was done from 1884-1988. The building is situated on a hilltop in downtown Nashville, Tennessee and houses several government offices, including both houses of the General Assembly and the Governor's office. The grounds contain monuments to famous people and events in Tennessee history, including the grave of President James Knox Polk and his wife. The Capitol was placed on the National Register of Historic Places in 1970. Photographed by the Nashville architect Charles Wesley Warterfield, Jr. (1926-1998); the architectural photograph forms part of the Charles Warterfield Architectural Collection. Gift of: The Estate of Charles W. Warterfield, Jr., F. A. I. A. The original is a 35 mm color transparency (2 x 2 in. slide mount)</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Charles Warterfield Architectural Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Tennessee State Capitol (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architects--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architectural elements--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Capitols--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Cupolas--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Porticoes (Porches)--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Columns--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Capitals--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--Capital and capitol</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300128371">slides (photographs)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

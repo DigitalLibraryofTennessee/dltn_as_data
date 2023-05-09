@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Second Presbyterian Church</title>
+  </titleInfo>
+  <identifier>WCS</identifier>
+  <name>
+    <namePart>Warterfiled Family</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Charles Warterfield, Jr.</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo/>
+  <physicalDescription>
+    <form>jpg</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/6</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/6</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Photograph of the interior of Second Presbyterian Church, Nashville, TN.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Charles Warterfield Architectural Slide Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Owned by Warterfield Family</accessCondition>
+  <subject>
+    <topic>Strickland, William</topic>
+  </subject>
+  <subject>
+    <topic>Churches-Nashville, Tenn.</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006565">
+    <topic>Architects</topic>
+  </subject>
+  <subject>
+    <topic>Greek Revival architecture</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville, Tenn.</geographic>
+    <cartographics>
+      <coordinates>36.16589, -86.78444</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,126 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Program, The Nashville Community Playhouse, presentation of “Little Foxes,” 1943</title>
+  </titleInfo>
+  <identifier>Wilhelmina Webb Collection Nash Community Playhouse progs 1940-47 Little Foxes Hellman 001 - 005</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1943</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>programs</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/9332</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/9332</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A Nashville Community Playhouse program for a theatrical production of Lillian Hellman’s “The Little Foxes,” presented December 7th-11th, 1943. The production was directed by Mrs. Inez B. Adler. The actors in the cast are Lilian R. Ward; Al Margolin; Margie Knight; Alfred D. Moore; Cpt. Irvine Stirton; Noncie Reed Bradley; Sgt. Hugh O’Connell; Frank Drury; Virginia Mansell; and Pvt. John Newland. Includes a list of the sustaining membership for the 1943-44 year. Forms part of the Wilhelmina Webb Collection. 1 program.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Wilhelmina Webb Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Adler, Mrs. Inez B.</topic>
+  </subject>
+  <subject>
+    <topic>Ward, Lilian R.</topic>
+  </subject>
+  <subject>
+    <topic>Margolin, Al</topic>
+  </subject>
+  <subject>
+    <topic>Knight, Margie</topic>
+  </subject>
+  <subject>
+    <topic>Moore, Alfred D.</topic>
+  </subject>
+  <subject>
+    <topic>Stirton, Irvine</topic>
+  </subject>
+  <subject>
+    <topic>Bradley, Noncie Reed</topic>
+  </subject>
+  <subject>
+    <topic>O’Connell, Hugh</topic>
+  </subject>
+  <subject>
+    <topic>Drury, Frank</topic>
+  </subject>
+  <subject>
+    <topic>Mansell, Virginia</topic>
+  </subject>
+  <subject>
+    <topic>Newland, John</topic>
+  </subject>
+  <subject>
+    <topic>Nashville Community Playhouse (Nashville, Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Belcourt Theatre (Nashville, Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Performances--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Performing arts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Entertainment--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Advertising--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Community theater--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Theater--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Theatrical companies--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Belcourt Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027240">programs (documents)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

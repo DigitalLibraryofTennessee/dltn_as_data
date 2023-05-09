@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Aerials of Berry Field and Vultee, Nashville, Tennessee, 1946 February</title>
+  </titleInfo>
+  <identifier>RG 412 273 Aerials of Berry Field + of Vultee Feb 1946 001</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1946-02</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/5394</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/5394</url>
+  </location>
+  <abstract>An aerial view of Berry Field and the adjacent “Vultee” plant, February, 1946. In 1943, Vultee Aircraft Corporation merged with the Consolidated Aircraft Corporation (Convair). At the end of World War II, the plant in Nashville had a surplus of manufacturing capacity available and the parent Convair firm started the transit-car production. Nashville's airport officially opened in 1937 as Berry Field, in honor of Colonel Harry S. Berry, the state administrator of the Works Progress Administrator, or WPA. Berry Field became the military base for the 4th Ferrying Command during World War II and was returned to the city when the war ended. The airport’s name was officially changed to Nashville International Airport in 1988, but the original three-letters BNA, which stands for Berry Field Nashville, remains. Forms part of Record Group 412, Photographs Collection. 1 photograph negative : b &amp; w ; 4 x 5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Record Group 412</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Metropolitan Nashville Airport Authority--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Airports--Tennessee--Nashville--History</topic>
+  </subject>
+  <subject>
+    <topic>Business--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Speech of Mayor Richard H. Fulton, Austin, Texas, circa 1982</title>
+  </titleInfo>
+  <identifier>Mayor Fulton Papers f14 Speeches</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1982~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/10927</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/10927</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A typescript of a speech by Nashville Mayor Richard H. Fulton, circa 1982, with a notation "Austin, Texas, May 10. This speech discusses American Federalism and how "from its first dramatic expression in the Federalists Papers, the relations of Federal, State, and Local governments have been at the heart of many of our greatest constitutional issues." In the speech, Mayor Fulton further states that "although many issues are national in scope, any domestic policy, irrespective of its place of origin, ultimately comes to rest in our cities. As Mayor of Nashville and Chairman of the United States Conference of Mayors Advisory Committee, I am here today to represent that perspective." Forms part of Mayor Richard Fulton Papers, Speeches. 1 typescript</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Richard H. Fulton Mayoral Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Fulton, Richard</topic>
+  </subject>
+  <subject>
+    <topic>Mayors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Speeches, addresses, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

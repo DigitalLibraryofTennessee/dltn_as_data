@@ -1,0 +1,112 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Meteorological observations taken at Nashville, Tenn. for February 1905</title>
+  </titleInfo>
+  <identifier>ESF - Comm - Nash - Govt - Health Dept - Report 1905, back.jpg</identifier>
+  <name>
+    <namePart>Nashville (Tenn.). Board of Health</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1905-02</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+    <form>monthly reports</form>
+    <form>official reports</form>
+    <form>reports</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2279</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2279</url>
+  </location>
+  <abstract>Back cover of Official Report of the Board of Health for the City of Nashville, February 1905, giving meteorological observations in Nashville for the month. Data includes maximum, minimum, and mean of temperature, the amount of precipitation, and the cloud cover for each day. Summaries are provided for barometric pressure, highest and lowest temperatures, snowfall and precipitation for the month. Also included in the report are mean temperatures and precipitation totals for the month in previous years, covering the span from 1871 to the present month of the report in 1905. Forms part of the Communities Ephemera Subject Files. Back cover of report : 8.5 x 11 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ephemera Subject Files</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Bate, H. C.</topic>
+  </subject>
+  <subject>
+    <topic>United States. Weather Bureau</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.). Board of Health</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Weather--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Temperature measurements--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Precipitation (Meteorology)--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Rain and rainfall--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Winter--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Snow--Tennessee--Nashville--1900-1910</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Climate</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1890/1899</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1880/1889</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1870/1879</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">19uu</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">18uu</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027288">monthly reports</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027294">official reports</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

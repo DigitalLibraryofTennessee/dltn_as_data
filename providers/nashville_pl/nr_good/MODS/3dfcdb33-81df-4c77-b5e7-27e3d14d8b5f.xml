@@ -1,0 +1,165 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from P.J. Williamson to his wife, Eunice, during the Civil War, 1865 August 31</title>
+  </titleInfo>
+  <identifier>PJW - f, 76</identifier>
+  <name>
+    <namePart>Currey, Martha T. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, Peter J., 1823-1907</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1865-08-31</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>letters (correspondence)</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2216</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2216</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A letter from Dutch immigrant, Peter J. Williamson, back home to his wife, Eunice, during the Civil War. In 1862 Williamson enlisted as a Private in the 1st Wisconsin Cavalry, Company F and was ultimately promoted to Full 1st Lieutenant. During the war, Williamson's regiment was involved in scouting and raids in Missouri and Arkansas and saw battle in the Middle Tennessee, Chickamauga, and Atlanta campaigns. In this letter from Nashville, Tennessee, Williamson has just returned from a trip to Oshkosh, Wisconsin, and will be beginning work for Colonel Irvin the next day. He informs Eunice of some housing issues in Nashville and mentions someone taking daguerreotype photographs at the corner of Ferry and High streets in Oshkosh. He describes the best route for her to take to Nashville including stops in Chicago, Michigan City, Indianapolis and Louisville. He tells her he is going to be designing plans for the Andersonville Prison although he is unsure how steady the work will be. He complains of a swelling on his right hand that might impair his ability to work and closes by asking Eunice to tell the "old folks" that he will write the next week. Forms part of the Peter J. Williamson Letters. 1 letter : col. ; 8 x 10 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Peter J. Williamson Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Williamson, Peter J., 1823-1907</topic>
+  </subject>
+  <subject>
+    <topic>Williamson, Eunice Leihy, 1840-1928</topic>
+  </subject>
+  <subject>
+    <topic>Irvin, Charles H., b. 1832?</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Wisconsin Cavalry Regiment, 1st (1861-1865)</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army--Military life</topic>
+  </subject>
+  <subject>
+    <topic>Andersonville Prison</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>Civil War</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Housing</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006565">
+    <topic>Architects</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants--Wisconsin</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants' writings, Dutch</topic>
+  </subject>
+  <subject>
+    <topic>Health</topic>
+  </subject>
+  <subject>
+    <topic>Family</topic>
+  </subject>
+  <subject>
+    <topic>Daguerreotype</topic>
+  </subject>
+  <subject>
+    <topic>Housing--Tennessee--Nashville--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Railroad travel--United States--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--19th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--Civil War, 1861-1865--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Oshkosh (Wis.)--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>High Street (Oshkosh, Wis.)</topic>
+  </subject>
+  <subject>
+    <topic>Ferry Street (Oshkosh, Wis.)</topic>
+  </subject>
+  <subject>
+    <topic>Chicago (Ill.)--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Michigan City (Ind.)--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Indianapolis (Ind.)--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Louisville (Ky.)--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--Civil War, 1861-1865--Prisoners and prisons</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1860/1869</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

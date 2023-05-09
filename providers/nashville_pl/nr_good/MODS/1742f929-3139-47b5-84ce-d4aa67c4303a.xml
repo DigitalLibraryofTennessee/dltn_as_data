@@ -1,0 +1,112 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt 1 from oral history interview with Joseph R. O'Donnell, 2003 July 07</title>
+  </titleInfo>
+  <identifier>VHPODonnelJ1aclip1</identifier>
+  <name>
+    <namePart>James, Carolyn (Transcriber)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/trc">Transcriber</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>O'Donnell, Joe (Joseph Roger), 1922- (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Richardson, Robert Price, 1926- (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2003-07-07</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>344 KB; 22 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: VHPODonnellJ (VHP tapes 169 &amp; 170) audio cassette recording converted to mp3 format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/234</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/234</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An excerpt from an oral history interview with Joseph R. O'Donnell, conducted on 7 July 2003 by Robert P. Richardson as part of the Nashville Public Library's Veterans History Project. As a Marine photographer, O'Donnell was assigned to overseas duty in the Pacific theater, where he took pictures of the two cities of Hiroshima and Nagasaki, just after the atomic bomb blasts. In this excerpt, O'Donnell discusses the view from a hilltop overlooking Nagasaki. The complete interview, as well as a transcript, is available in the repository.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Veterans History Project collection, World War II series</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>O'Donnell, Joe (Joseph Roger), 1922- --Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Veterans History Project (U.S.)</topic>
+  </subject>
+  <subject>
+    <topic>United States. Marine Corps--Interviews</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War II</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Veterans--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Photography</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Destruction and pillage--Japan</topic>
+  </subject>
+  <subject>
+    <topic>Atomic bomb--Japan--Blast effect</topic>
+  </subject>
+  <subject>
+    <topic>Photographers--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nagasaki-shi (Japan)--Description and travel</topic>
+  </subject>
+  <subject>
+    <topic>Nagasaki-shi (Japan)--History--Bombardment, 1945</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2000/2009</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

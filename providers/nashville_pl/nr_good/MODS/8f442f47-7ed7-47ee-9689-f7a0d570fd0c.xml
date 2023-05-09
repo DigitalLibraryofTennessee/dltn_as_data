@@ -1,0 +1,141 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from P.J. Williamson to his wife, Eunice, during the Civil War, 1863 March 20</title>
+  </titleInfo>
+  <identifier>PJW - f, 32</identifier>
+  <name>
+    <namePart>Currey, Martha T. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, Peter J., 1823-1907</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1863-03-20</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>letters (correspondence)</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2068</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2068</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A letter from Dutch immigrant, Peter J. Williamson, back home to his wife, Eunice, during the Civil War. In 1862 Williamson enlisted as a Private in the 1st Wisconsin Cavalry, Company F and was ultimately promoted to Full 1st Lieutenant. During the war, Williamson's regiment was involved in scouting and raids in Missouri and Arkansas and saw battle in the Middle Tennessee, Chickamauga, and Atlanta campaigns. In this letter from Bloomfield, Missouri, Williamson details his regiment's movements and the place and people of their current encampment. He also describes General McNeil's colorfully urgent dispatch for reinforcements and the circumstances that were its cause. He explains that the request seemed to be of a political nature and unnecessary. He mentions a report of a possible good "haul" of captured Confederates and materials below Vicksburg and also tells of his regiments drilling regimen and their overall condition. He expresses his anxiety at not having heard from her and implores her to write as soon as possible with news of their well-being. He then tells her of his new horse and closes by once again imploring her to write soon. Forms part of the Peter J. Williamson Letters. 1 letter : col. ; 5 x 8 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Peter J. Williamson Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782</accessCondition>
+  <subject>
+    <topic>Williamson, Peter J., 1823-1907</topic>
+  </subject>
+  <subject>
+    <topic>Williamson, Eunice Leihy, 1840-1928</topic>
+  </subject>
+  <subject>
+    <topic>McNeil, John, 1813-1891</topic>
+  </subject>
+  <subject>
+    <topic>Marmaduke, John Sappington, 1833-1887</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Wisconsin Cavalry Regiment, 1st (1861-1865)</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Cavalry--Drill and tactics--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army--Military life</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>Civil War</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants--Wisconsin</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants' writings, Dutch</topic>
+  </subject>
+  <subject>
+    <topic>Cavalry horses</topic>
+  </subject>
+  <subject>
+    <topic>Marching</topic>
+  </subject>
+  <subject>
+    <topic>Prisoners of war--United States--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--19th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--Civil War, 1861-1865--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Cape Girardeau (Mo.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Bloomfield (Mo.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Vicksburg (Miss.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Chalk Bluff (Ark. and Mo.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Little Rock (Ark.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1860/1869</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

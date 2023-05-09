@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Kitty Wells: Queen of Country Music</title>
+  </titleInfo>
+  <identifier>Nashville Room Video Collection</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2004-08-22</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <form>DVD</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/187</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/187</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>DVD (c. 120 min.): col.; DVD of Nashville Room program on August 22, 2004 - "Kitty Wells: Queen of Country Music".</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Part of the om VidOrigins: Evolution of the Nashville Soundnie &amp; series.</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Nashville Public Library</accessCondition>
+  <subject>
+    <topic>Wells, Kitty</topic>
+  </subject>
+  <subject>
+    <topic>Queen of Country Music</topic>
+  </subject>
+  <subject>
+    <topic>Wright, Johnnie</topic>
+  </subject>
+  <subject>
+    <topic>Johnnie &amp; Jack Team</topic>
+  </subject>
+  <subject>
+    <topic>WSM-AM</topic>
+  </subject>
+  <subject>
+    <topic>Honky-Tonk Angels</topic>
+  </subject>
+  <subject>
+    <topic>Grand Ole Opry</topic>
+  </subject>
+  <subject>
+    <topic>Deason, Muriel Ellen</topic>
+  </subject>
+  <subject>
+    <topic>Deason Sisters</topic>
+  </subject>
+  <subject>
+    <topic>Stubbs, Eddie</topic>
+  </subject>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

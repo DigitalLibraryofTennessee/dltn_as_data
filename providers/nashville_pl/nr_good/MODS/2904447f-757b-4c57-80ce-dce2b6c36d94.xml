@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Four Generations! from Our Shield, 1929 October 15</title>
+  </titleInfo>
+  <identifier>ClementsColl GeoDetriusClements f2 006</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1929-10-15</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/6363</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/6363</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An illustrated article about four generations of the George Demetrius Clements family that was published in the “Our Shield,” issue of October 15th, 1929. Our Shield was National Life’s official magazine. The text reads: “When little Frank Evans Wood, heir to the throne in the home of Mr. and Mrs. H. H. Wood, of Canton, Ohio, made his debut in this good old world about ten weeks ago, he won the distinction of being a great-grandson of that dearly beloved honorary member of the Home Office Shield Family, George D. Clements, age eighty-three. Mrs. Wood (formerly Miss Martha Clements, once on Chief Actuary McBride’s staff of mathematical experts), paid a visit to her parents, Mr. and Mrs. Robert Clements, and family and grandfather recently, and Frank Evans was with her. Here they are, photographically speaking, at the request of the Editor. Left to right: Great-grandfather George D. Clements, Mrs. H. H. Wood and Frank, and her father, Robert Clements. Frank didn’t like the idea of being “shot” by the cameraman. So he proceeded to close his eyes. Isn’t he a peach? And maybe you think his ‘G. G. F.’ isn’t proud of him!” George Demetrius Clements was born in Union County, Kentucky, where he was a teacher. There he met his wife Mary Serena Melborne, and they moved to Davidson County, Tennessee around 1881. They had five sons: Robert Muir Clements, founder of the Clements Paper Company located in Nashville; Charles Runcie Clements, Jr., founder of the National Life &amp; Accident Insurance Company located in Nashville; John Clements, who became a priest and died around 1905 near Mobile, Alabama; Melborne Clements and Paul Clements, who graduated from Vanderbilt Medical School in 1895. In 1899, Paul married Effie Pointer Skillero of Pulaski, Tennessee, and in 1903 he began working with the Philippine Health Service. Effie died in 1911 during a visit to see her husband in the Philippines. In Manila, Paul Clements met Maria Trinidad Munoz, whom he married in 1915. They had two children: George Paul and Mary Alice Clements, who spent their childhood and teen years in Manila. Paul Clements died in Manila in 1918 after working in the Culion leper colony. Forms part of George Paul Clements, Jr. Collection. 1 item (pg. 16)</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>George Paul Clements, Jr. Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Metro Archives, Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Clements family</topic>
+  </subject>
+  <subject>
+    <topic>National Life and Accident Insurance Company, Inc. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Insurance--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Insurance companies--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Businesspeople--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1920/1929</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

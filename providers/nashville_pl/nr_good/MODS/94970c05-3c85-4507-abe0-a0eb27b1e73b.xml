@@ -1,0 +1,115 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oral history interview with Judge John L. Draper, 1980 November, excerpt 01</title>
+  </titleInfo>
+  <identifier>CentIIIDraperaclip1</identifier>
+  <name>
+    <namePart>Draper, John Lafayette, ca. 1902-1990 (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>McKinney, Malcolm (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980-11</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>1 min., 42 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: CentIIIDraper audio cassette recording converted to mp3 format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/589</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/589</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An excerpt from an oral history interview with Nashville judge John L. Draper., conducted on two dates in November 1980 by Malcolm McKinney as part of the Century III Nashville: Nashville Heritage Project. Draper, who served Nashville as a magistrate (1929-1937), General Sessions Judge (1937-1960), and Criminal Court Judge (1960-1982), discusses the chores he had a child growing up on his family's farm in Goodlettsville during the early 1900s. His chores included feeding the livestock and milking the cows. The complete interview is available in the repository.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Century III Nashville: Nashville Heritage Project</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Draper, John Lafayette, ca. 1902-1990--Interviews</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Children's History</topic>
+  </subject>
+  <subject>
+    <topic>Judges--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Country life--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Farm life--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Farms--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Family farms--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Milking--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Rural children--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Livestock--Feeding and feeds--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Rural conditions</topic>
+  </subject>
+  <subject>
+    <topic>Goodlettsville (Tenn.)--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>Goodlettsville (Tenn.)--Rural conditions</topic>
+  </subject>
+  <subject>
+    <topic>Goodlettsville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

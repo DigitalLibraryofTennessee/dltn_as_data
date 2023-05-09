@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Nashville Electric Service Company commemorating 15 years of service from Tennessee Valley Authority electric power, 1954 September 11</title>
+  </titleInfo>
+  <identifier>BP-Nash-Bus-Nashville Electric Service-1954</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1954-09-11</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <extent>45.5 MB</extent>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219.</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/463</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/463</url>
+  </location>
+  <abstract>A photograph of workmen installing a 75,000-watt bulb on the roof of the Electric Center Building, Nashville, Tennessee, for a four-day celebration of the 15th anniversary of TVA electric power in Nashville and the diamond jubilee of electric light. The then largest light bulb in the world was displayed through cooperation of General Electric Company. The light was visible from a ground distance of two to three miles or more. Copies of a brochure commemorating the "15th Anniversary of Nashville Electric Service" were sent to the 105, 000 customers of NES. Forms part of the Nashville Banner Archives. 1 photograph : b &amp; w ; 8 x 10 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Banner Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Nashville Electric Service</topic>
+  </subject>
+  <subject>
+    <topic>Electric Center Building (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee Valley Authority</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Public Utilities</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Electric utilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Electric power--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public utilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public utility companies--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

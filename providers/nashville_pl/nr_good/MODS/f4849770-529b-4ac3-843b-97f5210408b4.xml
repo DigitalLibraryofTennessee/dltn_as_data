@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>It may be far to Tipperary it's a longer way to Tennessee, 1914</title>
+  </titleInfo>
+  <identifier>KAKC-It May Be Far to Tipperary-TN</identifier>
+  <name>
+    <namePart>Lamb, Arthur J. (Lyricist)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Solman, Alfred, 1868-1937 (Composer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1914</dateCreated>
+    <publisher>Joe Morris Music Co. (Publisher)</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <form>text</form>
+    <form>sheet music covers</form>
+    <form>scores, music</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219.</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/472</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/472</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Based on the English Music Hall song, "It's A Long Way To Tipperary" (1912, by Harry Williams and Jack Judge) which became a favorite and famous marching song of the British Expeditionary Force at the very outbreak of World War I in August, 1914, this Tin Pan Alley takeoff by lyricist Arthur J. Lamb and composer Alfred Solman was written in those first months of war (1914) and features a soldier with a sweetheart not from Tipperary (Ireland) but rather from Tennessee, already famous as the Volunteer State. Forms part of the Kenneth A. Kanter American Music and Theatre Collection. 1 sheet music publication (5 p.)</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Kenneth A. Kanter American Music and Theatre Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Performing Arts</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+    <topic>Music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War I</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918--Songs and music</topic>
+  </subject>
+  <subject>
+    <topic>Popular music--1911-1920</topic>
+  </subject>
+  <subject>
+    <topic>Tipperary (Ireland)--Songs and music</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--Songs and music</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1910/1919</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026427">scores</genre>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

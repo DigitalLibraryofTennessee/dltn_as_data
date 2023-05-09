@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photomontage of Russian people and scenes. Nashville Tennessean, 1929 September 22.</title>
+  </titleInfo>
+  <abstract>Photomontage of Russian people and scenes, from a visit made by a delegation of Americans, one of whom was Nashvillians Mr. and Mrs. B. Kirk Rankin. 16 x 21.5 in. Forms part of the Nashville Newspaper Rotogravure Digital Images Collection.</abstract>
+  <name>
+    <namePart>Mills, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Rankin, B. Kirk</topic>
+  </subject>
+  <subject>
+    <topic>Rankin, Mrs. B. Kirk</topic>
+  </subject>
+  <subject>
+    <topic>Nashville Tennessean</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Cathedrals</topic>
+  </subject>
+  <subject>
+    <topic>Markets</topic>
+  </subject>
+  <subject>
+    <topic>Police</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <identifier type="local">TN Rotogravure 1929 September 22 002.jpg</identifier>
+  <originInfo>
+    <publisher>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</publisher>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/p15769coll19/id/317</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/p15769coll19/id/317</url>
+  </location>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>Still Image</form>
+    <form>Text</form>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+</mods>

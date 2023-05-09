@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Portrait of William Little Brown (mp4 video clip, 16.2 MB file available to download)</title>
+  </titleInfo>
+  <identifier>Portrait_of_William_Little_Brown_video_clip_view_of_the_original_oil_portrait_</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1858~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <note>video/mpeg</note>
+    <form>video clip</form>
+    <form>still image</form>
+    <form>portraits</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/9323</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/9323</url>
+  </location>
+  <abstract>A video clip depicting the oil portrait of William Little Brown (1789-1830). Brown studied and practiced law prior to becoming the Solicitor General (1814-1915). He was elected a member of the Tennessee State Senate in 1819. During his time as a member of the Senate, he successfully concluded a treaty concerning the Kentucky/Tennessee boundary line. At the conclusion of his term, Brown returned to Nashville and opened a highly-respected and successful law firm, partnering with Ephraim H. Foster. In 1822, he was elected to be a judge on the Supreme Court. His term was short-lived however, with Brown resigning from the position in 1823. He resigned at a time when many fellow colleagues highly respected both his character and professional reputation. His portrait was presented by "unknown admirers" soon after the establishment of the State Library in 1858. 1 video clip, Metro Archives Portraits Collection.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Metro Archives Portraits Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Brown, William L., 1789-1830</topic>
+  </subject>
+  <subject>
+    <topic>Judges--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Lawyers--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Legislators--United States--History--Sources</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">18uu</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028682">video recordings</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015637">portraits</genre>
+  <typeOfResource>moving image</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

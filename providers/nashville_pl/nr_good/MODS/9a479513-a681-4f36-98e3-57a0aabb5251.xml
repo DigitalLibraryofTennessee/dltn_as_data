@@ -1,0 +1,137 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Maxwell House Coffee Advertisement, 1928 October</title>
+  </titleInfo>
+  <identifier>ESF - Bus - Maxwell House Coffee 1928-ad genius</identifier>
+  <name>
+    <namePart>Maxwell House Coffee Company</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1928-10</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>documents</form>
+    <form>advertisements</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/823</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/823</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A magazine advertisement for Maxwell House Coffee that appeared in the October 1928 issue of Good Housekeeping. The advertisement tells the story of Joel Cheek's quest to create the perfect blend of coffee. The Maxwell House Hotel in Nashville, Tennessee is where Joel Cheek's famous blend was served for years, starting in 1892, before getting nation-wide fame and settling in grocery markets across the country. The advertisement shows a painted rendition of Cheek working on perfecting his coffee blend. Forms part of the Businesses Ephemera Subject Files. 1 advertisement : col. ; 11.5 x 8 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ephemera Subject Files</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Cheek, Joel Owsley, 1852-1935</topic>
+  </subject>
+  <subject>
+    <topic>Maxwell House Coffee Company--History</topic>
+  </subject>
+  <subject>
+    <topic>Maxwell House (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001086">
+    <topic>Advertising</topic>
+  </subject>
+  <subject>
+    <topic>Enterprise</topic>
+  </subject>
+  <subject>
+    <topic>Industries</topic>
+  </subject>
+  <subject>
+    <topic>Restaurants</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Food</topic>
+  </subject>
+  <subject>
+    <topic>Central business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Businesspeople--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Coffee--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Hotels--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Coffee industry--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Advertising--Beverages--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Beverage industry--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Cookery (Coffee)--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Business people--American--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Eating &amp; drinking--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Commerce</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1920/1929</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026030">documents</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300193993">advertisements</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

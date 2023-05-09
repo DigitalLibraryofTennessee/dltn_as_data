@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Salvage scrap drive in Nashville and Middle Tennessee region, 1942 October</title>
+  </titleInfo>
+  <identifier>RG 412 202 Salvage scrap drive 001</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1942-10</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/5282</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/5282</url>
+  </location>
+  <abstract>Pictured: A truck delivering a collection of scrap metal for salvage to a processing site in downtown Nashville. The Banner newspaper sponsored a scrap contest among the local schools, as well as promoting a scrap drive in the Nashville and Middle Tennessee region. During World War II Americans were active with scrap drives to help the war effort. Local communities were salvaging raw materials such as metal, rags, rubber, and paper to be used to supply troops. These special home front war programs were often well-coordinated through committees that engaged widespread urban and rural participation and motivated patriotism and community spirit. Forms part of Record Group 412, Photographs Collection. 1 photograph negative : b &amp; w ; 4 x 5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Record Group 412</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Metro Archives, Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Nashville Banner</topic>
+  </subject>
+  <subject>
+    <topic>Family Service Laundry (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--War work--Tennessee, Middle</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Civilian participation--Tennessee, Middle</topic>
+  </subject>
+  <subject>
+    <topic>Salvage--Tennessee, Middle</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, Middle--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

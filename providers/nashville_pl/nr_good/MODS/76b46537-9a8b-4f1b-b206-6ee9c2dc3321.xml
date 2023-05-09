@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Stage Coach of General Andrew Jackson, between 1930 and 1945</title>
+  </titleInfo>
+  <identifier>Nash - 192</identifier>
+  <name>
+    <namePart>Wiless (Publisher)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>between 1930 and 1945</dateCreated>
+    <publisher>Wiles Photographers (Publisher)</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>postcards</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2270</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2270</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A postcard of the Stage Coach of General Andrew Jackson, Seventh President of the United States. The vehicle is pictured next to the old Smoke House at The Hermitage, home of President Jackson, located 12 miles east of downtown Nashville. The Jackson family carriage was a horse-drawn vehicle that was purchased while Jackson was president. The trip from the Hermitage into Nashville would have taken approximately an hour and a half. Forms part of the Nashville Room Postcard Collection. 1 postcard : col. ; 3.5 x 5.5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Homes and haunts--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Hermitage, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85137027">
+    <topic>Transportation</topic>
+  </subject>
+  <subject>
+    <topic>Postcards--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Stagecoaches--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Carriages &amp; coaches--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Smokehouses--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026756">cards (information artifacts)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

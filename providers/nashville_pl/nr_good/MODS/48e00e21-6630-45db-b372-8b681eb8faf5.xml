@@ -1,0 +1,106 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oral history interview with John S. Bransford, Sr., 1980 July 09, excerpt 09</title>
+  </titleInfo>
+  <identifier>HNIOHBransfordJbclip2</identifier>
+  <name>
+    <namePart>Historic Nashville, Inc.</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Bransford, John Sterling, 1906-1984 (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Thornton, Leanne (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980-07-09</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>3 min., 07 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: HNIOHBransfordJ audio cassette recording converted to mp3 format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/807</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/807</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An excerpt from an oral history interview with Nashville investor John S. Bransford, Sr., conducted on 9 July 1980 by Leanne Thornton as part of the Historic Nashville, Inc. 1910-1935 Oral History Project. Bransford discusses his mother's refusal to move to an area near the railroad tracks and his parents' subsequent death, years later in 1947, on the same stretch of railroad tracks The complete interview, as well an index, is available in the Special Collections Division.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Historic Nashville, Inc. 1910-1935 Oral History Project</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Bransford, John Sterling, 1906-1984--Interviews</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85137027">
+    <topic>Transportation</topic>
+  </subject>
+  <subject>
+    <topic>Businesspeople--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Capitalists and financiers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Accident victims--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Transportation accidents--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Railroad accidents--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Transportation--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Railroads--Track</topic>
+  </subject>
+  <subject>
+    <topic>Railroads--Crossings</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Commerce</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

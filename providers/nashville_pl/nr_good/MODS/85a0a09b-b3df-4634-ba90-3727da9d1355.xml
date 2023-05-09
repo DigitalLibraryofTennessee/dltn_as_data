@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>WSM - America's Tallest Radio Tower, between 1932 and 1939</title>
+  </titleInfo>
+  <identifier>Norton - 0333</identifier>
+  <originInfo>
+    <dateCreated>between 1932 and 1939</dateCreated>
+    <publisher>Capitol News Co. (Publisher)</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>postcards</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1957</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1957</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A postcard of the WSM radio tower, advertising "America's tallest radio tower at 878 feet, standing 323 taller than the Washington Monument." The WSM station began in 1925 as the official radio station of the National Life and Accident Insurance Company. The call numbers, WSM, come directly from the company's slogan, "We Shield Millions." The WSM tower was erected in 1932 at I-65 and Concord Road, in Brentwood, TN, just south of Nashville, and it is still in use today. In 1939 it was reduced by 70 feet to 808 feet. The tower was designed and manufactured by the Blaw Knox Steel Company of Pittsburgh, Pennsylvania. WSM is found at 650 AM on the radio dial and broadcasts daily with a power of 50,000 watts. Forms part of the Norton Postcard Collection. 1 postcard : col. ; 3.5 x 5.5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Norton Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>WSM (Radio station : Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Entertainment</topic>
+  </subject>
+  <subject>
+    <topic>Industries</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>Postcards--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Radio and television towers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Radio broadcasting--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Communication facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Radio industry--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Radio stations--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Commerce</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026756">cards (information artifacts)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

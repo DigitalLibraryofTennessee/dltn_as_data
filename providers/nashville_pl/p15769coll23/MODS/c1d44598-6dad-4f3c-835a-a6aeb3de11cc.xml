@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Select pages from "The National Cyclopedia of the Colored Race," 1919</title>
+  </titleInfo>
+  <identifier>CHnash_015</identifier>
+  <name>
+    <namePart>Richardson, Clement</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1919</dateCreated>
+    <publisher>National Publishing Company, Inc., 1919</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>books</form>
+    <form>encyclopedias &amp; dictionaries</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/p15769coll23/id/208</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/p15769coll23/id/208</url>
+  </location>
+  <abstract>The title pages of a 1919 publication titled "The National Cyclopedia of the Colored Race." The volume includes a number of photographs and profiles of African American men and women. The editor-in-chief was Clement Richardson, a faculty member at Tuskegee Institute who became president of Lincoln Institute. "The National Cyclopedia of the Colored Race" was an encyclopedia about subjects of interest to African Americans. It was financed by a New Orleans-based group of African Americans and published by the National Publishing Company of Montgomery, Alabama. An inner page of this copy is signed by John Thomas Patton, husband of Alice Otey Patton.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Generations - African American Women's Early Activism in Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782</accessCondition>
+  <subject>
+    <topic>Tuskegee Institute</topic>
+  </subject>
+  <subject>
+    <topic>Printing/Publishing</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85015738">
+    <topic>Books</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Political activity--Alabama--Montgomery</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Societies, etc.--Alabama--Montgomery</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Social conditions--Alabama--Montgomery</topic>
+  </subject>
+  <subject>
+    <topic>Montgomery (Ala.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1910/1919</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

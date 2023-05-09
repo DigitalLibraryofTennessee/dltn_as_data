@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Wedding photograph published in newspaper, of Mr. and Mrs. James Collins Thurman, Jr., 1933 June</title>
+  </titleInfo>
+  <identifier>Thurman Coll Photos - Scrapbook1 005</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1933-06</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/7298</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/7298</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A scrapbook page about the wedding of Miss Kathryn Parrish, daughter of Mr. and Mrs. William McMurray Parrish, to James Collins Thurman (Mr. and Mrs. James Collins Thurman, Jr.). This was published in the local Chattanooga? newspaper, stating “Couple leaves on wedding trip and plans to return home in Fairyland: The wedding of Miss Kathryn Shaw Parrish, of Nashville, and James Collins Thurman, Jr., took place yesterday morning at 11 o’clock at eh Episcopal Church of the Advent in Nashville, with the rector, Dr. Prentice A. Pugh, officiating. The bride is a daughter of Mr. and Mrs. William McMurray Parrish, and is the sister of Miss Polly Parrish, of Nashville. She has visited in Chattanooga a number of times with her grandfather, Clark A. Shaw, former manager of the Chicago Civic Opera company. She is the niece of K. de G. McVitty, American consul for Capetown, South Africa. The bride was educated at Ward-Belmont college, where she received a certificate in dancing. She has also studied dancing under Ruth S. Denis and Paul Mathis, formerly of the Denishawn school, and during the past season has been head of the dancing department of the McLaughlin studios. She is a member of the Theta Phi sorority and of the Nashville Girls’ Cotillion club. Mr. Thurman is a son of Mr. and Mrs. J. C. Thurman and is the brother of Miss Josephine Thurman and William Clifford Thurman. He is a graduate of McCallie school, attended Vanderbilt university and is a member of Phi Delta fraternity. He is connected with the Pure Ice company. The bride’s gown was of roseseed crepe, trimmed with white organza, and worn with a hat of embroidered white organza and white accessories. She carried a white prayerbook with a chatelaine of lillies of the valley. Mr. Thurman and his bride, after a wedding trip, will reside in Fairyland on Lookout mountain. Chattanoogans attending the wedding were Mr. and Mrs. Claude Givens, Miss Jane Givens, Miss Josephine Thurman, William Clifford Thurman and Mrs. Charles S. Gwin.” Forms part of the James C. Thurman Collection. 1 scrapbook page ; b &amp; w.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Thurman Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Parrish, Kathryn</topic>
+  </subject>
+  <subject>
+    <topic>Thurman family</topic>
+  </subject>
+  <subject>
+    <topic>Thurman, James C.</topic>
+  </subject>
+  <subject>
+    <topic>McVitty family</topic>
+  </subject>
+  <subject>
+    <topic>Marriage--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Families--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

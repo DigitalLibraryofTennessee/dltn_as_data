@@ -1,0 +1,134 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Teen Town dance, 1956 November 01</title>
+  </titleInfo>
+  <identifier>BN 1956-2831</identifier>
+  <name>
+    <namePart>Terry, Bill (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1956-11-01</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+    <form>film negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1950</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1950</url>
+  </location>
+  <abstract>A photograph of a dance for teenagers. This photo ran in the 01 November 1956 issue of the Nashville Banner with the headline, "Teen Town Teening." The caption read, "Guitarist David Monks and dancers Tommy Worral, Linda Northern, Patsy Mince, George Abrams, Brenda Davis, Lanier Rawls, Myrl Love and Wayne Roberts find the music and the company just right at Teen Town, held at the American Legion Post 5 Clubhouse 120 Ninth Avenue South. Music was furnished by the Teen Quintet Band. The Teen Town meetings are attracting a growing number of the high school set." Forms part of the Nashville Banner Archives. 1 photograph negative : b &amp; w ; 3x 4in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Banner Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Monks, David</topic>
+  </subject>
+  <subject>
+    <topic>Worral, Tommy</topic>
+  </subject>
+  <subject>
+    <topic>Northern, Linda</topic>
+  </subject>
+  <subject>
+    <topic>Mince, Patsy</topic>
+  </subject>
+  <subject>
+    <topic>Abrams, George</topic>
+  </subject>
+  <subject>
+    <topic>Davis, Brenda</topic>
+  </subject>
+  <subject>
+    <topic>Rawls, Lanier</topic>
+  </subject>
+  <subject>
+    <topic>Love, Myrl</topic>
+  </subject>
+  <subject>
+    <topic>Roberts, Wayne</topic>
+  </subject>
+  <subject>
+    <topic>American Legion. Post 5 (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Performing Arts</topic>
+  </subject>
+  <subject>
+    <topic>Dance</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Entertainment</topic>
+  </subject>
+  <subject>
+    <topic>Young adults--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Teenagers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Dance parties--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>High school students--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Guitarists--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Bands (Music)--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Cultural facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Manners &amp; customs--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Social &amp; civic facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Ninth Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300014637">film (material by form)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

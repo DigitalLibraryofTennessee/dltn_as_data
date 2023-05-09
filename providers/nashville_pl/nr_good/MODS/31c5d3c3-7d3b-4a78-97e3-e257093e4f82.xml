@@ -1,0 +1,142 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Larry Patterson remembers the Cuban Missile Crisis and the integration of Clemson University, 2007 September 17</title>
+  </titleInfo>
+  <identifier>NPL000006_excerpt.mp3; NPL000006_transcript.pdf; NPL000006_g1.jpg</identifier>
+  <name>
+    <namePart>StoryCorps (Project)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Patterson, Larry, 1944- (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williams, Alex, 1997- (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2007-09-17</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>2 min., 44 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: NPL000006 original StoryCorps interview edited by Aimee James in June 2008.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1762</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1762</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An edited excerpt with transcript and photograph from an interview with Larry Patterson, conducted on 17 September 2007 by his grandson Alex Williams at the Nashville StoryCorps StoryBooth, located in the Nashville Room of the Nashville Public Library. Patterson shares memories of important historical events he has lived through, including the Cuban Missile Crisis and the integration of Clemson University by Harvey Gantt. The complete, un-edited interview, as well as an index, is available in the Special Collections Division. These interviews were recorded by StoryCorps at the Nashville Public Library with the support of the Nashville Public Library Foundation and are provided courtesy of StoryCorps, a national initiative of Sound Portraits Productions to record and collect oral history interviews. www.storycorps.net</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville StoryCorps StoryBooth Interviews 2007-2008</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Patterson, Larry, 1944- --Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Gantt, Harvey B. (Harvey Bernard), 1943-</topic>
+  </subject>
+  <subject>
+    <topic>Clemson University--History</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026371">
+    <topic>Civil rights</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Colleges and Universities</topic>
+  </subject>
+  <subject>
+    <topic>Storytelling--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Cuban Missile Crisis, 1962</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Civil rights--United States</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--United States--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>College integration--South Carolina--Clemson</topic>
+  </subject>
+  <subject>
+    <topic>Segregation--United States</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Segregation--United States</topic>
+  </subject>
+  <subject>
+    <topic>Segregation in higher education--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Clemson (S.C.)--History</topic>
+  </subject>
+  <subject>
+    <topic>Clemson (S.C.)--Race relations</topic>
+  </subject>
+  <subject>
+    <topic>Clemson (S.C.)--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>United States--Race relations</topic>
+  </subject>
+  <subject>
+    <topic>United States--Social conditions</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2000/2009</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

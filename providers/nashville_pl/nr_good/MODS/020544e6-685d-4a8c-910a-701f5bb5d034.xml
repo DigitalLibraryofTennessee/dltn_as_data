@@ -1,0 +1,112 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Omohundro Water Filtration Plant, Nashville, Tennessee, n.d.</title>
+  </titleInfo>
+  <identifier>WSC 750</identifier>
+  <name>
+    <namePart>Estate of Charles W. Warterfield, Jr., F.A.I.A. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Warterfield, Charles W. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>19--</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>slides</form>
+    <form>photographs</form>
+    <form>architectural photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/7</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/7</url>
+  </location>
+  <abstract>An undated photograph of the interior main entrance to the Omohundro Water Filtration Plant, of the Omohundro Water Filtration Complex District in Nashville, Tennessee, located at 1400 Pumping Station Road across the Cumberland River from Shelby Park. In 1987, the complex was placed on the National Register of Historic Places. The Filter Building was built in several phases starting in the 1920s in a basilica style plan. Originally steam-powered, it is now powered by electricity. This image shows the Terrazzo tile floor laid in an alternating diamond pattern, gray marble control stations, and arched brick galleries that illustrate the impressive architecture used in buildings throughout the complex. Water filters and their controls are lined up on both the left and right. Photographed by the Nashville architect Charles Wesley Warterfield, Jr. (1926-1998); the architectural photograph forms part of the Charles Warterfield Architectural Collection. Gift of: The Estate of Charles W. Warterfield, Jr., F. A. I. A. The original is a 35 mm color transparency (2 x 2 in. slide mount).</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Charles Warterfield Architectural Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.). Dept. of Water and Sewerage Services</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Architects--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public buildings</topic>
+  </subject>
+  <subject>
+    <topic>Waterworks--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Water-supply--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Water treatment plants--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Municipal water supply--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architectural elements--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Pumping Station Road (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">19uu</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300128371">slides (photographs)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

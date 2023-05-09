@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Morgan Park, Nashville, Tennessee, between 1916 and 1935</title>
+  </titleInfo>
+  <identifier>Parks - Morgan Park - 006</identifier>
+  <name>
+    <namePart>Patterson, R.S. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>between 1916 and 1935</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/6832</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/6832</url>
+  </location>
+  <abstract>An outdoors playground and benches at Morgan Park, located at Hume Street and Fifth Avenue North in North Nashville. The Park Board purchased Frederick Laitenberger’s German beer garden occupying the block between Hume and Fifth Avenue in 1909 to provide a park for the working-class neighborhood surrounding the Warioto Cotton Mills and the Morgan-Hamilton Bag Company (later known as Werthan Mills). At the request of Major E. C. Lewis, the Board named the park in honor of Samuel Dold Morgan (1789-1880), “The Merchant Prince of Nashville,” who had founded the nearby textile mills and had owned similar mills at Lebanon, Huntsville, and other cities. Morgan had served as president of the state commission which supervised construction of the State Capitol building and was interred in the wall of that building. He was the uncle of Confederate General John Hunt Morgan and during the Civil War he manufactured munitions for the Confederacy. The Park Board developed the park as a playground and arranged for the piping of mineral water to the park from a deep well drilled in 1889 at the nearby textile mills. The mineral (sulphur) water was provided without charge to the public, and many Nashvillians visited the park frequently to fill jugs with the water for home use. Maintenance of the fountain in the park ceased about 1955 and the mineral water outlet was relocated to Taylor Street. As of 1984, the park had developed a new community center, plus basketball courts, a ball diamond, and a playground. Forms part of Metro Archives Record Group 327, Metro Parks and Recreation Collection. 1 b &amp; w photograph.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>RG 327, Metro Parks Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Laitenberger, Frederick</topic>
+  </subject>
+  <subject>
+    <topic>Parks--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Urban parks--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Parks</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Hume Street (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Fifth Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1910/1919</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1920/1929</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

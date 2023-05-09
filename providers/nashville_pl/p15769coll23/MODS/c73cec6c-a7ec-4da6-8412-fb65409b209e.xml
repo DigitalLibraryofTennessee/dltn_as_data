@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Studio portrait of Reverend Herbert Johnson, circa 1940</title>
+  </titleInfo>
+  <identifier>CHmem_070</identifier>
+  <originInfo>
+    <dateCreated qualifier="approximate">circa 1940</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/p15769coll23/id/352</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/p15769coll23/id/352</url>
+  </location>
+  <abstract>Black and white copy photograph of Herbert Johnson. He stands in a suit with his hands at his side in front of a professional studio backdrop. Herbert Johnson was the brother of Everett Johnson, son of Dora Corinne Adams Johnson, and grandson of Samuel Adams. He was a reverend at Taylor's Chapel CME in Forest Hill, Tennessee and at Stinson CME in Rossville, Tennessee. He was a carpenter and jewelry maker. Johnson was held back in the first grade because he was too young to walk the long distances to school by himself. He grew up in Collierville, Tennessee and graduated from Manassas High School in Memphis, Tennessee, one of the first Black high schools in the city. He was killed by police officers during a domestic disturbance. This photograph may be a Hooks Brothers photograph. Hooks Brothers photography studio started in Memphis in 1907. It operated throughout most of the 20th century and was the second oldest African American business in Memphis.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Generations - African American Women's Early Activism in Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782</accessCondition>
+  <subject>
+    <topic>Johnson, Herbert, Rev.</topic>
+  </subject>
+  <subject>
+    <topic>Portrait photographs</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Religion--Tennessee--Memphis</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

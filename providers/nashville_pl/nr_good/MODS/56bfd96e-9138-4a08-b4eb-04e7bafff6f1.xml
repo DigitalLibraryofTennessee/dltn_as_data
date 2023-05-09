@@ -1,0 +1,106 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Historic home residence Belle Meade, Nashville, Tennessee, 1911</title>
+  </titleInfo>
+  <identifier>1911-Belle Meade; 1911-Belle Meade narrative; 1911-Belle Meade grounds-Horses; 1911-Belle Meade narrative 2</identifier>
+  <name>
+    <namePart>Dickenson III, Jacob McGavock (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Wiles, Marvin W. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1911</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/4387</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/4387</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>The historic Belle Meade Plantation was founded by John Harding, of Goochland County, Virginia in 1807. Harding purchased 250 acres of farm land near Richland Creek and the Natchez Trace. He was very interested in horses and soon boarded horses for neighbors such as Andrew Jackson. Around 1816, the family began the breeding of thoroughbreds. In 1820, Harding commissioned a brick home in the Federal style on his farm, naming the estate “Belle Meade.” His son, Gen. William Giles Harding, and his wife Elizabeth McGavock Harding, built the mansion that stands today and saved it and the plantation from destruction during the Civil War. His son-in-law, Gen. William Hicks Jackson, rebuilt the farm and brought recognition to Belle Meade as one of the world’s greatest Thoroughbred stud farms through “blood horses” and selective breeding. Head groom Uncle Bob Green trained and bred some of America’s first great stallions, such as Iroquois, Enquirer, and Bonnie Scotland to name a few. Gen. William H. Jackson was “a young soldier, just out of West Point, he served in the war with Mexico, and on the frontier he fought against the Indians in company with Kit Carson and La Rue, the famous French guide … [and] he fought for the Southern cause in the Civil War.” Immediately following the days of the Civil War, “weary old Confederates met here to discuss the large and difficult problem of rebuilding their lost fortunes and their devastated South.” During the years many famous and historic characters from all over this country and from Europe have enjoyed the hospitality of this historic home, such as Gen. Sam Houston, Grover Cleveland and his bride, William Howard Taft, Theodore Roosevelt, Benjamin Harrison, and Mrs. James K. Polk. In 1907, the huge property was sold at auction and in 1953, was resold to the State of Tennessee. The Belle Meade Mansion and eight outbuildings on 30 acres were deeded to the Association for the Preservation of Tennessee Antiquities, today managed by the Nashville chapter of the Association. It was listed on December 30th, 1969 in the National Register of Historic Places. The Belle Meade Plantation is located at 5025 Harding Pike, in Belle Meade, Tennessee. This digital photo is reproduced from the book “Historical and Beautiful Country Homes Near Nashville,” compiled by Mrs. James E. Caldwell and published in 1911. 1 digital photo, title supplied by cataloger.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Historical and Beautiful Country Homes Near Nashville 1911</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Metro Archives, Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Harding family</topic>
+  </subject>
+  <subject>
+    <topic>Jackson family</topic>
+  </subject>
+  <subject>
+    <topic>Architecture, Domestic--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Dwellings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Mansions--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Belle Meade Plantation (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Harding Pike (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Belle Meade (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1910/1919</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

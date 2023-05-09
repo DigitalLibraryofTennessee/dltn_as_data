@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Copy of photograph of Samretta Griffin Boulware Fritz from her funeral program, 1993</title>
+  </titleInfo>
+  <identifier>CHknox_018</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1993</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>still image</form>
+    <form>photographs</form>
+    <form>obituaries</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/p15769coll23/id/424</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/p15769coll23/id/424</url>
+  </location>
+  <abstract>This image from the funeral program of Samretta Griffin Fritz appears to be a studio photograph taken in the 1950s. Samretta Griffin Fritz (1921-1993) was an active clubwoman and member of her church, the Little Leaf Baptist Church. She served as President of the Mission Society and the Baptist Training Union and founded and directed a Girl's Club for Little Leaf Baptist Church. In addition to her leadership roles in the church, Samretta Griffin Fritz was heavily involved in her local municipal community. She was a member of the Executive Committee of the Anderson County Democrats, a member of the Oliver Springs Planning Commission, and worked as a poll worker for many years. She was employed by Anderson County Food Services until her retirement in 1984. She was born November 18, 1921 in Oliver Springs, Tennessee and died January 1, 1993 and is buried in Carter's Bluff Cemetery in Oliver Springs, Tennessee.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Generations - African American Women's Early Activism in Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782</accessCondition>
+  <subject>
+    <topic>Fritz, Samretta Griffin Boulware, 1921-1993</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147274">
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Women--Tennessee--Oliver Springs</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Societies, etc.--Tennessee--Oliver Springs</topic>
+  </subject>
+  <subject>
+    <topic>Clubwomen--Tennessee--Oliver Springs</topic>
+  </subject>
+  <subject>
+    <topic>Oliver Springs (Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1990/1999</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

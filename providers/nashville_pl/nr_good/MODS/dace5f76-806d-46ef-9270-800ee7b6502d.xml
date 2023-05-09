@@ -1,0 +1,174 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from P.J. Williamson to his wife, Eunice, during the Civil War, 1864 September 05</title>
+  </titleInfo>
+  <identifier>PJW - f, 63</identifier>
+  <name>
+    <namePart>Currey, Martha T. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, Peter J., 1823-1907</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1864-09-05</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>letters (correspondence)</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2122</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2122</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A letter from Dutch immigrant, Peter J. Williamson, back home to his wife, Eunice, during the Civil War. In 1862 Williamson enlisted as a Private in the 1st Wisconsin Cavalry, Company F and was ultimately promoted to Full 1st Lieutenant. During the war, Williamson's regiment was involved in scouting and raids in Missouri and Arkansas and saw battle in the Middle Tennessee, Chickamauga, and Atlanta campaigns. In this letter from Cartersville, Georgia, Williamson tells Eunice of the activity of General Wheeler that has been disrupting their railroad traffic and caused the rerouting of their mail through Huntsville. He relates news of the Battle of Jonesborough, the subsequent occupation of Atlanta, and the effects this would cause including a higher appreciation of Lincoln in the north. He expresses his distaste for the Copperhead movement, branding the copperheads as traitors and cowards. He includes the scale and the names of railroads for the map he drew and enclosed in his previous letter, dated August 27, 1864, and asks Eunice to have those marked on the map. Williamson describes camp life as "dreary" and mentions music and dancing as one form of entertainment. He briefly discusses officer resignations and what that means for his situation and the Confederate 50 cent note he has enclosed with the letter. He touches on a number of other issues such as Colonel La Grange's marital situation and his current weight and the rate at which he has been gaining. He closes by telling her to give his regards to their family and friends. Forms part of the Peter J. Williamson Letters. 1 letter : col. ; 8 x 10 in. 1 Confederate fractional note : col. ; 2.5 x 4.5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Peter J. Williamson Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Williamson, Peter J., 1823-1907</topic>
+  </subject>
+  <subject>
+    <topic>Williamson, Eunice Leihy, 1840-1928</topic>
+  </subject>
+  <subject>
+    <topic>Wheeler, Joseph, 1836-1906</topic>
+  </subject>
+  <subject>
+    <topic>Sherman, William T. (William Tecumseh), 1820-1891</topic>
+  </subject>
+  <subject>
+    <topic>Hood, John Bell, 1831-1879</topic>
+  </subject>
+  <subject>
+    <topic>Lincoln, Abraham, 1809-1865</topic>
+  </subject>
+  <subject>
+    <topic>La Grange, Oscar Hugh, 1837-1915</topic>
+  </subject>
+  <subject>
+    <topic>Hardee, William Joseph, 1815-1873</topic>
+  </subject>
+  <subject>
+    <topic>Stewart, Alexander Peter, 1821-1908</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Wisconsin Cavalry Regiment, 1st (1861-1865)</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army--Military life</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Corps, 20th</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>Civil War</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--United States--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants--Wisconsin</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants' writings, Dutch</topic>
+  </subject>
+  <subject>
+    <topic>Battle of Jonesborough, Ga., 1864</topic>
+  </subject>
+  <subject>
+    <topic>Family</topic>
+  </subject>
+  <subject>
+    <topic>Military discharge</topic>
+  </subject>
+  <subject>
+    <topic>Paper money--Confederate States of America</topic>
+  </subject>
+  <subject>
+    <topic>McCook's Raid, Ga., 1864--Maps, Manuscript</topic>
+  </subject>
+  <subject>
+    <topic>Map scales</topic>
+  </subject>
+  <subject>
+    <topic>Copperhead movement</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--19th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--Civil War, 1861-1865--Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Cartersville (Ga.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Atlanta (Ga.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Huntsville (Ala.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Macon (Ga.)--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Georgia--History--Civil War, 1861-1865--Transportation</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--Civil War, 1861-1865--Prisoners and prisons</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1860/1869</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

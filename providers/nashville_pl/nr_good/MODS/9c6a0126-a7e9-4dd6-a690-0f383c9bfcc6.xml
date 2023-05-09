@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt 1 from oral history interview with Andromedia "Andy" Bagwell Noel, 2004 November 01</title>
+  </titleInfo>
+  <identifier>VHPNoelAaclip1</identifier>
+  <name>
+    <namePart>Noel, Andromedia Bagwell (Andy), 1920- (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Richards, Betty (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2004-11-01</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>750 KB; 48 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: VHPNoelA (VHP tape 287) audio cassette recording converted to mp3 format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/231</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/231</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An excerpt from an oral history interview with Andromedia "Andy" Bagwell Noel, conducted on 1 November 2004 by Betty Richards as part of the Nashville Public Library's Veterans History Project. Noel served from 1943 until 1946 as a Gray Lady at Thayer Veterans Hospital on White Bridge Road in Nashville, Tennessee In this excerpt, Noel explains that she joined the Gray Ladies, a volunteer organization founded by American National Red Cross in 1918 to provide non-medical assistance to military hospitals, because the Red Cross had been so helpful to her in getting information about her husband, who was being held as a prisoner of war (POW) in Germany. The complete interview, as well as an index, is available in the repository.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Veterans History Project collection, World War II series</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Noel, Andromedia Bagwell (Andy), 1920--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Veterans History Project (U.S.)</topic>
+  </subject>
+  <subject>
+    <topic>Gray Ladies (Organization)</topic>
+  </subject>
+  <subject>
+    <topic>American Red Cross</topic>
+  </subject>
+  <subject>
+    <topic>Thayer Veterans Hospital (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War II</topic>
+  </subject>
+  <subject>
+    <topic>Home Front</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--War work--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Prisoners and prisons</topic>
+  </subject>
+  <subject>
+    <topic>Military hospitals--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Military spouses--Tennessee-Nashville</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Participation, Female</topic>
+  </subject>
+  <subject>
+    <topic>Women and war--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Women--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2000/2009</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

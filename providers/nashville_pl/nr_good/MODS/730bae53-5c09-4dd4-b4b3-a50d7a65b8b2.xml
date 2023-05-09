@@ -1,0 +1,116 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph taken on airstrip in Belgium, 1944</title>
+  </titleInfo>
+  <identifier>VHP-WWII-Thompson-CS28-b3-15b</identifier>
+  <name>
+    <namePart>Thompson, Joe, Jr. 1919- (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1944</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1260</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1260</url>
+  </location>
+  <abstract>Photograph of a snow scene at a German airstrip near Gosselies, Belgium, that had been taken over by Americans during the Second World War. American GI's lived in the tent on the right with only a heater stove to keep warm. The camouflage nets hanging down from above are German. Military vehicles are parked amongst the snow. A Belgian village is visible in the distance atop the hill. Shortly after the Americans took over the base, a grisly discovery of a mass grave was found in the middle of the airstrip, where Germans had executed Belgian civilians. Joe Thompson Jr., a Nashville native, served in the Army Air Corps in the 109th Tactical Reconnaissance Squadron of the 9th Air Force in Europe during World War II. He took numerous photographs during his off-duty time. Forms part of the Veterans History Project. 1 photograph negative: b &amp; w ; 120 mm</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Veterans History Project Collection, World War II Series, Joe Thompson Jr. Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Thompson, Joe, Jr. 1919-</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army Air Forces. Tactical Reconnaissance Squadron, 109th</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army Air Forces. Air Force, 9th</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War II</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Photography</topic>
+  </subject>
+  <subject>
+    <topic>Air bases, American</topic>
+  </subject>
+  <subject>
+    <topic>Military life--American</topic>
+  </subject>
+  <subject>
+    <topic>Tents</topic>
+  </subject>
+  <subject>
+    <topic>Vehicles, Military</topic>
+  </subject>
+  <subject>
+    <topic>Runways (Aeronautics)</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Campaigns--Belgium</topic>
+  </subject>
+  <subject>
+    <topic>Snow--Belgium</topic>
+  </subject>
+  <subject>
+    <topic>Winter storms--Belgium</topic>
+  </subject>
+  <subject>
+    <topic>Weather--Belgium</topic>
+  </subject>
+  <subject>
+    <topic>Military service--United States</topic>
+  </subject>
+  <subject>
+    <topic>Military life--American</topic>
+  </subject>
+  <subject>
+    <topic>Gosselies (Belgium)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

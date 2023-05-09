@@ -1,0 +1,109 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Christopher Hathaway remembers his parents, 2007 October 20</title>
+  </titleInfo>
+  <identifier>NPL000050_excerpt.mp3; NPL000050_transcript.pdf; NPL000050_g2.jpg</identifier>
+  <name>
+    <namePart>StoryCorps (Project)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hathaway, Christopher, 1965- (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Murphy, Cynthia, 1981- (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2007-10-20</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>3 min., 21 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: NPL1000050 original StoryCorps interview edited by interns Claire Ploegman and Jessica Harrell in November 2007.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1642</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1642</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An edited excerpt with transcript and photograph from an interview with Christopher Hathaway, conducted on 20 October 2007 by StoryCorps Facilitator Cynthia Murphy at the Nashville StoryCorps StoryBooth, located in the Nashville Room of the Nashville Public Library. Hathaway shares memories of his parents' patience, his father's attendance at his football games, and how his father's work ethic influenced his own. He also tells a story about his father's reaction when he shirked his assigned chore to go swimming. The complete, un-edited interview, as well as an index, is available in the Special Collections Division. These interviews were recorded by StoryCorps at the Nashville Public Library with the support of the Nashville Public Library Foundation and are provided courtesy of StoryCorps, a national initiative of Sound Portraits Productions to record and collect oral history interviews. www.storycorps.net</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville StoryCorps StoryBooth Interviews 2007-2008</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Hathaway, Christopher, 1965- --Interviews</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Storytelling--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Parent and child--Tennessee--Nashville--Anecdotes</topic>
+  </subject>
+  <subject>
+    <topic>Parents--Conduct of life</topic>
+  </subject>
+  <subject>
+    <topic>Parental influences</topic>
+  </subject>
+  <subject>
+    <topic>Fathers and sons--Tennessee--Nashville--Anecdotes</topic>
+  </subject>
+  <subject>
+    <topic>Patience</topic>
+  </subject>
+  <subject>
+    <topic>Football stories</topic>
+  </subject>
+  <subject>
+    <topic>Work ethic</topic>
+  </subject>
+  <subject>
+    <topic>Swimming</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2000/2009</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

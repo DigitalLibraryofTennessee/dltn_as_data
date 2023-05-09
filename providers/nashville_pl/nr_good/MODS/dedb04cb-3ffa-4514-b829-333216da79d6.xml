@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jere Baxter sculpture by Belle Kinney, Nashville, Tennessee, 1978 07</title>
+  </titleInfo>
+  <identifier>Harris Slides 543 Jere Baxter school monument July78</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1978-07</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/7065</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/7065</url>
+  </location>
+  <abstract>A full-length bronze statue of Jere Baxter, a prominent Tennessee businessman, lawyer, and politician who founded the Tennessee Central Railroad. This outdoors sculpture, located at Jere Baxter School, 3515 Gallatin Road, Nashville, Tennessee was commissioned before Nov. 1905, with Belle Kinney, a prominent sculptor. The statue was dedicated on May 28th, 1907. Jere Baxter School was built on a parcel of land conveyed by Jere Baxter and his wife, Mattie M. Baxter, to the three directors of School District 18--and to their successors in office--by a deed dated December 3, 1887. The first Jere Baxter school opened in 1888, and was a one-room frame structure. That building was destroyed by fire and was replaced, in 1915, by a two-room brick building. In 1920 it was expanded and became a four-teacher school. In 1923 an additional building was erected and the two buildings housed not only the students of the eight elementary grades, but also those of the first two years of high school until the completion of Isaac Litton High School in 1930. In 1941 the small brick building was razed and replaced by a new, up-to-date one. It was intended that this new structure should house only the first four grades and that at a later date the building would be expanded. The building was completed destroyed by fire on December 6th, 1941. Despite WWII war shortage and priorities, the expansion of the new building was completed by October of 1942. Forms part of the Claynita Harris Slide Collection. The original is a 35 mm color transparency (2 x 2 in. slide mount)</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Claynita Harris Slide Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Kinney, Belle, 1890-1959</topic>
+  </subject>
+  <subject>
+    <topic>Baxter, Jere, 1852-1904</topic>
+  </subject>
+  <subject>
+    <topic>Jere Baxter School (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Schools--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Sculpture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Gallatin Road (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1970/1979</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

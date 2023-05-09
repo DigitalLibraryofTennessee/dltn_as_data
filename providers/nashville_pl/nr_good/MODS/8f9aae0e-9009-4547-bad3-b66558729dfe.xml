@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>First Lady Eleanor Roosevelt at the Nashville Airport (Berry Field), 1938 March 06</title>
+  </titleInfo>
+  <identifier>BN 1938-154</identifier>
+  <name>
+    <namePart>Nashville Banner staff</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1938-03-06</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2351</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2351</url>
+  </location>
+  <abstract>A photograph of First lady Eleanor Roosevelt exiting a plane at the Nashville Airport (Berry Field), 6 March 1938, Nashville, Tennessee. Nashville Banner newspaper headline ran on March 7, 1938: "First Lady Stops Here To Tell Husband 'All's Well' on Trip", "Crowds Greet Mrs. Roosevelt At Airport". …."Wife of the president paused in Nashville twenty minutes Sunday afternoon on an airplane flight from Washington, D. C. to Washington State on a combination lecture tour and visit to her children. She stepped from the airplane at the airport to send a telegram to her husband at the White House to relieve his possible anxiety over the delay of the plane's arrival, just as any other wife would do. 'Arrived safely. Plane an hour late Love' said the message written at an airport desk as she held a running conversation with the reporters and suffered flashlight photographers without a flinch." Forms part of the Nashville Banner Archives. 1 photograph negative : b &amp; w ; 3.25 x 4.25 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Banner Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Roosevelt, Eleanor, 1884-1962</topic>
+  </subject>
+  <subject>
+    <topic>American Airlines, inc.</topic>
+  </subject>
+  <subject>
+    <topic>Metropolitan Nashville Airport Authority--History--Sources</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147274">
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>First ladies</topic>
+  </subject>
+  <subject>
+    <topic>Presidents' spouses</topic>
+  </subject>
+  <subject>
+    <topic>Lecturers</topic>
+  </subject>
+  <subject>
+    <topic>Orators</topic>
+  </subject>
+  <subject>
+    <topic>Airplanes--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

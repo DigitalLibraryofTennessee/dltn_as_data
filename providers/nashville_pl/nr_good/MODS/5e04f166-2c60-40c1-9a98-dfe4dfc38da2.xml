@@ -1,0 +1,108 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Looby raps segregated education, Nashville, Tennessee, 1950 November 02</title>
+  </titleInfo>
+  <identifier>BN 1950-341</identifier>
+  <name>
+    <namePart>Underwood, Doug (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1950-11-02</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2352</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2352</url>
+  </location>
+  <abstract>A photograph of Z. Alexander Looby at the city jail, Nashville, Tennessee. Mr. Looby, a local lawyer had addressed an American Veteran's Committee public meeting at Bethlehem Center on November 1, 1950. This photograph appeared in the Nashville Banner newspaper on November 2, 1950 accompanying the article "Looby Raps Segregated Education" by Robert Churchwell. An excerpt from the article reads: "In connection with his recently proposed case in Anderson County where he is contending for equal education on the high school level, Looby said 'I don't see how a court can reasonably say that the state is performing equal duty to a citizen when one must travel 17 miles to school, while another simply crosses the street.' The lawsuit will be filed in a day or two, he stated. Concluding the informal talk, Looby said, 'since education itself has no color line, I don't believe a system built on segregation can be educational'." Forms part of the Nashville Banner Archives. 1 photograph negative : b &amp; w ; 3.25 x 4.25 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Banner Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Churchwell, Robert</topic>
+  </subject>
+  <subject>
+    <topic>Looby, Z. Alexander (Zephaniah Alexander), 1899-1972</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026371">
+    <topic>Civil rights</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject>
+    <topic>Race Relations</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>African American lawyers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Segregation--Southern States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>School integration--United States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Lawyers--Tennessee--Nashville--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights movements--Tennessee--Nashville--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Discrimination in education--Law and legislation--United States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee--Nashville--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Public schools--Tennessee--Nashville--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights leaders--Tennessee--Nashville--1950-1960</topic>
+  </subject>
+  <subject>
+    <topic>African American journalists--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

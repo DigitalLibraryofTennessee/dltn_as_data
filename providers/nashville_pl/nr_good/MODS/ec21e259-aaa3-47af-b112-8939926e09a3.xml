@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Mary Hannah Johnson, the first librarian of the Carnegie Library in Nashville, Tennessee, circa 1905</title>
+  </titleInfo>
+  <identifier>P-0478</identifier>
+  <name>
+    <namePart>Fuller, H. O. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1905~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <extent>168 KB</extent>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219.</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/508</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/508</url>
+  </location>
+  <abstract>A photograph of Mary Hannah Johnson, the first Carnegie Librarian (circa 1904-1912) in her office in the Carnegie Library of Nashville, circa 1905. A native of Nashville, Tennessee and an active suffragist, Ms. Johnson began and developed the free library system and built cooperation with the public schools. The public library building was constructed with a $100,000 grant from philanthropist Andrew Carnegie, and the cornerstone was laid on April 27, 1903. Officially opened to the public on September 19, 1904, the building was located at 8th Avenue North and Union Street. The Carnegie Library of Nashville was renamed the Nashville Public Library in 1934, being active at this location until 1963, when the new Metropolitan Government began construction on a new main library upon the site. The photograph shows the librarian's office, with its décor, furnishings, and telephone. In April, 1912, Ms. Johnson married American educator Philander Priestly Claxton. Photographed by H. O. Fuller. Forms part of the Nashville Room Historic Photographs Collection. 1 photograph : b &amp; w ; 8 x 10 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Historic Photographs Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Claxton, Mary Johnson, 1879-1955</topic>
+  </subject>
+  <subject>
+    <topic>Public Library of Nashville and Davidson County--History</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85076502">
+    <topic>Libraries</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>City Government</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture-Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public librarians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Librarians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Material culture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public libraries--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Carnegie libraries--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Interiors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Social &amp; civic facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1910</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

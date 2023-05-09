@@ -1,0 +1,131 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Hume High School, circa 1859</title>
+  </titleInfo>
+  <identifier>Eich - 27 - hume high school</identifier>
+  <name>
+    <namePart>Eichbaum, William A., 1787-1873</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1859~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>drawings</form>
+    <form>sketchbooks</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/297</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/297</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A page from a mounted and bound volume of twenty-five pen-and-ink wash drawings, and two pen-and-ink maps of Nashville created by William A. Eichbaum during the 1850s. Eichbaum was a Nashville bookseller and resident for fifty years. This drawing is of the Hume School, erected in 1853 on the corner of Broad and Spruce streets. After Alfred Hume returned from a six-week study of the public school systems in the Northeast, the architect chosen for Nashville's first public school was Maj. Adolphus Heiman. The school's architectural style was that of Gothic Revival, a style that had become most popular in Nashville just before the Civil War. As Nashville's first successful public school building, Hume School was named for Alfred Hume, "the father of the public school system of Nashville." The Hume School eventually merged with Fogg High School in 1912 to form present day Hume-Fogg High School. A new school building was constructed on the site where the previous two schools had been razed. Forms part of the William A. Eichbaum Sketchbook. 1 drawing : col. ; 5.75 x 9 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>William A. Eichbaum Sketchbook</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Eichbaum, William A., 1787-1873--Notebooks, sketchbooks, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Hume School (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Hume-Fogg High School (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>High Schools</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Central business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Schools--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture, Gothic--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public schools--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Drawing--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Broad Street (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Spruce Street (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Intellectual life</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1850/1859</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

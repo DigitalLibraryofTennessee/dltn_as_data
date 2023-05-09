@@ -1,0 +1,124 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Peabody Normal College, Nashville, circa 1906</title>
+  </titleInfo>
+  <identifier>Nash - 80a - Peabody Normal College, Nashville, Tenn.</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1906~</dateCreated>
+    <publisher>Souvenir Post Card Co. (Publisher)</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>postcards</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/817</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/817</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A postcard of Peabody Normal College, an outgrowth of the declining literary department of the University of Nashville on Second Avenue. In 1874 Barnas Sears, Peabody Education Fund administrator, offered $6,000 annually if the University of Nashville would donate land and buildings for a normal school. Relieved from spending state funds, the legislature amended the University of Nashville's charter to establish the State Normal School, officially changing the name in 1875 before changing it again in 1889 to Peabody Normal College. The College continued as a leading American normal school until 1909 when, in an effort to create a major Southern teachers' college, the grounds and buildings of the Peabody Normal School were donated to the George Peabody College for Teachers. Forms part of the Nashville Room Postcard Collection. 1 postcard : col. ; 3.5 x 5.5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Peabody Normal College</topic>
+  </subject>
+  <subject>
+    <topic>George Peabody College for Teachers</topic>
+  </subject>
+  <subject>
+    <topic>Vanderbilt University. Peabody College</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Colleges and Universities</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject>
+    <topic>Schools</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Postcards--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee--Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>School facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Teachers colleges--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Intellectual life</topic>
+  </subject>
+  <subject>
+    <topic>Second Avenue, (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026756">cards (information artifacts)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

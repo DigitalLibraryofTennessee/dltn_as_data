@@ -1,0 +1,180 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oral history interview with Wilbur Foster Creighton, Jr., 1980 December 13</title>
+  </titleInfo>
+  <identifier>CENTIIICreightonWaclip1.mp3; CENTIIICreightonWaclip2.mp3; CENTIIICreightonWaclip3.mp3; CENTIIICreightonWbclip1.mp3; CENTIIICreightonW_transcript.pdf</identifier>
+  <name>
+    <namePart>Creighton, Wilbur F., 1906-2004 (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Susan Cox (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980-12-13</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: CENTIIICreightonW audio cassette recording converted to digital format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1794</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1794</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Excerpts from an oral history interview with Nashville engineer Wilbur Foster Creighton, Jr., conducted on 13 December 1980 by Susan Cox as part of the Century III Nashville: Nashville Heritage Project. In these excerpts, Creighton discusses the East Nashville Fire of 1916; his grandfather R.M. Dudley, his home at Pioneer Spring, and how he would help his grandfather stock Shelby and Centennial Lakes; his grandfather Creighton's ownership of Rockwood Stone Quarry in Alabama and how it was taken over by the government during World War I; Foster &amp; Creighton Company, the company co-founded by his grandfather Robert T. Creighton; and some of Foster &amp; Creighton's early jobs, including the Parthenon, Union Station, and the Sparkman and Shelby Street Bridges. The complete interview, as well as an index, is available in the Special Collections Division.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Century III Nashville: Nashville Heritage Project : oral history</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Creighton, Wilbur F., 1906-2004--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Dudley, R.M.</topic>
+  </subject>
+  <subject>
+    <topic>Creighton, Robert Thomas, 1855-1927</topic>
+  </subject>
+  <subject>
+    <topic>Rockwood Quarry (Russellville, Ala.)</topic>
+  </subject>
+  <subject>
+    <topic>Foster &amp; Creighton Company</topic>
+  </subject>
+  <subject>
+    <topic>Parthenon (Art museum : Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Union Station (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sparkman Street Bridge (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Shelby Street Bridge (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War I</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>Industries</topic>
+  </subject>
+  <subject>
+    <topic>Disasters</topic>
+  </subject>
+  <subject>
+    <topic>Natural Disasters</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Downtown Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architects--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Exhibition buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918--War work--Alabama--Russellville</topic>
+  </subject>
+  <subject>
+    <topic>Quarries and quarrying--Alabama--Russellville</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Construction industry--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Fires--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Central business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Bridges--Design and construction</topic>
+  </subject>
+  <subject>
+    <topic>Engineers--Tennessee--Nashville--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Pioneer Spring (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Shelby Lake (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Centennial Lake (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Fire, 1916</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Commerce</topic>
+  </subject>
+  <subject>
+    <topic>Russellville (Ala.)--Commerce</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

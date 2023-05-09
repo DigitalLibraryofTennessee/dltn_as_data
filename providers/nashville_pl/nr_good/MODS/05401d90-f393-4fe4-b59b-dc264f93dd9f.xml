@@ -1,0 +1,104 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tyndall Field military pass, 1944 August 24</title>
+  </titleInfo>
+  <identifier>VHP-WWII-O'Connor-F29-ID</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1944-08-24</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>government records</form>
+    <form>military records</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1158</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1158</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>This is a pass for Edward E. O'Connor, Jr., who served in the United States Army Air Forces during World War II. The card was issued at the gunnery school at Tyndall Field in Panama City, Florida, on August 24, 1944. The front of the card includes a photo of O'Connor, his name, grade (rank), and signature, as well as the expiration date and the signature of his commander. The back contains descriptive information including eye color, hair color, height, weight, race, and date of birth, and specifies that the pass is valid within 35 miles of Tyndall Field. Forms part of the Veterans History Project. 1 identification card : col; 2.5 x 3.75 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Veterans History Project collection, World War II series, Edward E. O'Connor Jr. papers</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>O'Connor, Edward E., 1915-1992</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army Air Forces.</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War II</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>United States--Armed Forces--Aerial gunners</topic>
+  </subject>
+  <subject>
+    <topic>Identification cards</topic>
+  </subject>
+  <subject>
+    <topic>Military art and science--Florida--Panama City</topic>
+  </subject>
+  <subject>
+    <topic>Aerial gunnery--Florida--Panama City</topic>
+  </subject>
+  <subject>
+    <topic>Air forces</topic>
+  </subject>
+  <subject>
+    <topic>Military education</topic>
+  </subject>
+  <subject>
+    <topic>Military passes</topic>
+  </subject>
+  <subject>
+    <topic>Military training--Florida--Panama City</topic>
+  </subject>
+  <subject>
+    <topic>Military life--American</topic>
+  </subject>
+  <subject>
+    <topic>Military service--United States</topic>
+  </subject>
+  <subject>
+    <topic>Tyndall Air Force Base (Fla.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027777">government records</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027822">military records</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

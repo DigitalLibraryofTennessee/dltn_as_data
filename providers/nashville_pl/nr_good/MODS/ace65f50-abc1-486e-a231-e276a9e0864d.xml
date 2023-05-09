@@ -1,0 +1,106 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jack Daniel's Distillery advertisement, 1909</title>
+  </titleInfo>
+  <identifier>ESF - Comm - Nash - Misc 1909 - Pocket Guide to Greater Nashville, page 13.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1909</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+    <form>advertisements</form>
+    <form>print advertising</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2281</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2281</url>
+  </location>
+  <abstract>Advertisement for Jack Daniel's Old Time Distillery featuring numerous varieties of Lincoln County sour mash whisky. Some of the products include Jack Daniel's Old No. 7, apple brandy, apricot brandy, peach brandy, and corn whisky. Prices range from $2.00 per gallon to $6.00 per gallon and $12.00 for twelve quarts in a case. At the time of this advertisement in 1909, Jack Daniel Distillery was distributing from a warehouse in Hopkinsville, Ky. This advertisement appears in the 1909 edition of the "Pocket Guide to Greater Nashville." Forms part of the Communities Ephemera Subject Files. 1 advertisement, pg. 13 of booklet.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ephemera Subject Files</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Daniel, Jack (1846-1911)</topic>
+  </subject>
+  <subject>
+    <topic>Jack Daniel Distillery</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001086">
+    <topic>Advertising</topic>
+  </subject>
+  <subject>
+    <topic>Whiskey--Tennessee--Lynchburg</topic>
+  </subject>
+  <subject>
+    <topic>Whiskey--Kentucky-- Hopkinsville</topic>
+  </subject>
+  <subject>
+    <topic>Beverages</topic>
+  </subject>
+  <subject>
+    <topic>Brandy--Tennessee--Lynchburg</topic>
+  </subject>
+  <subject>
+    <topic>Brandy--Kentucky--Hopkinsville</topic>
+  </subject>
+  <subject>
+    <topic>Liquor industry--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Liquor industry--Kentucky</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Lynchburg (Tenn.)--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Hopkinsville (Ky.)--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Lincoln County (Tenn.)--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Kentucky--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--History--20th century--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300193993">advertisements</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

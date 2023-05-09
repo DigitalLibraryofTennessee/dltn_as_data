@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>View of the Athena statue, Parthenon Building, Nashville, Tennessee, n.d.</title>
+  </titleInfo>
+  <identifier>Metro Photographer Gary Layda - Parthenon 020</identifier>
+  <name>
+    <namePart>Gary Layda (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">uuuu</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/11604</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/11604</url>
+  </location>
+  <abstract>The Parthenon was rebuilt as a full-scale replica of the ancient Parthenon with one large exception. The colossal statue of Athena from ancient times was not in this replica. In 1982, the city commissioned Alan LeQuire to build a full-scale replica of Athena Parthenos. Soon after, a group of concerned citizens formed the Athena Fund. Starting with funds accumulated over the years from the nickels and dimes of school children and tourists, the Athena Fund grew rapidly through private and commercial donations. Alan LeQuire, the winner of the commission to recreate the Athena statue in Nashville, attended Vanderbilt University and received his Master of Fine Arts degree from the University of North Carolina, Greensboro in 1981. In the re-creation process, and after in-depth research, Alan LeQuire created two small-scale versions of the statue out of clay. First, he created a 1:10 model from clay. Later, he sculpted a 1:5 scale model. From this later model, LeQuire spent about three years enlarging and casting the full-size Athena Parthenos. Athena was cast out of gypsum cement in many molds and assembled inside the Parthenon. Each section was attached to a steel armature for support. The Athena statue was constructed from 1982 to 1990. It stood in Nashville’s Parthenon as a plain, white statue for 12 years. In 2002, the Parthenon gilded Athena with Alan LeQuire and master gilder Lou Reed in charge of the project. The gilding project took less than four months and makes Athena appear that much closer to the ancient Athena Parthenos. In addition to gilding, the project included painted details on her face, wardrobe, and shield. The Nashville Parthenon underwent major renovations in 1991-2001. It serves as a museum and art gallery and was added to the National Register of Historic Places in 1972. Forms part of the Metro Nashville Photographers Collection - Gary Layda. 1 photograph.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Metro Nashville Photographer, Gary Layda</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Parthenon (Art museum : Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">19uu</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

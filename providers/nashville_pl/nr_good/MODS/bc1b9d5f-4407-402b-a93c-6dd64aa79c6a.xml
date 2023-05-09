@@ -1,0 +1,99 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Original wills, Falconnet, E. F., 1887 October Term</title>
+  </titleInfo>
+  <identifier>Original Wills--Falconnet, E F 1883</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1887~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>wills</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/7020</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/7020</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An original will of E. F. Falconnet, dated May 9th, 1883. Illustrates the entire document. Born Eugene Louis Frederic de Freudeureich Falconnet in Berne, Switzerland, Falconnet legally adopted the name “E. F. Falconnet” in 1852. Falconnet leaves all property excepting special bequests to his wife Anne America Burtwell unless she marries again. Falconnet makes special bequests, including royal gifts of jewelry given his mother, a patent for “Aerial Ship,” and his weapons (to his son John Frederic, charging him “to never serve in any rebellion”) to his children (in addition to son, daughters Cornelia Eugenia and Mary Caroline) and his brother George A. Freuderich of Alexandria, Douglas County, Minnesota, and his sister Elisa Gautier of Geneva. If either his wife or brother cannot serve as executor, Falconnet names his “distant kinsman” Godfrey M. Fogg of Nashville. Falconnet requests a simple service in the Protestant Episcopal church, but leaves his body to the Knights Templar “if they wish.” Falconnet’s will appears was presented for probate to the Davidson County Court in the October Term of 1887. Major E.F. Falconnet was born in the castle of Bremgarten, near the City of Berne, Switzerland. He came to the United States with his father in 1850. Around 1852 he settled in Tennessee where he became a railroad engineer with several companies. He was a Knight Templar and had served in the Confederate Army during the American Civil War, first with the Rock City Guards, next he became a member of Rutledge Battery in 1861. In addition to being a soldier, inventor, engineer and geologist he was also a composer. Forms part of Record Group 16, Original Wills, 1789-1925.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Record Group 16, Original Wills, 1789-1925</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Falconnet family</topic>
+  </subject>
+  <subject>
+    <topic>Burtwell family</topic>
+  </subject>
+  <subject>
+    <topic>Gautier family</topic>
+  </subject>
+  <subject>
+    <topic>Fogg family</topic>
+  </subject>
+  <subject>
+    <topic>Blackie family</topic>
+  </subject>
+  <subject>
+    <topic>Southgate family</topic>
+  </subject>
+  <subject>
+    <topic>Wills--Tennessee--Davidson County</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Railroad engineers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Inventors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Davidson County (Tenn.)--History</topic>
+  </subject>
+  <subject>
+    <topic>Davidson County (Tenn.)--Genealogy</topic>
+  </subject>
+  <subject>
+    <topic>Davidson County (Tenn.)--Wills</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1880/1889</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300027764">wills</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

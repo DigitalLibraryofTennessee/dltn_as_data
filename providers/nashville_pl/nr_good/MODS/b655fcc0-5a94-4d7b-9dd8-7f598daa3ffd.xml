@@ -1,0 +1,109 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>D. Loveman &amp; Company advertisement, featured in the Yearbook “Salmagundi,” of the Boscobel College for Young Ladies, Nashville, Tennessee, 1907</title>
+  </titleInfo>
+  <identifier>Boscobel College 1907 103 d loveman&amp;co estab in 1862</identifier>
+  <name>
+    <namePart>Davis, Betty Dorris (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1907</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/8854</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/8854</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>The D. Loveman &amp; Company advertisement that was featured in the Boscobel College for Young Ladies yearbook of 1907. This business was one of the oldest department and ready-to-wear stores in Nashville, located at the corner of Fifth Avenue and Union Street in the downtown district. Later, in 1914, they underwent a change of firm name, becoming D. Loveman, Berger &amp; Teitelbaum, continuing to operate at the same location as when the first original store opened in 1862. The Boscobel College for Young Ladies was a college in East Nashville, founded in 1889 as the Nashville Baptist Female College by the Tennessee Baptist Convention. The college operated for twenty-five years--until 1914. The campus was built around an East Nashville mansion, formerly owned by Anna Shelby Williams. The mansion stood atop a tree-covered hill overlooking the Cumberland River. The campus covered ten wooded acres on Sevier Street near South Seventh Street (then called Foster Street), south of Sylvan Street. In 1918, the property became home to the National Baptist Seminary and Missionary Training School, which functioned until 1931. The buildings were razed in 1940. Forms part of the yearbook collection: Boscobel College, “Salmagundi,” 1907. 1 volume</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Boscobel College Yearbook 1907</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Boscobel College (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>D. Loveman &amp; Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Women--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>School facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Central business districts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Intellectual life</topic>
+  </subject>
+  <subject>
+    <topic>Fifth Avenue</topic>
+  </subject>
+  <subject>
+    <topic>Union Street</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

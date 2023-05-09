@@ -1,0 +1,535 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Yearbook “Salmagundi,” of the Boscobel College for Young Ladies, Nashville, Tennessee, 1909</title>
+  </titleInfo>
+  <identifier>Boscobel College 1909 001 through 137</identifier>
+  <name>
+    <namePart>Davis, Betty Dorris (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1909</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/8134</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/8134</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>The 1909 yearbook, known as “Salmagundi,” published by the Boscobel College for Young Ladies, featuring students, faculty, trustees, clubs, athletics, societies, and more. The Board of Trustees included the Officers: Rev. A. C. Cree (President); R.B.C. Howell (Secy. And Treasurer); Members: M.F. Greene; Dr. J.P. Gray; W.V. Davidson; F.M. Dorris; H.W. Buttorff; Col. W.M. Woodcock; John W. Love; Byrd Murray; W.W. Napier; and J.M. Warren; the Executive Committee: W.W. Napier and W.V. Davidson; and Finance Committee: H.W. Buttorff, Chairman, and John W. Love. The Boscobel College for Young Ladies was a college in East Nashville, founded in 1889 as the Nashville Baptist Female College by the Tennessee Baptist Convention. The college operated for twenty-five years--until 1914. The campus was built around an East Nashville mansion, formerly owned by Anna Shelby Williams. The mansion stood atop a tree-covered hill overlooking the Cumberland River. The campus covered ten wooded acres on Sevier Street near South Seventh Street (then called Foster Street), south of Sylvan Street. In 1918, the property became home to the National Baptist Seminary and Missionary Training School, which functioned until 1931. The buildings were razed in 1940. The advertisers in the yearbook include the Ambrose Printing Company; Auten-Gainer Company; Claude J. Bell; W.G. Bush &amp; Co.; George R. Calhoun &amp; Co.; Calvert Brothers; Confederate Veteran; M. Cook &amp; Co.; Cooperative Dental Supply Company; Corbitt; Cornelius; Crone &amp; Jackson; W.J. Cude Land and Lumber Company; Cumberland Telephone and Telegraph Company; Demerich &amp; Shea; DeMoville Drug Company; M.E. Derryberry &amp; Co.; Dorris-Kepler Camera Company; G.C. Dury &amp; Co.; Webb Foster &amp; Parkes; Fourth National Bank; A. Frank &amp; Co.; H.A. French; Fulcher-Brick Company; Geny Brothers; Gray-Fox Tailoring Company; Greenfield-Talbot-Finney-Battle Company; Harris-Davis Company; A. L. Hayes Company; H.G. Hill, Grocer &amp; Baking Company; Howe Ice Company; Jesse French Piano &amp; Organ Company; Johnson, Wade &amp; Bosworth; Joy &amp; Son; Jungermann &amp; Rust; Kentucky Coal Mining Company; Miss W. Keplinger; E.T. Lewis Company; Love, Boyd &amp; Co.; Loventhal, Frank &amp; Co. (Nashville, Tenn.); D. Lowenheim &amp; Co.; McEwen Laundry; Maxwell House; Nashville Railway and Light Company; The Ocean; Phillips &amp; Buttorff Manufacturing Company; Rice Bureau; George F. Roth Real Estate; Sand-Sumpter Drug Company; E.J. Schott; Smith &amp; Lamar; Standard Furniture Company; F.H. Stickley; Stief; Taylor; Thuss; W.F. Trousdale; Tulane Hotel; Union Bank and Trust Company; Vanderbilt Law Department; Dallas M. Villines; Jack Walters; Warren Brothers; Weatherhold Piano Company; A.H. Wenning; White Trunk and Bag Company; Wolfe Tailoring Company; and the Wright Brothers. Forms part of the yearbook collection: Boscobel College, “Salmagundi,” 1909. 1 volume</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Boscobel College Yearbook 1909</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Alexander, Lola</topic>
+  </subject>
+  <subject>
+    <topic>Allen, T.E.</topic>
+  </subject>
+  <subject>
+    <topic>Baird, Lelia</topic>
+  </subject>
+  <subject>
+    <topic>Bilbrey, Margaret</topic>
+  </subject>
+  <subject>
+    <topic>Bloxham, Virginia</topic>
+  </subject>
+  <subject>
+    <topic>Borden, Daisy</topic>
+  </subject>
+  <subject>
+    <topic>Bradley, Mary</topic>
+  </subject>
+  <subject>
+    <topic>Brashear, Lola</topic>
+  </subject>
+  <subject>
+    <topic>Bryan, Frances</topic>
+  </subject>
+  <subject>
+    <topic>Buchanan, Victoria</topic>
+  </subject>
+  <subject>
+    <topic>Caldwell, Sadie</topic>
+  </subject>
+  <subject>
+    <topic>Campbell, Exie</topic>
+  </subject>
+  <subject>
+    <topic>Cantrell, Ella</topic>
+  </subject>
+  <subject>
+    <topic>Carney, May</topic>
+  </subject>
+  <subject>
+    <topic>Coleman, Frances</topic>
+  </subject>
+  <subject>
+    <topic>Cooke, Ethel</topic>
+  </subject>
+  <subject>
+    <topic>Crume, Elizabeth</topic>
+  </subject>
+  <subject>
+    <topic>Cude, Olive</topic>
+  </subject>
+  <subject>
+    <topic>Cude, Ora</topic>
+  </subject>
+  <subject>
+    <topic>Dismukes, Frances</topic>
+  </subject>
+  <subject>
+    <topic>Estes, Lula</topic>
+  </subject>
+  <subject>
+    <topic>Everett, Bernice</topic>
+  </subject>
+  <subject>
+    <topic>Everett, Luane</topic>
+  </subject>
+  <subject>
+    <topic>Ferris, Mary</topic>
+  </subject>
+  <subject>
+    <topic>Fort, Lucile</topic>
+  </subject>
+  <subject>
+    <topic>Fulcher, Margaret</topic>
+  </subject>
+  <subject>
+    <topic>Gardner, Charles S. (Charles Spurgeon), 1859-1948</topic>
+  </subject>
+  <subject>
+    <topic>Hart, Margaret</topic>
+  </subject>
+  <subject>
+    <topic>Heron, Louise</topic>
+  </subject>
+  <subject>
+    <topic>Hogan, Nina</topic>
+  </subject>
+  <subject>
+    <topic>Hunter, Harriet</topic>
+  </subject>
+  <subject>
+    <topic>Jared, Mary</topic>
+  </subject>
+  <subject>
+    <topic>Jenkins, Carrie M.</topic>
+  </subject>
+  <subject>
+    <topic>Keelin, Margie Belle</topic>
+  </subject>
+  <subject>
+    <topic>Kimbrough, Gladys</topic>
+  </subject>
+  <subject>
+    <topic>Koehler, Ada Berta</topic>
+  </subject>
+  <subject>
+    <topic>Lancaster, Kathleen</topic>
+  </subject>
+  <subject>
+    <topic>Lansden, Eutopia</topic>
+  </subject>
+  <subject>
+    <topic>Maddox, Myrtle</topic>
+  </subject>
+  <subject>
+    <topic>Malone, Lucile</topic>
+  </subject>
+  <subject>
+    <topic>McLean, Ida</topic>
+  </subject>
+  <subject>
+    <topic>Miller, Bessie</topic>
+  </subject>
+  <subject>
+    <topic>Moore, Grace</topic>
+  </subject>
+  <subject>
+    <topic>Officer, Henrietta</topic>
+  </subject>
+  <subject>
+    <topic>Pearson, Frances</topic>
+  </subject>
+  <subject>
+    <topic>Penuel, Celeste</topic>
+  </subject>
+  <subject>
+    <topic>Penuel, Clare</topic>
+  </subject>
+  <subject>
+    <topic>Phillips, Christine</topic>
+  </subject>
+  <subject>
+    <topic>Phillips, Martha Pierce, Agnes</topic>
+  </subject>
+  <subject>
+    <topic>Polk, Louise</topic>
+  </subject>
+  <subject>
+    <topic>Ray, Ethel</topic>
+  </subject>
+  <subject>
+    <topic>Russell, Elizabeth</topic>
+  </subject>
+  <subject>
+    <topic>Russell, Florence</topic>
+  </subject>
+  <subject>
+    <topic>Rust, Mary</topic>
+  </subject>
+  <subject>
+    <topic>Rust, Mrs. J.O.</topic>
+  </subject>
+  <subject>
+    <topic>Ryan, Irene</topic>
+  </subject>
+  <subject>
+    <topic>Sallee, Rebecca</topic>
+  </subject>
+  <subject>
+    <topic>Saunders, Louise</topic>
+  </subject>
+  <subject>
+    <topic>Settle, Lettie</topic>
+  </subject>
+  <subject>
+    <topic>Sherril, Daisy</topic>
+  </subject>
+  <subject>
+    <topic>Shivers, Willie</topic>
+  </subject>
+  <subject>
+    <topic>Smith, Annie</topic>
+  </subject>
+  <subject>
+    <topic>Smith, Evelyn</topic>
+  </subject>
+  <subject>
+    <topic>Sneed, Carrie</topic>
+  </subject>
+  <subject>
+    <topic>Sparks, Amma</topic>
+  </subject>
+  <subject>
+    <topic>Sprouse, Bertha</topic>
+  </subject>
+  <subject>
+    <topic>Turley, Annie M.</topic>
+  </subject>
+  <subject>
+    <topic>Van Dyke, Jean</topic>
+  </subject>
+  <subject>
+    <topic>Venable, Grace</topic>
+  </subject>
+  <subject>
+    <topic>Waggoner, Muriel</topic>
+  </subject>
+  <subject>
+    <topic>Webb, Camille</topic>
+  </subject>
+  <subject>
+    <topic>Webb, Ouida</topic>
+  </subject>
+  <subject>
+    <topic>Weir, Jean</topic>
+  </subject>
+  <subject>
+    <topic>Wickliff, Margaret</topic>
+  </subject>
+  <subject>
+    <topic>Williams, Cynthia</topic>
+  </subject>
+  <subject>
+    <topic>Wilson, Louise</topic>
+  </subject>
+  <subject>
+    <topic>Woodard, Annie E.</topic>
+  </subject>
+  <subject>
+    <topic>Boscobel College (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Ambrose Printing Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Auten-Gainer Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Claude J. Bell Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>W.G. Bush &amp; Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>George R. Calhoun &amp; Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Calvert Brothers (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>M. Cook &amp; Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Cooperative Dental Supply Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Corbitt Photographers (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>W.R. Cornelius and Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Crone &amp; Jackson (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>W.J. Cude Land &amp; Lumber Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Cumberland Telephone &amp; Telegraph Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Davidson, Hicks &amp; Greene Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Demerich &amp; Shea (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>DeMoville Drug Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>M.E. Derryberry &amp; Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Dorris-Kepler Camera Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>G.C. Dury &amp; Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Dury’s Photo Stock House (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Foster, Webb &amp; Parkes (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Fourth National Bank (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>A. Frank &amp; Company (Nashville, Tenn.).</topic>
+  </subject>
+  <subject>
+    <topic>H.A. French Music Publisher (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Fulcher-Brick Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Geny Brothers (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Gray-Fox Tailoring Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Greenfield-Talbot-Finney-Battle Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Harris, Davis &amp; Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>A. L. Hayes Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>H.G. Hill, Grocer &amp; Baking Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Howe Ice Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Jesse French Piano &amp; Organ Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Johnson, Wade &amp; Bosworth (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Joy &amp; Son (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Joy Floral Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Jungermann &amp; Rust (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Kentucky Coal Mining Company</topic>
+  </subject>
+  <subject>
+    <topic>Miss W. Keplinger (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>E.T. Lewis Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Love, Boyd &amp; Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Loventhal, Frank &amp; Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>McEwen Laundry (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Maxwell House (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Nashville Railway and Light Company</topic>
+  </subject>
+  <subject>
+    <topic>The Ocean (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Phillips &amp; Buttorff Manufacturing Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>The Rice Bureau (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>George F. Roth Real Estate (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sand-Sumpter Drug Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>E.J. Schott Druggist (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Smith &amp; Lamar (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Standard Furniture Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>F.H. Stickley Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>B.H. Stief Jewelry Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Taylor &amp; Lockie (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Thuss Photographers (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>W.F. Trousdale Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Tulane Hotel (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Union Bank and Trust Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Dallas M. Villines Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Jack Walters Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Warren Brothers Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Weatherhold Piano Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>A.H. Wenning Co. (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>White Trunk and Bag Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Wolfe Tailoring Company (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Wright Brothers (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Women--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>School facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Lost architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Advertising--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Advertising--History Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Intellectual life</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

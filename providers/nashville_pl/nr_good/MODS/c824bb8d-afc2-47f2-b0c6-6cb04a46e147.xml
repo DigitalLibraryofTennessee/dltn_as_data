@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Werthan Bag Corporation printing proof 021 -- "Rose"</title>
+  </titleInfo>
+  <identifier>Werthan Collection--W-CDM021</identifier>
+  <name>
+    <namePart>Werthan Bag Corporation</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated qualifier="approximate">circa 1935</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <extent>3.56 MB</extent>
+    <form>still image</form>
+    <form>broadside</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1717</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1717</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>M. Werthan and Company was founded by Meier Werthan in 1895. He was originally in the business of buying, reconditioning, and selling used burlap bags. By 1913, the business expanded into the manufacture of new textile bags, made of cotton fabric as well as burlap. In 1928, the company merged with Morgan and Hamilton Company, which had operated a cotton mill as well as a bleachery, to form Werthan Bag Corporation. Then, bales of raw cotton were received by the mill, spun into yarn, and woven into cloth or twisted into sewing thread. The cloth was then bleached and sent to the textile bag mill where it was printed, cut, and sewn into bags. The image above is a printing proof made on a broadside poster before a company's logo could be approved. Werthan Bag Mill, part of Werthan Packaging, Inc., shut its doors in 1995 after five generations of family operation. Color; 18 x 24 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Werthan Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Werthan, Meier, 1843-1914</topic>
+  </subject>
+  <subject>
+    <topic>Metro Nashville Government</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018285">
+    <topic>Business enterprises</topic>
+  </subject>
+  <subject>
+    <topic>Industrial facilities</topic>
+  </subject>
+  <subject>
+    <topic>Printing</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Industrial facilities--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Printing--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sweetwater (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Commerce</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026739">broadsides (notices)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

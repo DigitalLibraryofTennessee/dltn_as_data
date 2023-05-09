@@ -1,0 +1,113 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Portrait of John Berrien Lindsley, ca. 1983</title>
+  </titleInfo>
+  <identifier>lindsley-john-b-lg</identifier>
+  <name>
+    <namePart>National Society of The Colonial Dames of America in Tennessee</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Estes, L. (Artist)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1983~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>portraits</form>
+    <form>paintings</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1853</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1853</url>
+  </location>
+  <abstract>John Berrien Lindsley in late middle age, with salt-and-pepper hair and full beard and mustache, wearing a grey suit. Nineteenth-century Nashville educator, physician, minister, and author John Berrien Lindsley was born in New Jersey in 1822. His family moved to Nashville when he was still very young for his father, Phillip Lindsley, to serve as President of the University of Nashville. Lindsley was educated at the University of Nashville and received his medical degree from the University of Pennsylvania in 1843. In 1846 he was ordained by the Presbyterian Church. In 1850 he became the first dean and professor of chemistry and pharmacy at the newly-formed Medical Department of the University of Nashville. Lindsley became chancellor of the university in 1855, and during his tenure the university merged with the Western Military Academy. He married Sarah McGavock, granddaughter of Felix Grundy, daughter of Jacob McGavock, and sister of Randal McGavock, in 1857. Lindsley became superintendent of Nashville Public Schools in 1866. He resigned the chancellorship of the university in 1870 but continued to teach at the medical school until 1873. He served as Secretary of the State Board of Education (1875-1887), Health Officer (1876-1880), Executive Secretary of the State Board of Health (1877-1879 and 1884-1897). Lindsley died 7 December 1897. Oil on canvas. Donated to the library by the Margaret Lindsley Warden Estate in 2007. The portrait was painted by L. (Mrs. Harry) Estes and was placed in the lobby of Lindsley Hall on 22 September 1983. The portrait is a copy of a photograph by W.E. Armstrong that appears in Clayton's History of Davidson County. Another copy of this photograph was painted by Cornelius Hankins and is located at Vanderbilt University. The portrait is currently on display in the Nashville Room on the Nashville Public Library's second floor. The library's portraits were photographed as part of the National Society of The Colonial Dames of America in Tennessee's Tennessee Portrait Project (http://www.tnportraits.org/index.htm).</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Portrait Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Lindsley, John Berrien, 1822-1897--Portraits</topic>
+  </subject>
+  <subject>
+    <topic>University of Nashville--Employees</topic>
+  </subject>
+  <subject>
+    <topic>Presbyterian Church--Clergy--Tennessee--Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112549">
+    <topic>Religion</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Portraits, American--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Portraits--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Educators--Tennessee--Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Authors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>College teachers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Physicians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>State governments--Officials and employees</topic>
+  </subject>
+  <subject>
+    <topic>Clergy--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015637">portraits</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,110 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Fire Department Video: "Think, A False Alarm May Cost a Life"</title>
+  </titleInfo>
+  <identifier>Video Collection--V-CDM001</identifier>
+  <name>
+    <namePart>Metro Fire Department</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Metro Government Archives</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>City of Nashville Fire Department</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated qualifier="approximate">circa 1955</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>video/vob</internetMediaType>
+    <extent>87.5 MB</extent>
+    <form>video</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metro 3</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1696</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1696</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>The City of Nashville Fire Department video, entitled "Think, A False Alarm May Cost a Life", was produced circa 1955. The Fire Department created this video to educate the public about what occurs when a fire alarm is pulled. The film begins with a young woman pulling the fire alarm on one of the alarm boxes that used to stand on street corners throughout the city. The signal would travel to the Fire Alarm Station at 312 25th Avenue North where a specialized machine would indicate which alarm had been pulled. Last, the Station would dispatch the alarm to those Fire Halls closest to the alarm box. In the mock scenario on the video, the dispatch goes to Engine Company No. 17 at 3430 West End Avenue. 1 video, no audio; b &amp; w; 16 mm.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Fire Department Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Restricted</accessCondition>
+  <subject>
+    <topic>City of Nashville Fire Department--Engine Company No. 17</topic>
+  </subject>
+  <subject>
+    <topic>City of Nashville Fire Department--Fire Alarm Station</topic>
+  </subject>
+  <subject>
+    <topic>Metro Nashville Government</topic>
+  </subject>
+  <subject>
+    <topic>Fire</topic>
+  </subject>
+  <subject>
+    <topic>Fire alarms</topic>
+  </subject>
+  <subject>
+    <topic>Fire departments</topic>
+  </subject>
+  <subject>
+    <topic>Fire fighters</topic>
+  </subject>
+  <subject>
+    <topic>Fire Halls</topic>
+  </subject>
+  <subject>
+    <topic>Fire stations</topic>
+  </subject>
+  <subject>
+    <topic>Fire departments--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Fire stations--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>27th Avenue North (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>West End Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028682">video recordings</genre>
+  <typeOfResource>moving image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

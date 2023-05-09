@@ -1,0 +1,116 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>General Jackson’s welcome to Philadelphia broadside, circa 1819</title>
+  </titleInfo>
+  <identifier>ESF - Bio - Jackson, Andrew brdsd</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1819~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>text</form>
+    <form>ephemera</form>
+    <form>broadsides (notices)</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/12400</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/12400</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Letterpress broadside with an illustration of a horse and rider and a poem. The rider is a man wearing an early 19th century military uniform. The headline reads: General Jackson’s Welcome to Philadelphia. Hail to the Farmer of Great Tennessee Who strengthened the roots of our Liberty tree. The poem that follows praises Andrew Jackson as a general and military leader, proclaiming him the “Hero of New Orleans.” Forms part of the Biography Ephemera Subject Files. 1 broadside; b&amp;w; 7 x 14 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ephemera Subject Files</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845—Influence</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845—Military leadership</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845—Public opinion</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>Broadsides—19th century</topic>
+  </subject>
+  <subject>
+    <topic>Broadsides—Pennsylvania—Philadelphia</topic>
+  </subject>
+  <subject>
+    <topic>Patriotic poetry--American</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85062160">
+    <topic>Horses</topic>
+  </subject>
+  <subject>
+    <topic>Military officers--American</topic>
+  </subject>
+  <subject>
+    <topic>Generals--United States</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--19th century--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Philadelphia (Pa.)—History—19th century</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--History--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Pennsylvania—History—19th century—Sources</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812--Public opinion</topic>
+  </subject>
+  <subject>
+    <topic>New Orleans (La.) —History—19th century—Sources</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--Biography</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1810/1819</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028881">ephemera (general)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026739">broadsides (notices)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

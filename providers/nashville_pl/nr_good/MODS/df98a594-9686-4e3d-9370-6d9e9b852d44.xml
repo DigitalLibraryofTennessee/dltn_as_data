@@ -1,0 +1,119 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Portrait of Gideon Hicks Baskette, 1925</title>
+  </titleInfo>
+  <identifier>baskette-gideon-h-lg</identifier>
+  <name>
+    <namePart>National Society of The Colonial Dames of America in Tennessee</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hankins, Cornelius Haly, 1863-1946 (Artist)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1925</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>portraits</form>
+    <form>paintings</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1836</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1836</url>
+  </location>
+  <abstract>Gideon Hicks Baskette in late middle age, seated, with hands clasped in front of him. He is wearing a dark jacket and a white shirt. Born in Rutherford County, Tennessee, in 1845, Gideon Hicks Baskette was educated in Murfreesboro schools. He left college at the age of 16 to enlist in the Confederate Army and served with the 45th Tennessee Infantry from 1861 to 1865. He married Anna Eliza McFadden in 1867. Baskette began his journalistic career in 1874, when he became editor of the Murfreesboro News. In 1882, he was chosen to be editor of the Nashville American. He edited several other newspapers before becoming managing editor of the Nashville Banner in 1885 and president of the Nashville Banner Publishing Company. From 1911 to 1913, Baskette edited the Nashville Democrat. From 1913 to 1927, he served as Nashville's Carnegie Librarian. He died in Nashville in 1927 and was interred at Murfreesboro. Oil on canvas, on display in the Nashville Room on the Nashville Public Library's second floor. The library's portraits were photographed as part of the National Society of The Colonial Dames of America in Tennessee's Tennessee Portrait Project (http://www.tnportraits.org/index.htm).</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Portrait Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Baskette, Gideon Hicks, 1845-1927--Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Confederate States of America. Army. Tennessee Infantry Regiment, 45th</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>Journalism</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>City Government</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>Civil War</topic>
+  </subject>
+  <subject>
+    <topic>Portraits, American--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Portraits--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers--Confederate States of America--Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Confederate States of America--Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Journalists--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Newspaper editors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Publishers and publishing--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Librarians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Public librarians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1920/1929</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015637">portraits</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

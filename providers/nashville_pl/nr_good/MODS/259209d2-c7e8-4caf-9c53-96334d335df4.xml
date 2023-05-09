@@ -1,0 +1,136 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Rutledge-Baxter House, between 1979 and 1998</title>
+  </titleInfo>
+  <identifier>WSC 0533</identifier>
+  <name>
+    <namePart>Estate of Charles W. Warterfield, Jr., F.A.I.A. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Warterfield, Charles W. (Photographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>between 1979 and 1998</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>slides</form>
+    <form>photographs</form>
+    <form>architectural photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/2236</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/2236</url>
+  </location>
+  <abstract>A photograph of the Rutledge-Baxter House, located at 101 Lea Avenue in Nashville, Tennessee. This historic building rests on the site of "Rose Hill," the grand antebellum home of Henry and Septima Sexta Rutledge, a young couple who were members of the distinguished Rutledge-Middleton families of South Carolina. It was at Rose Hill that the couple frequently entertained such notable friends as Rachel and Andrew Jackson, Sarah and James K. Polk, Sam Houston, and others. Historians believe the Marquis de Lafayette stayed at Rose Hill during his 1825 Tennessee tour. The residence was perched on a knoll overlooking the Cumberland River and featured acres of terraced rose gardens. Circa the 1880's, it was the home of Edmund Baxter, a lawyer and brother of railroad magnate Jere Baxter. Some historians have suggested that Baxter altered the formal, federal style of the home with the addition of an elaborate front porch and a central dome; others credit the addition of the porch to Septima Rutledge. Also, a large portion of the Rose Hill residence was destroyed by fire circa the Civil War. In the 20th century, there were various owners of the property and the building became dilapidated and needed architectural renovation. In 2006, Blackburn &amp; McCune moved their law firm into the Rutledge-Baxter House. The structure is part of Metropolitan Nashville's Rutledge Hill Redevelopment District. Photographed by the Nashville architect Charles Wesley Warterfield, Jr. (1926-1998); the architectural photograph forms part of the Charles Warterfield Architectural Collection. Gift of: The Estate of Charles W. Warterfield, Jr., F. A. I. A. The original is a 35 mm color transparency (2 x 2 in. slide mount).</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Charles Warterfield Architectural Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Rutledge, Henry M. (Henry Middleton), 1775-1844--Homes and haunts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Rutledge, Septima Sexta Middleton, 1783-1865--Homes and haunts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Baxter, Edmund Dillahunty, 1838-1910-- Homes and haunts--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Blackburn &amp; McCune (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architects--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Neighborhood--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Law offices--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Dwellings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Architecture, Domestic--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Neighborhoods--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Domes--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Lea Avenue (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Rutledge Hill (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1970/1979</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1990/1999</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300128371">slides (photographs)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

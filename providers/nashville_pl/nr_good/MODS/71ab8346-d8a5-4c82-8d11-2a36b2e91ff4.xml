@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Lieut. George Ratterman Tells of Hun Prison Camps, Tarbox School Students in WWI Scrapbook, Banner Newspaper, 1918</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1918</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>negatives</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/9313</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/9313</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A newspaper article featured in a scrapbook about the World War I military service of students of the Tarbox School, Nashville, Tennessee. The article was published in the Nashville Banner, after an interview with the WWI Nashville Aviator: “Lieut. George Ratterman Tells of Hun Prison Camps: Nashville Aviator Captured When Forced to Land on Disastrous Bombing Expedition Near Coblenz--Landshut ‘One Heluva Place.’” George H. Ratterman was born 1898 in Nashville, Tennessee. He attended Tarbox School, and during World War I served as 1st Lieutenant in the 96th Aero Squadron, United States Army. This unit fought on the Western Front during World War I. Ratterman, an aviator was “captured in Germany and placed in a prison camp in Rastatt in Baden, later to Karlshrue, in Baden, still later to Landshut, in Bavaria, and finally to the permanent American officers prison camp at Villingen in Baden.” Forms part of the Tarbox School Students in WWI Scrapbook.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Tarbox School Students in WWI Scrapbook</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Ratterman, George, 1898-1961</topic>
+  </subject>
+  <subject>
+    <topic>Tarbox School (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Ex-prisoners of war--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Intellectual life</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1910/1919</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300127173">negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

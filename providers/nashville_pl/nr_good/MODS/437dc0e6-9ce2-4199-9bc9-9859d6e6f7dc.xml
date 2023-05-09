@@ -1,0 +1,216 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oral history interview with Bernard LaFayette, Jr., James Bevel, and Ernest Rip Patton, 2003 January 17</title>
+  </titleInfo>
+  <identifier>CROHPBevel1aclip1.mp3; CROHPBevel1aclip2.mp3; CROHPBevel2aclip1.mp3; CROHPBevel_transcript.pdf</identifier>
+  <name>
+    <namePart>James, Carolyn (Transcriber)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/trc">Transcriber</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Lawson, Rachel (Videographer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/vdg">Videographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>LaFayette, Bernard (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Bevel, James L. (James Luther), 1936- (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Patton, Ernest Rip (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Bennett, Kathryn G. (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2003-01-17</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: CROHPBevel digital recording converted from wav to mp3 format in 2007.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1557</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1557</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Excerpts from an interview with civil rights activists Bernard LaFayette, Jr., James Bevel and Ernest Rip Patton conducted on 17 January 2003 by Kathryn G. Bennett. In the excerpts Rev. Bernard LaFayette, Jr. discusses his decision as a young man to turn down a journalism scholarship to Florida Agricultural and Mechanical University; Rev. James Bevel discusses the influence Rev. Kelly Miller Smith and other civil rights leaders had on his career; and LaFayette discusses James Bevel and the origins of the Selma March. The complete interview as well as an index is available in the Special Collections Division.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Civil Rights Oral History Project</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>LaFayette, Bernard--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Bevel, James L. (James Luther), 1936-</topic>
+  </subject>
+  <subject>
+    <topic>Patton, Ernest Rip</topic>
+  </subject>
+  <subject>
+    <topic>King, Martin Luther, Jr., 1929-1968</topic>
+  </subject>
+  <subject>
+    <topic>Smith, Kelly Miller, 1920-</topic>
+  </subject>
+  <subject>
+    <topic>Shuttlesworth, Fred L., 1922-</topic>
+  </subject>
+  <subject>
+    <topic>Rollins, J. Metz (Joseph Metz), 1926-</topic>
+  </subject>
+  <subject>
+    <topic>Thurman, Howard, 1900-1981</topic>
+  </subject>
+  <subject>
+    <topic>Wallace, George C. (George Corley), 1919-1998</topic>
+  </subject>
+  <subject>
+    <topic>Florida Agricultural and Mechanical University--Funds and scholarships</topic>
+  </subject>
+  <subject>
+    <topic>Fisk University</topic>
+  </subject>
+  <subject>
+    <topic>Meharry Medical College</topic>
+  </subject>
+  <subject>
+    <topic>First Baptist Church Capitol Hill (Nashville, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026371">
+    <topic>Civil rights</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject>
+    <topic>Race Relations</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Colleges and Universities</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112549">
+    <topic>Religion</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Civil rights--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights movements--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>African American civil rights workers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>African American social reformers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Student newspapers and periodicals--Awards--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>African American newspaper editors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Journalism--Scholarships, fellowships, etc.--Florida--Tallahassee</topic>
+  </subject>
+  <subject>
+    <topic>Selma-Montgomery Rights March, 1965</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights demonstrations--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Social movements--United States</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Civil rights--Southern States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Christian leadership--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights movements--Southern States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Nonviolence--Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>African American clergy</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Religion</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Race relations</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Education</topic>
+  </subject>
+  <subject>
+    <topic>Tallahassee (Tenn.)--Education</topic>
+  </subject>
+  <subject>
+    <topic>Southern States--Race relations--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Southern States--Social conditions--History--20th century</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2000/2009</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

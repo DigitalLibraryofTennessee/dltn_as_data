@@ -1,0 +1,117 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oh, thank you! Thank you!, 1957</title>
+  </titleInfo>
+  <identifier>Knox NPL-322</identifier>
+  <name>
+    <namePart>Knox, Joseph T. (Donor)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Knox, Jack, 1910- (Cartoonist)</namePart>
+    <role>
+      <roleTerm type="text">Cartoonist</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1957-10</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>caricatures</form>
+    <form>cartoons (commentary)</form>
+    <form>editorial cartoons</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/986</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/986</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An original political cartoon drawing created by Jack Knox, the Nashville Banner editorial cartoonist from the mid-1940s to early 1970s. This cartoon pertains to the crisis in Syria of 1957. A man ("Syria") reaches out to take "Economic Aid" from the point of a giant sickle (U.S.S.R.) that surrounds the man and is held by a giant hand. Circa August 1957, at the height of the Cold War, Syria signed an agreement with Moscow for military and economic aid. A few months earlier the U.S. Congress passed what became known as the "Eisenhower Doctrine," which named "international communism" as the greatest threat to the Syrian region. This cartoon appeared in the Nashville Banner on October 29, 1957. Forms part of the Jack Knox Political Cartoon Collection. 1 original cartoon drawing : b &amp; w ; 14 x 19 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Jack Knox Political Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Nashville Banner</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons--United States--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Caricatures and cartoons--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Cartoonists--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Editorial cartoonists--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>World politics--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Arab nationalism--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Communism--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Cartoonists</topic>
+  </subject>
+  <subject>
+    <topic>Economic &amp; political systems</topic>
+  </subject>
+  <subject>
+    <topic>Hammer &amp; sickle</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <topic>United States--Foreign relations--Middle East--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>United States--Foreign relations--1953-1961--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1950/1959</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015634">caricatures</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300123431">editorial cartoons</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

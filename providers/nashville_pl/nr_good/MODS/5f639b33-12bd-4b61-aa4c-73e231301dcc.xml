@@ -1,0 +1,135 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Christmas services bulletin, 1945</title>
+  </titleInfo>
+  <identifier>VHP-WWII-Dodson - F2 - Merry Christmas, Front; VHP-WWII-Dodson - F2 - Merry Christmas, Inside; VHP-WWII-Dodson - F2 - Merry Christmas, Back</identifier>
+  <name>
+    <namePart>Dodson, Melvin C., 1920-2006 (Collector)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/col">Collector</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Brownson, E. James (Artist)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1945</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+    <form>ephemera</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1212</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1212</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A Japanese-inspired Christmas bulletin listing the service times for Catholic mass and Protestant services to be held for the 10th Marines, 2nd Marine Division in Kyushu, Japan, 1945. This bulletin was collected by American Marine, Melvin C. Dodson. Dodson served in the First and Second Marine Divisions during World War II. He was stationed in Pacific theater and saw action in the battle of Saipan and was stationed in Nagasaki. He also served in the Korean War. An excerpt from St. Luke, chapter two is printed inside the card. Greetings from both Protestant (Roger B. McShane) and Catholic (James W. Lutz) chaplains are included. Two carols are printed on the back: Silent Night and It Came Upon the Midnight Clear. Forms part of the Veterans History Project. 1 bulletin: col. ; 5.75 x 8 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Veterans History Project Collection, World War II Series, Melvin Dodson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>McShane, Roger B.</topic>
+  </subject>
+  <subject>
+    <topic>Lutz, James W.</topic>
+  </subject>
+  <subject>
+    <topic>Dodson, Melvin C., 1920-2006</topic>
+  </subject>
+  <subject>
+    <topic>United States. Marine Corps. Division, 2nd</topic>
+  </subject>
+  <subject>
+    <topic>United States. Marine Corps. Marines, 10th.</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject>
+    <topic>World War II</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112549">
+    <topic>Religion</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Art and the war--Pictorial works</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Religious aspects--Christianity</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Chaplains</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Social aspects</topic>
+  </subject>
+  <subject>
+    <topic>Religious gatherings--Japan</topic>
+  </subject>
+  <subject>
+    <topic>Christmas service</topic>
+  </subject>
+  <subject>
+    <topic>Holidays</topic>
+  </subject>
+  <subject>
+    <topic>Religious meetings--Japan</topic>
+  </subject>
+  <subject>
+    <topic>Religious services--Japan</topic>
+  </subject>
+  <subject>
+    <topic>Military service--United States</topic>
+  </subject>
+  <subject>
+    <topic>Military life--American</topic>
+  </subject>
+  <subject>
+    <topic>Kyushu (Japan)</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1940/1949</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028881">ephemera (general)</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

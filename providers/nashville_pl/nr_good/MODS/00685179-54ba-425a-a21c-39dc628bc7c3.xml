@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bill of sale for Mary, an enslaved girl, in Williamson County, Tennessee, from Joshua Reams to William Harrison, Jr., 1841 February 02</title>
+  </titleInfo>
+  <identifier>HHC - f1, front - slave bill 1841; HHC - f1, verso - slave bill 1841</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1841-02-02</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>text</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1119</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1119</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A bill of sale from Williamson County, Tennessee, documenting the transfer of an enslaved girl slave named Mary from Joshua Reams to William Harrison, Jr. for the sum of three hundred and fifty dollars, dated Feb. 2, 1841. The verso of this document lists the subscribing witnesses, Daniel Baugh and Guilford Dudley, who appeared before Lemuel B. McConnico, clerk of the Williamson County Court and the Register's office on Feb. 6, 1841. Forms part of the Harrison House Collection. 1 document : b &amp; w ; 11 x 19.5 cm.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Harrison House Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Harrison, William, 1825-1889</topic>
+  </subject>
+  <subject>
+    <topic>Reams, Joshua</topic>
+  </subject>
+  <subject>
+    <topic>Baugh, Daniel</topic>
+  </subject>
+  <subject>
+    <topic>Dudley, Guilford, 1756-1833</topic>
+  </subject>
+  <subject>
+    <topic>Harrison family</topic>
+  </subject>
+  <subject>
+    <topic>Reams familiy</topic>
+  </subject>
+  <subject>
+    <topic>McConnico, Lemuel B.</topic>
+  </subject>
+  <subject>
+    <topic>Harrison House (Franklin, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018260">
+    <topic>Business</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Tennessee--Williamson County--Genealogy</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Tennessee--Franklin--Genealogy</topic>
+  </subject>
+  <subject>
+    <topic>Slave bills of sale--Tennessee--Williamson County</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Social conditions--19th century</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Tennessee, Middle--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Slavery--Tennessee--Williamson County</topic>
+  </subject>
+  <subject>
+    <topic>Plantation owners--Tennessee--Franklin</topic>
+  </subject>
+  <subject>
+    <topic>Plantation owners--Tennessee--Williamson County</topic>
+  </subject>
+  <subject>
+    <topic>Economic &amp; political systems</topic>
+  </subject>
+  <subject>
+    <topic>Slavery--Tennessee--Franklin</topic>
+  </subject>
+  <subject>
+    <topic>Slaves--Tennessee--Franklin</topic>
+  </subject>
+  <subject>
+    <topic>Williamson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Williamson County (Tenn.)--Social conditions--19th century</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1840/1849</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300263751">texts (document genres)</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

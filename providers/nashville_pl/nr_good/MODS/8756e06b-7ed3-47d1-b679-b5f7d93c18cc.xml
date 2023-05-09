@@ -1,0 +1,101 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Portrait of John Shelby, ca. 1840</title>
+  </titleInfo>
+  <identifier>shelby-dr-john-lg</identifier>
+  <name>
+    <namePart>National Society of The Colonial Dames of America in Tennessee</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1840~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>portraits</form>
+    <form>paintings</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1865</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1865</url>
+  </location>
+  <abstract>John Shelby in his middle age, with dark hair and wearing a dark jacket and white shirt. Born in 1786, John Shelby was a physician, a Postmaster, and a civic and church leader. He is said to have been the first child of European descent born in Sumner County. Shelby married Anna Maria Minnick of Philadelphia in 1809. He served as Hospital Surgeon under Andrew Jackson in Col. Edward Bradley's regiment during the Creek War. He was wounded and lost an eye as a result. After the war he returned to practice medicine in Sumner County and served as state Senator for Sumner County from 1815 to 1817. Shelby moved from Sumner County to Nashville in 1817 and set up a medical partnership with his neighbor, Dr. Boyd McNairy. He served as Postmaster of Nashville from 1849 to 1853. Shelby played a role in the establishment of the short-lived Shelby Medical School in 1858. He died in May 1859 and was interred at Nashville City Cemetery. Oil on canvas, artist unknown. Presented to the library in member of Shelby's great granddaughter Anna Williams Fassman by her daughter Shelby S. Cox. The portrait is currently on display in the Nashville Room on the Nashville Public Library's second floor. The library's portraits were photographed as part of the National Society of The Colonial Dames of America in Tennessee's Tennessee Portrait Project (http://www.tnportraits.org/index.htm).</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Nashville Room Portrait Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Shelby, John, 1786-1859--Portraits</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040989">
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>Portraits, American--19th century</topic>
+  </subject>
+  <subject>
+    <topic>Portraits--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Physicians--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Physicians--Tennessee--Sumner County</topic>
+  </subject>
+  <subject>
+    <topic>State governments--Officials and employees</topic>
+  </subject>
+  <subject>
+    <topic>Veterans--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Creek War, 1813-1814--Veterans</topic>
+  </subject>
+  <subject>
+    <topic>Postmasters--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Educators--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Sumner County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1840/1849</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015637">portraits</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

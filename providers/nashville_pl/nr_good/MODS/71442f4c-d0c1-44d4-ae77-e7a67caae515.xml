@@ -1,0 +1,105 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt 1 from oral history interview with Beverly Briley, 1980 April 16</title>
+  </titleInfo>
+  <identifier>CentIIIBriley9aclip1</identifier>
+  <name>
+    <namePart>Briley, Beverly, 1914-1980 (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clements, Paul, 1947- (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980-05</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>1.40 MB; 1 min., 32 sec.</extent>
+    <form>sound.interview</form>
+    <note>Excerpted from: CentIIIBriley audio cassette recordings converted to mp3 format in 2006.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/202</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/202</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>An excerpt from an oral history interview with former Nashville Mayor Beverly Briley, conducted May 1980 by Paul Clements as part of the Century III Nashville: Nashville Heritage Project. Briley, who was Mayor of Nashville from 1963 to 1975 and was the first mayor after the consolidation of the city and county government, discusses what Nashville would be like in 1980 if the city and county governments had not consolidated to form the Metropolitan Government of Nashville and Davidson County (Metro). The complete interview, as well as a transcript, is available in the repository.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Century III Nashville: Nashville Heritage Project : oral history</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content. This image is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Briley, Beverly, 1914-1980--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Capital City</topic>
+  </subject>
+  <subject>
+    <topic>City Government</topic>
+  </subject>
+  <subject>
+    <topic>Consolidation</topic>
+  </subject>
+  <subject>
+    <topic>County Government</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <topic>Metropolitan Government</topic>
+  </subject>
+  <subject>
+    <topic>Metropolitan areas--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Mayors--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>Urbanization--Tennessee--Nashville</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002011436">
+    <topic>Politics</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Economic conditions</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--Capital and capitol</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1980/1989</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026392">interviews</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

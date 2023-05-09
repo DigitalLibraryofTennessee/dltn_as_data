@@ -1,0 +1,127 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Front hall of the Hermitage, circa 1930</title>
+  </titleInfo>
+  <identifier>Norton - 0290</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1930~</dateCreated>
+    <publisher>Wiles (Publisher)</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>postcards</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/1812</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/1812</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A postcard featuring the front entry hall of the Hermitage, home of General Andrew Jackson, seventh President of the United States. The wallpaper represents the legend of the travels of Telemachus, a figure in Greek mythology, and was imported by Jackson in 1835. Also pictured is a circular staircase leading up to the second level. Forms part of the Norton Postcard Collection. 1 postcard : col. ; 3.5 x 5.5 in.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Norton Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Homes and haunts--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Hermitage, Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006611">
+    <topic>Architecture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104904">
+    <topic>Popular culture</topic>
+  </subject>
+  <subject>
+    <topic>Tourism</topic>
+  </subject>
+  <subject>
+    <topic>Postcards--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Buildings--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Corridors--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Mansions--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Details</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Dwellings--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Entrance halls--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Wallpaper--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Staircases--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Interior decoration--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Historic house museums--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Houses--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Interiors--Tennessee--Hermitage</topic>
+  </subject>
+  <subject>
+    <topic>Wallpapers</topic>
+  </subject>
+  <subject>
+    <topic>Chandeliers</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Hermitage (Tenn.)--Buildings, structures, etc.</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1930/1939</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026756">cards (information artifacts)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

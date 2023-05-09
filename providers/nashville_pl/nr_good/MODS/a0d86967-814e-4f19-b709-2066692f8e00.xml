@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt 2 from Remziya Suleyman Oral History Interview, 2011 May 19</title>
+  </titleInfo>
+  <identifier>FDHSuleymanRClip002</identifier>
+  <name>
+    <namePart>Gibbons, Susannah (Transcriber)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/trc">Transcriber</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Suleyman, Remziya (Interviewee)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Robinson, Robin (Interviewer)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2011-05-19</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <extent>5.49 MB; 3 min., 00 sec.</extent>
+    <form>sound</form>
+    <form>oral histories</form>
+    <note>Excerpted from: Remziya Suleyman Oral History Interview. Born-digital recording(s) converted to mp3 format for online access in 2012 from 16bit 44.1khz WAV file archival master recording.</note>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/3678</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/3678</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Excerpt from an oral history interview with Remziya Suleyman conducted on May 19, 2011 by Robin Robinson as part of the Flood 2010 Digital History Project. Suleyman discusses volunteer efforts and flood relief for the immigrant community in Southeast Nashville. The complete interview and transcript is available in the Special Collections Division.</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Flood 2010 Digital History Project</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact the Special Collections Division of the Nashville Public Library, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5782.</accessCondition>
+  <subject>
+    <topic>Suleyman, Remziya--Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Community Response</topic>
+  </subject>
+  <subject>
+    <topic>Natural disasters--Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Storytelling--Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Murfreesboro Road--Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Community organization--Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Immigrants-- Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Oral history--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Oral history--Library resources</topic>
+  </subject>
+  <subject>
+    <topic>Volunteer response--Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Rescue work</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85049154">
+    <topic>Flood damage</topic>
+  </subject>
+  <subject>
+    <topic>Floods--Social aspects</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Floods</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--21st century</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">2010/2019</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Professor Franz J. Strahm, Nashville, Tennessee, circa 1908</title>
+  </titleInfo>
+  <identifier>JohnConnellyColl Germantown Residents Strahm 001</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1908~</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>still image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Metropolitan Nashville/Davidson County Archives, Nashville Public Library</physicalLocation>
+    <url usage="primary" access="object in context">http://nashville.contentdm.oclc.org/cdm/ref/collection/nr/id/9122</url>
+    <url access="preview">http://nashville.contentdm.oclc.org/utils/getthumbnail/collection/nr/id/9122</url>
+  </location>
+  <abstract>Professor Franz J. Strahm, a distinguished professor of music, director, composer, and a multi-instrumentalist, circa 1908. The Nashville City Directory cites: “Franz J. Strahm, Director, Tennessee Academy of Music, 240 5th Ave N,” with a home address at 15 East Side Flats. Strahm was born May 14, 1867, at Freiburg, Baden, Germany. He graduated from the Royal Conservatory of Music at Sondershausen, Germany (Thuringia), studying there under Alfred Reisenauer, Adolph Schultze and Carl Schroeder. He later held a position as a violinist in the Royal Court Orchestra, Sondershausen. Strahm studied piano under Franz Liszt before coming to the United States in 1891 to play in a Nashville orchestra and teach at the Nashville conservatory of Music. Strahm was for a time also affiliated with the Soule Female College, Murfreesboro, Tennessee as the musical director. He became widely known as a famous orchestral leader, concert pianist, violin soloist and organist. He was the organist of the First Evangelical Lutheran Church of Nashville. Prof. Strahm’s music compositions were published by the Hatch Music Company of Philadelphia. He became director of Western Kentucky State Normal School (Western Kentucky University) at Bowling Green in 1910, a position he held until 1935, and he afterwards taught on the music department faculty until his death on June 26th, 1941. He is buried at the Mount Olivet Cemetery, Nashville, Davidson County, Tennessee, USA. Forms part of the John Lawrence Connelly Collection, Germantown Residents. 1 b &amp; w photograph</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>John Lawrence Connelly Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">U.S. and international copyright laws protect this digital content, which is provided for educational purposes only and may not be downloaded, reproduced, or distributed for any other purpose without written permission. Please contact: Metro Nashville Archives, 615 Church Street, Nashville, Tennessee, 37219. Telephone (615) 862-5880.</accessCondition>
+  <subject>
+    <topic>Strahm family</topic>
+  </subject>
+  <subject>
+    <topic>Strahm, Franz Joseph, 1867-1941</topic>
+  </subject>
+  <subject>
+    <topic>Music teachers--Tennessee--Nashville</topic>
+  </subject>
+  <subject>
+    <topic>German Americans</topic>
+  </subject>
+  <subject>
+    <topic>Musicians--United States</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville and Davidson County (Tenn.)--History--Sources</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)--Social life and customs</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1900/1909</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Nashville Public Library Digital Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://nashville.contentdm.oclc.org/cdm/landingpage/collection/nr</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Nashville Public Library</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>
