@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>James C. Napier, 1931</title>
+  </titleInfo>
+  <abstract>James C. Napier (1845-1940), Lawyer, Branker, Educator, Local Politician and Frequent Federal Office-Holder Was a Leader in the Drive to Establish Tennessee State University. Attorney Napier Appealed Many Time to the Committee on Agriculture, United States House of Representative of the 6nd Congress, 2nd Session as Well as to the Tennessee General Assembly. Mr. and Mrs. Napier at Home.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1931-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Lawyers</topic>
+  </subject>
+  <subject>
+    <topic>Bankers</topic>
+  </subject>
+  <subject>
+    <topic>Politics &amp; government</topic>
+  </subject>
+  <subject>
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/159</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1158/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

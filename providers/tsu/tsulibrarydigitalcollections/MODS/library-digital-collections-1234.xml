@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Eva Bowman, 1984</title>
+  </titleInfo>
+  <abstract>Eva Bowman Was a Native Nashvillian, Civic Leader, Businesswoman and Beautician. She Trained For Cosmetology Under Madame C.J. Walker's Lelia College. She Became the First Black Beauty Inspector and Examiner of Cosmetology For the State of Tennessee. As a Businesswoman, She Became the Proprietor of Bowman Beauty and Barber College and in 1946 Introduced the Fantastic Curl Called the "Cooler Curl" , a Curl Without Hot Irons of Grease. She Also Owned and Operated Alice's Beauty and Beauty School and Trained Veterans in Her Physio-Therpy Institute.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1984-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Beauty</topic>
+  </subject>
+  <subject>
+    <topic>Business people</topic>
+  </subject>
+  <subject>
+    <topic>Civic leaders</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/235</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1234/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

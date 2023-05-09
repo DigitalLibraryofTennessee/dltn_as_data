@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee A &amp; I State College Men's Basketball Team, 1952</title>
+  </titleInfo>
+  <abstract>Tennessee A. &amp; I. State College Men's Basketball Team, 1952.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1952-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Sports</topic>
+  </subject>
+  <subject>
+    <topic>Basketball players</topic>
+  </subject>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/183</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1182/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

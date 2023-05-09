@@ -1,0 +1,32 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>David Anderson</title>
+  </titleInfo>
+  <abstract>David Anderson Was the Founder of the First Student Organizations for Young Men. Originally Named the Billy Hale Jr. Club (In Honor of the President's son). The Club Was Renamed the Anderson-Billy Hale Club following Anderson's Sudden Death Christmas Day, 1915.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1915-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Student organizations</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/45</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1044/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

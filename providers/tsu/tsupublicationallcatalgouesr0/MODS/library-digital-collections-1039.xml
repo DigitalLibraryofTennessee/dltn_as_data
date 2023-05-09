@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Demonstration School Orchestra and Student Body</title>
+  </titleInfo>
+  <abstract>This Is a Black and White Photo of the Demonstration School Orchestra and Student Body In the Early Days. The Arrow In the Second Photo Is Edward Harned Hale, Son of President William J. Hale.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1926-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <topic>Music</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/40</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1039/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

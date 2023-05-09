@@ -1,0 +1,35 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Campus Overview of Tennessee Agricultural and Industrial State Normal School, 1916</title>
+  </titleInfo>
+  <abstract>This Photograph Gives an Overview of the Campus of the Tennessee Agricultural and Industrial State Normal School in 1916. Pictured are (1) Main or Academic Building, (2)Wilsonian Hall, a Dormitory For Women, and (3) Men's Hall, the Dormitory For Men. All Were Built in 1912.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1916-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Dormitories</topic>
+  </subject>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/35</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1034/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

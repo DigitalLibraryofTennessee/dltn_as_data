@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Frances E. Thompson</title>
+  </titleInfo>
+  <abstract>Frances E. Thompson, a Faculty Member of Tennessee State University From 1923 to 1969 Created Artistic Designs For All the Programs For Special Occasions and the Various Publications of Tennessee A. &amp; I. During the 1920's and 1930's. The Most Enduring of Her Works, is the School's Seal Which She Designed in 1924, the Same Year the Institution Become Tennessee A. &amp; I. State Teachers College.</abstract>
+  <name>
+    <namePart>Tennessee State University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1969-01-01</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Art education</topic>
+  </subject>
+  <subject>
+    <topic>Teachers</topic>
+  </subject>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee State University Library Digital Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <url usage="primary" access="object in context">https://digitalscholarship.tnstate.edu/library-digital-collections/168</url>
+    <url access="preview">https://digitalscholarship.tnstate.edu/library-digital-collections/1167/thumbnail.jpg</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Tennessee State University</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
