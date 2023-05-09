@@ -1,1 +1,36 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Land Survey, Portion of Henry Merritt Property</title></titleInfo><identifier>2019.010-Merritt Land Survey</identifier><location><url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Parrish/id/81</url><url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Parrish/id/81</url></location><abstract>Land survey of a portion of the Henry Merritt property. The property is located at the corner of Pettus Street and Hornberger Lane. The survey shows a Tennessee Central Railroad track along the southeast edge of the property.</abstract><name><namePart>King Engineers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>1962</dateCreated></originInfo><subject><geographic>Clarksville (Tenn.)</geographic></subject><subject><topic>Surveys</topic></subject><subject><topic>Railroads--Tennessee</topic></subject><subject><topic>Clarksville (Tenn.)--Maps</topic></subject><recordInfo><recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Land Survey, Portion of Henry Merritt Property</title>
+  </titleInfo>
+  <identifier>2019.010-Merritt Land Survey</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Parrish/id/81</url>
+    <url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Parrish/id/81</url>
+  </location>
+  <abstract>Land survey of a portion of the Henry Merritt property. The property is located at the corner of Pettus Street and Hornberger Lane. The survey shows a Tennessee Central Railroad track along the southeast edge of the property.</abstract>
+  <name>
+    <namePart>King Engineers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1962</dateCreated>
+  </originInfo>
+  <subject>
+    <geographic>Clarksville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Surveys</topic>
+  </subject>
+  <subject>
+    <topic>Railroads--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Clarksville (Tenn.)--Maps</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,1 +1,46 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Hunting Club, Shooting at Norton's, 1896</title></titleInfo><identifier>2017.024.002</identifier><location><url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Cunningham/id/13</url><url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Cunningham/id/13</url></location><abstract>Black and white photograph of members of a hunting club standing together and posing with shotguns. A house is visible in the background.</abstract><name><namePart>Anderson, Clarence H., 1835-1902</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>May 29, 1896</dateCreated></originInfo><subject><topic>Hunting and fishing clubs</topic></subject><subject><topic>Shotguns</topic></subject><subject><topic>Shooting</topic></subject><subject><topic>Wooden-frame buildings</topic></subject><subject><topic>Fences</topic></subject><subject><topic>Trees</topic></subject><typeOfResource>still image</typeOfResource><physicalDescription><form>photographs</form></physicalDescription><recordInfo><recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hunting Club, Shooting at Norton's, 1896</title>
+  </titleInfo>
+  <identifier>2017.024.002</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Cunningham/id/13</url>
+    <url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Cunningham/id/13</url>
+  </location>
+  <abstract>Black and white photograph of members of a hunting club standing together and posing with shotguns. A house is visible in the background.</abstract>
+  <name>
+    <namePart>Anderson, Clarence H., 1835-1902</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>May 29, 1896</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Hunting and fishing clubs</topic>
+  </subject>
+  <subject>
+    <topic>Shotguns</topic>
+  </subject>
+  <subject>
+    <topic>Shooting</topic>
+  </subject>
+  <subject>
+    <topic>Wooden-frame buildings</topic>
+  </subject>
+  <subject>
+    <topic>Fences</topic>
+  </subject>
+  <subject>
+    <topic>Trees</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

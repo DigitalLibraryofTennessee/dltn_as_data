@@ -1,1 +1,48 @@
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><titleInfo><title>Clarksville Quadrangle Tennessee--Montgomery Co.: 7.5 Minute Series (Topographic)</title></titleInfo><identifier>2019.010-Clarksville Quadrangle Geological Survey Map</identifier><location><url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Parrish/id/82</url><url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Parrish/id/82</url></location><abstract>U.S. Geological Survey map of Clarksville, Tennessee showing features of the area including railroads, landmark buildings, schools, streets, churches, and the Cumberland River.</abstract><name><namePart>Geological Survey (U.S.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name><originInfo><dateCreated>1957</dateCreated></originInfo><subject><geographic>Clarksville (Tenn.)</geographic></subject><subject><topic>Clarksville (Tenn.)--Maps</topic></subject><subject><topic>Streets</topic></subject><subject><topic>Railroads</topic></subject><subject><topic>Schools</topic></subject><subject><topic>Buildings</topic></subject><subject><topic>Rivers</topic></subject><subject><topic>Topographic maps</topic></subject><recordInfo><recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource></recordInfo><accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition></mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Clarksville Quadrangle Tennessee--Montgomery Co.: 7.5 Minute Series (Topographic)</title>
+  </titleInfo>
+  <identifier>2019.010-Clarksville Quadrangle Geological Survey Map</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm17128.contentdm.oclc.org/cdm/ref/collection/Parrish/id/82</url>
+    <url access="preview">http://cdm17128.contentdm.oclc.org/utils/getthumbnail/collection/Parrish/id/82</url>
+  </location>
+  <abstract>U.S. Geological Survey map of Clarksville, Tennessee showing features of the area including railroads, landmark buildings, schools, streets, churches, and the Cumberland River.</abstract>
+  <name>
+    <namePart>Geological Survey (U.S.)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1957</dateCreated>
+  </originInfo>
+  <subject>
+    <geographic>Clarksville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Clarksville (Tenn.)--Maps</topic>
+  </subject>
+  <subject>
+    <topic>Streets</topic>
+  </subject>
+  <subject>
+    <topic>Railroads</topic>
+  </subject>
+  <subject>
+    <topic>Schools</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Rivers</topic>
+  </subject>
+  <subject>
+    <topic>Topographic maps</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>Montgomery County (Tenn.) Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
