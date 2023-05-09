@@ -1,0 +1,115 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">New Daisy Theatre (Memphis, Tenn.)</field>
+<field name="value">Palace Theatre (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34332</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">New_Daisy_Theatre_Tickets_117778</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Tickets and information cards from patrons to the New Diasy Theatre and Palace Theatre.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Theatres</field>
+<field name="value">Tickets</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">New Daisy Theatre Tickets</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">New_Daisy_Theatre_Tickets_117778.jpg.jpg</field>
+<field name="originalName">New_Daisy_Theatre_Tickets_117778.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20783</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34332/2/New_Daisy_Theatre_Tickets_117778.jpg.jpg</field>
+<field name="checksum">b1b13f5eb8159d6e9117ea492a1f0482</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">New_Daisy_Theatre_Tickets_117778.jpg.preview.jpg</field>
+<field name="originalName">New_Daisy_Theatre_Tickets_117778.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">105347</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34332/3/New_Daisy_Theatre_Tickets_117778.jpg.preview.jpg</field>
+<field name="checksum">d4011ff81964d2daa36a29fb5b9ec04b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">New_Daisy_Theatre_Tickets_117778.jpg</field>
+<field name="originalName">New_Daisy_Theatre_Tickets_117778.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1362469</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34332/1/New_Daisy_Theatre_Tickets_117778.jpg</field>
+<field name="checksum">57ba051a874666fad508ee4b24e9b382</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34332</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34332</field>
+<field name="lastModifyDate">2018-10-11 18:29:51.902</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

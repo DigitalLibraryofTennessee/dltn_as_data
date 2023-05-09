@@ -1,0 +1,112 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1990</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31267</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Planning Comission Public Services</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Memphis and Shelby County Planning Commission</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Maps</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Services Plan for Memphis and Shelby County, 1990</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Services Plan for Memphis and Shelby County, 1990</field>
+<field name="originalName">Services Plan for Memphis and Shelby County, 1990</field>
+<field name="format">image/jpeg</field>
+<field name="size">24413643</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31267/1/Services%20Plan%20for%20Memphis%20and%20Shelby%20County%2c%201990</field>
+<field name="checksum">fd4056d4cf0d6da75a8fbf9c9c0388a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Services Plan for Memphis and Shelby County, 1990.jpg</field>
+<field name="originalName">Services Plan for Memphis and Shelby County, 1990.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">27038</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31267/2/Services%20Plan%20for%20Memphis%20and%20Shelby%20County%2c%201990.jpg</field>
+<field name="checksum">86972594b71f34b4745a60a794886fad</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Services Plan for Memphis and Shelby County, 1990.preview.jpg</field>
+<field name="originalName">Services Plan for Memphis and Shelby County, 1990.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">150589</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31267/3/Services%20Plan%20for%20Memphis%20and%20Shelby%20County%2c%201990.preview.jpg</field>
+<field name="checksum">c5b79b14e1414e41345bc519002d4b23</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31267</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31267</field>
+<field name="lastModifyDate">2018-05-14 14:47:39.147</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

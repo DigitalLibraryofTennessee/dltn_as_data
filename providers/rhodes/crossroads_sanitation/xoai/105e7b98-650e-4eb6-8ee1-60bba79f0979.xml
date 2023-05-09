@@ -1,0 +1,188 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Trotter, Anne</field>
+<field name="value">Curley, Jack</field>
+<field name="value">Jones, Thomas Oliver</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33779</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680509_Thomas_Oliver_Jones-SS092</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Thomas Oliver Jones. He is the organizer and head of Memphis Local #1733 of A.F.S.C.M.E. International. He talks about the conflict in the Sanitation Department, which led to the strike. He also elaborates on the roles of different figures.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">\</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+<field name="value">AFSCME</field>
+<field name="value">Civil rights</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Thomas Oliver Jones, Head of Memphis Local AFSCME, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TO_Jones</field>
+<field name="originalName">TO_Jones</field>
+<field name="description">photo</field>
+<field name="format">image/jpeg</field>
+<field name="size">146890</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/1/TO_Jones</field>
+<field name="checksum">a50ee9c3bfa55d8d9e39baea9824d6f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS092_transcript.pdf</field>
+<field name="originalName">SS092_transcript.pdf</field>
+<field name="description">Transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">88745</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/4/SS092_transcript.pdf</field>
+<field name="checksum">b4b8748d1aa87b8086a7851be7e94dd2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TO_Jones.jpg</field>
+<field name="originalName">TO_Jones.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12420</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/2/TO_Jones.jpg</field>
+<field name="checksum">bfb00d91db5a2645557c1067ef19c75b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS092_transcript.pdf.jpg</field>
+<field name="originalName">SS092_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14679</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/6/SS092_transcript.pdf.jpg</field>
+<field name="checksum">e09d0ce1f84ce3fe92d890ead2a87b17</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TO_Jones.preview.jpg</field>
+<field name="originalName">TO_Jones.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45879</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/3/TO_Jones.preview.jpg</field>
+<field name="checksum">204c2257ccb82590e10a8183f03074ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS092_transcript.pdf.txt</field>
+<field name="originalName">SS092_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">37545</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33779/5/SS092_transcript.pdf.txt</field>
+<field name="checksum">3e1dd4aaa8cdf98eb11305a641500b36</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33779</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33779</field>
+<field name="lastModifyDate">2018-07-25 14:49:35.927</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

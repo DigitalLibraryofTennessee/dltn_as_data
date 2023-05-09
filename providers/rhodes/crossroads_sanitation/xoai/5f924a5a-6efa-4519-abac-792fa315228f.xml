@@ -1,0 +1,279 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Yellin, David G.</field>
+<field name="value">Holloman, Frank</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-24T16:56:50Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-24T16:56:50Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1973-08-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33930</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19730814_Frank_Holloman-SS353-SS356</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frank Holloman. Holloman was the director of fire and police for Memphis during the sanitation strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281551987</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Memphis (Tenn). Police Department</field>
+<field name="value">Memphis (Tenn.). Fire Department</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frank Holloman, Dir. Memphis Fire and Police, August 14th 1973</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">holloman.PNG</field>
+<field name="originalName">holloman.PNG</field>
+<field name="format">image/png</field>
+<field name="size">53659</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/1/holloman.PNG</field>
+<field name="checksum">34697228be7732b3e5808cb53adfaf56</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS353_transcript.pdf</field>
+<field name="originalName">SS353_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">103430</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/2/SS353_transcript.pdf</field>
+<field name="checksum">6bb551c1bdaf23a899c1a60bcc6853ea</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS354_transcript.pdf</field>
+<field name="originalName">SS354_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">102022</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/3/SS354_transcript.pdf</field>
+<field name="checksum">3a1117b360841f82f8c32743683ef5ce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS355_transcript.pdf</field>
+<field name="originalName">SS355_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">102259</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/4/SS355_transcript.pdf</field>
+<field name="checksum">25d0dfac022ef4765b39d568e16e39f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS356_transcript.pdf</field>
+<field name="originalName">SS356_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">79741</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/5/SS356_transcript.pdf</field>
+<field name="checksum">137844d59bdf10a88a1d98d657de770b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">holloman.PNG.jpg</field>
+<field name="originalName">holloman.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5797</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/6/holloman.PNG.jpg</field>
+<field name="checksum">ff31ca96595f5999a44e9004a0882dd3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS353_transcript.pdf.jpg</field>
+<field name="originalName">SS353_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13561</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/9/SS353_transcript.pdf.jpg</field>
+<field name="checksum">7838e1d7b3ecf430f2ca789c76b74694</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS354_transcript.pdf.jpg</field>
+<field name="originalName">SS354_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13734</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/11/SS354_transcript.pdf.jpg</field>
+<field name="checksum">d56e81e845343363270dac847c613edc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS355_transcript.pdf.jpg</field>
+<field name="originalName">SS355_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14380</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/13/SS355_transcript.pdf.jpg</field>
+<field name="checksum">90255e152d61c9ceada9c6d33764ae92</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS356_transcript.pdf.jpg</field>
+<field name="originalName">SS356_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13577</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/15/SS356_transcript.pdf.jpg</field>
+<field name="checksum">738ed21068ff04aa98d9cd246445a8c0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">holloman.PNG.preview.jpg</field>
+<field name="originalName">holloman.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19227</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/7/holloman.PNG.preview.jpg</field>
+<field name="checksum">8d4e7d217a3d13d93fcbf4519d3c4594</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS353_transcript.pdf.txt</field>
+<field name="originalName">SS353_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">27304</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/8/SS353_transcript.pdf.txt</field>
+<field name="checksum">e9700d1c9d343e0d8560309d1453472a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS354_transcript.pdf.txt</field>
+<field name="originalName">SS354_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26741</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/10/SS354_transcript.pdf.txt</field>
+<field name="checksum">604370ae1270f942c47262dd71f4a4b4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS355_transcript.pdf.txt</field>
+<field name="originalName">SS355_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26086</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/12/SS355_transcript.pdf.txt</field>
+<field name="checksum">5b63bf85023f228808cd57a56b0d5f01</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">SS356_transcript.pdf.txt</field>
+<field name="originalName">SS356_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">7394</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33930/14/SS356_transcript.pdf.txt</field>
+<field name="checksum">ef2d85272e575085ec6a777f4e1a7bd4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33930</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33930</field>
+<field name="lastModifyDate">2018-07-30 11:16:25.56</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

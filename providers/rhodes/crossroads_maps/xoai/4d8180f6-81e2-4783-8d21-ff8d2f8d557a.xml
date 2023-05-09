@@ -1,0 +1,112 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1945</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31265</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Memphis Street Ry Co - 1945</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Maps</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">The Memphis Street Ry. Co., 1945</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Street Ry Co - 1945</field>
+<field name="originalName">Memphis Street Ry Co - 1945</field>
+<field name="format">image/jpeg</field>
+<field name="size">2807801</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31265/1/Memphis%20Street%20Ry%20Co%20-%201945</field>
+<field name="checksum">95ebef3262040898b8cb88790f79f9d8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Street Ry Co - 1945.jpg</field>
+<field name="originalName">Memphis Street Ry Co - 1945.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19683</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31265/2/Memphis%20Street%20Ry%20Co%20-%201945.jpg</field>
+<field name="checksum">584ce2a214944c8e08d0d5d8d52c20d4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Street Ry Co - 1945.preview.jpg</field>
+<field name="originalName">Memphis Street Ry Co - 1945.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">128939</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31265/3/Memphis%20Street%20Ry%20Co%20-%201945.preview.jpg</field>
+<field name="checksum">29ec0b3fd10a642fb4e2c2ac531eaffb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31265</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31265</field>
+<field name="lastModifyDate">2018-05-14 14:47:39.154</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

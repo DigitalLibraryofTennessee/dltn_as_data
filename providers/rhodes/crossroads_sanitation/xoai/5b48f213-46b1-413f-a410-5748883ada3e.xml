@@ -1,0 +1,250 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Cherry, James</field>
+<field name="value">Cherry, Marjorie</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T19:12:46Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T19:12:46Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1969-02-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33810</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19690208_James_Marjorie_Cherry-SS172-SS174</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with James and Marjorie Cherry. James as avertising director of both Memphis newspapers, president of Advertising Club; Majorie as former president of League of Women of Voters and involved in Unitarian church activities and in liberal, bi-racial groups. In this interview the group discusses how the perception of Memphis from the outside compares to the reality of the climate of Memphis.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281545654</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Newspapers</field>
+<field name="value">Religion</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">James and Marjorie Cherry, 1969</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS172_transcript.pdf</field>
+<field name="originalName">SS172_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">116943</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/1/SS172_transcript.pdf</field>
+<field name="checksum">427ad5bfe67275e1454506e7e2eef7ec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS173_transcript.pdf</field>
+<field name="originalName">SS173_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">77742</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/2/SS173_transcript.pdf</field>
+<field name="checksum">36f9459675bb91629732366023ce5fce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS174_transcript.pdf</field>
+<field name="originalName">SS174_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">74330</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/3/SS174_transcript.pdf</field>
+<field name="checksum">3a2b018635a1843f8d96f097c7e9c14a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">James and Marjorie Cherry.JPG</field>
+<field name="originalName">James and Marjorie Cherry.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26394</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/10/James%20and%20Marjorie%20Cherry.JPG</field>
+<field name="checksum">83b3272fc19047a5064a13c1328cff44</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS172_transcript.pdf.txt</field>
+<field name="originalName">SS172_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">60788</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/4/SS172_transcript.pdf.txt</field>
+<field name="checksum">476d12a72dadf9d80334c35e729b8f62</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS173_transcript.pdf.txt</field>
+<field name="originalName">SS173_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">29072</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/6/SS173_transcript.pdf.txt</field>
+<field name="checksum">133393359d8976dccfd14569ba645d40</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS174_transcript.pdf.txt</field>
+<field name="originalName">SS174_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26589</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/8/SS174_transcript.pdf.txt</field>
+<field name="checksum">d9fde489a12d8fbd8a2a338d116d8cec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS172_transcript.pdf.jpg</field>
+<field name="originalName">SS172_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10879</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/5/SS172_transcript.pdf.jpg</field>
+<field name="checksum">6e95497acdddcbcbce41292aafa00d2c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS173_transcript.pdf.jpg</field>
+<field name="originalName">SS173_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12564</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/7/SS173_transcript.pdf.jpg</field>
+<field name="checksum">e0e878b7390e2d9950464073e636e6b1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS174_transcript.pdf.jpg</field>
+<field name="originalName">SS174_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/9/SS174_transcript.pdf.jpg</field>
+<field name="checksum">599b31e377fdc3184228570e510fc589</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">James and Marjorie Cherry.JPG.jpg</field>
+<field name="originalName">James and Marjorie Cherry.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4120</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/11/James%20and%20Marjorie%20Cherry.JPG.jpg</field>
+<field name="checksum">c3dfe615461e8558754ae3f4f13c578a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James and Marjorie Cherry.JPG.preview.jpg</field>
+<field name="originalName">James and Marjorie Cherry.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14177</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/12/James%20and%20Marjorie%20Cherry.JPG.preview.jpg</field>
+<field name="checksum">39fadc5cb15a42bd2368d49d19d7fd60</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33810</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33810</field>
+<field name="lastModifyDate">2018-07-30 12:58:31.261</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

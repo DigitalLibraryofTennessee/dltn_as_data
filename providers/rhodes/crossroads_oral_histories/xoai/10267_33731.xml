@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ogle, Jimmy</field>
+<field name="value">Smith, Amanda</field>
+<field name="value">McKinley-Smith, J.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-20T21:27:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-20T21:27:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-07-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33731</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110701_Jimmy_Ogle</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Jimmy Ogle; often referred to as "the man who knows more about Memphis than anyone else."</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280372968</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jimmy Ogle, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.JPG</field>
+<field name="originalName">20110701_Jimmy_Ogle.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">76219</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/1/20110701_Jimmy_Ogle.JPG</field>
+<field name="checksum">87db3951e4129d5f32c54450a6848373</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.pdf</field>
+<field name="originalName">20110701_Jimmy_Ogle.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">202050</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/2/20110701_Jimmy_Ogle.pdf</field>
+<field name="checksum">d86c9fb7f2f1ed4df90a1f844858de7c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.JPG.jpg</field>
+<field name="originalName">20110701_Jimmy_Ogle.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/3/20110701_Jimmy_Ogle.JPG.jpg</field>
+<field name="checksum">7b8dc8ea955835ba09ecf584f45cc4bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.pdf.jpg</field>
+<field name="originalName">20110701_Jimmy_Ogle.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12318</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/6/20110701_Jimmy_Ogle.pdf.jpg</field>
+<field name="checksum">c7247f13e354c7fa45ac3aebd1ce37f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.JPG.preview.jpg</field>
+<field name="originalName">20110701_Jimmy_Ogle.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">34361</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/4/20110701_Jimmy_Ogle.JPG.preview.jpg</field>
+<field name="checksum">774c052009a088e99cf0375dfb1d9dc7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110701_Jimmy_Ogle.pdf.txt</field>
+<field name="originalName">20110701_Jimmy_Ogle.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">79785</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33731/5/20110701_Jimmy_Ogle.pdf.txt</field>
+<field name="checksum">767a599457c600ecfca64f83911066a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33731</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33731</field>
+<field name="lastModifyDate">2018-07-17 09:33:35.559</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

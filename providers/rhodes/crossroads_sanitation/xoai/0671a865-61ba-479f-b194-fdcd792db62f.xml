@@ -1,0 +1,246 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ingram, William B.</field>
+<field name="value">Thomas, Bill</field>
+<field name="value">Beckner, Tom</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-09-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33899</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680907_William_B_Ingram_SS138-SS140</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with William B. Ingram who was former mayor of Memphis (1964-68) during last term of City Commission, succeeded by Mayor Henry Loeb and new City Council form of government on January 1, 1968.  As a fighter pilot during the second World War, Ingram was shot down over Belgium and was prisoner in Germany for 13 months.  He attended Southwestern-at-Memphis and Southern Law University and also was appointed judge of City Court in 1957.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281543432</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">William B. Ingram, Memphis Mayor, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William Ingram.JPG</field>
+<field name="originalName">William Ingram.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">23158</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/1/William%20Ingram.JPG</field>
+<field name="checksum">00b7d0ed8a71a65320c69eddf37b6790</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS138_transcript.pdf</field>
+<field name="originalName">SS138_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">92438</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/4/SS138_transcript.pdf</field>
+<field name="checksum">187a2aad731b36a430c2ac7c2367e05a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS139_Transcript.pdf</field>
+<field name="originalName">SS139_Transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">92686</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/5/SS139_Transcript.pdf</field>
+<field name="checksum">3d44d3a339507373da94b3e2214a6ec5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS140_transcript.pdf</field>
+<field name="originalName">SS140_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">88251</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/6/SS140_transcript.pdf</field>
+<field name="checksum">9bb976d7a790896aae796565923bd592</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William Ingram.JPG.jpg</field>
+<field name="originalName">William Ingram.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">2864</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/2/William%20Ingram.JPG.jpg</field>
+<field name="checksum">1f24cd35884ed96d0b3f52a4e2d998bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS138_transcript.pdf.jpg</field>
+<field name="originalName">SS138_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12979</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/8/SS138_transcript.pdf.jpg</field>
+<field name="checksum">6188026b6c05dcca44fe7c0710d08836</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS139_Transcript.pdf.jpg</field>
+<field name="originalName">SS139_Transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14583</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/10/SS139_Transcript.pdf.jpg</field>
+<field name="checksum">b67fc504d5549fadebf6afd5b5dd54ed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS140_transcript.pdf.jpg</field>
+<field name="originalName">SS140_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15563</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/12/SS140_transcript.pdf.jpg</field>
+<field name="checksum">b885f54f0163bb35f50335bb89876340</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William Ingram.JPG.preview.jpg</field>
+<field name="originalName">William Ingram.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10214</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/3/William%20Ingram.JPG.preview.jpg</field>
+<field name="checksum">93042f3b8387f61a6722250c49eba355</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS138_transcript.pdf.txt</field>
+<field name="originalName">SS138_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">41583</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/7/SS138_transcript.pdf.txt</field>
+<field name="checksum">5b67f01b2811669b309a80473bf0c5a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS139_Transcript.pdf.txt</field>
+<field name="originalName">SS139_Transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">41557</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/9/SS139_Transcript.pdf.txt</field>
+<field name="checksum">4b24b1696eba8103c0f64ab73e1a9c4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS140_transcript.pdf.txt</field>
+<field name="originalName">SS140_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">37718</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33899/11/SS140_transcript.pdf.txt</field>
+<field name="checksum">0ce85beb23a2cd825a1b0d146f3fd9b0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33899</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33899</field>
+<field name="lastModifyDate">2018-07-30 11:14:56.555</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

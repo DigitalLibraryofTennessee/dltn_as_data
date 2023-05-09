@@ -1,0 +1,160 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Burch, Lucius E., Jr., 1912-1996</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-05-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34111</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820511_Lucius_Burch</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Memphis attorney and conservationist Lucius E. Burch Jr. discusses the historical patterns that influenced the Civil Rights movement in Memphis, and what he believes ought to be done to counteract the effects of racism in America.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289566706</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Law</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Lucius Burch, Memphis attorney, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Burch_Lucius.doc</field>
+<field name="originalName">Burch_Lucius.doc</field>
+<field name="format">application/msword</field>
+<field name="size">62976</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34111/1/Burch_Lucius.doc</field>
+<field name="checksum">1236d340634b8630cd9c72b5108a0941</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">lucius burch.PNG</field>
+<field name="originalName">lucius burch.PNG</field>
+<field name="format">image/png</field>
+<field name="size">37097</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34111/3/lucius%20burch.PNG</field>
+<field name="checksum">e9093adb87250bd0cec72a6773d10aea</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Burch_Lucius.doc.txt</field>
+<field name="originalName">Burch_Lucius.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">22370</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34111/2/Burch_Lucius.doc.txt</field>
+<field name="checksum">06e9633b9e3b32f98c40466f129f9f7b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lucius burch.PNG.jpg</field>
+<field name="originalName">lucius burch.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5816</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34111/4/lucius%20burch.PNG.jpg</field>
+<field name="checksum">82d7e0fcf7c3f8068df16d17e6f38d5a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lucius burch.PNG.preview.jpg</field>
+<field name="originalName">lucius burch.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20712</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34111/5/lucius%20burch.PNG.preview.jpg</field>
+<field name="checksum">31a0478c0b71d3d342529fa3ddf1032c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34111</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34111</field>
+<field name="lastModifyDate">2018-09-12 15:57:06.247</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

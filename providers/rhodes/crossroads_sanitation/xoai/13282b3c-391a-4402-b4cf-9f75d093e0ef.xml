@@ -1,0 +1,141 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">WREC (Radio station : Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-04-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33877</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680404_WREC_Statements_Post_Assassination-SS339</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a recording of a radio broadcast on April 4th, 1968 from WREC Radio, in which various speakers give statements following the assassination of Dr. Martin Luther King, Jr.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281522604</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Radio news programs</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968--Assassination</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">WREC Radio Post Assassination Statements, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WREC April 4th 1968.JPG</field>
+<field name="originalName">WREC April 4th 1968.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">31467</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33877/1/WREC%20April%204th%201968.JPG</field>
+<field name="checksum">b06b7272b719e049d0c268822eb5ad6a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WREC April 4th 1968.JPG.jpg</field>
+<field name="originalName">WREC April 4th 1968.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4448</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33877/2/WREC%20April%204th%201968.JPG.jpg</field>
+<field name="checksum">0dc868804664ebd73ff990919a39a66e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WREC April 4th 1968.JPG.preview.jpg</field>
+<field name="originalName">WREC April 4th 1968.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">15018</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33877/3/WREC%20April%204th%201968.JPG.preview.jpg</field>
+<field name="checksum">9be50870049134bc232e259d6afae98d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33877</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33877</field>
+<field name="lastModifyDate">2018-07-31 13:59:14.158</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

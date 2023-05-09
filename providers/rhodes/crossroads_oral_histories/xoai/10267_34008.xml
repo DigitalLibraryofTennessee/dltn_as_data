@@ -1,0 +1,167 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Taylor, Robert M. Sr.</field>
+<field name="value">Douglas, Deborah</field>
+<field name="value">Vasser, Rommie (Rome)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34008</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Robert_Taylor</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An audio interview conducted by StoryCorps at Rhodes College of Mr. Robert Taylor, Ms. Deborah Douglas, and Mr. Rommie Vasser, employees of Rhodes College. They each have vivid memories of the Civil Rights Era, specifically about segregation and integration.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116924</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">StoryCorps</field>
+<field name="value">African Americans</field>
+<field name="value">Segregation</field>
+<field name="value">Integration</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Robert Taylor, Deborah Douglass, and Rome Vasser, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RT_tn.JPG.jpg</field>
+<field name="originalName">RT_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9313</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/2/RT_tn.JPG.jpg</field>
+<field name="checksum">45f7f0f052b15105053b13ffe7c269ae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Robert_Taylor.pdf.jpg</field>
+<field name="originalName">20071116_Robert_Taylor.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11728</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/6/20071116_Robert_Taylor.pdf.jpg</field>
+<field name="checksum">07fd51c41ef57b6c23ff70aaaf32763e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RT_tn.JPG.preview.jpg</field>
+<field name="originalName">RT_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">41801</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/3/RT_tn.JPG.preview.jpg</field>
+<field name="checksum">29328cde1ab75b9edf13158b8aa21c0e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Robert_Taylor.pdf.txt</field>
+<field name="originalName">20071116_Robert_Taylor.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24283</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/5/20071116_Robert_Taylor.pdf.txt</field>
+<field name="checksum">5faf86b026067626019b0e9ec9717cb7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RT_tn.JPG</field>
+<field name="originalName">RT_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">3180313</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/1/RT_tn.JPG</field>
+<field name="checksum">f267b1dcd1e21d2d94b60146b93cde14</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Robert_Taylor.pdf</field>
+<field name="originalName">20071116_Robert_Taylor.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">73508</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34008/4/20071116_Robert_Taylor.pdf</field>
+<field name="checksum">adb999c7a42e0ef4d3784d728546db37</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34008</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34008</field>
+<field name="lastModifyDate">2018-09-10 12:10:34.194</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

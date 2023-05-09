@@ -1,0 +1,279 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kyles, Samuel Billy</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Thomas, Bill</field>
+<field name="value">Yellin, David G.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T20:00:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T20:00:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-06-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33815</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680612_S_B_Billy_Kyles-SS258-SS261</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Samuel Billy Kyles. Kyles was the pastor of Monumental Baptist Church and active in C.O.M.E. and an eye-witness to the death of Martin Luther King, Jr.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281854447</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Samuel "Billy" Kyles, Eye Witness to MLK Assassination, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">S.B. Kyles.JPG</field>
+<field name="originalName">S.B. Kyles.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26070</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/1/S.B.%20Kyles.JPG</field>
+<field name="checksum">2bc72d3d3cdef133ea68af4ea2eb639b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS258_transcript.pdf</field>
+<field name="originalName">SS258_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">86975</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/2/SS258_transcript.pdf</field>
+<field name="checksum">040aac40e5589639b12dafa7c586cac8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS259_transcript.pdf</field>
+<field name="originalName">SS259_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">132708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/3/SS259_transcript.pdf</field>
+<field name="checksum">57616c7e59361624d7d107351e926304</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS260_transcript.pdf</field>
+<field name="originalName">SS260_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">151092</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/4/SS260_transcript.pdf</field>
+<field name="checksum">87b2cdf600d510956141bffbddfa35db</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS261_transcript.pdf</field>
+<field name="originalName">SS261_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">127608</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/5/SS261_transcript.pdf</field>
+<field name="checksum">8adc8d496e9581edb04c341b4fd4b274</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">S.B. Kyles.JPG.jpg</field>
+<field name="originalName">S.B. Kyles.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3699</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/6/S.B.%20Kyles.JPG.jpg</field>
+<field name="checksum">9485b706c8683262aaed1995a088fc8d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS258_transcript.pdf.jpg</field>
+<field name="originalName">SS258_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12698</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/9/SS258_transcript.pdf.jpg</field>
+<field name="checksum">d3516d50c2779e98cfe907cad7553ae0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS259_transcript.pdf.jpg</field>
+<field name="originalName">SS259_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14904</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/11/SS259_transcript.pdf.jpg</field>
+<field name="checksum">b9de80c3bcb1cadc1499c792f2600ad9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS260_transcript.pdf.jpg</field>
+<field name="originalName">SS260_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13432</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/13/SS260_transcript.pdf.jpg</field>
+<field name="checksum">84d93433bd0355f4298be7a7f90909d3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS261_transcript.pdf.jpg</field>
+<field name="originalName">SS261_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14311</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/15/SS261_transcript.pdf.jpg</field>
+<field name="checksum">4bededb7cef6f49a161987ea3a47c6f4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">S.B. Kyles.JPG.preview.jpg</field>
+<field name="originalName">S.B. Kyles.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12383</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/7/S.B.%20Kyles.JPG.preview.jpg</field>
+<field name="checksum">a64e15a1d6a676e47ee3797205d8d973</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS258_transcript.pdf.txt</field>
+<field name="originalName">SS258_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">28744</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/8/SS258_transcript.pdf.txt</field>
+<field name="checksum">3f17298bf2f9822bc1f04f800b891b0c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS259_transcript.pdf.txt</field>
+<field name="originalName">SS259_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">51784</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/10/SS259_transcript.pdf.txt</field>
+<field name="checksum">2a09dddf750ea8ae63932ab4d2add28c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS260_transcript.pdf.txt</field>
+<field name="originalName">SS260_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">67949</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/12/SS260_transcript.pdf.txt</field>
+<field name="checksum">4c835688c9d33f8a35d24eee652ebda3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">SS261_transcript.pdf.txt</field>
+<field name="originalName">SS261_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">47315</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33815/14/SS261_transcript.pdf.txt</field>
+<field name="checksum">98fdd1457f57ecb89cd3c532da18ce28</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33815</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33815</field>
+<field name="lastModifyDate">2018-07-31 13:49:44.682</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

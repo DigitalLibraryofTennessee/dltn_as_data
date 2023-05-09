@@ -1,0 +1,179 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hooks, Frances</field>
+<field name="value">Hooks, Benjamin L. (Benjamin Lawson), 1925-2010</field>
+<field name="value">Smith, Tiffani</field>
+<field name="value">James, Holly</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-07-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33662</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080709_Frances_and_Benjamin_Hooks</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frances and Benjamin Hooks.Frances Hooks  is a retired school teacher and Benjamin Hooks was a minister and attorney. They discuss growing up during the Great Depression, with a specific focus on education. Benjamin Hooks also describes his role in the Civil rights movement as a joint venture with his wife and describes the circumstances leading to the Sanitation Strike.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278570836</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Education</field>
+<field name="value">Religion</field>
+<field name="value">Law</field>
+<field name="value">Great Depression, 1929</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frances and Benjamin Hooks, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.JPG</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">79184</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/1/20080709_Frances_and_Benjamin_Hooks.JPG</field>
+<field name="checksum">cdada709fb045f8c3edc702f7c1cf3c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.pdf</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">271678</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/2/20080709_Frances_and_Benjamin_Hooks.pdf</field>
+<field name="checksum">3d5822a8bc072a366d7f8fba890e358c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.JPG.jpg</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13710</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/3/20080709_Frances_and_Benjamin_Hooks.JPG.jpg</field>
+<field name="checksum">c09b4f41c9db6498a4b1a211e3184d87</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.pdf.jpg</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11865</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/6/20080709_Frances_and_Benjamin_Hooks.pdf.jpg</field>
+<field name="checksum">b773399334b980ecabd42cd3ac1be97c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.JPG.preview.jpg</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47953</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/4/20080709_Frances_and_Benjamin_Hooks.JPG.preview.jpg</field>
+<field name="checksum">547627c5bbe8e189f16404dc2343ea9a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080709_Frances_and_Benjamin_Hooks.pdf.txt</field>
+<field name="originalName">20080709_Frances_and_Benjamin_Hooks.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">66086</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33662/5/20080709_Frances_and_Benjamin_Hooks.pdf.txt</field>
+<field name="checksum">7e5ef105c6a78acc66eacc24a3cef1f0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33662</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33662</field>
+<field name="lastModifyDate">2018-07-20 12:16:27.257</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

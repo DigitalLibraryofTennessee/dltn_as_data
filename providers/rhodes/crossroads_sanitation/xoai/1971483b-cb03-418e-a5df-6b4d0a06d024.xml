@@ -1,0 +1,215 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Leppert, Monsignor Joseph</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Schultz, Judy</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-06-24</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33888</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680624_Joseph_Leppert-SS120-SS121</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Monsignor Joseph Leppert. Leppert was the pastor of St. Teresa of the Little Flower Catholic Church and founder of Memphis Catholic Human Relations Council. He worked for desegregation of Catholic parishes and schools. Leppert was one of the few active Catholic members of Memphis Ministers' Association.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281535278</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Segregation in education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Joseph Leppert, Founder of Memphis Catholic Human Relations Council, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS120_transcript.pdf</field>
+<field name="originalName">SS120_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">98263</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/1/SS120_transcript.pdf</field>
+<field name="checksum">b6f6bef10cd9c9694c3146ca01009ecd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS121_transcript.pdf</field>
+<field name="originalName">SS121_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">71994</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/2/SS121_transcript.pdf</field>
+<field name="checksum">808ae0564fae1f16bda09ffd02a441c0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">leppert.PNG</field>
+<field name="originalName">leppert.PNG</field>
+<field name="format">image/png</field>
+<field name="size">35615</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/3/leppert.PNG</field>
+<field name="checksum">652058ce5b9b4a2ffab482d77f75f898</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS120_transcript.pdf.txt</field>
+<field name="originalName">SS120_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">46107</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/4/SS120_transcript.pdf.txt</field>
+<field name="checksum">9394e681ba1e96bfbfda15ef9c2685d2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS121_transcript.pdf.txt</field>
+<field name="originalName">SS121_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24817</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/6/SS121_transcript.pdf.txt</field>
+<field name="checksum">714066f10a84527635d5842a0cbb8578</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS120_transcript.pdf.jpg</field>
+<field name="originalName">SS120_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12808</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/5/SS120_transcript.pdf.jpg</field>
+<field name="checksum">019dad439b3ff959b7bbbf1e21c55209</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS121_transcript.pdf.jpg</field>
+<field name="originalName">SS121_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13379</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/7/SS121_transcript.pdf.jpg</field>
+<field name="checksum">0495501bd257a606847c444af531a7ae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">leppert.PNG.jpg</field>
+<field name="originalName">leppert.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4719</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/8/leppert.PNG.jpg</field>
+<field name="checksum">e5963156cddd6c16bcf2f19b09b18e8b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">leppert.PNG.preview.jpg</field>
+<field name="originalName">leppert.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14390</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33888/9/leppert.PNG.preview.jpg</field>
+<field name="checksum">d7d69ae9818cd75de9189fc6c2ca165e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33888</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33888</field>
+<field name="lastModifyDate">2018-07-30 15:36:25.237</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

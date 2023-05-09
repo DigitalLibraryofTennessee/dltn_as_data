@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Maclin, Mary</field>
+<field name="value">Murray, Missy</field>
+<field name="value">Taylor, Ashleigh</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:12Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:12Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-06-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33689</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100618_Mary_Maclin</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mary Maclin. She was one of the first black cheerleaders at Northside High School.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280264654</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">School integration</field>
+<field name="value">African Americans</field>
+</element>
+<element name="none">
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mary Maclin, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.JPG</field>
+<field name="originalName">20100618_Mary_Maclin.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">101575</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/1/20100618_Mary_Maclin.JPG</field>
+<field name="checksum">0b49bb04a9068307b75082d67f213351</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.pdf</field>
+<field name="originalName">20100618_Mary_Maclin.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">210991</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/2/20100618_Mary_Maclin.pdf</field>
+<field name="checksum">270ee1c4087e50cedd17a90522e213d8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.JPG.jpg</field>
+<field name="originalName">20100618_Mary_Maclin.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11939</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/3/20100618_Mary_Maclin.JPG.jpg</field>
+<field name="checksum">76d06118a466c3bf09e193d1979916c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.pdf.jpg</field>
+<field name="originalName">20100618_Mary_Maclin.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13571</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/6/20100618_Mary_Maclin.pdf.jpg</field>
+<field name="checksum">b50df5bed411426407a2ecd025ba1c95</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.JPG.preview.jpg</field>
+<field name="originalName">20100618_Mary_Maclin.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45977</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/4/20100618_Mary_Maclin.JPG.preview.jpg</field>
+<field name="checksum">0e65a18117594188d741caaea018c32a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100618_Mary_Maclin.pdf.txt</field>
+<field name="originalName">20100618_Mary_Maclin.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">49433</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33689/5/20100618_Mary_Maclin.pdf.txt</field>
+<field name="checksum">4ac01f597224662304ba381846901747</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33689</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33689</field>
+<field name="lastModifyDate">2018-07-16 16:30:07.611</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

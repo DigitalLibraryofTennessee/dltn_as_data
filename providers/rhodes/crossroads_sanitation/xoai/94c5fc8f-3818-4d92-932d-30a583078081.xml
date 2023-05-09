@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Davis, Fred, approximately 1937-</field>
+<field name="value">Curley, Jack</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33782</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680522_Fred_Davis-SS095</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Fred Davis. Davis was one of three black members of Memphis city council and chairman of council's public works sub-committee.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281529220</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+<field name="value">Politics and government</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Fred Davis, Memphis City Council, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Fred Davis May 1968.JPG</field>
+<field name="originalName">Fred Davis May 1968.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">22013</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/1/Fred%20Davis%20May%201968.JPG</field>
+<field name="checksum">3459d5da62b388ad1eb40f796b4c3593</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS095_transcript.pdf</field>
+<field name="originalName">SS095_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">158968</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/2/SS095_transcript.pdf</field>
+<field name="checksum">1f96f02a75de128e0539f32ab49162da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Fred Davis May 1968.JPG.jpg</field>
+<field name="originalName">Fred Davis May 1968.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3512</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/3/Fred%20Davis%20May%201968.JPG.jpg</field>
+<field name="checksum">353646d156c5221886ccd0c6ebf967f8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS095_transcript.pdf.jpg</field>
+<field name="originalName">SS095_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12415</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/6/SS095_transcript.pdf.jpg</field>
+<field name="checksum">c70359f604a04a30cee4dcbad17515e6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Fred Davis May 1968.JPG.preview.jpg</field>
+<field name="originalName">Fred Davis May 1968.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12644</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/4/Fred%20Davis%20May%201968.JPG.preview.jpg</field>
+<field name="checksum">977f50abeb4ecd6f4669f84a535668e9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS095_transcript.pdf.txt</field>
+<field name="originalName">SS095_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">95790</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33782/5/SS095_transcript.pdf.txt</field>
+<field name="checksum">932f509707b832e260cde006a89c217f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33782</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33782</field>
+<field name="lastModifyDate">2018-07-31 11:13:48.865</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

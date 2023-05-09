@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ulmer, Alan</field>
+<field name="value">Bass, John B. III</field>
+<field name="value">Bonefas, Suzanne</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-04-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33585</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110402_Alan_Ulmer</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Alan Ulmer. He discusses his experience photographing the first Beale Street Music Festival in 1977. Interviewee: Alan Ulmer Interviewers: John Bass, Suzanne Bonefas Date: April 2, 2011</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278584032</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Memphis in May International Festival, Inc.</field>
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Beale Street Music Festival</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Photography</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">1970s</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Alan Ulmer, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.PNG</field>
+<field name="originalName">20110402_Alan_Ulmer.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1495702</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/1/20110402_Alan_Ulmer.PNG</field>
+<field name="checksum">601b05cbce9ad91dc3a03f658e67ca25</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.pdf</field>
+<field name="originalName">20110402_Alan_Ulmer.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">315773</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/2/20110402_Alan_Ulmer.pdf</field>
+<field name="checksum">ec33ed3f36375c49ef8d8962a4cb6651</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.PNG.jpg</field>
+<field name="originalName">20110402_Alan_Ulmer.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9811</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/3/20110402_Alan_Ulmer.PNG.jpg</field>
+<field name="checksum">1667f27ed286f264c5af7dba2382b28a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.pdf.jpg</field>
+<field name="originalName">20110402_Alan_Ulmer.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8720</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/6/20110402_Alan_Ulmer.pdf.jpg</field>
+<field name="checksum">9ce02ff57c4cd62e1981b343fed1ef14</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.PNG.preview.jpg</field>
+<field name="originalName">20110402_Alan_Ulmer.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">37002</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/4/20110402_Alan_Ulmer.PNG.preview.jpg</field>
+<field name="checksum">a9e497fe8330ba2a6907553f0b0e78ed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Alan_Ulmer.pdf.txt</field>
+<field name="originalName">20110402_Alan_Ulmer.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24723</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33585/5/20110402_Alan_Ulmer.pdf.txt</field>
+<field name="checksum">29588500b5436f966b43fd04b7ffe336</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33585</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33585</field>
+<field name="lastModifyDate">2018-07-12 13:20:41.004</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

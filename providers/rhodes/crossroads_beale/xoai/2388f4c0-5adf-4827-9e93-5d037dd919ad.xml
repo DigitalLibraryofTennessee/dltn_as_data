@@ -1,0 +1,472 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Beale Street Productions</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1977</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34319</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1977_Beale_Street_Music_Festival_Program_117748</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A program for the very first annual Beale Street Music Festival in 1977.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">King, B.B.</field>
+<field name="value">Beale Street Music Festival</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">1977 Beale Street Music Festival Program</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">139011</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/1/1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg</field>
+<field name="checksum">1c900f11ce765e63fc6e3287d9f5380d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">186978</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/2/1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg</field>
+<field name="checksum">c0c339765587ef85e751a61fdf10f6e1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">133785</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/3/1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg</field>
+<field name="checksum">ea33ed6fcce063afc7009bd2883458da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">229550</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/4/1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg</field>
+<field name="checksum">2caa8132bfd593bf7629ce49efc36e28</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">134853</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/5/1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg</field>
+<field name="checksum">ca26745f12c01729eb68cc42f55ae648</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">298635</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/6/1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg</field>
+<field name="checksum">fb019694a4b2d85844ac7582056d5a9f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">237360</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/7/1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg</field>
+<field name="checksum">fa6c75f79c7d68877de626a49b03ac4d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">142106</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/8/1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg</field>
+<field name="checksum">a1fb732f09c377bb3c7b46580fcaf747</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">297589</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/9/1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg</field>
+<field name="checksum">3c5d79bdbc5e4b5c9bad1de8252959dd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">104288</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/10/1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg</field>
+<field name="checksum">27796de345e3f7c90217b8c1a600db78</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">106308</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/11/1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg</field>
+<field name="checksum">51de64e6b3511626d26112b08282837b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">200796</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/12/1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg</field>
+<field name="checksum">df41b58143d6989da5f9c1549bc202af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11165</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/13/1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.jpg</field>
+<field name="checksum">c4ce31a9da8ba842a3da57f2b968b62e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15198</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/15/1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.jpg</field>
+<field name="checksum">cd64ed53e2f1e5e70b0dc5c8da8fb328</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11845</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/17/1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.jpg</field>
+<field name="checksum">96d7d1ff074ffc4e49f98a698126f327</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15066</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/19/1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.jpg</field>
+<field name="checksum">8c7e27569d4ebeed0f8d2c5d62879569</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">19</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10722</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/21/1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.jpg</field>
+<field name="checksum">6d30c893a970cdfbbcfedde5cdf146a5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">21</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16507</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/23/1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.jpg</field>
+<field name="checksum">b7a35e0880f4e2ce3370421bb7c2c5a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">23</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14064</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/25/1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.jpg</field>
+<field name="checksum">aaca529ce182ea02750b48c091371aab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">25</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12286</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/27/1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.jpg</field>
+<field name="checksum">a2562539c4e9f00cd7cddf20bbaa421a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">27</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16937</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/29/1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.jpg</field>
+<field name="checksum">2b5b80b0433109a4133058e726534645</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">29</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7483</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/31/1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.jpg</field>
+<field name="checksum">6ba58c866a453523a8df0e993762a8c4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">31</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9582</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/33/1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.jpg</field>
+<field name="checksum">e552908488e3640be12e283a098c5f2d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">33</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18752</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/35/1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.jpg</field>
+<field name="checksum">4f686370fbab9bc069afbf644057c2a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">35</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">44445</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/14/1977_Beale_Street_Music_Festival_Program_117748_image_1.jpg.preview.jpg</field>
+<field name="checksum">1b1f4fb01e07dd850ab3319f31b21dee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">63759</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/16/1977_Beale_Street_Music_Festival_Program_117748_image_2.jpg.preview.jpg</field>
+<field name="checksum">a7102af70ec330652b6945efc7bd5e96</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47316</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/18/1977_Beale_Street_Music_Festival_Program_117748_image_3.jpg.preview.jpg</field>
+<field name="checksum">3e0f10ae81356cb2e871cc26471e790d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">71171</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/20/1977_Beale_Street_Music_Festival_Program_117748_image_4.jpg.preview.jpg</field>
+<field name="checksum">d9f9ead9422398140ff3ddc4c59a19b3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">20</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47655</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/22/1977_Beale_Street_Music_Festival_Program_117748_image_5.jpg.preview.jpg</field>
+<field name="checksum">d212601fa45933bdd8b22f3828b56b40</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">22</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">85655</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/24/1977_Beale_Street_Music_Festival_Program_117748_image_6.jpg.preview.jpg</field>
+<field name="checksum">9121ba613d529ad81791f6730255df1e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">24</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">67998</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/26/1977_Beale_Street_Music_Festival_Program_117748_image_7.jpg.preview.jpg</field>
+<field name="checksum">eb0b90676df0810d3a016b8290955c96</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">26</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">52642</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/28/1977_Beale_Street_Music_Festival_Program_117748_image_8.jpg.preview.jpg</field>
+<field name="checksum">769957a3c32e60d34dd889133d03b3af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">28</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">92242</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/30/1977_Beale_Street_Music_Festival_Program_117748_image_9.jpg.preview.jpg</field>
+<field name="checksum">c90170d2554299c296a545b0547e64bb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">30</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">34527</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/32/1977_Beale_Street_Music_Festival_Program_117748_image_10.jpg.preview.jpg</field>
+<field name="checksum">7980d8370c07f460c05c97c470992fba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">32</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">41425</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/34/1977_Beale_Street_Music_Festival_Program_117748_image_11.jpg.preview.jpg</field>
+<field name="checksum">f6549427fc19262b72c013fcfa85ae1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">34</field>
+</element>
+<element name="bitstream">
+<field name="name">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.preview.jpg</field>
+<field name="originalName">1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">77079</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34319/36/1977_Beale_Street_Music_Festival_Program_117748_image_12.jpg.preview.jpg</field>
+<field name="checksum">b3511405128c608a7b1dc9fc34d84e9e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">36</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34319</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34319</field>
+<field name="lastModifyDate">2018-10-11 17:53:24.449</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

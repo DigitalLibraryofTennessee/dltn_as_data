@@ -1,0 +1,268 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34210</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Baptist_Minister_List_805</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A list of contacts, including address and phone numbers, for Baptist ministers in the Memphis area.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Religion</field>
+<field name="value">Church</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Baptist Minister Contact List</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_1.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17861</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/7/Baptist_Minister_List_805_1.jpg.jpg</field>
+<field name="checksum">26678f2541ff947f4895a9d4e14cee90</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_2.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17785</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/9/Baptist_Minister_List_805_2.jpg.jpg</field>
+<field name="checksum">13b9a68aeb1dff2020e664f1a70f1b60</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_3.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_3.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18063</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/11/Baptist_Minister_List_805_3.jpg.jpg</field>
+<field name="checksum">eba08f2cd3acead05f5dd4e120b09c9b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_4.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_4.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19222</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/13/Baptist_Minister_List_805_4.jpg.jpg</field>
+<field name="checksum">207c1b76177b97afd2244b50e8f1fd2a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_5.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_5.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18742</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/15/Baptist_Minister_List_805_5.jpg.jpg</field>
+<field name="checksum">9a8550f0e403498a236b06715c4f77d7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_6.jpg.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_6.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7870</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/17/Baptist_Minister_List_805_6.jpg.jpg</field>
+<field name="checksum">04df43ade0e3b533fa70bf7b20491106</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_1.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">96416</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/8/Baptist_Minister_List_805_1.jpg.preview.jpg</field>
+<field name="checksum">b0bc2ee31c0e9880e4bd6acc07e8291b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_2.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">91654</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/10/Baptist_Minister_List_805_2.jpg.preview.jpg</field>
+<field name="checksum">1a76c98729718ea3cba4695a66f83241</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_3.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_3.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">95554</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/12/Baptist_Minister_List_805_3.jpg.preview.jpg</field>
+<field name="checksum">c66d1920dbd7ca1fa41ed48c44afbe29</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_4.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_4.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">101195</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/14/Baptist_Minister_List_805_4.jpg.preview.jpg</field>
+<field name="checksum">a6e6609bd9c57c12d076d2fb157a1166</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_5.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_5.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">93942</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/16/Baptist_Minister_List_805_5.jpg.preview.jpg</field>
+<field name="checksum">a7a48dc565702698a6e5c111abb549fc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_6.jpg.preview.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_6.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">44559</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/18/Baptist_Minister_List_805_6.jpg.preview.jpg</field>
+<field name="checksum">f1378699e2c3509e4db3f462538c71d3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_1.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">792218</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/1/Baptist_Minister_List_805_1.jpg</field>
+<field name="checksum">5073984922fd2cd1333c753cd82e1461</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_2.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">726353</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/2/Baptist_Minister_List_805_2.jpg</field>
+<field name="checksum">e2f742589c1fa6a6ff376c611b817c42</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_3.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_3.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">733000</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/3/Baptist_Minister_List_805_3.jpg</field>
+<field name="checksum">b91a5a3fd75cdeb6a61c5d55a8f42005</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_4.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_4.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1121402</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/4/Baptist_Minister_List_805_4.jpg</field>
+<field name="checksum">251115020ac2546493a220a8a393d414</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_5.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_5.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">486817</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/5/Baptist_Minister_List_805_5.jpg</field>
+<field name="checksum">b439ea752837c3c6c03d19d0f7aa357d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">Baptist_Minister_List_805_6.jpg</field>
+<field name="originalName">Baptist_Minister_List_805_6.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">547759</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34210/6/Baptist_Minister_List_805_6.jpg</field>
+<field name="checksum">9cba1a064c2e4c5d1f61a0798589b494</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34210</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34210</field>
+<field name="lastModifyDate">2018-10-17 11:33:38.147</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

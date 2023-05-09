@@ -1,0 +1,196 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hughes, Charles L.</field>
+<field name="value">Dumais, Bob</field>
+<field name="value">Kellas, Madeline L. (Maddie)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-08T17:32:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-08T17:32:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-03-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/30941</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170302_Bob_Dumais</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interviewers: Dr. Charles Hughes and Maddie Kellas
+Interviewee: Mr. Bob Dumais
+Date: 2017-03-02
+Location: Rhodes College, Memphis, TN</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281657902</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">LGBTQ Community</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bob Dumais, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.JPG</field>
+<field name="originalName">20170302_Bob_Dumais.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">32873</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/1/20170302_Bob_Dumais.JPG</field>
+<field name="checksum">716bc9096dcb812986008111a05cb3e5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.pdf</field>
+<field name="originalName">20170302_Bob_Dumais.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">355441</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/6/20170302_Bob_Dumais.pdf</field>
+<field name="checksum">0a9fe8f2bfa8e057f41d11a81bd1e5e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017_bob_dumais.JPG.jpg</field>
+<field name="originalName">2017_bob_dumais.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7327</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/2/2017_bob_dumais.JPG.jpg</field>
+<field name="checksum">e7f7d1e3fee85c9bbe37dc700169949d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.JPG.jpg</field>
+<field name="originalName">20170302_Bob_Dumais.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7327</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/4/20170302_Bob_Dumais.JPG.jpg</field>
+<field name="checksum">e7f7d1e3fee85c9bbe37dc700169949d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.pdf.jpg</field>
+<field name="originalName">20170302_Bob_Dumais.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14789</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/8/20170302_Bob_Dumais.pdf.jpg</field>
+<field name="checksum">d694e4b1edf1809df20e7cb418f8de1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017_bob_dumais.JPG.preview.jpg</field>
+<field name="originalName">2017_bob_dumais.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21203</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/3/2017_bob_dumais.JPG.preview.jpg</field>
+<field name="checksum">21062b621cf950ca15b955806d1e68d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.JPG.preview.jpg</field>
+<field name="originalName">20170302_Bob_Dumais.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21203</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/5/20170302_Bob_Dumais.JPG.preview.jpg</field>
+<field name="checksum">21062b621cf950ca15b955806d1e68d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170302_Bob_Dumais.pdf.txt</field>
+<field name="originalName">20170302_Bob_Dumais.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">59365</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30941/7/20170302_Bob_Dumais.pdf.txt</field>
+<field name="checksum">f9af93d74761f055272dd5a0f56a0d73</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/30941</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/30941</field>
+<field name="lastModifyDate">2018-07-26 12:51:02.519</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

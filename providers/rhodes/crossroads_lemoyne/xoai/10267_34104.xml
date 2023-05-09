@@ -1,0 +1,141 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Johnson, Michael P.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T16:31:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T16:31:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-03-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34104</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680328_LeMoyne_332-333_DJ</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Reflections written by students enrolled in Professor Michael P. Johnson's History 202 and 204 classes at LeMoyne College in Spring of 1968.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Civil rights demonstrations</field>
+<field name="value">LeMoyne-Owen College</field>
+<field name="value">Memphis, (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">LeMoyne Reflections on Sanitation Strike March pp. 332-333 -- D.J.</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19680328_LeMoyne_332-333_DJ_main.pdf</field>
+<field name="originalName">19680328_LeMoyne_332-333_DJ_main.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">565902</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34104/1/19680328_LeMoyne_332-333_DJ_main.pdf</field>
+<field name="checksum">fb6cbd1d8b082cf64c8376958b83da12</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19680328_LeMoyne_332-333_DJ.pdf</field>
+<field name="originalName">19680328_LeMoyne_332-333_DJ.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">186825</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34104/6/19680328_LeMoyne_332-333_DJ.pdf</field>
+<field name="checksum">228d53c80883f699b6092ea5d6ecab2e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19680328_LeMoyne_332-333_DJ_main.pdf.txt</field>
+<field name="originalName">19680328_LeMoyne_332-333_DJ_main.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">2</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34104/3/19680328_LeMoyne_332-333_DJ_main.pdf.txt</field>
+<field name="checksum">e1c06d85ae7b8b032bef47e42e4c08f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19680328_LeMoyne_332-333_DJ.pdf.txt</field>
+<field name="originalName">19680328_LeMoyne_332-333_DJ.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">1924</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34104/4/19680328_LeMoyne_332-333_DJ.pdf.txt</field>
+<field name="checksum">212eaca5929f7d69131ed18d5e8ab60c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19680328_LeMoyne_332-333_DJ.pdf.jpg</field>
+<field name="originalName">19680328_LeMoyne_332-333_DJ.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10349</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34104/5/19680328_LeMoyne_332-333_DJ.pdf.jpg</field>
+<field name="checksum">0dc8cbb5fb360487e5357ba0e165ad43</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34104</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34104</field>
+<field name="lastModifyDate">2018-09-12 13:03:37.094</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

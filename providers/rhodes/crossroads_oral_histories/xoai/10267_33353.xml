@@ -1,0 +1,182 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shinault, Ernest</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2016-06-24</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33353</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20160624_Ernest_Shinault</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Ernest Shinault grew up in the Binghampton Area. While attending Treadwell, he had a firsthand perspective of integration. While being bussed to different schools, he didn't know what to expect. He didn't know whether he should be scared of the situation or to think that something positive would come from it. Mr. Shinault graduated from Treadwell High School. He mentioned while growing up, the neighborhood consisted of boundaries. There were specific areas African-Americans were not supposed to cross. The Binghampton Area was populated by African-Americans, while Highland Heights was populated by Caucasians. The interview overall was very interesting, especially the topic on the boundaries. It was my first time hearing about this, so it really grasp my attention. Mr. Shinault is currently a youth librarian at Gaston Library in South Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280771062</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Ernest Shinault, 2016</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20160624_Ernest_Shinault.JPG</field>
+<field name="originalName">20160624_Ernest_Shinault.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">29410</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/1/20160624_Ernest_Shinault.JPG</field>
+<field name="checksum">436f332a1c12414e6e20bbe5439d2c3f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20160624_Ernest_Shinault.txt</field>
+<field name="originalName">20160624_Ernest_Shinault.txt</field>
+<field name="format">text/plain</field>
+<field name="size">69159</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/6/20160624_Ernest_Shinault.txt</field>
+<field name="checksum">f7e4e3f072c30e4b5f0531acb37a8df4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9052</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/2/Capture.JPG.jpg</field>
+<field name="checksum">ec6f75845c66d649397a27275edc75d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20160624_Ernest_Shinault.JPG.jpg</field>
+<field name="originalName">20160624_Ernest_Shinault.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9052</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/4/20160624_Ernest_Shinault.JPG.jpg</field>
+<field name="checksum">ec6f75845c66d649397a27275edc75d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19206</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/3/Capture.JPG.preview.jpg</field>
+<field name="checksum">b9692f7aadb424d6636ebb6a03de79c7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20160624_Ernest_Shinault.JPG.preview.jpg</field>
+<field name="originalName">20160624_Ernest_Shinault.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19206</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/5/20160624_Ernest_Shinault.JPG.preview.jpg</field>
+<field name="checksum">b9692f7aadb424d6636ebb6a03de79c7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20160624_Ernest_Shinault.txt.txt</field>
+<field name="originalName">20160624_Ernest_Shinault.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">64609</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33353/7/20160624_Ernest_Shinault.txt.txt</field>
+<field name="checksum">d7a44b56e0625707d3d2f6019e2fd7da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33353</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33353</field>
+<field name="lastModifyDate">2018-07-19 12:39:50.645</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

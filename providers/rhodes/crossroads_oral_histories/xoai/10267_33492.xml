@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Atkins, Robert</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Smith, Tiffani</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-07-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33492</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070709_Robert_Atkins</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Robert Atkins, who was the Director of Religious Education at St. Augustine Catholic Church, one of the two historically African American parishes in the Diocese of Memphis. A graduate of Father Bertrand High School, which is now known at St. Augustine, Deacon Atkins explains his experiences of being not only African American but also Catholic in a segregated society. As a life long Memphian who grew up in the LeMoyne Gardens neighborhood, he explains the effects of segregation on his spirituality and his outlook on society. In addition, during the push for civil rights, Deacon Atkins attended Xavier University in Louisiana and participated in various marches and sit-ins.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278555230</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Education</field>
+<field name="value">Segregation</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Robert Atkins, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.JPG</field>
+<field name="originalName">20070709_Robert_Atkins.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">62248</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/1/20070709_Robert_Atkins.JPG</field>
+<field name="checksum">734fda4ebdf22ffba8a16c26add1ccd3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.pdf</field>
+<field name="originalName">20070709_Robert_Atkins.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">258413</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/2/20070709_Robert_Atkins.pdf</field>
+<field name="checksum">33416a88512ca32e5914d810bcc20563</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.JPG.jpg</field>
+<field name="originalName">20070709_Robert_Atkins.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14518</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/3/20070709_Robert_Atkins.JPG.jpg</field>
+<field name="checksum">c2338b0ee79d0127623531338e6f08f4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.pdf.jpg</field>
+<field name="originalName">20070709_Robert_Atkins.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9339</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/6/20070709_Robert_Atkins.pdf.jpg</field>
+<field name="checksum">65297c70d2009dcf66d015840754a893</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.JPG.preview.jpg</field>
+<field name="originalName">20070709_Robert_Atkins.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">42968</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/4/20070709_Robert_Atkins.JPG.preview.jpg</field>
+<field name="checksum">898a7e1600f95a4f858db0e40e0b0bd5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070709_Robert_Atkins.pdf.txt</field>
+<field name="originalName">20070709_Robert_Atkins.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">44621</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33492/5/20070709_Robert_Atkins.pdf.txt</field>
+<field name="checksum">84e9c89e4b7f01677d59d2d177a8a111</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33492</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33492</field>
+<field name="lastModifyDate">2018-07-12 13:20:41.423</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

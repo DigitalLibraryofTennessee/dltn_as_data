@@ -1,0 +1,211 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Search for Meaning Committee</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T19:12:47Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T19:12:47Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1969-04-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33811</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19690429_Memorial_March_Discussion_SS181-SS182</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Members Memphis Search for Meaning Committee and their younger children discuss their observations about the events surrounding various marches in Memphis.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281546363</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights demonstrations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memorial March Discussion, 1969</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS181_transcript.pdf</field>
+<field name="originalName">SS181_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">106548</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/1/SS181_transcript.pdf</field>
+<field name="checksum">d3775d6b12f3be2886224c195ac834db</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS182_transcript.pdf</field>
+<field name="originalName">SS182_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">107240</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/2/SS182_transcript.pdf</field>
+<field name="checksum">aa9943104d52faffe0845db03d7743d6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">Memorial March Discussion April 29, 1969.JPG</field>
+<field name="originalName">Memorial March Discussion April 29, 1969.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27728</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/7/Memorial%20March%20Discussion%20April%2029%2c%201969.JPG</field>
+<field name="checksum">4020c2622baab605eac9cc57eb97e4af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS181_transcript.pdf.txt</field>
+<field name="originalName">SS181_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">47278</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/3/SS181_transcript.pdf.txt</field>
+<field name="checksum">539bfdf2014b44d8b29e4c7e43892e87</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS182_transcript.pdf.txt</field>
+<field name="originalName">SS182_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">53815</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/5/SS182_transcript.pdf.txt</field>
+<field name="checksum">11c65c9b1bacdd12ae8597eb52b9ce82</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS181_transcript.pdf.jpg</field>
+<field name="originalName">SS181_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11800</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/4/SS181_transcript.pdf.jpg</field>
+<field name="checksum">4c454d194e5aa563d085811b7dd54fd4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS182_transcript.pdf.jpg</field>
+<field name="originalName">SS182_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12346</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/6/SS182_transcript.pdf.jpg</field>
+<field name="checksum">e36e2f287b0c7b84f5294dd6c97535e3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">Memorial March Discussion April 29, 1969.JPG.jpg</field>
+<field name="originalName">Memorial March Discussion April 29, 1969.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3715</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/8/Memorial%20March%20Discussion%20April%2029%2c%201969.JPG.jpg</field>
+<field name="checksum">4bd365fa763c26e0f289f7cec9b2912d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memorial March Discussion April 29, 1969.JPG.preview.jpg</field>
+<field name="originalName">Memorial March Discussion April 29, 1969.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12494</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33811/9/Memorial%20March%20Discussion%20April%2029%2c%201969.JPG.preview.jpg</field>
+<field name="checksum">8081b4125b88c6af581a80f15d88f72f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33811</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33811</field>
+<field name="lastModifyDate">2018-10-17 11:37:43.816</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

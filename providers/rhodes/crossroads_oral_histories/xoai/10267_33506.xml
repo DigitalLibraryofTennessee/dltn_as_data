@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Taylor, Earlice</field>
+<field name="value">Young, Denzel</field>
+<field name="value">Jeffries, Joshua</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:24:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:24:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-08-10</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33506</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070810_Earlice_Taylor</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Earlice Taylor, who is currently director of the Tennessee Cultural Heritage Preservation Society. Ms. Taylor describes her experiences as a fair-skinned African American woman during racial segregation. As an accomplished vocalist, she also provides unique insight into the lives of African-American musicians during the Civil Rights era.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278561507</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Music</field>
+<field name="value">Chicago (Ill.)</field>
+<field name="value">Manassas High School (Memphis, Tenn.)</field>
+<field name="value">Klondike (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Earlice Taylor, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.pdf</field>
+<field name="originalName">20070810_Earlice_Taylor.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">163069</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/1/20070810_Earlice_Taylor.pdf</field>
+<field name="checksum">e9cfb4cfbac43454e071b892cf8ed988</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.JPG</field>
+<field name="originalName">20070810_Earlice_Taylor.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">49086</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/2/20070810_Earlice_Taylor.JPG</field>
+<field name="checksum">430fdd7e2a2f13737df90fd7bc6a3833</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.pdf.txt</field>
+<field name="originalName">20070810_Earlice_Taylor.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26746</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/3/20070810_Earlice_Taylor.pdf.txt</field>
+<field name="checksum">fe15ea48294926b1755a16ace2c8194f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.pdf.jpg</field>
+<field name="originalName">20070810_Earlice_Taylor.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13445</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/4/20070810_Earlice_Taylor.pdf.jpg</field>
+<field name="checksum">f0bdae2560eac48e956e8490fc1ea088</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.JPG.jpg</field>
+<field name="originalName">20070810_Earlice_Taylor.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11271</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/5/20070810_Earlice_Taylor.JPG.jpg</field>
+<field name="checksum">9a3b3bff9e19f93c34440d31816b70b8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070810_Earlice_Taylor.JPG.preview.jpg</field>
+<field name="originalName">20070810_Earlice_Taylor.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32875</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33506/6/20070810_Earlice_Taylor.JPG.preview.jpg</field>
+<field name="checksum">4b2aee9b2178a577364fc1a4b315fc80</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33506</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33506</field>
+<field name="lastModifyDate">2018-08-09 11:06:39.994</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

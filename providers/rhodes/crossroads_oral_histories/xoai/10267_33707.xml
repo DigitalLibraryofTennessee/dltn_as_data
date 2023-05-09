@@ -1,0 +1,178 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Bailey, Adrienne</field>
+<field name="value">Jones, Zaria D.</field>
+<field name="value">Ahmed, Ozakh</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:01Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-07-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33707</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170728_Adrienne_Bailey</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview Adrienne Bailey talks about civil rights, her past experiences, and the Civil Rights Museum. Interviewed by Ozakh Ahmed ('17) and Zaria Jones ('19).</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278586165</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Education</field>
+<field name="value">Civil rights</field>
+<field name="value">Civil Rights Museum</field>
+<field name="value">Women</field>
+<field name="value">African Americans</field>
+<field name="value">2017 Summer</field>
+<field name="value">Class of 2017</field>
+<field name="value">Class of 2019</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Adrienne Bailey, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.JPG.jpg</field>
+<field name="originalName">20170728_Adrienne_Bailey.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8590</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/2/20170728_Adrienne_Bailey.JPG.jpg</field>
+<field name="checksum">0492b7bfc270f59b9555bd97649457b6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.pdf.jpg</field>
+<field name="originalName">20170728_Adrienne_Bailey.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13537</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/6/20170728_Adrienne_Bailey.pdf.jpg</field>
+<field name="checksum">e2d1acafd6d5e08c322b51905d13785b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.JPG.preview.jpg</field>
+<field name="originalName">20170728_Adrienne_Bailey.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32168</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/3/20170728_Adrienne_Bailey.JPG.preview.jpg</field>
+<field name="checksum">461d6459984ba3ad723345cb1756718a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.pdf.txt</field>
+<field name="originalName">20170728_Adrienne_Bailey.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">68926</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/5/20170728_Adrienne_Bailey.pdf.txt</field>
+<field name="checksum">176ce98da3159c8008d5e37a24dfb973</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.JPG</field>
+<field name="originalName">20170728_Adrienne_Bailey.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">68396</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/1/20170728_Adrienne_Bailey.JPG</field>
+<field name="checksum">3bd681d747d98f4ed07eaef47bebac47</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170728_Adrienne_Bailey.pdf</field>
+<field name="originalName">20170728_Adrienne_Bailey.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">307871</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33707/4/20170728_Adrienne_Bailey.pdf</field>
+<field name="checksum">09f636add32d1fabd2e461407634af39</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33707</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33707</field>
+<field name="lastModifyDate">2018-07-17 12:44:20.365</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

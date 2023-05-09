@@ -1,0 +1,120 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Speight, W.O., Sr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:26Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:26Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34303</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Strozier_and_Kay_prescription_receipts_117677</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Two prescription receipts from Dr. Speight, Sr. for Strozier's Drug Store after a presumed doctor's visit.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Strozier's Drug Store (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Medicine</field>
+<field name="value">Drugstores</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Strozier's Drug Store and Kay Surgical, Prescription Receipts</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Strozier_and_Kay_prescription_receipts_117677.jpg.jpg</field>
+<field name="originalName">Strozier_and_Kay_prescription_receipts_117677.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10356</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34303/2/Strozier_and_Kay_prescription_receipts_117677.jpg.jpg</field>
+<field name="checksum">e4f93ef3394106e21cf0b47b204d26c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Strozier_and_Kay_prescription_receipts_117677.jpg.preview.jpg</field>
+<field name="originalName">Strozier_and_Kay_prescription_receipts_117677.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">57610</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34303/3/Strozier_and_Kay_prescription_receipts_117677.jpg.preview.jpg</field>
+<field name="checksum">f30ba49a4d80cb6a8105389bb26a1feb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Strozier_and_Kay_prescription_receipts_117677.jpg</field>
+<field name="originalName">Strozier_and_Kay_prescription_receipts_117677.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2384006</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34303/1/Strozier_and_Kay_prescription_receipts_117677.jpg</field>
+<field name="checksum">3d47382bb60c7facdb42eb05ad8924cb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34303</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34303</field>
+<field name="lastModifyDate">2018-10-18 16:01:17.186</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

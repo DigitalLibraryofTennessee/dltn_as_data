@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ramsey, Brooks</field>
+<field name="value">Schultz, Judy</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T19:12:42Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T19:12:42Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33796</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680708_Brooks_Ramsey-SS150</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. Brooks Ramsey. Brooks was the pastor of Second Baptist Church, the breakaway church from Bellevue Baptist Church. He was one of the few members of the Memphis Ministers' Association</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">\</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Religion</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Brooks Ramsey, Memphis Ministers' Association, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">brooks-ramsey.jpg</field>
+<field name="originalName">brooks-ramsey.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">115725</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/1/brooks-ramsey.jpg</field>
+<field name="checksum">23037ed79c44570ab79989f28075cea6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS150_transcript.pdf</field>
+<field name="originalName">SS150_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">112864</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/4/SS150_transcript.pdf</field>
+<field name="checksum">b2940288046e7808f04da4800b7999be</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS150_transcript.pdf.txt</field>
+<field name="originalName">SS150_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">57339</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/5/SS150_transcript.pdf.txt</field>
+<field name="checksum">308285059a319b16e72c073eee819623</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">brooks-ramsey.jpg.jpg</field>
+<field name="originalName">brooks-ramsey.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15604</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/2/brooks-ramsey.jpg.jpg</field>
+<field name="checksum">475897532ece92c6006205f91a41e51d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS150_transcript.pdf.jpg</field>
+<field name="originalName">SS150_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11572</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/6/SS150_transcript.pdf.jpg</field>
+<field name="checksum">7f695227afdfe413551af9566cb6a71b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">brooks-ramsey.jpg.preview.jpg</field>
+<field name="originalName">brooks-ramsey.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55025</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33796/3/brooks-ramsey.jpg.preview.jpg</field>
+<field name="checksum">192ad0941519fff4bc68aff1f713d255</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33796</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33796</field>
+<field name="lastModifyDate">2018-07-25 14:52:12.889</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

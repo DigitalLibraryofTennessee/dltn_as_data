@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Evelyn Strong, 2009</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">All rights reserved. The accompanying
+                        digital object and its associated documentation are provided for online research and
+                        access purposes. Permission to use, copy, modify, distribute and present this
+                        digital object and the accompanying documentation, without fee, and without written
+                        agreement, is hereby granted for educational, non-commercial purposes only. The
+                        Rhodes College Archives reserves the right to decide what constitutes educational
+                        and commercial use; commercial users may be charged a nominal fee to be determined
+                        by current, commercial rates for use of special materials. In all instances of use,
+                        acknowledgement must begiven to Rhodes College Archives and Special Collection,
+                        Memphis, TN. For information regarding permission to use this image, please email
+                        the Archives at archives@rhodes.edu or call 901-843-3334.</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/33522</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33522/3/20090708_Evelyn_Strong.PNG.jpg</url>
+  </location>
+  <name>
+    <namePart>Strong, Evelyn</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Scales, Marrissa</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2009-07-08</dateCreated>
+    <dateOther>2018-05-18T16:29:19Z</dateOther>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <identifier type="local">20090708_Evelyn_Strong</identifier>
+  <subject>
+    <topic>Oral history</topic>
+  </subject>
+  <subject>
+    <topic>Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Neighborhood Histories</topic>
+  </subject>
+  <subject>
+    <topic>Hyde Park (Memphis, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Crossroads to Freedom</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights</topic>
+  </subject>
+  <subject>
+    <topic>Education</topic>
+  </subject>
+  <subject>
+    <topic>Race relations</topic>
+  </subject>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Crossroads to Freedom</title>
+    </titleInfo>
+  </relatedItem>
+  <abstract>This is an interview with Evelyn Strong, part of the Hyde Park Neighborhood collection.</abstract>
+  <relatedItem displayLabel="streaming resource">
+    <location>
+      <url>https://vimeo.com/278576742</url>
+    </location>
+  </relatedItem>
+</mods>

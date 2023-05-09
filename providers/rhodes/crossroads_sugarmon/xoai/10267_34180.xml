@@ -1,0 +1,156 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shelby County Democratic Club</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1960-04-21</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34180</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19600421_Agenda_for_Shelby_County_Democratic_Club_802</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A short memo detailing the agenda of a meeting of the Shelby County Democratic Club.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Memo</field>
+<field name="value">Agendas</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Agenda for Shelby County Democratic Club</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">97029</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/1/19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg</field>
+<field name="checksum">e0f29327c86cee2af6ce841bc2e2a23d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">29733</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/2/19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf</field>
+<field name="checksum">e6f3fbcc68a0a4ed064b868bbacc6ae4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.jpg</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6879</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/3/19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.jpg</field>
+<field name="checksum">cb18b0cad130180ad95d5c34df3f928b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.jpg</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4633</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/6/19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.jpg</field>
+<field name="checksum">7de629331ffb7ee279c0fdaaa2e62198</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.preview.jpg</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">30753</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/4/19600421_Agenda_for_Shelby_County_Democratic_Club_802.jpg.preview.jpg</field>
+<field name="checksum">0dcdd55200cbaed0b789c22f2f769b0a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.txt</field>
+<field name="originalName">19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">222</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34180/5/19600421_Agenda_for_Shelby_County_Democratic_Club_802.pdf.txt</field>
+<field name="checksum">8dffc84b4e9b181a8194ecd5d1ce78f7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34180</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34180</field>
+<field name="lastModifyDate">2018-09-19 19:00:00.035</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

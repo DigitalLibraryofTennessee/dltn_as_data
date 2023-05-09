@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hughes, Charles L.</field>
+<field name="value">Motley, Jesse</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-01-17T22:05:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-01-17T22:05:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2005-02-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31279</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20050225_Jesse_Motley</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Stax Museum Oral Histories Interviewee: Jesse Motley Date: 2005-05-25</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279894219</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stax Records</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jesse Motley, 2005</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.png</field>
+<field name="originalName">20050225_Jesse_Motley.png</field>
+<field name="format">image/png</field>
+<field name="size">1489407</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/2/20050225_Jesse_Motley.png</field>
+<field name="checksum">07ac42125d712ad799b7be018a190122</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.pdf</field>
+<field name="originalName">20050225_Jesse_Motley.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">100487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/7/20050225_Jesse_Motley.pdf</field>
+<field name="checksum">c96781b74ba6025777577eb71d93b544</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.pdf.txt</field>
+<field name="originalName">20050225_Jesse_Motley.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">15309</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/3/20050225_Jesse_Motley.pdf.txt</field>
+<field name="checksum">270bceb6325f2f4c72920deeff1f9e15</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.pdf.jpg</field>
+<field name="originalName">20050225_Jesse_Motley.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5477</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/4/20050225_Jesse_Motley.pdf.jpg</field>
+<field name="checksum">7a5a52b55bcbfe7efdda6894542f7bfd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.png.jpg</field>
+<field name="originalName">20050225_Jesse_Motley.png.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7012</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/5/20050225_Jesse_Motley.png.jpg</field>
+<field name="checksum">4c9a9845e79b5548eb019fe3e6a29846</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20050225_Jesse_Motley.png.preview.jpg</field>
+<field name="originalName">20050225_Jesse_Motley.png.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">26868</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31279/6/20050225_Jesse_Motley.png.preview.jpg</field>
+<field name="checksum">383071ef3a3ad9f4c8bdf24998bb059a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31279</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31279</field>
+<field name="lastModifyDate">2018-11-11 12:06:33.055</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

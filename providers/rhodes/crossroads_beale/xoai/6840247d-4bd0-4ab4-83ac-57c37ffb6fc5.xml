@@ -1,0 +1,124 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Beale Street Development Corporation (BSDC)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1958</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34289</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A poster advertising a dance at Club Handy to celebrate Labor Day, featuring music by Harold Conner.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Jazz</field>
+<field name="value">Posters</field>
+<field name="value">Harold, Conner</field>
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">1958 Club Handy Poster - Labor Day Breakfast Dance</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.jpg</field>
+<field name="originalName">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16285</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34289/2/19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.jpg</field>
+<field name="checksum">051c2ccf8ac91b1839a772e1d85bec09</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.preview.jpg</field>
+<field name="originalName">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">74307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34289/3/19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg.preview.jpg</field>
+<field name="checksum">b9495f787c6c05d36ea425fc641cf9e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg</field>
+<field name="originalName">19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">289136</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34289/1/19580901_Club_Handy_Poster_Labor_Day_Breakfast_Dance_117506.jpg</field>
+<field name="checksum">b2f6292d97ded975a1fbfd0e11be77aa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34289</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34289</field>
+<field name="lastModifyDate">2018-10-18 15:50:56.005</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

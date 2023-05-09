@@ -1,0 +1,112 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-18T21:38:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-18T21:38:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31263</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Marvin White - 1950</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Maps</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Marvin White Memphis Map, 1950</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Marvin White Memphis Map, 1950</field>
+<field name="originalName">Marvin White Memphis Map, 1950</field>
+<field name="format">image/jpeg</field>
+<field name="size">24256686</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31263/1/Marvin%20White%20Memphis%20Map%2c%201950</field>
+<field name="checksum">ea4e18eb025c35258602af35c6ec709c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Marvin White Memphis Map, 1950.jpg</field>
+<field name="originalName">Marvin White Memphis Map, 1950.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">26935</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31263/2/Marvin%20White%20Memphis%20Map%2c%201950.jpg</field>
+<field name="checksum">4762eb6a16a26c7b0f4a0346d8e047a7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Marvin White Memphis Map, 1950.preview.jpg</field>
+<field name="originalName">Marvin White Memphis Map, 1950.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">158348</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31263/3/Marvin%20White%20Memphis%20Map%2c%201950.preview.jpg</field>
+<field name="checksum">9fb0518536ffcd37729b9caabb12de86</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31263</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31263</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.92</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

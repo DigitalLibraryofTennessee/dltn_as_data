@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Jemison, Peggy</field>
+<field name="value">McMillan, Brad</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-05-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33954</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790522_Brad_McMillan</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Brad McMillan, an artist involved in the Evergreen News publication. McMillan a Rhodes College, formerly Southwestern, alumni created the layout and illustrations for the newsletter. McMillan talks about the culture of media and the importance of providing information. He mentions how crucial the newsletter was for the neighborhood, especially during a time of integration. This interview was conducted in 1979.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289600462</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Artists</field>
+<field name="value">Newspapers</field>
+<field name="value">Rhodes College</field>
+<field name="value">Southwestern at Memphis</field>
+<field name="value">Integration</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Brad McMillan, Evergreen News artist, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790522_Brad_McMillan.doc.txt</field>
+<field name="originalName">19790522_Brad_McMillan.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35526</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33954/2/19790522_Brad_McMillan.doc.txt</field>
+<field name="checksum">33e9eeab6b5d8aacfbbf7be7176483c8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Brad McMillan.PNG.jpg</field>
+<field name="originalName">Brad McMillan.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6267</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33954/4/Brad%20McMillan.PNG.jpg</field>
+<field name="checksum">ecda9d89286f34cb724b73705a4c8fce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Brad McMillan.PNG.preview.jpg</field>
+<field name="originalName">Brad McMillan.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33954/5/Brad%20McMillan.PNG.preview.jpg</field>
+<field name="checksum">97455f18b12cda25070b6bcd7f92a62f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790522_Brad_McMillan.doc</field>
+<field name="originalName">19790522_Brad_McMillan.doc</field>
+<field name="format">application/msword</field>
+<field name="size">82432</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33954/1/19790522_Brad_McMillan.doc</field>
+<field name="checksum">82ffae19cdaffc1247c35c7dd87ea8c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Brad McMillan.PNG</field>
+<field name="originalName">Brad McMillan.PNG</field>
+<field name="format">image/png</field>
+<field name="size">48354</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33954/3/Brad%20McMillan.PNG</field>
+<field name="checksum">e7d8681131526c7748985fbbe81e8ca7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33954</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33954</field>
+<field name="lastModifyDate">2018-09-12 20:28:49.656</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

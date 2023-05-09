@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jesse Turner, President of Memphis Chapter NAACP, 1968</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/33786</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33786/4/Jesse%20Turner.JPG.jpg</url>
+  </location>
+  <name>
+    <namePart>Turner, Jesse (Civil rights worker)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Yellin, David G.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1968-05-29</dateCreated>
+    <dateOther>2018-07-12T20:59:24Z</dateOther>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <typeOfResource>sound recording</typeOfResource>
+  <identifier type="local">19680529_Jesse_Turner_SS099-SS100</identifier>
+  <subject>
+    <topic>History</topic>
+  </subject>
+  <subject>
+    <topic>Oral history</topic>
+  </subject>
+  <subject>
+    <topic>Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Race relations</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sanitation Workers Strike, Memphis, Tenn., 1968</topic>
+  </subject>
+  <subject>
+    <topic>Witnesses</topic>
+  </subject>
+  <subject>
+    <topic>Witness Testimony</topic>
+  </subject>
+  <subject>
+    <topic>National Association for the Advancement of Colored People</topic>
+  </subject>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Crossroads to Freedom</title>
+    </titleInfo>
+  </relatedItem>
+  <abstract>This is an interview with Jesse H. Turner. Turner was the President of the Memphis chapter of the National Association for the Advancement of Colored People.</abstract>
+  <relatedItem displayLabel="streaming resource">
+    <location>
+      <url>https://vimeo.com/281531218</url>
+    </location>
+  </relatedItem>
+</mods>

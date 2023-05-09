@@ -1,0 +1,119 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Martin, Louie</field>
+<field name="value">Williams, Avon N. Jr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:59Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:59Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1964-07-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34188</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a letter to Louie Martin of the Demoncratic National Committee from Avon Williams Jr., President of the Davidson County Independent Political Council and Co-Chair of the Tennessee Voter's Council. Louie discusses his intention to distribute copies of a letter he wrote on September 29, 1964 to notable people, including Russell B. Sugarmon and A.W. Willis.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Democratic National Committee (U.S.)</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Willis, A. W., 1925-1988</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Avon Williams to Louie Martin</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg</field>
+<field name="originalName">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">367796</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34188/1/19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg</field>
+<field name="checksum">d5cc2d876c450ebbaf213fa251b02f56</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.jpg</field>
+<field name="originalName">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12608</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34188/2/19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.jpg</field>
+<field name="checksum">1dee077bad583d16e9198d75ad522742</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.preview.jpg</field>
+<field name="originalName">19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">61372</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34188/3/19640702_Letter_from_Avon_Williams_to_Louie_Martin_779.jpg.preview.jpg</field>
+<field name="checksum">ef2fa226667f8be535627daef4c0006a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34188</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34188</field>
+<field name="lastModifyDate">2018-09-19 15:29:40.426</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

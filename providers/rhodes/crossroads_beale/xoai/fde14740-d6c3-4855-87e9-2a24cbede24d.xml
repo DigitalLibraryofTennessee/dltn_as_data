@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dickson, Talmadge F.</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1959-03-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34940</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19590309_Mitchell_Order_for_Contract_Blanks_117799</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to Andrew Mitchell, owner of Club Handy, from Talmadge F. Dickson of Dickson's Inc. in regards to Mitchell's order for blank contracts.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Dickson's Inc.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter to Andrew Mitchell from Talmadge Dickson, 1959</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg</field>
+<field name="originalName">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">3368496</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34940/1/19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg</field>
+<field name="checksum">d170af6cbfe8ee483b4715c60d36597f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.jpg</field>
+<field name="originalName">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19788</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34940/2/19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.jpg</field>
+<field name="checksum">2bcbd6834c3784eb4a00f2f2b0853cb6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.preview.jpg</field>
+<field name="originalName">19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">99708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34940/3/19590309_Mitchell_Order_for_Contract_Blanks_117799.jpg.preview.jpg</field>
+<field name="checksum">c71b9ab0fd919ac640dffa9993692594</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34940</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34940</field>
+<field name="lastModifyDate">2018-11-16 16:04:28.638</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

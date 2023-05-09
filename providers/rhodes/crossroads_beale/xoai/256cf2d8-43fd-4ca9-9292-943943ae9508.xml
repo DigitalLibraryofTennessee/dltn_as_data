@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Plough, Sam</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:24Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:24Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950-09-15</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34292</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from one Sam Plough of the Georgia Home Insurance Company addressed to Andrew Mitchell of the Mitchell Hotel about a coverage policy.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">The Georgia Home Insurance Company</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mitchell Hotel (Memphis, Tenn.)</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Sam Plough to Andrew Mitchell About Household Insurance, 1950</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg</field>
+<field name="originalName">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">6297008</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34292/1/19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg</field>
+<field name="checksum">fd58219022befba4720ea572b2dc3a9a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.jpg</field>
+<field name="originalName">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15900</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34292/2/19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.jpg</field>
+<field name="checksum">952d5a3baca2647973a569a4e9f362d7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.preview.jpg</field>
+<field name="originalName">19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">92059</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34292/3/19500915_Letter_from_Sam_Plough_to_Andrew_Mitchell_117509.jpg.preview.jpg</field>
+<field name="checksum">1599920887f92cbb94bac91e3528b0aa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34292</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34292</field>
+<field name="lastModifyDate">2018-10-17 16:26:29.475</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

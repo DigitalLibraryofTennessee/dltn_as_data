@@ -1,0 +1,167 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Watkins, Loretta</field>
+<field name="value">Burks, Linda B.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34003</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Linda_Burks_Loretta_Watkins</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An interview with Rhodes Housekeeping staff members Loretta Watkins and Linda Burks, two women from Tennessee who both grew up on farms and during the Civil Rights Movement in Memphis.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116374</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Segregation</field>
+<field name="value">African Americans</field>
+<field name="value">Housekeeping</field>
+<field name="value">StoryCorps</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Loretta Watkins and Linda Burks, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LW_tn.JPG</field>
+<field name="originalName">LW_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">2859847</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/1/LW_tn.JPG</field>
+<field name="checksum">8c0e33bc89a4bc6286c5e1585fd4b5d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">2007116_Linda_Burks_Loretta_Watkins.pdf</field>
+<field name="originalName">2007116_Linda_Burks_Loretta_Watkins.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">85311</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/4/2007116_Linda_Burks_Loretta_Watkins.pdf</field>
+<field name="checksum">fe4d1585291e78da7e6c68d61e18a7bd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LW_tn.JPG.jpg</field>
+<field name="originalName">LW_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10123</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/2/LW_tn.JPG.jpg</field>
+<field name="checksum">df606d389892574d22f8a0e2869a4d23</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">2007116_Linda_Burks_Loretta_Watkins.pdf.jpg</field>
+<field name="originalName">2007116_Linda_Burks_Loretta_Watkins.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13145</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/6/2007116_Linda_Burks_Loretta_Watkins.pdf.jpg</field>
+<field name="checksum">d7c07d8f4e2d8191a9966363f0dac9d6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LW_tn.JPG.preview.jpg</field>
+<field name="originalName">LW_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45546</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/3/LW_tn.JPG.preview.jpg</field>
+<field name="checksum">a7eb4af70f4728a166f168856247d2d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2007116_Linda_Burks_Loretta_Watkins.pdf.txt</field>
+<field name="originalName">2007116_Linda_Burks_Loretta_Watkins.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">32287</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34003/5/2007116_Linda_Burks_Loretta_Watkins.pdf.txt</field>
+<field name="checksum">f9ae3cbeb1e511435fd0c3c3a15f6199</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34003</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34003</field>
+<field name="lastModifyDate">2018-09-10 12:01:30.208</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,106 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-18T21:38:15Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31268</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Planning Comission Roads</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memphis Planning Commission Roads, 1968</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Planning Commission Roads, 1968</field>
+<field name="originalName">Memphis Planning Commission Roads, 1968</field>
+<field name="format">image/jpeg</field>
+<field name="size">67425828</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31268/1/Memphis%20Planning%20Commission%20Roads%2c%201968</field>
+<field name="checksum">08aed8ddab968c4b92a112ea8c36bfcb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Planning Commission Roads, 1968.jpg</field>
+<field name="originalName">Memphis Planning Commission Roads, 1968.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">22422</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31268/2/Memphis%20Planning%20Commission%20Roads%2c%201968.jpg</field>
+<field name="checksum">f5e1084058d42e09978a5d4f3d0a83c3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Planning Commission Roads, 1968.preview.jpg</field>
+<field name="originalName">Memphis Planning Commission Roads, 1968.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">160596</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31268/3/Memphis%20Planning%20Commission%20Roads%2c%201968.preview.jpg</field>
+<field name="checksum">cbb45cfae84ae5b5e828a77d279dee6e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31268</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31268</field>
+<field name="lastModifyDate">2018-05-14 16:02:05.677</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,219 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ross, Bill</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Thomas, Bill</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-06-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33790</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680604_Bill_Ross_SS109-SS110</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Bill Ross. Bill was the Executive Secretary of the Memphis AFL-CIO Labor Council and secretary of Southeastern Printing Trades Conference.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281532078</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+</element>
+<element name="none">
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bill Ross, Memphis AFL-CIO Labor Council, June 4th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill Ross.JPG</field>
+<field name="originalName">Bill Ross.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">21253</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/1/Bill%20Ross.JPG</field>
+<field name="checksum">827f1b580f43c7709ef5c1ce7263e38b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS109_transcript.pdf</field>
+<field name="originalName">SS109_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">91185</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/2/SS109_transcript.pdf</field>
+<field name="checksum">e3a6cdf11a77c957b97fbe9dcd90feed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS110_transcript.pdf</field>
+<field name="originalName">SS110_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">87656</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/3/SS110_transcript.pdf</field>
+<field name="checksum">abef56bbaea0153e5f00bb2b4ebfcd59</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill Ross.JPG.jpg</field>
+<field name="originalName">Bill Ross.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3843</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/4/Bill%20Ross.JPG.jpg</field>
+<field name="checksum">ebad1b44b12ed1fc67656f791486c754</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS109_transcript.pdf.jpg</field>
+<field name="originalName">SS109_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11961</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/7/SS109_transcript.pdf.jpg</field>
+<field name="checksum">e5a61e32408b6a090b32fd8b3c76cb2c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS110_transcript.pdf.jpg</field>
+<field name="originalName">SS110_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13435</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/9/SS110_transcript.pdf.jpg</field>
+<field name="checksum">a3e7f2401712acf71da788dc0b7bb14f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill Ross.JPG.preview.jpg</field>
+<field name="originalName">Bill Ross.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12901</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/5/Bill%20Ross.JPG.preview.jpg</field>
+<field name="checksum">b1ad77270c9e7df46ddb94fb7da3eb55</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS109_transcript.pdf.txt</field>
+<field name="originalName">SS109_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">38569</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/6/SS109_transcript.pdf.txt</field>
+<field name="checksum">4fc47fc158df8da512c2bea855b3e736</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS110_transcript.pdf.txt</field>
+<field name="originalName">SS110_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35267</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33790/8/SS110_transcript.pdf.txt</field>
+<field name="checksum">a60021a261948437bae7ce21c76d8682</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33790</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33790</field>
+<field name="lastModifyDate">2018-07-30 11:37:08.035</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

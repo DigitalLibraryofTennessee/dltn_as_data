@@ -1,0 +1,127 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Beale Street Development Corporation (BSDC)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34287</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1950_Club_Handy_Poster_Evelyn_Hunter_117504</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A poster advertising a recurring show at Club Handy featuring Evelyn Hunter, "the girl with the golden voice," and other well-known musicians from the 1950s-60s.&#65533;</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Blues (Music)</field>
+<field name="value">Young, Evelyn "The Whip"</field>
+<field name="value">Harvey, Bill (Saxophonist)</field>
+<field name="value">Conley, Prince</field>
+<field name="value">Posters</field>
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Soul music</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">1950 Club Handy Poster - Evelyn Hunter</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">6589053</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34287/1/1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg</field>
+<field name="checksum">776189b9cc8dfb26a2613ca42386e252</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16974</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34287/2/1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.jpg</field>
+<field name="checksum">10106604f7e364d11fd5c051074cf0d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.preview.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">87608</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34287/3/1950_Club_Handy_Poster_Evelyn_Hunter_117504.jpg.preview.jpg</field>
+<field name="checksum">02d520591e0ae67ba3ea45120e0857e8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34287</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34287</field>
+<field name="lastModifyDate">2018-10-11 21:31:19.913</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

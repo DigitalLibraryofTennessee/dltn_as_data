@@ -1,0 +1,167 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Wadlington, Charles T. (Emmie Lee)</field>
+<field name="value">Tilly, Bette</field>
+<field name="value">Williams, Barbara</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-05-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33987</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790501_Charles_Emmielee_Wadlington</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Charles "Emmie Lee" Wadlington, whose husband's family developed the Evergreen Subdivision. She talks about who local streets are named after, how Natch the bear started the Memphis Zoo, and who owned businesses. Futhermore, she discusses how the neighborhood changed as she grew up.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289553943</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Community development</field>
+<field name="value">Memphis Zoo</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Charles "Emmie Lee" Wadlington, wife of Evergreen developer, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790501_Charles_Emmielee_Wadlington.doc</field>
+<field name="originalName">19790501_Charles_Emmielee_Wadlington.doc</field>
+<field name="format">application/msword</field>
+<field name="size">120832</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33987/1/19790501_Charles_Emmielee_Wadlington.doc</field>
+<field name="checksum">92379c758e5b6959c38eb223d59dc22d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Charles Emmielee  Wadlington.PNG</field>
+<field name="originalName">Charles Emmielee  Wadlington.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42308</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33987/3/Charles%20Emmielee%20%20Wadlington.PNG</field>
+<field name="checksum">d07317fcbb500027276e2985fdfe9ea1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790501_Charles_Emmielee_Wadlington.doc.txt</field>
+<field name="originalName">19790501_Charles_Emmielee_Wadlington.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">67323</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33987/2/19790501_Charles_Emmielee_Wadlington.doc.txt</field>
+<field name="checksum">be5746ec56254c25a578fc6d26094ee6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Charles Emmielee  Wadlington.PNG.jpg</field>
+<field name="originalName">Charles Emmielee  Wadlington.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5930</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33987/4/Charles%20Emmielee%20%20Wadlington.PNG.jpg</field>
+<field name="checksum">ebe2c45d8acaf23eb9ab17cbf349e9d5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Charles Emmielee  Wadlington.PNG.preview.jpg</field>
+<field name="originalName">Charles Emmielee  Wadlington.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21272</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33987/5/Charles%20Emmielee%20%20Wadlington.PNG.preview.jpg</field>
+<field name="checksum">fb69f7ae57466e0d88c01eec2889ddcf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33987</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33987</field>
+<field name="lastModifyDate">2018-09-12 14:41:59.425</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

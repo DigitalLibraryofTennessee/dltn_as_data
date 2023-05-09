@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Bell, Al, 1940-</field>
+<field name="value">Jacobs, Daniel</field>
+<field name="value">Bledsoe, Bradley</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-20T21:27:10Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-20T21:27:10Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-04-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33724</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100401_Al_Bell</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview Al Bell describes his life growing up, working with Stax, and his experience with Martin Luther King, Jr. and passive resistance.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278580978</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Stax Records</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Al Bell, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100401_Al_Bel.JPG</field>
+<field name="originalName">20100401_Al_Bel.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">96199</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/1/20100401_Al_Bel.JPG</field>
+<field name="checksum">0e537fc6f0b9035b33a86a370867954f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100401_Al_Bell.pdf</field>
+<field name="originalName">20100401_Al_Bell.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">248992</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/2/20100401_Al_Bell.pdf</field>
+<field name="checksum">197fa1500b6332aba00144c557223333</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100401_Al_Bel.JPG.jpg</field>
+<field name="originalName">20100401_Al_Bel.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11510</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/3/20100401_Al_Bel.JPG.jpg</field>
+<field name="checksum">5172764ac037b8697a1b2b5f4a9f3c76</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100401_Al_Bell.pdf.jpg</field>
+<field name="originalName">20100401_Al_Bell.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9821</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/6/20100401_Al_Bell.pdf.jpg</field>
+<field name="checksum">475ae8264a775981170363127d2f444a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100401_Al_Bel.JPG.preview.jpg</field>
+<field name="originalName">20100401_Al_Bel.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43202</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/4/20100401_Al_Bel.JPG.preview.jpg</field>
+<field name="checksum">d4acc4df56928c7f34dafe07d3608e12</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100401_Al_Bell.pdf.txt</field>
+<field name="originalName">20100401_Al_Bell.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">89189</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33724/5/20100401_Al_Bell.pdf.txt</field>
+<field name="checksum">8c55a3ae906d973479ed23b1b4312d68</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33724</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33724</field>
+<field name="lastModifyDate">2018-07-17 12:03:08.067</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

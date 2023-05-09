@@ -1,0 +1,180 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Pruitt, Stephen</field>
+<field name="value">Rutherford, George</field>
+<field name="value">Wainwright, John</field>
+<field name="value">Bland, Jacqueline</field>
+<field name="value">Coleman, Gary</field>
+<field name="value">Norfleet, Treshain</field>
+<field name="value">Murray, Missy</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33530</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100716_Northside.Alumni.Association</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with five alums of Northside High School, a high school that draws from the Hyde Park area. All of them graduated in 1968 and 1969 and they talk about their experiences with the civil rights movement and especially the effects of integration on them personally. Video in the Crossroads to Freedom repository.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280268258</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Civil rights</field>
+<field name="value">Education</field>
+<field name="value">Northside High School (Memphis, Tenn.)</field>
+<field name="value">Integration</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Interview with Northside High School Alums, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.PNG</field>
+<field name="originalName">20100716_Northside.Alumni.Association.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1518278</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/1/20100716_Northside.Alumni.Association.PNG</field>
+<field name="checksum">57b61ded8d0ea7003cadd7af3148214f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.pdf</field>
+<field name="originalName">20100716_Northside.Alumni.Association.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">220869</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/2/20100716_Northside.Alumni.Association.pdf</field>
+<field name="checksum">487a435e1f088d855093ab8437f78a8f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.PNG.jpg</field>
+<field name="originalName">20100716_Northside.Alumni.Association.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13162</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/3/20100716_Northside.Alumni.Association.PNG.jpg</field>
+<field name="checksum">22686f6d0f8ffff137f62eebb2eda81c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.pdf.jpg</field>
+<field name="originalName">20100716_Northside.Alumni.Association.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12920</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/6/20100716_Northside.Alumni.Association.pdf.jpg</field>
+<field name="checksum">edab070b2619dd59d3dfcab104a00a90</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.PNG.preview.jpg</field>
+<field name="originalName">20100716_Northside.Alumni.Association.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47658</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/4/20100716_Northside.Alumni.Association.PNG.preview.jpg</field>
+<field name="checksum">d14fb85f0deebed4aed7659a90e54f0f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100716_Northside.Alumni.Association.pdf.txt</field>
+<field name="originalName">20100716_Northside.Alumni.Association.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">50336</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33530/5/20100716_Northside.Alumni.Association.pdf.txt</field>
+<field name="checksum">41718143656f315dedbcd200ffdf517b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33530</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33530</field>
+<field name="lastModifyDate">2018-07-17 09:16:25.65</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

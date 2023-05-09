@@ -1,0 +1,162 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lockard, Hosea T. (H.T.)</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2000-10-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34128</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20001000_Hosea_Lockard</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, H.T. Lockard talks about his time as President of the Memphis chapter of the NAACP between 1953 and 1957, setting up a legal defense fund for imprisoned Civil Rights protesters, becoming the cabinet member to Governor Buford Ellington, a consultant to Lyndon B. Johnson, and- finally- Shelby Country Criminal Court Judge from 1975 to 1994.&#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289801121</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">NAACP</field>
+<field name="value">Race relations</field>
+<field name="value">Politics</field>
+<field name="value">Social justice</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">H.T. Lockard, President of the Memphis NAACP, 2000</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lockard h.t edited.doc.txt</field>
+<field name="originalName">lockard h.t edited.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">71837</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34128/5/lockard%20h.t%20edited.doc.txt</field>
+<field name="checksum">0434c159eafb3fb3e1f4f4020524d763</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard.PNG</field>
+<field name="originalName">ht lockard.PNG</field>
+<field name="format">image/png</field>
+<field name="size">26231</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34128/1/ht%20lockard.PNG</field>
+<field name="checksum">f24ebf6c3285df5afc8a47d4ffafadb0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">lockard h.t edited.doc</field>
+<field name="originalName">lockard h.t edited.doc</field>
+<field name="format">application/msword</field>
+<field name="size">133120</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34128/4/lockard%20h.t%20edited.doc</field>
+<field name="checksum">8949c6c6fa866cdb3cdcb70470956b34</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard.PNG.jpg</field>
+<field name="originalName">ht lockard.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4850</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34128/2/ht%20lockard.PNG.jpg</field>
+<field name="checksum">1a0bdb9e35c5b57f412a2291670a2178</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard.PNG.preview.jpg</field>
+<field name="originalName">ht lockard.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18838</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34128/3/ht%20lockard.PNG.preview.jpg</field>
+<field name="checksum">e96043ba8ea32145c39622f33d218b5b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34128</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34128</field>
+<field name="lastModifyDate">2018-09-27 08:34:39.432</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

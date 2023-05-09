@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Turner, Johnnie</field>
+<field name="value">Windless, Crystal</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:05Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:05Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-08-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33555</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20060829_Johnnie_Turner</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Johnnie Turner was and continues to be a strong advocate for Civil Rights and education. Presently, she serves as the Executive Director of the Memphis Branch NAACP.Mrs. Turner&#65533;s extensive activity includes her participation in the Memphis sit-ins during the Civil Rights Movement. Due to her involvement in the sit-ins,she was discriminated against by the Memphis City Schools system and told that she would never become a teacher. However, Mrs. Turner rose to become not only a dedicated teacher in Memphis, but also head of staff development for the school system.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278539407</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">NAACP</field>
+<field name="value">Education</field>
+<field name="value">Memphis City Schools</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Johnnie Turner, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.jpg.jpg</field>
+<field name="originalName">20060829_Johnnie_Turner.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13958</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/3/20060829_Johnnie_Turner.jpg.jpg</field>
+<field name="checksum">53bf5800ffcee5e83a4e8b8102fc78ee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.pdf.jpg</field>
+<field name="originalName">20060829_Johnnie_Turner.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13893</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/6/20060829_Johnnie_Turner.pdf.jpg</field>
+<field name="checksum">e3957f0ede42311a1da34f78e2db259c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.jpg.preview.jpg</field>
+<field name="originalName">20060829_Johnnie_Turner.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">56667</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/4/20060829_Johnnie_Turner.jpg.preview.jpg</field>
+<field name="checksum">86abbfeaab417fc9a81cec86bc622bbd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.pdf.txt</field>
+<field name="originalName">20060829_Johnnie_Turner.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">55491</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/5/20060829_Johnnie_Turner.pdf.txt</field>
+<field name="checksum">081fb96980de71e8408ffc0aefd7bb91</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.jpg</field>
+<field name="originalName">20060829_Johnnie_Turner.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">226899</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/1/20060829_Johnnie_Turner.jpg</field>
+<field name="checksum">756254c30b98cf41ca252c8a9a24b521</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20060829_Johnnie_Turner.pdf</field>
+<field name="originalName">20060829_Johnnie_Turner.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">246933</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33555/2/20060829_Johnnie_Turner.pdf</field>
+<field name="checksum">71311e8a186abadc83fdc0be91801a17</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33555</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33555</field>
+<field name="lastModifyDate">2018-07-27 11:25:03.449</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Stokes, Anne</field>
+<field name="value">Eskew, Courtney</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-20T21:27:10Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-20T21:27:10Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-03-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33722</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100305_Anne_Stokes</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Anne Stokes. She was active during the 2nd Sanitation Worker's Strike in Memphis, TN. In this interview she describes her activism in detail. Stokes also talks about how her activism was seen by her family, friends, and community members.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278580575</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Protest movements</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Anne Stokes, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.JPG</field>
+<field name="originalName">20100305_Anne_Stokes.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">83990</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/1/20100305_Anne_Stokes.JPG</field>
+<field name="checksum">28e38326acf32942aadf6a3f00306fb5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.pdf</field>
+<field name="originalName">20100305_Anne_Stokes.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">314036</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/2/20100305_Anne_Stokes.pdf</field>
+<field name="checksum">c6a18a4c51307b5f93204a663b52c6e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.JPG.jpg</field>
+<field name="originalName">20100305_Anne_Stokes.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/3/20100305_Anne_Stokes.JPG.jpg</field>
+<field name="checksum">614fc571a65720e849757d61c507dfa5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.pdf.jpg</field>
+<field name="originalName">20100305_Anne_Stokes.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9447</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/6/20100305_Anne_Stokes.pdf.jpg</field>
+<field name="checksum">eff3d5c7a8ef181d1e7d26a3debbaec4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.JPG.preview.jpg</field>
+<field name="originalName">20100305_Anne_Stokes.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">40419</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/4/20100305_Anne_Stokes.JPG.preview.jpg</field>
+<field name="checksum">d094e28d7b6f13a8ec9df1fec4500749</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100305_Anne_Stokes.pdf.txt</field>
+<field name="originalName">20100305_Anne_Stokes.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">42502</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33722/5/20100305_Anne_Stokes.pdf.txt</field>
+<field name="checksum">dfe56821f6d6bca7bd28b65250cff581</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33722</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33722</field>
+<field name="lastModifyDate">2018-07-12 13:20:41.029</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

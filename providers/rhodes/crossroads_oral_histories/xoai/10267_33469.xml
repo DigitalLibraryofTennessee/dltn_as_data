@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hughes, Cora</field>
+<field name="value">Kimble, Cedric</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:33Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:33Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33469</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150625_Cora_Hughes</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Tennessee native Cora Hughes shares her experiences in Lake County, TN as a high school teacher in the 1950s.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280198105</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Education</field>
+<field name="value">1950s</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Cora Hughes, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.JPG</field>
+<field name="originalName">20150625_Cora_Hughes.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">41022</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/1/20150625_Cora_Hughes.JPG</field>
+<field name="checksum">e184929988e2928afdda02d1f7d3f9b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.pdf</field>
+<field name="originalName">20150625_Cora_Hughes.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">514689</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/2/20150625_Cora_Hughes.pdf</field>
+<field name="checksum">cde9229d531c6d4c9a4e6e741115231c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.JPG.jpg</field>
+<field name="originalName">20150625_Cora_Hughes.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5115</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/3/20150625_Cora_Hughes.JPG.jpg</field>
+<field name="checksum">50743910389986444ea52686c617fab0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.pdf.jpg</field>
+<field name="originalName">20150625_Cora_Hughes.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11841</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/6/20150625_Cora_Hughes.pdf.jpg</field>
+<field name="checksum">852149b9dfd1e5e7b7f6c69a77111d88</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.JPG.preview.jpg</field>
+<field name="originalName">20150625_Cora_Hughes.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18154</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/4/20150625_Cora_Hughes.JPG.preview.jpg</field>
+<field name="checksum">ca10b88457468f83e163ba71d9e5df95</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Cora_Hughes.pdf.txt</field>
+<field name="originalName">20150625_Cora_Hughes.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">15978</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33469/5/20150625_Cora_Hughes.pdf.txt</field>
+<field name="checksum">25f0789b527bcd7f92f3c588dbaaa78e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33469</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33469</field>
+<field name="lastModifyDate">2018-07-16 12:04:55.076</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

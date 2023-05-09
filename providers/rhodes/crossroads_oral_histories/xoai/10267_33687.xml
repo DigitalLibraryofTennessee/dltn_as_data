@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Brown, Bertha K.</field>
+<field name="value">Zalin, Mackenzie</field>
+<field name="value">Waters, Courtney</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-07-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33687</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090730_Bertha_K_Brown</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Bertha (Dixie) K. Brown. She discusses her childhood and upbringing in Boston, Massachusetts. Mrs. Brown talks about the cultural change she experienced once moving to Memphis and the close community of the neighborhood in which she lived.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280262938</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bertha "Dixie" Brown, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.JPG</field>
+<field name="originalName">20090730_Bertha_K_Brown.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">80901</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/1/20090730_Bertha_K_Brown.JPG</field>
+<field name="checksum">217fd167747f2872a22ba24de8c10ce5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.pdf</field>
+<field name="originalName">20090730_Bertha_K_Brown.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">194593</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/2/20090730_Bertha_K_Brown.pdf</field>
+<field name="checksum">4e03c902fbfea10987d1817dad0b9d68</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.JPG.jpg</field>
+<field name="originalName">20090730_Bertha_K_Brown.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9466</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/3/20090730_Bertha_K_Brown.JPG.jpg</field>
+<field name="checksum">9bd4b5fbfc390f634a3208da68fababf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.pdf.jpg</field>
+<field name="originalName">20090730_Bertha_K_Brown.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10065</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/6/20090730_Bertha_K_Brown.pdf.jpg</field>
+<field name="checksum">32df5465b866d45ce0e1c456a0bdce7a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.JPG.preview.jpg</field>
+<field name="originalName">20090730_Bertha_K_Brown.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">37180</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/4/20090730_Bertha_K_Brown.JPG.preview.jpg</field>
+<field name="checksum">feeaa0e44b45c80a9c784183e99cfc33</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090730_Bertha_K_Brown.pdf.txt</field>
+<field name="originalName">20090730_Bertha_K_Brown.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">31374</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33687/5/20090730_Bertha_K_Brown.pdf.txt</field>
+<field name="checksum">ee6f869e0851bab961ee7091e010acdf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33687</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33687</field>
+<field name="lastModifyDate">2018-07-16 16:03:14.572</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

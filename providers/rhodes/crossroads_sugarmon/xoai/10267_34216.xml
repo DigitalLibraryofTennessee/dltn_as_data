@@ -1,0 +1,149 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1958-11-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34216</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Meeting notes for Citizens Non-Partisan Registration Committee.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Tennessee</field>
+<field name="value">Letter</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter-Citizens Non-Partisan Registration Committee Meeting</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">397220</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/1/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg</field>
+<field name="checksum">15d354a4025dfbaafeb555810646b630</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">34494</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/2/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf</field>
+<field name="checksum">88eb61a0458396f61630c21d65296295</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.jpg</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12819</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/3/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.jpg</field>
+<field name="checksum">1e01dc8ce4a85470a46ed1b0dc0cc14c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.jpg</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10575</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/6/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.jpg</field>
+<field name="checksum">cc71f4056e0da46c3768be630790098b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.preview.jpg</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">62978</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/4/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.jpg.preview.jpg</field>
+<field name="checksum">2067f4e31f7911ce700dfa0343466861</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.txt</field>
+<field name="originalName">19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">1522</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34216/5/19581112_Letter_Citizens_Non_Partisan_Registration_Meeting_819.pdf.txt</field>
+<field name="checksum">2bff44c6217be7fc28a197a7c92cceed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34216</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34216</field>
+<field name="lastModifyDate">2018-09-19 18:57:31.467</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

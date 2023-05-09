@@ -1,0 +1,124 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Tennessee Division of Unemployment Compensation</field>
+<field name="value">Scott, F.G.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1938-01-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34310</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19380119_FG_Scott_Warning_Letter_117695</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to employers in the state of Tennessee warning about the nearing due date for paying Unemployment Compensation Contributions and submission of wage reports.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Tennessee Department of Labor</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Letters</field>
+<field name="value">Tennessee</field>
+<field name="value">Unemployment</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Employee Warning Letter from F.G. Scott, 1938</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380119_FG_Scott_Warning_Letter_117695.jpg</field>
+<field name="originalName">19380119_FG_Scott_Warning_Letter_117695.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2051382</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34310/1/19380119_FG_Scott_Warning_Letter_117695.jpg</field>
+<field name="checksum">38f942138099c72b86825cc33f8ac455</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380119_FG_Scott_Warning_Letter_117695.jpg.jpg</field>
+<field name="originalName">19380119_FG_Scott_Warning_Letter_117695.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17597</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34310/2/19380119_FG_Scott_Warning_Letter_117695.jpg.jpg</field>
+<field name="checksum">684df312aef26df8d445d549fd62ad87</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380119_FG_Scott_Warning_Letter_117695.jpg.preview.jpg</field>
+<field name="originalName">19380119_FG_Scott_Warning_Letter_117695.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">97768</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34310/3/19380119_FG_Scott_Warning_Letter_117695.jpg.preview.jpg</field>
+<field name="checksum">6f4e88ee8ff47a8a93908a1cf84aa4f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34310</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34310</field>
+<field name="lastModifyDate">2018-10-18 14:59:51.601</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

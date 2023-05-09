@@ -1,0 +1,215 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dimmick, William A.</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Schulz, Judy</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-20T17:06:06Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-20T17:06:06Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33919</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680716_William_A_Dimmick-SS078-SS079</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. William Dimmick, who was the Dean of St. Mary's Episcopal Cathedral and an active member of the Memphis Ministers Association during the 1968 Sanitation Strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281539389</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Religion</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">St. Mary's Episcopal (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">William A. Dimmick, Memphis Ministers Association Member, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William DImmick.JPG.jpg</field>
+<field name="originalName">William DImmick.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3496</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/2/William%20DImmick.JPG.jpg</field>
+<field name="checksum">c5da9150cc9546af2d64aea748c260e3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS078_transcript.pdf.jpg</field>
+<field name="originalName">SS078_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13910</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/7/SS078_transcript.pdf.jpg</field>
+<field name="checksum">79396d5b224ea39c645d6ca291753a44</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS079_transcript.pdf.jpg</field>
+<field name="originalName">SS079_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13850</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/9/SS079_transcript.pdf.jpg</field>
+<field name="checksum">5988152f12cb938f68a18b4649880186</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William DImmick.JPG.preview.jpg</field>
+<field name="originalName">William DImmick.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">9006</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/3/William%20DImmick.JPG.preview.jpg</field>
+<field name="checksum">9b510dd655c22adfce55f90b64c69ff3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">William DImmick.JPG</field>
+<field name="originalName">William DImmick.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">17571</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/1/William%20DImmick.JPG</field>
+<field name="checksum">bedafb9e9a025392932d4f47a527e4ce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS078_transcript.pdf</field>
+<field name="originalName">SS078_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">132416</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/4/SS078_transcript.pdf</field>
+<field name="checksum">31586da75b3b26bd69634b42210fd9f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS079_transcript.pdf</field>
+<field name="originalName">SS079_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">79474</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/5/SS079_transcript.pdf</field>
+<field name="checksum">11a690c442f1f554fe12867cad1eecb5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS078_transcript.pdf.txt</field>
+<field name="originalName">SS078_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">74307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/6/SS078_transcript.pdf.txt</field>
+<field name="checksum">3839981e81c6eb3eb780e92c107fc059</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS079_transcript.pdf.txt</field>
+<field name="originalName">SS079_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">31324</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33919/8/SS079_transcript.pdf.txt</field>
+<field name="checksum">cb8fa9d24261b91fafb316c523caa07e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33919</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33919</field>
+<field name="lastModifyDate">2018-07-31 13:54:56.136</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

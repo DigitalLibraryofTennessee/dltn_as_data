@@ -1,0 +1,143 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="editor">
+<element name="none">
+<field name="value">Beauchamp, J. A.</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-09T16:16:20Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-09T16:16:20Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1959-04-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/32584</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">MW_v28n80_1959-04-01</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Memphis World Publishing Co.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Newspapers</field>
+<field name="value">Civil rights</field>
+<field name="value">Race</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memphis World, 1959 April 1st</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MW_v28n80_1959-04-01.txt</field>
+<field name="originalName">MW_v28n80_1959-04-01.txt</field>
+<field name="format">text/plain</field>
+<field name="size">89334</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/32584/1/MW_v28n80_1959-04-01.txt</field>
+<field name="checksum">b39e4183c89d7a456c25d0f7473db38a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">MW_v28n80_1959-04-01.pdf</field>
+<field name="originalName">MW_v28n80_1959-04-01.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">26348604</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/32584/2/MW_v28n80_1959-04-01.pdf</field>
+<field name="checksum">76cd800ab97d88796d4ff006f325bf26</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MW_v28n80_1959-04-01.txt.txt</field>
+<field name="originalName">MW_v28n80_1959-04-01.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">89335</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/32584/3/MW_v28n80_1959-04-01.txt.txt</field>
+<field name="checksum">be2989c5fff7e3228e57cba5a2b1575c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">MW_v28n80_1959-04-01.pdf.txt</field>
+<field name="originalName">MW_v28n80_1959-04-01.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">6</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/32584/4/MW_v28n80_1959-04-01.pdf.txt</field>
+<field name="checksum">6d93d3216dc4a7f5df47d4876fbec4d3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MW_v28n80_1959-04-01.pdf.jpg</field>
+<field name="originalName">MW_v28n80_1959-04-01.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">26634</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/32584/5/MW_v28n80_1959-04-01.pdf.jpg</field>
+<field name="checksum">d53e7b82efe2c6477459d2b5a1085575</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/32584</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/32584</field>
+<field name="lastModifyDate">2018-05-14 14:21:42.619</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

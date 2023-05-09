@@ -1,0 +1,178 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Gary, Herman Eugene</field>
+<field name="value">Neimeyer, Eric</field>
+<field name="value">Turner, Lauren</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-07-10</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33663</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080710_Herman_Gary</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mr. Herman Gary. Gary was born and raised in North Memphis. After serving in the Army in the 1950s, Gary lived in Washington, D.C. where he worked for the Department of Transportation. After retiring, he returned to his childhood neighborhood. In this clip, Gary shares his experience working for the Department of Transportation and his interactions with racism while being employed there.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278571329</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">North Memphis</field>
+<field name="value">Washington (D.C.)</field>
+<field name="value">Department of Transportation</field>
+<field name="value">Race relations</field>
+<field name="value">1950s</field>
+<field name="value">United States Army</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Herman Gary, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.JPG.jpg</field>
+<field name="originalName">20080710_Herman_Gary.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6614</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/3/20080710_Herman_Gary.JPG.jpg</field>
+<field name="checksum">33d08d62692c122131d83bef7a5d1171</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.pdf.jpg</field>
+<field name="originalName">20080710_Herman_Gary.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11416</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/6/20080710_Herman_Gary.pdf.jpg</field>
+<field name="checksum">762ffb1829edfd09092aaf188940b0ee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.JPG.preview.jpg</field>
+<field name="originalName">20080710_Herman_Gary.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22560</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/4/20080710_Herman_Gary.JPG.preview.jpg</field>
+<field name="checksum">8ac9e5c9f7b9726902fb85e5fcd03cca</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.pdf.txt</field>
+<field name="originalName">20080710_Herman_Gary.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">30297</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/5/20080710_Herman_Gary.pdf.txt</field>
+<field name="checksum">492c61171ccc1fe0fb4f04b2b14adf8b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.JPG</field>
+<field name="originalName">20080710_Herman_Gary.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">50492</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/1/20080710_Herman_Gary.JPG</field>
+<field name="checksum">5ca6a1eeec8a1e404f472288457aba38</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080710_Herman_Gary.pdf</field>
+<field name="originalName">20080710_Herman_Gary.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">190621</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33663/2/20080710_Herman_Gary.pdf</field>
+<field name="checksum">8da50cbab801f0265cc9e73eb6ff2e82</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33663</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33663</field>
+<field name="lastModifyDate">2018-07-26 18:15:40.173</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

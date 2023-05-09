@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">McKee, Francesca</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-10-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33714</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20171028_Francesca_McKee</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Alumna Francesca McKee ('08) discusses her time with Crossroads to Freedom during at the 10th anniversary of Crossroads during Homecoming 2017.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280970690</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Rhodes College</field>
+<field name="value">Class of 2008</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Francesca McKee, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Francesca_McKee.JPG.jpg</field>
+<field name="originalName">20171028_Francesca_McKee.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7410</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/3/20171028_Francesca_McKee.JPG.jpg</field>
+<field name="checksum">0c4d041e59cad4379f710ef5b2dd871c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20171028_Francesca_Mckee.pdf.jpg</field>
+<field name="originalName">20171028_Francesca_Mckee.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6114</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/6/20171028_Francesca_Mckee.pdf.jpg</field>
+<field name="checksum">4dd93bfc71ea71ac27bfc597ee4e19a4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Francesca_McKee.JPG.preview.jpg</field>
+<field name="originalName">20171028_Francesca_McKee.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">27256</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/4/20171028_Francesca_McKee.JPG.preview.jpg</field>
+<field name="checksum">27667b6e6d6f57c1d95ddb05a0e96c41</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Francesca_Mckee.pdf.txt</field>
+<field name="originalName">20171028_Francesca_Mckee.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">6261</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/5/20171028_Francesca_Mckee.pdf.txt</field>
+<field name="checksum">2da43da7e8c805b7d436f4048a4d54ad</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Francesca_McKee.JPG</field>
+<field name="originalName">20171028_Francesca_McKee.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">61662</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/1/20171028_Francesca_McKee.JPG</field>
+<field name="checksum">810fa937ab1d6ac1f640117c005f6bcb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20171028_Francesca_Mckee.pdf</field>
+<field name="originalName">20171028_Francesca_Mckee.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">212964</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33714/2/20171028_Francesca_Mckee.pdf</field>
+<field name="checksum">a88c1a2a7a791b927a1ec83a395ada4f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33714</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33714</field>
+<field name="lastModifyDate">2018-07-20 12:18:04.694</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

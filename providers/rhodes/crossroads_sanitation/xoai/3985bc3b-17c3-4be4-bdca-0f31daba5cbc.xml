@@ -1,0 +1,249 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lux, Henry</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1972-05-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33830</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19720509_Henry_Lux-SS314-SS316</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Henry Lux. Lux is the Former Memphis Police Chief.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281550163</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+<element name="none">
+<field name="value">Memphis (Tenn). Police Department</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Henry Lux, Memphis Police Chief, 1972</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS314_transcript.pdf</field>
+<field name="originalName">SS314_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">141951</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/1/SS314_transcript.pdf</field>
+<field name="checksum">aafa267718e405d2692a73a0baf7a7bd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS315_transcript.pdf</field>
+<field name="originalName">SS315_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">162041</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/2/SS315_transcript.pdf</field>
+<field name="checksum">97945ce31eb56e5b089b7bad0e572da6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS316_transcript.pdf</field>
+<field name="originalName">SS316_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">143481</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/3/SS316_transcript.pdf</field>
+<field name="checksum">d2ffbd1bf06dd090fd68b7f17b022c9f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Henry Lux.JPG</field>
+<field name="originalName">Henry Lux.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">24678</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/4/Henry%20Lux.JPG</field>
+<field name="checksum">3c9d162c20f5651971365a7772bb3d21</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS314_transcript.pdf.txt</field>
+<field name="originalName">SS314_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">54297</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/5/SS314_transcript.pdf.txt</field>
+<field name="checksum">f5731ec42a6fb50dc8108782a040ce0d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS315_transcript.pdf.txt</field>
+<field name="originalName">SS315_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">72227</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/7/SS315_transcript.pdf.txt</field>
+<field name="checksum">8088db0e68e5a1762e98a37f9092c371</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS316_transcript.pdf.txt</field>
+<field name="originalName">SS316_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">56450</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/9/SS316_transcript.pdf.txt</field>
+<field name="checksum">3a4bb55666e084aa8940feb61108cd0c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS314_transcript.pdf.jpg</field>
+<field name="originalName">SS314_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13405</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/6/SS314_transcript.pdf.jpg</field>
+<field name="checksum">d55175b8c23888aa55549b890a492343</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS315_transcript.pdf.jpg</field>
+<field name="originalName">SS315_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13251</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/8/SS315_transcript.pdf.jpg</field>
+<field name="checksum">9ac410d7758b634fbb28eade9f9c2ef5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS316_transcript.pdf.jpg</field>
+<field name="originalName">SS316_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/10/SS316_transcript.pdf.jpg</field>
+<field name="checksum">e12d7c167858b566d87c400f639e8299</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">Henry Lux.JPG.jpg</field>
+<field name="originalName">Henry Lux.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4134</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/11/Henry%20Lux.JPG.jpg</field>
+<field name="checksum">dbc46d7203e41d8bd92ffc78173e1c56</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Henry Lux.JPG.preview.jpg</field>
+<field name="originalName">Henry Lux.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14466</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33830/12/Henry%20Lux.JPG.preview.jpg</field>
+<field name="checksum">65fb0d969778d6c9a557faa2d9f83601</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33830</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33830</field>
+<field name="lastModifyDate">2018-07-31 12:03:58.075</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

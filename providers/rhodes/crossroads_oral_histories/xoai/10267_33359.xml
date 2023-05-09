@@ -1,0 +1,194 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Burgess, Linda</field>
+<field name="value">Henry, Allison</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:33Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:33Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-06-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33359</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130619_Linda_Burgess</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview of community member Linda Burgess from The Heights History Camp, 2013. Interviewed by Treadwell Middle students, sponsored by The Corners at Highland Heights Shalom Zone, Rhodes College, and The Center for Transforming Communities</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280394659</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Linda Burgess, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.PNG</field>
+<field name="originalName">20130619_Linda_Burgess.PNG</field>
+<field name="format">image/png</field>
+<field name="size">324983</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/1/20130619_Linda_Burgess.PNG</field>
+<field name="checksum">8b4cc7060173e5bba923316da71e6725</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.pdf</field>
+<field name="originalName">20130619_Linda_Burgess.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">154477</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/2/20130619_Linda_Burgess.pdf</field>
+<field name="checksum">79782170e590ae624e63fcae96da6986</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.jpg</field>
+<field name="originalName">Capture.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11758</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/3/Capture.PNG.jpg</field>
+<field name="checksum">d5e5040674ad013582fffc262bfa6562</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.pdf.jpg</field>
+<field name="originalName">20130619_Linda_Burgess.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12145</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/6/20130619_Linda_Burgess.pdf.jpg</field>
+<field name="checksum">9f6af3b04311b5fe8048671e2efbb99d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.PNG.jpg</field>
+<field name="originalName">20130619_Linda_Burgess.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11758</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/7/20130619_Linda_Burgess.PNG.jpg</field>
+<field name="checksum">d5e5040674ad013582fffc262bfa6562</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.preview.jpg</field>
+<field name="originalName">Capture.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22286</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/4/Capture.PNG.preview.jpg</field>
+<field name="checksum">58a6005dc106a93ea8fda29e715bdd6b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.PNG.preview.jpg</field>
+<field name="originalName">20130619_Linda_Burgess.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22286</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/8/20130619_Linda_Burgess.PNG.preview.jpg</field>
+<field name="checksum">58a6005dc106a93ea8fda29e715bdd6b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130619_Linda_Burgess.pdf.txt</field>
+<field name="originalName">20130619_Linda_Burgess.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">23041</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33359/5/20130619_Linda_Burgess.pdf.txt</field>
+<field name="checksum">235a8df07cf49269b63eafd3bada4a06</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33359</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33359</field>
+<field name="lastModifyDate">2018-07-17 11:33:23.953</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

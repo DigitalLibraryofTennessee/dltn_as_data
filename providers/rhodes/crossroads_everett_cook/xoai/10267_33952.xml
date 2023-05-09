@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Jemison, Peggy</field>
+<field name="value">Hanley, Alice Wells</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-05-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33952</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790522_Alice_Wells_Hanley</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Alice Hanley, former student of Snowden School and longtime resident of Overton neighborhood. Hanley's children also went to Snowden, she discusses the many changes the school and neighborhood has been through. Hanley also mentions the civic clubs and garden clubs that existed in the area, mainly the Hein Park Garden Club. This interview was conducted in 1979.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289600320</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Education</field>
+<field name="value">Snowden School</field>
+<field name="value">Hein Park (Memphis, Tenn.)</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Alice Hanley, former Snowden School student, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790522_Alice_Wells_Hanley.doc.txt</field>
+<field name="originalName">19790522_Alice_Wells_Hanley.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">43883</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33952/2/19790522_Alice_Wells_Hanley.doc.txt</field>
+<field name="checksum">12c3f5d5750ec0921251017caaf2e635</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Alice WElls Hanley.PNG.jpg</field>
+<field name="originalName">Alice WElls Hanley.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6426</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33952/4/Alice%20WElls%20Hanley.PNG.jpg</field>
+<field name="checksum">9e4c1eb1bfd956b788019a674b13def5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Alice WElls Hanley.PNG.preview.jpg</field>
+<field name="originalName">Alice WElls Hanley.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22335</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33952/5/Alice%20WElls%20Hanley.PNG.preview.jpg</field>
+<field name="checksum">2649552eee40ae6c2195f89558443852</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790522_Alice_Wells_Hanley.doc</field>
+<field name="originalName">19790522_Alice_Wells_Hanley.doc</field>
+<field name="format">application/msword</field>
+<field name="size">126464</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33952/1/19790522_Alice_Wells_Hanley.doc</field>
+<field name="checksum">1c581de775a982d13ff9bdad8249d62f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Alice WElls Hanley.PNG</field>
+<field name="originalName">Alice WElls Hanley.PNG</field>
+<field name="format">image/png</field>
+<field name="size">44917</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33952/3/Alice%20WElls%20Hanley.PNG</field>
+<field name="checksum">e036efd202240ed07c6aa462ddf3d816</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33952</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33952</field>
+<field name="lastModifyDate">2018-09-12 20:27:01.776</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

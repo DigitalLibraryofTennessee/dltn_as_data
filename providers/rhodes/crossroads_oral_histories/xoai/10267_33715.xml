@@ -1,0 +1,159 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Montgomery, Sumita</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-10-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33715</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20171028_Sumita_Montgomery</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, alumna Sumita Montgomery ('15) shares her experiences working with Crossroads to Freedom during the 10 year anniversary celebration.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280971629</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Rhodes College</field>
+<field name="value">Class of 2015</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Sumita Montgomery, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Sumita_Montgomery.JPG.jpg</field>
+<field name="originalName">20171028_Sumita_Montgomery.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7504</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33715/2/20171028_Sumita_Montgomery.JPG.jpg</field>
+<field name="checksum">102b2940541196973bfe8eac6a5fb607</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Sumita_Montgomery.JPG.preview.jpg</field>
+<field name="originalName">20171028_Sumita_Montgomery.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">27522</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33715/3/20171028_Sumita_Montgomery.JPG.preview.jpg</field>
+<field name="checksum">8fd3b8ef713c7b55efaec5476569ac2e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Sumita_Montgomery.txt.txt</field>
+<field name="originalName">20171028_Sumita_Montgomery.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">3406</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33715/5/20171028_Sumita_Montgomery.txt.txt</field>
+<field name="checksum">822e0da8091645da73944bb3639b8321</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Sumita_Montgomery.JPG</field>
+<field name="originalName">20171028_Sumita_Montgomery.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">62064</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33715/1/20171028_Sumita_Montgomery.JPG</field>
+<field name="checksum">85fc7b0edf7778f5bac7c21a14107d49</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20171028_Sumita_Montgomery.txt</field>
+<field name="originalName">20171028_Sumita_Montgomery.txt</field>
+<field name="format">text/plain</field>
+<field name="size">3651</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33715/4/20171028_Sumita_Montgomery.txt</field>
+<field name="checksum">730a783aa9a5d6a69460ef31d51a571c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33715</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33715</field>
+<field name="lastModifyDate">2018-07-20 12:22:23.379</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

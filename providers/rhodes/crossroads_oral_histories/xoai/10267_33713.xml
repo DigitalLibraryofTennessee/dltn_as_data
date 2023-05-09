@@ -1,0 +1,159 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hardy, Maxwell (Max)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-10-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33713</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20171028_Max_Hardy</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In his return to Rhodes for Homecoming and the 10th reunion of Crossroads, Max Hardy ('12) offers his perspective on working with Crossroads to Freedom.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280971458</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Rhodes College</field>
+<field name="value">Class of 2012</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Max Hardy, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Max_Hardy.JPG.jpg</field>
+<field name="originalName">20171028_Max_Hardy.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8101</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33713/2/20171028_Max_Hardy.JPG.jpg</field>
+<field name="checksum">1ee993a8357a84619d35848e64d7868e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Max_Hardy.JPG.preview.jpg</field>
+<field name="originalName">20171028_Max_Hardy.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">30242</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33713/3/20171028_Max_Hardy.JPG.preview.jpg</field>
+<field name="checksum">fe59b6ca2f342404317e6d145fd8543b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Max_Hardy.txt.txt</field>
+<field name="originalName">20171028_Max_Hardy.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">4024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33713/5/20171028_Max_Hardy.txt.txt</field>
+<field name="checksum">b4ecfad8420cafca3912d9ecfa6e3c9d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171028_Max_Hardy.JPG</field>
+<field name="originalName">20171028_Max_Hardy.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">66069</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33713/1/20171028_Max_Hardy.JPG</field>
+<field name="checksum">cb8d25038cf8c61b2ecd235b73b10498</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20171028_Max_Hardy.txt</field>
+<field name="originalName">20171028_Max_Hardy.txt</field>
+<field name="format">text/plain</field>
+<field name="size">4314</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33713/4/20171028_Max_Hardy.txt</field>
+<field name="checksum">327316f55a8cb0214d19044de3b1f2f6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33713</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33713</field>
+<field name="lastModifyDate">2018-07-20 12:20:49.056</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

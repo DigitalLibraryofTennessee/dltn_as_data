@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Scott, John</field>
+<field name="value">Henry, Allison</field>
+<field name="value">Williams, Prince</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-07-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33350</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150708_Scott_John</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">John Scott Jr. was born in Miami, Florida in 1967. At a year and a half years old, he then moved to Highland Heights. He attended Briarcrest in first grade, Treadwell Elementary for grades second through fourth, Kingsbury Elementary for grades fifth and sixth, Miss Lee's School of Childhood for grades seventh and eighth, and Memphis Catholic for high school. Mr. Scott was raised by his mother, grandmother, and an older sister. He believed his mother was the greatest woman he's ever known. He thought she was very strong and smart. He expressed that, "What I can tell you about my mother mostly is that she set aside her life for the sake of me and my sister." Mr. Scott indicated that The Boys Club, now known as The Boys and Girls Club, influenced him to become who he is now. The club kept him out of trouble. He mentioned that, "Apparently, I beaten some sort of stat: coming from a single-parent home, raised by a mother and a grandmother..." It is the reason why he is still working with children twenty-nine years later. He went from high school straight into street ministry or volunteering in the youth ministry at his church. He considers Highland Heights as his home and family. He is currently a crew bus driver at FedEx. "But when I think of 38112 and Highland Heights, it really is who I am as a person... I was able to not be all the negative things that I could have been."-John Scott Jr.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280617643</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">John Scott, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150708_John_Scott.PNG.jpg</field>
+<field name="originalName">20150708_John_Scott.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8693</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/3/20150708_John_Scott.PNG.jpg</field>
+<field name="checksum">e5d91bf3798f2299e1ba8527662158a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150708_John_Scott.pdf.jpg</field>
+<field name="originalName">20150708_John_Scott.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12674</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/6/20150708_John_Scott.pdf.jpg</field>
+<field name="checksum">98a12e41e12902d657b8c38c2a0310cb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20150708_Scott_John.PNG.jpg</field>
+<field name="originalName">20150708_Scott_John.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8693</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/7/20150708_Scott_John.PNG.jpg</field>
+<field name="checksum">e5d91bf3798f2299e1ba8527662158a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.preview.jpg</field>
+<field name="originalName">Capture.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17799</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/4/Capture.PNG.preview.jpg</field>
+<field name="checksum">090789eba5f8a8ff0243bde25e14e05f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20150708_Scott_John.PNG.preview.jpg</field>
+<field name="originalName">20150708_Scott_John.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17799</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/8/20150708_Scott_John.PNG.preview.jpg</field>
+<field name="checksum">090789eba5f8a8ff0243bde25e14e05f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150708_John_Scott.pdf.txt</field>
+<field name="originalName">20150708_John_Scott.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">20030</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/5/20150708_John_Scott.pdf.txt</field>
+<field name="checksum">f63830e08b7f7e7c1560bfab2769a06a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150708_Scott_John.PNG</field>
+<field name="originalName">20150708_Scott_John.PNG</field>
+<field name="format">image/png</field>
+<field name="size">257701</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/1/20150708_Scott_John.PNG</field>
+<field name="checksum">bbf7a9ab4333677be7a237b4ecde2b3a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150708_John_Scott.pdf</field>
+<field name="originalName">20150708_John_Scott.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">146606</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33350/2/20150708_John_Scott.pdf</field>
+<field name="checksum">a66792028b5586eb87f5de2a29cd7a2f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33350</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33350</field>
+<field name="lastModifyDate">2018-07-18 15:50:02.76</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

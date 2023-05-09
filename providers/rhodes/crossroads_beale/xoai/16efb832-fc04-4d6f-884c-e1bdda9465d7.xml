@@ -1,0 +1,127 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Speight, W.O., Sr.</field>
+<field name="value">Covington, C.J.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1955-03-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34304</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1955_Strozier_and_Central_prescription_receipts_117678</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Two prescription receipts from, one from Dr. C.J. Covington for Strozier's Drug Store dated June 29th, 1955 and the other from Dr. W.O. Speight Jr. for Central Pharmacy dated March 7th, 1955.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Strozier's Drug Store (Memphis, Tenn.)</field>
+<field name="value">Central Pharmacy (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Medicine</field>
+<field name="value">Drugstores</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Strozier's Drug Store and Central Pharmacy, Prescription Receipts, 1955</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Strozier_and_Central_prescription_receipts_117678.jpg</field>
+<field name="originalName">1955_Strozier_and_Central_prescription_receipts_117678.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">418619</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34304/1/1955_Strozier_and_Central_prescription_receipts_117678.jpg</field>
+<field name="checksum">b64668897e764123a40978452af3f167</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Strozier_and_Central_prescription_receipts_117678.jpg.jpg</field>
+<field name="originalName">1955_Strozier_and_Central_prescription_receipts_117678.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16083</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34304/2/1955_Strozier_and_Central_prescription_receipts_117678.jpg.jpg</field>
+<field name="checksum">ae39b3bae1f0f85955bd344ae3a9bbc6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Strozier_and_Central_prescription_receipts_117678.jpg.preview.jpg</field>
+<field name="originalName">1955_Strozier_and_Central_prescription_receipts_117678.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">77075</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34304/3/1955_Strozier_and_Central_prescription_receipts_117678.jpg.preview.jpg</field>
+<field name="checksum">8ec2bf2425b00e306b00919019972e0c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34304</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34304</field>
+<field name="lastModifyDate">2018-10-11 22:32:16.138</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,117 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Johnson, Lyndon B. (Lyndon Baines), 1908-1973</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1963-07-15</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34197</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from Lyndon B. Johnson to Russell Sugarmon.The Vice President of the United States, addressing the letter to "my dear friend," thanks Sugarmon for his hard work and contributions to the first annual Regional Community Leaders Conference held in St. Louis on June 26.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Letter</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Lyndon B. Johnson to Russell B. Sugarmon, Jr.</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.jpg</field>
+<field name="originalName">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10084</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34197/2/19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.jpg</field>
+<field name="checksum">ee1e66cb657a73cfe46c8edb37993cdb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.preview.jpg</field>
+<field name="originalName">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47374</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34197/3/19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg.preview.jpg</field>
+<field name="checksum">0a89d11b86a061f4edc95b73c3a80199</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg</field>
+<field name="originalName">19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">134868</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34197/1/19630715_Letter_from_Lyndon_Johnson_to_Russell_Sugarmon_723.jpg</field>
+<field name="checksum">904416b1c48bc18fe003885d6011f14e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34197</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34197</field>
+<field name="lastModifyDate">2018-09-19 18:37:33.27</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

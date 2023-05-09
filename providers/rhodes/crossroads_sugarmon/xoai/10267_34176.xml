@@ -1,0 +1,158 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">The Commercial Appeal</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1984-08-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34176</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19840822_News_of_Bygone_Days_25_Years_Ago_768</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This clipping marks the 25th anniversary of the 1959 campaign for the Volunteer Ticket; it notes that Russell B. Sugarmon, Jr., Benjamin Hooks and others attracted nationwide attention even though they lost.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Commercial Appeal Newspaper</field>
+<field name="value">Newspapers</field>
+<field name="value">African Americans</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Hooks, Benjamin L. (Benjamin Lawson), 1925-2010</field>
+<field name="value">Political campaigns</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">News of Bygone Days [25 Years Ago, Aug. 22.1959]</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">37563</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/1/19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf</field>
+<field name="checksum">d2d0513ef4c4c08058702988878cefd6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2415568</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/4/19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg</field>
+<field name="checksum">15e5ff260de107c5d749ac945485428f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.txt</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">5684</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/2/19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.txt</field>
+<field name="checksum">77f2393240c7a7506949697b5d3868e3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.jpg</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10878</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/3/19840822_News_of_Bygone_Days_25_Years_Ago_768.pdf.jpg</field>
+<field name="checksum">76e981db138eb180f88182e708199073</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.jpg</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">21580</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/5/19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.jpg</field>
+<field name="checksum">32b62c7ac6cab5d90c5235e937e1dab1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.preview.jpg</field>
+<field name="originalName">19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">122784</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34176/6/19840822_News_of_Bygone_Days_25_Years_Ago_768.jpg.preview.jpg</field>
+<field name="checksum">41b5708ad5680cf6f5c1bb7eefd359ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34176</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34176</field>
+<field name="lastModifyDate">2018-09-20 13:16:58.78</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

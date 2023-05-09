@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Williams, Annie</field>
+<field name="value">Westbrook, Paris</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-08-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33521</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090807_Annie_Williams</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Annie Williams. She describes her childhood in Brownsville, Tennessee. After graduating high school, Williams left Brownsville and came to Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278580385</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Brownsville (Tenn.)</field>
+<field name="value">Memphis City Schools</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Annie Williams, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.PNG</field>
+<field name="originalName">20090807_Annie_Williams.PNG</field>
+<field name="format">image/png</field>
+<field name="size">2115716</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/1/20090807_Annie_Williams.PNG</field>
+<field name="checksum">50acdb232da50f669c8108eca7e427a0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.pdf</field>
+<field name="originalName">20090807_Annie_Williams.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">172311</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/2/20090807_Annie_Williams.pdf</field>
+<field name="checksum">f8e0294922d742de95ebac7ebc7a01c0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.PNG.jpg</field>
+<field name="originalName">20090807_Annie_Williams.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9386</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/3/20090807_Annie_Williams.PNG.jpg</field>
+<field name="checksum">d54f70256e5504b4879a2825a49bf2ab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.pdf.jpg</field>
+<field name="originalName">20090807_Annie_Williams.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11367</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/6/20090807_Annie_Williams.pdf.jpg</field>
+<field name="checksum">b75155c41539212093b4672dcef731eb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.PNG.preview.jpg</field>
+<field name="originalName">20090807_Annie_Williams.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">37791</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/4/20090807_Annie_Williams.PNG.preview.jpg</field>
+<field name="checksum">4f32f46a3f0e5e4f0e44035e22b23f7d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090807_Annie_Williams.pdf.txt</field>
+<field name="originalName">20090807_Annie_Williams.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">22027</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33521/5/20090807_Annie_Williams.pdf.txt</field>
+<field name="checksum">547fe67803fb876aeb3befaf46cb4cb5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33521</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33521</field>
+<field name="lastModifyDate">2018-07-27 14:23:29.746</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

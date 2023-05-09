@@ -1,0 +1,311 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Middlebrook, Harold</field>
+<field name="value">Harvey, Grant</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Thomas, Bill</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-16T18:29:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-16T18:29:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33847</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680718_Harold_Middlebrook_Grant_Harvey-SS035-SS039</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. Harold Middlebrook. Youth director for C.O.M.E. and native Memphian who attended Morehouse College and speaks of his assisting King in the Civil Rights Movement and his closeness to the King family.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281539578</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Harold Middlebrook and Grant Harvey, COME, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS035_transcript.pdf</field>
+<field name="originalName">SS035_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">72864</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/1/SS035_transcript.pdf</field>
+<field name="checksum">3d0e21ca86ef28e7178bb15cd0e1a381</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS036_transcript.pdf</field>
+<field name="originalName">SS036_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">77136</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/2/SS036_transcript.pdf</field>
+<field name="checksum">a3ba563d9aca301b1c8a1a7df4ad5d2b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS037_transcript.pdf</field>
+<field name="originalName">SS037_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">84676</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/3/SS037_transcript.pdf</field>
+<field name="checksum">852de76bd6c00e8d6922693446303f84</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS038_transcript.pdf</field>
+<field name="originalName">SS038_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">133924</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/4/SS038_transcript.pdf</field>
+<field name="checksum">15f4fd49c919defa5678e6d21c2c8f4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS039_transcript.pdf</field>
+<field name="originalName">SS039_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">78226</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/5/SS039_transcript.pdf</field>
+<field name="checksum">4a7f79b4ef438ef983590e8c70a2012f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">harold middlebrook.PNG</field>
+<field name="originalName">harold middlebrook.PNG</field>
+<field name="format">image/png</field>
+<field name="size">36051</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/6/harold%20middlebrook.PNG</field>
+<field name="checksum">62b63dc6f325024a436e87980edb7962</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS035_transcript.pdf.txt</field>
+<field name="originalName">SS035_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">25306</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/7/SS035_transcript.pdf.txt</field>
+<field name="checksum">4f896a2aa4b027f97fe25e0699764077</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS036_transcript.pdf.txt</field>
+<field name="originalName">SS036_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">28388</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/9/SS036_transcript.pdf.txt</field>
+<field name="checksum">fb34f656b676d7668d750467521a4f1e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS037_transcript.pdf.txt</field>
+<field name="originalName">SS037_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34957</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/11/SS037_transcript.pdf.txt</field>
+<field name="checksum">925197812b5a1f67087c257af269a4d5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS038_transcript.pdf.txt</field>
+<field name="originalName">SS038_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">76992</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/13/SS038_transcript.pdf.txt</field>
+<field name="checksum">e1c65bf4073d2b90d7232f048812269a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS039_transcript.pdf.txt</field>
+<field name="originalName">SS039_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">30307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/15/SS039_transcript.pdf.txt</field>
+<field name="checksum">64ab2aea6a5f3d3a216c8fbf646b59b5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS035_transcript.pdf.jpg</field>
+<field name="originalName">SS035_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11189</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/8/SS035_transcript.pdf.jpg</field>
+<field name="checksum">602c66e77c5aac452e10d9ea18dbdf62</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS036_transcript.pdf.jpg</field>
+<field name="originalName">SS036_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13665</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/10/SS036_transcript.pdf.jpg</field>
+<field name="checksum">4f2c24b077b2ed9e87f9f8206004d0c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS037_transcript.pdf.jpg</field>
+<field name="originalName">SS037_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13577</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/12/SS037_transcript.pdf.jpg</field>
+<field name="checksum">4159ed0e0feb932c8790c9877867d72c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">SS038_transcript.pdf.jpg</field>
+<field name="originalName">SS038_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14365</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/14/SS038_transcript.pdf.jpg</field>
+<field name="checksum">48db093e1133747d9ddce6bfe1d76694</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+<element name="bitstream">
+<field name="name">SS039_transcript.pdf.jpg</field>
+<field name="originalName">SS039_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13282</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/16/SS039_transcript.pdf.jpg</field>
+<field name="checksum">3ecf16a0b9e0f5f72a08bc6fb668e7b0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+<element name="bitstream">
+<field name="name">harold middlebrook.PNG.jpg</field>
+<field name="originalName">harold middlebrook.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4555</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/17/harold%20middlebrook.PNG.jpg</field>
+<field name="checksum">c01fcf4fc7d05c14afb7548cc1324c4b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">harold middlebrook.PNG.preview.jpg</field>
+<field name="originalName">harold middlebrook.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14466</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33847/18/harold%20middlebrook.PNG.preview.jpg</field>
+<field name="checksum">7945b147ef3efffb5c0c5b7b2178d5fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33847</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33847</field>
+<field name="lastModifyDate">2018-07-31 11:53:20.631</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

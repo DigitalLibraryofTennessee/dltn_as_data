@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Walker, Eugene</field>
+<field name="value">Fiandt, Emmaly (Emma)</field>
+<field name="value">Harpole, Zachary (Zach)</field>
+<field name="value">Taylor, Earlice</field>
+<field name="value">Bonefas, Suzanne</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-22T19:45:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-22T19:45:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2012-02-03</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33571</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20120203_Eugene_Walker</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Eugene Walker speaks about his time growing up in Memphis, his experiences at Manassas High School, and the music scene in Memphis during his time.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279479040</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Education</field>
+<field name="value">Manassas High School (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Eugene Walker, 2012</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.pdf</field>
+<field name="originalName">20120203_Eugene_Walker.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">289507</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/1/20120203_Eugene_Walker.pdf</field>
+<field name="checksum">c979b118a5c172f4c348dfe858e6a99a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.PNG</field>
+<field name="originalName">20120203_Eugene_Walker.PNG</field>
+<field name="format">image/png</field>
+<field name="size">85762</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/4/20120203_Eugene_Walker.PNG</field>
+<field name="checksum">6ebbbd53365e65ca9dc6e936726bf928</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.pdf.txt</field>
+<field name="originalName">20120203_Eugene_Walker.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33665</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/2/20120203_Eugene_Walker.pdf.txt</field>
+<field name="checksum">cf0a1eefd9cb85459ace9bbac778960d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.pdf.jpg</field>
+<field name="originalName">20120203_Eugene_Walker.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11715</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/3/20120203_Eugene_Walker.pdf.jpg</field>
+<field name="checksum">42d96ab32c5a4b2ebc92f603e3eabef6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.PNG.jpg</field>
+<field name="originalName">20120203_Eugene_Walker.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5208</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/5/20120203_Eugene_Walker.PNG.jpg</field>
+<field name="checksum">d841146727590cb63c2a798cc43676b4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120203_Eugene_Walker.PNG.preview.jpg</field>
+<field name="originalName">20120203_Eugene_Walker.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19636</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33571/6/20120203_Eugene_Walker.PNG.preview.jpg</field>
+<field name="checksum">e4fb2e7bd853306840422892d1753046</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33571</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33571</field>
+<field name="lastModifyDate">2018-08-09 11:11:07.209</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

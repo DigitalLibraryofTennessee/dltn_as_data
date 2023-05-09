@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">McRae, Frank Lewis</field>
+<field name="value">Neimeyer, Eric</field>
+<field name="value">Turner, Lauren</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-06-24</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33658</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080624_Frank_McRae</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frank McRae. Frank McRae with District Superintendent of Memphis (Inner City) District of the United Methodist Church who was a long-time friend of Mayor Loeb and was active throughout the strike period in seeking a settlement.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281838492</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frank McRae, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.JPG</field>
+<field name="originalName">20080624_Frank_McRae.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">82981</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/1/20080624_Frank_McRae.JPG</field>
+<field name="checksum">725f4319c9c7d7a9a645b4cab5921f98</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.pdf</field>
+<field name="originalName">20080624_Frank_McRae.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">273433</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/4/20080624_Frank_McRae.pdf</field>
+<field name="checksum">9bb69d96bb1518e83e243371c5235dfe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.JPG.jpg</field>
+<field name="originalName">20080624_Frank_McRae.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10564</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/5/20080624_Frank_McRae.JPG.jpg</field>
+<field name="checksum">a2722a8524f031c7916e544c5b55fe34</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.pdf.jpg</field>
+<field name="originalName">20080624_Frank_McRae.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11816</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/8/20080624_Frank_McRae.pdf.jpg</field>
+<field name="checksum">d9e0de7b222050911788047677cf3913</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.JPG.preview.jpg</field>
+<field name="originalName">20080624_Frank_McRae.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">38560</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/6/20080624_Frank_McRae.JPG.preview.jpg</field>
+<field name="checksum">3cce7e4b99fa0800b43e482ccbee14f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080624_Frank_McRae.pdf.txt</field>
+<field name="originalName">20080624_Frank_McRae.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">79829</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33658/7/20080624_Frank_McRae.pdf.txt</field>
+<field name="checksum">7080208e993ad8f76834ac79aa5f1aa4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33658</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33658</field>
+<field name="lastModifyDate">2018-10-17 13:21:01.131</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

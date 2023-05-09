@@ -1,0 +1,168 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ross, Gregory</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33464</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150630_Greg_Ross</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Gregory Ross shares his experiences growing up and living in Lake County, TN.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281660813</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Greg Ross, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.pdf</field>
+<field name="originalName">20150630_Greg_Ross.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">473657</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/1/20150630_Greg_Ross.pdf</field>
+<field name="checksum">fa050e0bd62d627ce2602f8e62739cfb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.JPG</field>
+<field name="originalName">20150630_Greg_Ross.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">35871</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/4/20150630_Greg_Ross.JPG</field>
+<field name="checksum">fd8308d51493527e5fadf84e3536683f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.pdf.txt</field>
+<field name="originalName">20150630_Greg_Ross.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">11818</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/5/20150630_Greg_Ross.pdf.txt</field>
+<field name="checksum">6db1c17c04fd58e1a8a9a85ad4805b65</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.pdf.jpg</field>
+<field name="originalName">20150630_Greg_Ross.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12519</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/6/20150630_Greg_Ross.pdf.jpg</field>
+<field name="checksum">21c7d0c494d1240e12b0b50ef02cb709</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.JPG.jpg</field>
+<field name="originalName">20150630_Greg_Ross.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9741</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/7/20150630_Greg_Ross.JPG.jpg</field>
+<field name="checksum">88eb0ed270d80860aca1837de4e3d0a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Greg_Ross.JPG.preview.jpg</field>
+<field name="originalName">20150630_Greg_Ross.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">27838</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33464/8/20150630_Greg_Ross.JPG.preview.jpg</field>
+<field name="checksum">c8db1486d9d8c68c914f85651e6de246</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33464</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33464</field>
+<field name="lastModifyDate">2018-07-26 12:59:53.437</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

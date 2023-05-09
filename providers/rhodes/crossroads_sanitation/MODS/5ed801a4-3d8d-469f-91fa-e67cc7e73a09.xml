@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mary Kay Tolleson and Ann Geary, Members of Memphis Catholic Council on Human Relations, 1968</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/33922</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33922/2/Mary%20Kay%20Tolleson.JPG.jpg</url>
+  </location>
+  <name>
+    <namePart>Geary, Ann</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Tolleson, Mary Kay</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Karchmer, Poppu</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1960-03-30</dateCreated>
+    <dateOther>2018-07-24T16:56:48Z</dateOther>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <typeOfResource>sound recording</typeOfResource>
+  <identifier type="local">19680330_Mary_Kay_Tolleson_Ann_Geary-SS295</identifier>
+  <subject>
+    <topic>Oral history</topic>
+  </subject>
+  <subject>
+    <topic>Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Sanitation Workers Strike, Memphis, Tenn., 1968</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights</topic>
+  </subject>
+  <subject>
+    <topic>King, Martin Luther, Jr., 1929-1968</topic>
+  </subject>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Crossroads to Freedom</title>
+    </titleInfo>
+  </relatedItem>
+  <abstract>This is an interview with Ann Geary and Mary Kay Tolleson. Both women were long time members of the Memphis Catholic Council on Human Relations and among the few white persons who participated in the march. This interview took place in the home of Poppy Karchmer two days after the "mini-riot" that followed the break-up of the march led by Martin Luther King, Jr. on MArch 28, 1968. Geary and Tolleson had been discussing their experiences on that day when Mrs. Karchmer asked if she might record their remarks. Mrs. Karchmer, later a member of the Memphis Search for Meaning Committee, donated this take to the committee's collection. This is the only interview in the collection which pre-dates the assassination of Martin Luther King, Jr.</abstract>
+  <relatedItem displayLabel="streaming resource">
+    <location>
+      <url>https://vimeo.com/281859025</url>
+    </location>
+  </relatedItem>
+</mods>

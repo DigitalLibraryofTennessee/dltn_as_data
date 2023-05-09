@@ -1,0 +1,151 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="author">
+<element name="none">
+<field name="value">Brummett, Martha</field>
+<field name="value">Haynes, Buddy</field>
+</element>
+</element>
+<element name="editor">
+<element name="none">
+<field name="value">Poe, Gary W.</field>
+<field name="value">Harris, Fred</field>
+</element>
+</element>
+<element name="artist">
+<element name="none">
+<field name="value">Cowart, Mary Jo</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-11-29T17:43:04Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-11-29T17:43:04Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1976-06</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/30702</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Gaiety_v1n10_1976-06</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">GALI Publishers</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Newspapers</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">LGBTQ Community</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Gaiety, June 1976</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Gaiety_v1n10_1976-06.pdf</field>
+<field name="originalName">Gaiety_v1n10_1976-06.pdf</field>
+<field name="description"/>
+<field name="format">application/pdf</field>
+<field name="size">33387987</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30702/1/Gaiety_v1n10_1976-06.pdf</field>
+<field name="checksum">53c60fed4a9086d90d0e84d53965e9c7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">LICENSE</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">license.txt</field>
+<field name="originalName">license.txt</field>
+<field name="format">text/plain</field>
+<field name="size">1663</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30702/2/license.txt</field>
+<field name="checksum">69d7879d0c65ae9be06d38a27d11bcb2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Gaiety_v1n10_1976-06.pdf.txt</field>
+<field name="originalName">Gaiety_v1n10_1976-06.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">74327</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30702/3/Gaiety_v1n10_1976-06.pdf.txt</field>
+<field name="checksum">9ef12e07b73d6c0a95f0308fdfb9ea64</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Gaiety_v1n10_1976-06.pdf.jpg</field>
+<field name="originalName">Gaiety_v1n10_1976-06.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17340</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30702/4/Gaiety_v1n10_1976-06.pdf.jpg</field>
+<field name="checksum">ddb24def4a6700b6809346e2f73020e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/30702</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/30702</field>
+<field name="lastModifyDate">2018-05-14 13:35:05.079</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+<element name="license">
+<field name="bin">Tk9OLUVYQ0xVU0lWRSBESVNUUklCVVRJT04gTElDRU5TRQoKQnkgc2lnbmluZyBhbmQgc3VibWl0dGluZyB0aGlzIGxpY2Vuc2UsIHlvdSAodGhlIGF1dGhvcihzKSBvciBjb3B5cmlnaHQKb3duZXIpIGdyYW50cyB0byBSaG9kZXMgQ29sbGVnZSAoUkhPREVTKSB0aGUgbm9uLWV4Y2x1c2l2ZSByaWdodCB0byByZXByb2R1Y2UsCnRyYW5zbGF0ZSAoYXMgZGVmaW5lZCBiZWxvdyksIGFuZC9vciBkaXN0cmlidXRlIHlvdXIgc3VibWlzc2lvbiAoaW5jbHVkaW5nCnRoZSBhYnN0cmFjdCkgd29ybGR3aWRlIGluIHByaW50IGFuZCBlbGVjdHJvbmljIGZvcm1hdCBhbmQgaW4gYW55IG1lZGl1bSwKaW5jbHVkaW5nIGJ1dCBub3QgbGltaXRlZCB0byBhdWRpbyBvciB2aWRlby4KCllvdSBhZ3JlZSB0aGF0IFJIT0RFUyBtYXksIHdpdGhvdXQgY2hhbmdpbmcgdGhlIGNvbnRlbnQsIHRyYW5zbGF0ZSB0aGUKc3VibWlzc2lvbiB0byBhbnkgbWVkaXVtIG9yIGZvcm1hdCBmb3IgdGhlIHB1cnBvc2Ugb2YgcHJlc2VydmF0aW9uLgoKWW91IGFsc28gYWdyZWUgdGhhdCBSSE9ERVMgbWF5IGtlZXAgbW9yZSB0aGFuIG9uZSBjb3B5IG9mIHRoaXMgc3VibWlzc2lvbiBmb3IKcHVycG9zZXMgb2Ygc2VjdXJpdHksIGJhY2stdXAgYW5kIHByZXNlcnZhdGlvbi4KCllvdSByZXByZXNlbnQgdGhhdCB0aGUgc3VibWlzc2lvbiBpcyB5b3VyIG9yaWdpbmFsIHdvcmssIGFuZCB0aGF0IHlvdSBoYXZlCnRoZSByaWdodCB0byBncmFudCB0aGUgcmlnaHRzIGNvbnRhaW5lZCBpbiB0aGlzIGxpY2Vuc2UuIFlvdSBhbHNvIHJlcHJlc2VudAp0aGF0IHlvdXIgc3VibWlzc2lvbiBkb2VzIG5vdCwgdG8gdGhlIGJlc3Qgb2YgeW91ciBrbm93bGVkZ2UsIGluZnJpbmdlIHVwb24KYW55b25lJ3MgY29weXJpZ2h0LgoKSWYgdGhlIHN1Ym1pc3Npb24gY29udGFpbnMgbWF0ZXJpYWwgZm9yIHdoaWNoIHlvdSBkbyBub3QgaG9sZCBjb3B5cmlnaHQsCnlvdSByZXByZXNlbnQgdGhhdCB5b3UgaGF2ZSBvYnRhaW5lZCB0aGUgdW5yZXN0cmljdGVkIHBlcm1pc3Npb24gb2YgdGhlCmNvcHlyaWdodCBvd25lciB0byBncmFudCBSSE9ERVMgdGhlIHJpZ2h0cyByZXF1aXJlZCBieSB0aGlzIGxpY2Vuc2UsIGFuZCB0aGF0CnN1Y2ggdGhpcmQtcGFydHkgb3duZWQgbWF0ZXJpYWwgaXMgY2xlYXJseSBpZGVudGlmaWVkIGFuZCBhY2tub3dsZWRnZWQKd2l0aGluIHRoZSB0ZXh0IG9yIGNvbnRlbnQgb2YgdGhlIHN1Ym1pc3Npb24uCgpJRiBUSEUgU1VCTUlTU0lPTiBJUyBCQVNFRCBVUE9OIFdPUksgVEhBVCBIQVMgQkVFTiBTUE9OU09SRUQgT1IgU1VQUE9SVEVECkJZIEFOIEFHRU5DWSBPUiBPUkdBTklaQVRJT04gT1RIRVIgVEhBTiBSSE9ERVMsIFlPVSBSRVBSRVNFTlQgVEhBVCBZT1UgSEFWRQpGVUxGSUxMRUQgQU5ZIFJJR0hUIE9GIFJFVklFVyBPUiBPVEhFUiBPQkxJR0FUSU9OUyBSRVFVSVJFRCBCWSBTVUNICkNPTlRSQUNUIE9SIEFHUkVFTUVOVC4KClJIT0RFUyB3aWxsIGNsZWFybHkgaWRlbnRpZnkgeW91ciBuYW1lKHMpIGFzIHRoZSBhdXRob3Iocykgb3Igb3duZXIocykgb2YgdGhlCnN1Ym1pc3Npb24sIGFuZCB3aWxsIG5vdCBtYWtlIGFueSBhbHRlcmF0aW9uLCBvdGhlciB0aGFuIGFzIGFsbG93ZWQgYnkgdGhpcwpsaWNlbnNlLCB0byB5b3VyIHN1Ym1pc3Npb24uCg==</field>
+</element>
+</metadata>

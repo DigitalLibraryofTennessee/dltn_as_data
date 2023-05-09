@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Steadman, Essie</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Williams, Rebecca</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-06-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33551</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20060623_Essie_Steadman</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Ms. Essie Steadman, who worked as bus driver for the segregated Hoxie School District. She drove the African-American students from Walnut Ridge-Hoxie to the African-American school in Jonesboro before the Hoxie School Board made the decision to integrate.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278537562</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Segregation</field>
+<field name="value">Education</field>
+<field name="value">Hoxie (Ark.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Essie Steadman, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.jpg.jpg</field>
+<field name="originalName">20060623_Essie_Steadman.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14438</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/3/20060623_Essie_Steadman.jpg.jpg</field>
+<field name="checksum">543f2fbbf85c919d68d3823a5223b059</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.pdf.jpg</field>
+<field name="originalName">20060623_Essie_Steadman.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13925</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/6/20060623_Essie_Steadman.pdf.jpg</field>
+<field name="checksum">e900895162fd3aa25cbdafcf405c9be4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.jpg.preview.jpg</field>
+<field name="originalName">20060623_Essie_Steadman.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">60407</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/4/20060623_Essie_Steadman.jpg.preview.jpg</field>
+<field name="checksum">b89189f1dd66985629ad656f6bfc8dc0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.pdf.txt</field>
+<field name="originalName">20060623_Essie_Steadman.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">48587</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/5/20060623_Essie_Steadman.pdf.txt</field>
+<field name="checksum">3134c46859d8778bad9eeb532005a8de</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.jpg</field>
+<field name="originalName">20060623_Essie_Steadman.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">243508</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/1/20060623_Essie_Steadman.jpg</field>
+<field name="checksum">83bb5358cde44e2be435504cca0f51d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20060623_Essie_Steadman.pdf</field>
+<field name="originalName">20060623_Essie_Steadman.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">176795</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33551/2/20060623_Essie_Steadman.pdf</field>
+<field name="checksum">34bd30b1adf77bc044fe0d09b7af6a22</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33551</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33551</field>
+<field name="lastModifyDate">2018-07-27 11:24:04.377</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

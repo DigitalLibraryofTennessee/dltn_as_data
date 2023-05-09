@@ -1,0 +1,165 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Smith, Coby V.</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:33Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:33Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1983-09-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34138</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19830919_Coby_Smith</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Former "Invader" Colby Smith describes his time at Southwestern University and his tangential work with the NAACP and Democratic Club. He also also talks about his idealogical devide with many moderate Civil Rights leaders and explains the thinking of African American "militant" groups in the 1960s.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289798918</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Southwestern at Memphis</field>
+<field name="value">Black Leaders</field>
+<field name="value">Law</field>
+<field name="value">NAACP</field>
+<field name="value">Racism</field>
+<field name="value">Protest movements</field>
+<field name="value">The Invaders</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Coby Smith, Invader and Southwestern alum, 1983</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Smith_Coby.doc.txt</field>
+<field name="originalName">Smith_Coby.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">109264</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34138/5/Smith_Coby.doc.txt</field>
+<field name="checksum">7073afa4b996a01fa9b2d0eec9c85bb2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">coby smith.PNG</field>
+<field name="originalName">coby smith.PNG</field>
+<field name="format">image/png</field>
+<field name="size">45870</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34138/1/coby%20smith.PNG</field>
+<field name="checksum">85b5c200fff596d01cf54461c6530722</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Smith_Coby.doc</field>
+<field name="originalName">Smith_Coby.doc</field>
+<field name="format">application/msword</field>
+<field name="size">186880</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34138/4/Smith_Coby.doc</field>
+<field name="checksum">fae106dde109d90bd6036ac9c73ce6f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">coby smith.PNG.jpg</field>
+<field name="originalName">coby smith.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6363</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34138/2/coby%20smith.PNG.jpg</field>
+<field name="checksum">937fe047743f9b8ffc5dc765ef87cc07</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">coby smith.PNG.preview.jpg</field>
+<field name="originalName">coby smith.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22259</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34138/3/coby%20smith.PNG.preview.jpg</field>
+<field name="checksum">266c22aa9099c7607d7c136832c2e3f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34138</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34138</field>
+<field name="lastModifyDate">2018-09-27 08:23:41.645</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

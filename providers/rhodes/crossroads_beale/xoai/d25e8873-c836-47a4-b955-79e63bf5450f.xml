@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Boone, Dick</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1956-03-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34331</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to Andrew Mitchell confirming his payment for the Jay McSchann Unit.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Universal Attractions</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">McShann, James "Jay"</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Dick Boone of Universal Attractions to Andrew Mitchell, 1956</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg</field>
+<field name="originalName">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">215891</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34331/1/19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg</field>
+<field name="checksum">f3436958385d73392f2869b4bf86eeff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.jpg</field>
+<field name="originalName">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16658</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34331/2/19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.jpg</field>
+<field name="checksum">1463c29383be4419dac655d9d40e50af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.preview.jpg</field>
+<field name="originalName">19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">80249</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34331/3/19560326_Dick_Boone_Letter_to_Andrew_Mitchell_117828.jpg.preview.jpg</field>
+<field name="checksum">366df34fb241efaafb1d5c463a2fc2b3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34331</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34331</field>
+<field name="lastModifyDate">2018-10-17 15:30:37.246</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

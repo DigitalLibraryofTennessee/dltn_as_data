@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Bailey, Walter Lee</field>
+<field name="value">Thomas, Phil</field>
+<field name="value">Kyles, Gwen</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-16T18:29:09Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-16T18:29:09Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-10</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33839</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680710_Walter_Bailey-SS022</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Walter "Bill" Bailey. He was the owner of the Lorraine Motel where Dr. King was assassinated. Bailey's wife suffered a stroke and heart attack several hours after Dr. King's death and she died five days later.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281856122</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Lorraine Motel</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Walter Lee Bailey, owner of the Lorraine Motel, July 10th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Walter Lee Bailey.JPG</field>
+<field name="originalName">Walter Lee Bailey.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">24749</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/1/Walter%20Lee%20Bailey.JPG</field>
+<field name="checksum">1b1b344b3e9f60e9748aa64f84b50db0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS022_Transcript.pdf</field>
+<field name="originalName">SS022_Transcript.pdf</field>
+<field name="description">Transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">119100</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/2/SS022_Transcript.pdf</field>
+<field name="checksum">b2fbe1141e463fa49088c35b1ecc42ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Walter Lee Bailey.JPG.jpg</field>
+<field name="originalName">Walter Lee Bailey.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3940</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/3/Walter%20Lee%20Bailey.JPG.jpg</field>
+<field name="checksum">1f1b77f039e002fb95c347ec05a5d745</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS022_Transcript.pdf.jpg</field>
+<field name="originalName">SS022_Transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12464</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/6/SS022_Transcript.pdf.jpg</field>
+<field name="checksum">626af0ba6922375450541c2db7433d85</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Walter Lee Bailey.JPG.preview.jpg</field>
+<field name="originalName">Walter Lee Bailey.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13690</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/4/Walter%20Lee%20Bailey.JPG.preview.jpg</field>
+<field name="checksum">f7fbd3ce41decc4ff5ac8e84a57db3da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS022_Transcript.pdf.txt</field>
+<field name="originalName">SS022_Transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">65935</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33839/5/SS022_Transcript.pdf.txt</field>
+<field name="checksum">a53db50ca566b4c7ad6bfc130e25ed4b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33839</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33839</field>
+<field name="lastModifyDate">2018-07-30 15:04:07.067</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

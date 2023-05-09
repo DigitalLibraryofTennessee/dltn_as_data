@@ -1,0 +1,193 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Moin, Mohammed</field>
+<field name="value">Rashad, Sharif</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-01T15:16:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-01T15:16:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-07-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33393</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140702_Dr_Mohammed_Moin</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Islam in Memphis Oral Histories, Interviewees: Dr Mohammed Moin, Interviewer: Sharif Rashad, Date: 2014-07-10</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280209316</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Islam</field>
+<field name="value">Religion</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dr. Mohammed Moin, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin</field>
+<field name="format">image/jpeg</field>
+<field name="size">16382</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/1/20140702_Dr_Mohammed_Moin</field>
+<field name="checksum">64b52ba2ff895310a743403f9ca1c46e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin.pdf</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">158610</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/2/20140702_Dr_Mohammed_Moin.pdf</field>
+<field name="checksum">8b0030a0f20b053b6d8111819a84aaf1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5547</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/3/Capture.JPG.jpg</field>
+<field name="checksum">52b9e47cef63d7816164b317b4bc8bb4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin.pdf.jpg</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11947</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/6/20140702_Dr_Mohammed_Moin.pdf.jpg</field>
+<field name="checksum">e29873ede3f9fa28b006293c54c27cbc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin.jpg</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5547</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/7/20140702_Dr_Mohammed_Moin.jpg</field>
+<field name="checksum">52b9e47cef63d7816164b317b4bc8bb4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">9104</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/4/Capture.JPG.preview.jpg</field>
+<field name="checksum">55a99467ac44875cd54594bb0905b9ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin.preview.jpg</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">9104</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/8/20140702_Dr_Mohammed_Moin.preview.jpg</field>
+<field name="checksum">55a99467ac44875cd54594bb0905b9ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140702_Dr_Mohammed_Moin.pdf.txt</field>
+<field name="originalName">20140702_Dr_Mohammed_Moin.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24958</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33393/5/20140702_Dr_Mohammed_Moin.pdf.txt</field>
+<field name="checksum">3321380535b495d8d97ce641ff35e2ed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33393</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33393</field>
+<field name="lastModifyDate">2018-07-16 12:05:00.976</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

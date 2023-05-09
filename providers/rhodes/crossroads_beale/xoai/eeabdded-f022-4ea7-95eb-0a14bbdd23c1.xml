@@ -1,0 +1,121 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Buffalo Booking Agency</field>
+<field name="value">King, B.B.</field>
+<field name="value">Harvey, Bill (Saxophonist)</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1954-12-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34328</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A booking contract of the hiring of Bill Harvey featuring B.B. King by Andrew Mitchell.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Contract Hiring Bill Harvey ft. B.B. King, 1954</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg</field>
+<field name="originalName">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">451610</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34328/1/19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg</field>
+<field name="checksum">4cd658180fcf5bf9953bae1815b8ac1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.jpg</field>
+<field name="originalName">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">22668</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34328/2/19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.jpg</field>
+<field name="checksum">6b5a6da5d8361f02e3b36064f3b1d1a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.preview.jpg</field>
+<field name="originalName">19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">125375</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34328/3/19541223_Bill_Harvey_BB_King_Mitchell_Contract_117847.jpg.preview.jpg</field>
+<field name="checksum">0ad9995f9a875a915091b935b9b79908</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34328</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34328</field>
+<field name="lastModifyDate">2018-10-18 15:24:28.527</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Gilliam, Art</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">James, Holly</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33491</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070625_Art_Gilliam</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is from an interview with Art Gilliam who was over WLOK. Art describes his first memory of segregation and how segregation had different forms in the North and South 2007-06-25</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278554796</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Segregation</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Art Gilliam, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.JPG</field>
+<field name="originalName">20070625_Art_Gilliam.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">47144</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/2/20070625_Art_Gilliam.JPG</field>
+<field name="checksum">15dda03fcc48bf52179e9b33523ab828</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.pdf</field>
+<field name="originalName">20070625_Art_Gilliam.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">188194</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/7/20070625_Art_Gilliam.pdf</field>
+<field name="checksum">ea09c320380d3b212f5d9c982724b656</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.JPG.jpg</field>
+<field name="originalName">20070625_Art_Gilliam.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10950</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/8/20070625_Art_Gilliam.JPG.jpg</field>
+<field name="checksum">87fcfd40063da22980e14ce2a815dd73</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.pdf.jpg</field>
+<field name="originalName">20070625_Art_Gilliam.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12622</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/11/20070625_Art_Gilliam.pdf.jpg</field>
+<field name="checksum">fc667d6defc0e53235fd98ec389b7a34</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.JPG.preview.jpg</field>
+<field name="originalName">20070625_Art_Gilliam.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">33245</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/9/20070625_Art_Gilliam.JPG.preview.jpg</field>
+<field name="checksum">4457344f609d9e3dde559f8f2167926e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070625_Art_Gilliam.pdf.txt</field>
+<field name="originalName">20070625_Art_Gilliam.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33042</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33491/10/20070625_Art_Gilliam.pdf.txt</field>
+<field name="checksum">dc10b6dd690910397e057bb7d9850071</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33491</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33491</field>
+<field name="lastModifyDate">2018-07-27 11:30:59.365</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

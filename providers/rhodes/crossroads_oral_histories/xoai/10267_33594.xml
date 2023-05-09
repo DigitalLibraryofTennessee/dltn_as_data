@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dickinson, Cody</field>
+<field name="value">Eskew, Courtney</field>
+<field name="value">Cody, W.J. Michael</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:26Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:26Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-09-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33594</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110920_Cody_Dickinson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Cody Dickson, Jim Dickinson's son about his continuing his father's music career. He elaborates on his father's influences on his own music as well as some other big artists'. He also discusses about the future of music and what it brings to people.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280373379</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Music</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Cody Dickinson, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.PNG</field>
+<field name="originalName">20110920_Cody_Dickinson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1358681</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/1/20110920_Cody_Dickinson.PNG</field>
+<field name="checksum">bc9680d0df84091d221a5ee0372763e6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.pdf</field>
+<field name="originalName">20110920_Cody_Dickinson.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">198919</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/2/20110920_Cody_Dickinson.pdf</field>
+<field name="checksum">63d614a511e74f0e6142f8478779a83d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.PNG.jpg</field>
+<field name="originalName">20110920_Cody_Dickinson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9398</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/3/20110920_Cody_Dickinson.PNG.jpg</field>
+<field name="checksum">7816abe20b161e8a6f7c3e26f72b5595</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.pdf.jpg</field>
+<field name="originalName">20110920_Cody_Dickinson.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11390</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/6/20110920_Cody_Dickinson.pdf.jpg</field>
+<field name="checksum">1de9c98ca3497920059d660d13da9a46</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.PNG.preview.jpg</field>
+<field name="originalName">20110920_Cody_Dickinson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">35125</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/4/20110920_Cody_Dickinson.PNG.preview.jpg</field>
+<field name="checksum">8a5c0a1090a757b8919216db99319028</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110920_Cody_Dickinson.pdf.txt</field>
+<field name="originalName">20110920_Cody_Dickinson.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35813</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33594/5/20110920_Cody_Dickinson.pdf.txt</field>
+<field name="checksum">e0ba32f777e6489d363945b308d71297</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33594</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33594</field>
+<field name="lastModifyDate">2018-07-17 09:35:26.986</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

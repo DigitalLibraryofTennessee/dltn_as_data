@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Wray, Harmon</field>
+<field name="value">Jacobs, Daniel</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:05Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:05Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-11-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33558</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20061130_Harmon_Wray</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Mr. Harmon Wray was a Rhodes student who graduated in 1968, and he is currently the Director of the Vanderbilt Program in Faith and Criminal Justice. In this interview he describes his childhood growing up in Memphis and his early memories of race relations. He also talks about the controversy he was involved in at Rhodes over admitting a black student into the ATO fraternity, his memories of the period following Dr. Martin Luther King&#65533;s assassination and his decision to become a criminal justice reform activist.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278541892</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Rhodes College</field>
+<field name="value">Law</field>
+<field name="value">Segregation</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Harmon Wray, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.jpg</field>
+<field name="originalName">20061130_Harmon_Wray.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">246335</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/1/20061130_Harmon_Wray.jpg</field>
+<field name="checksum">0ccc7cdbcafaee7a24ecc1a910a2e473</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.pdf</field>
+<field name="originalName">20061130_Harmon_Wray.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">230282</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/2/20061130_Harmon_Wray.pdf</field>
+<field name="checksum">555733a149232215b58400e41354c3a5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.jpg.jpg</field>
+<field name="originalName">20061130_Harmon_Wray.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12583</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/3/20061130_Harmon_Wray.jpg.jpg</field>
+<field name="checksum">63cd6c3952699198b62d1375a7389148</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.pdf.jpg</field>
+<field name="originalName">20061130_Harmon_Wray.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14033</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/6/20061130_Harmon_Wray.pdf.jpg</field>
+<field name="checksum">e1c38bbce4b3a471e4b29db08ce50722</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.jpg.preview.jpg</field>
+<field name="originalName">20061130_Harmon_Wray.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">59071</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/4/20061130_Harmon_Wray.jpg.preview.jpg</field>
+<field name="checksum">c2ed17c72405e49cc89bf7578764a517</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061130_Harmon_Wray.pdf.txt</field>
+<field name="originalName">20061130_Harmon_Wray.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">52158</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33558/5/20061130_Harmon_Wray.pdf.txt</field>
+<field name="checksum">8e6ade98b2c9e40d637b09303c83d82a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33558</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33558</field>
+<field name="lastModifyDate">2018-07-12 13:20:40.491</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

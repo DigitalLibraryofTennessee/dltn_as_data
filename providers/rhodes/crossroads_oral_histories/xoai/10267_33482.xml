@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Haggard, David</field>
+<field name="value">Watson, Shane</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:36Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:36Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-06-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33482</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140608_David_Haggard</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">David Haggard is a park ranger with Tennessee State Parks and works at Reel Foot Lake. He talks about growing up in east Tennessee and his job now.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279912485</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Reelfoot Lake State Park (Tenn.)</field>
+<field name="value">Park rangers</field>
+<field name="value">Tennessee, East--History</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">David Haggard, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.JPG</field>
+<field name="originalName">20140608_David_Haggard.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">159053</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/1/20140608_David_Haggard.JPG</field>
+<field name="checksum">6a2ce9f492c4f083741a94e3888b5252</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.pdf</field>
+<field name="originalName">20140608_David_Haggard.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">156127</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/2/20140608_David_Haggard.pdf</field>
+<field name="checksum">8868b87196728b764e21f674f1645d98</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.JPG.jpg</field>
+<field name="originalName">20140608_David_Haggard.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15056</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/3/20140608_David_Haggard.JPG.jpg</field>
+<field name="checksum">38737cbe0c06598ea2d47a2a9ea28942</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.pdf.jpg</field>
+<field name="originalName">20140608_David_Haggard.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11939</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/6/20140608_David_Haggard.pdf.jpg</field>
+<field name="checksum">d2d7f07b4f1f5fead1c4908bb6fd2efe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.JPG.preview.jpg</field>
+<field name="originalName">20140608_David_Haggard.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">67545</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/4/20140608_David_Haggard.JPG.preview.jpg</field>
+<field name="checksum">8331b43a8f24568946665989fac3d52d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140608_David_Haggard.pdf.txt</field>
+<field name="originalName">20140608_David_Haggard.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">19656</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33482/5/20140608_David_Haggard.pdf.txt</field>
+<field name="checksum">ab965dc04de55b9b4b0275286b51a3f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33482</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33482</field>
+<field name="lastModifyDate">2018-07-16 12:04:50.03</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

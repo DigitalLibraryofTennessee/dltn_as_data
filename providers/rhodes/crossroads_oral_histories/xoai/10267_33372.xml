@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Williamson, Darlene</field>
+<field name="value">Holmes Jr, Kerwin</field>
+<field name="value">Henry, Allison</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:35Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:35Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-07-17</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33372</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130717_Darlene_Williamson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview of community member Darlene Williamson from The Heights History Camp, 2013. Interviewed by Treadwell Middle students, sponsored by The Corners at Highland Heights Shalom Zone, Rhodes College, and The Center for Transforming Communities</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280406914</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Darlene Williamson, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.JPG</field>
+<field name="originalName">20130717_Darlene_Williamson.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">28235</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/1/20130717_Darlene_Williamson.JPG</field>
+<field name="checksum">9e928acde4c35ba40260c8aa418d1ce8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.pdf</field>
+<field name="originalName">20130717_Darlene_Williamson.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">154650</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/2/20130717_Darlene_Williamson.pdf</field>
+<field name="checksum">5aca05c028c00e9e7ad773df9776e149</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8476</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/3/Capture.JPG.jpg</field>
+<field name="checksum">adb1e6e8c7de7b0304d1d5cf0db848b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.pdf.jpg</field>
+<field name="originalName">20130717_Darlene_Williamson.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12180</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/6/20130717_Darlene_Williamson.pdf.jpg</field>
+<field name="checksum">9c922b219db639dc403108ce116a7d11</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.JPG.jpg</field>
+<field name="originalName">20130717_Darlene_Williamson.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8476</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/7/20130717_Darlene_Williamson.JPG.jpg</field>
+<field name="checksum">adb1e6e8c7de7b0304d1d5cf0db848b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19611</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/4/Capture.JPG.preview.jpg</field>
+<field name="checksum">6ff5151fff49a6a456a1b7eecab6d629</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.JPG.preview.jpg</field>
+<field name="originalName">20130717_Darlene_Williamson.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19611</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/8/20130717_Darlene_Williamson.JPG.preview.jpg</field>
+<field name="checksum">6ff5151fff49a6a456a1b7eecab6d629</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Darlene_Williamson.pdf.txt</field>
+<field name="originalName">20130717_Darlene_Williamson.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">21380</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33372/5/20130717_Darlene_Williamson.pdf.txt</field>
+<field name="checksum">dde7543912a14f87e026b770089701cb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33372</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33372</field>
+<field name="lastModifyDate">2018-07-17 12:52:49.26</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

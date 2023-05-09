@@ -1,0 +1,168 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Jemison, Peggy</field>
+<field name="value">Agee, Polk</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:38:58Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:38:58Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-05-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33939</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790530_Polk_Agee</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Polk Agee, the oldest practicing architect in Tennessee. Mr. Algee discusses his many architecture ventures in the Memphis area and explains the various styles he's worked with. In this interview Algee also mentions the demographics of the neighborhoods he has designed houses for. The interview was conducted in 1979.&#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/290180049</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Architects</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Polk Agee, Memphis architect, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790530_Polk_Agee.doc.txt</field>
+<field name="originalName">19790530_Polk_Agee.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33489</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33939/2/19790530_Polk_Agee.doc.txt</field>
+<field name="checksum">19af34abe55c26ed1fe2b7944c2b2add</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">polk agee.PNG.jpg</field>
+<field name="originalName">polk agee.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6198</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33939/4/polk%20agee.PNG.jpg</field>
+<field name="checksum">066914462cc9687785964ab4179f7059</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">polk agee.PNG.preview.jpg</field>
+<field name="originalName">polk agee.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21750</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33939/5/polk%20agee.PNG.preview.jpg</field>
+<field name="checksum">b929a07cf1369d1403c276bd52eaee8f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790530_Polk_Agee.doc</field>
+<field name="originalName">19790530_Polk_Agee.doc</field>
+<field name="format">application/msword</field>
+<field name="size">133120</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33939/1/19790530_Polk_Agee.doc</field>
+<field name="checksum">a3a9ab8c6f7bcee5634a8978cf1b4311</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">polk agee.PNG</field>
+<field name="originalName">polk agee.PNG</field>
+<field name="format">image/png</field>
+<field name="size">47259</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33939/3/polk%20agee.PNG</field>
+<field name="checksum">0f26ff23d4c46a262fdfa1fae92f3396</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33939</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33939</field>
+<field name="lastModifyDate">2018-09-16 16:52:59.48</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

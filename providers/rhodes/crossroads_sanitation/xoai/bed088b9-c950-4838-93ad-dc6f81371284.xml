@@ -1,0 +1,143 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">UPI Radio Network</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-18T14:07:47Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-18T14:07:47Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-04-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33868</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680407_UPI_Radio_Newscasts-SS207</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">These are reports of Memphis news from January 16th to March 28th, 1968, originally released by UPI Radio Network (formerly UPI Audio).</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281523795</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Radio news programs</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">UPI Radio Network Newscasts, April 7th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI April 7th 1968.JPG</field>
+<field name="originalName">UPI April 7th 1968.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27186</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33868/1/UPI%20April%207th%201968.JPG</field>
+<field name="checksum">01780e2a5d5494c98630ed4257cde1f5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI April 7th 1968.JPG.jpg</field>
+<field name="originalName">UPI April 7th 1968.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3649</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33868/2/UPI%20April%207th%201968.JPG.jpg</field>
+<field name="checksum">bef2f647da5ebd2dc48e0340466ce0a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI April 7th 1968.JPG.preview.jpg</field>
+<field name="originalName">UPI April 7th 1968.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12441</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33868/3/UPI%20April%207th%201968.JPG.preview.jpg</field>
+<field name="checksum">08f0ae4218158f6c4f97aa8c7fdcf36a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33868</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33868</field>
+<field name="lastModifyDate">2018-07-30 16:28:38.353</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Rambonnet, E.A.</field>
+<field name="value">Zerilla, Paul</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:29Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:29Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1940-05-24</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34318</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to Paul Zerilla of the Palace Theatre about dates for westerns.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Affiliated Producers, Inc.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Theatres</field>
+<field name="value">Palace Theatre (Memphis, Tenn.)</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">E.A. Rambonnet Booking Letter to Palace Theatre, 1940</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg</field>
+<field name="originalName">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">303753</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34318/1/19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg</field>
+<field name="checksum">37d19686e09a8e7ab081735dd83162ad</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.jpg</field>
+<field name="originalName">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10826</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34318/2/19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.jpg</field>
+<field name="checksum">07effc879ac66c9db6ede52911dc7e01</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.preview.jpg</field>
+<field name="originalName">19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">57097</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34318/3/19400524_EA_Rambonnet_Letter_to_Palace_Theatre_117735.jpg.preview.jpg</field>
+<field name="checksum">2ab88e3310b1f385fca4ad27b5f89765</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34318</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34318</field>
+<field name="lastModifyDate">2018-10-18 15:40:17.484</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dreifus, Myra</field>
+<field name="value">Lewis, Selma S., 1921-</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-10-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33781</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19681030_Myra_Dreifus_SS094</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mrs. Myra Dreifus and Mrs. Selma Lewis. Myra Dreifus is the founder of the Fund for Needy Schoolchildren, and Selma Lewis was her right-hand worker.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281544696</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Myra Dreifus, Founder of the Fund for Needy Schoolchildren, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Myra Dreifus.JPG</field>
+<field name="originalName">Myra Dreifus.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">25930</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/1/Myra%20Dreifus.JPG</field>
+<field name="checksum">4ed43b6df52b440449c0fffb7c05b6ec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS094_transcript.pdf</field>
+<field name="originalName">SS094_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">163153</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/2/SS094_transcript.pdf</field>
+<field name="checksum">f1907dc6ba26b003702a30f09f83f915</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Myra Dreifus.JPG.jpg</field>
+<field name="originalName">Myra Dreifus.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4527</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/3/Myra%20Dreifus.JPG.jpg</field>
+<field name="checksum">b01789e3f1fb2d5c3a7affd506898a29</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS094_transcript.pdf.jpg</field>
+<field name="originalName">SS094_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12754</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/6/SS094_transcript.pdf.jpg</field>
+<field name="checksum">2b4e851554a1a7d24dbdc4b600c23b8a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Myra Dreifus.JPG.preview.jpg</field>
+<field name="originalName">Myra Dreifus.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">15395</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/4/Myra%20Dreifus.JPG.preview.jpg</field>
+<field name="checksum">019ee3ec00e909dc8757c942aa60c8f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS094_transcript.pdf.txt</field>
+<field name="originalName">SS094_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">99692</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33781/5/SS094_transcript.pdf.txt</field>
+<field name="checksum">a1a3fdcae1dc8f98a911ffc1878074d6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33781</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33781</field>
+<field name="lastModifyDate">2018-07-31 12:33:46.344</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

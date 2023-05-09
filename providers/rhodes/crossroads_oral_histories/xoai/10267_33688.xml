@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lewis, Doris Smith</field>
+<field name="value">Taylor, Ashleigh</field>
+<field name="value">Hoyle, Cris</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-06-03</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33688</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100603_Doris_Lewis</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Doris Jean Smith Lewis, a lifelong member of the Scuttlefield neighborhood, which is near Hyde Park. She has seen firsthand the changes that occurred within the community. As a schoolteacher Mrs. Lewis also educated some of the kids growing up in the neighborhoods around her. She is living proof that if you work hard and put your heart and soul into wanting to accomplish your goals, you can succeed.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278581736</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Doris Lewis, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.JPG</field>
+<field name="originalName">20100603_Doris_Lewis.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26911</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/1/20100603_Doris_Lewis.JPG</field>
+<field name="checksum">aac6692eb89f76468f5ca74994afe3d6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.pdf</field>
+<field name="originalName">20100603_Doris_Lewis.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">198318</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/2/20100603_Doris_Lewis.pdf</field>
+<field name="checksum">0c6ce341af35db0108c1787f46fbe17c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.JPG.jpg</field>
+<field name="originalName">20100603_Doris_Lewis.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8576</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/3/20100603_Doris_Lewis.JPG.jpg</field>
+<field name="checksum">c1fed83c8147c4fe6117ebcc090b942b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.pdf.jpg</field>
+<field name="originalName">20100603_Doris_Lewis.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12574</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/6/20100603_Doris_Lewis.pdf.jpg</field>
+<field name="checksum">b48bd7df12e1845b4d080f97bcb1ec27</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.JPG.preview.jpg</field>
+<field name="originalName">20100603_Doris_Lewis.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18714</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/4/20100603_Doris_Lewis.JPG.preview.jpg</field>
+<field name="checksum">b2e53fb43948f468531eb5663769b57a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100603_Doris_Lewis.pdf.txt</field>
+<field name="originalName">20100603_Doris_Lewis.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">38548</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33688/5/20100603_Doris_Lewis.pdf.txt</field>
+<field name="checksum">1ba58713c7e6aa8ced3b717e04ade212</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33688</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33688</field>
+<field name="lastModifyDate">2018-07-26 17:53:57.847</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

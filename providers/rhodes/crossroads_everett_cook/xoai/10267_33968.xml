@@ -1,0 +1,168 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Jemison, Peggy</field>
+<field name="value">Willis, A. W., 1925-1988</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:04Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:04Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-07-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33968</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790723_A_W_Willis</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview conducted by Metropolitan Inter-Faith Association (MIFA) with A.W. Willis about the Vollintine Evergreen Community.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289597462</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Law</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">A.W. Willis, civil rights lawyer and Memphis businessman, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790723_A_W_Willis.doc.txt</field>
+<field name="originalName">19790723_A_W_Willis.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">110507</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33968/2/19790723_A_W_Willis.doc.txt</field>
+<field name="checksum">f5a96cb3d4e77e4d8efd350f547c6d76</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">aw willis.PNG.jpg</field>
+<field name="originalName">aw willis.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5070</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33968/4/aw%20willis.PNG.jpg</field>
+<field name="checksum">265a2416ba3bcb851f250d4fe97d19b9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">aw willis.PNG.preview.jpg</field>
+<field name="originalName">aw willis.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17344</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33968/5/aw%20willis.PNG.preview.jpg</field>
+<field name="checksum">66438a76c093988bd720415f0e19ae7f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790723_A_W_Willis.doc</field>
+<field name="originalName">19790723_A_W_Willis.doc</field>
+<field name="format">application/msword</field>
+<field name="size">178688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33968/1/19790723_A_W_Willis.doc</field>
+<field name="checksum">388f69e6166d90822e440bcb70d36c26</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">aw willis.PNG</field>
+<field name="originalName">aw willis.PNG</field>
+<field name="format">image/png</field>
+<field name="size">60040</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33968/3/aw%20willis.PNG</field>
+<field name="checksum">6f5a176fc874dc714552fdf3afc299fd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33968</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33968</field>
+<field name="lastModifyDate">2018-09-12 19:59:25.419</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

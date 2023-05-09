@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Allen, Patricia</field>
+<field name="value">Lemus, Kimberly</field>
+<field name="value">Hibbert, Caroline</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:36Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:36Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-07-17</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33374</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130717_Patricia_Allen</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview of community member Patricia Allen from The Heights History Camp, 2013. Interviewed by Treadwell Middle students, sponsored by The Corners at Highland Heights Shalom Zone, Rhodes College, and The Center for Transforming Communities</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280407654</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Patricia Allen, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen</field>
+<field name="originalName">20130717_Patricia_Allen</field>
+<field name="format">image/jpeg</field>
+<field name="size">26603</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/1/20130717_Patricia_Allen</field>
+<field name="checksum">1da84e98522861fcf7a9fa1e8993e2a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen.pdf</field>
+<field name="originalName">20130717_Patricia_Allen.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">139733</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/2/20130717_Patricia_Allen.pdf</field>
+<field name="checksum">b473f3bec7aa14ad53fcb18e138a1ce2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen.jpg</field>
+<field name="originalName">20130717_Patricia_Allen.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8238</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/3/20130717_Patricia_Allen.jpg</field>
+<field name="checksum">6461ff70be1111c0a0b77738815bba04</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen.pdf.jpg</field>
+<field name="originalName">20130717_Patricia_Allen.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11266</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/6/20130717_Patricia_Allen.pdf.jpg</field>
+<field name="checksum">7876290e22424b6d2675de07ece05a3c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen.preview.jpg</field>
+<field name="originalName">20130717_Patricia_Allen.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18113</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/4/20130717_Patricia_Allen.preview.jpg</field>
+<field name="checksum">83cfecf21c0f254bbf9b9c14913fb64e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130717_Patricia_Allen.pdf.txt</field>
+<field name="originalName">20130717_Patricia_Allen.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">14113</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33374/5/20130717_Patricia_Allen.pdf.txt</field>
+<field name="checksum">ca1470ec9ffd1ffc64a001af44d7cd67</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33374</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33374</field>
+<field name="lastModifyDate">2018-07-17 12:57:23.394</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

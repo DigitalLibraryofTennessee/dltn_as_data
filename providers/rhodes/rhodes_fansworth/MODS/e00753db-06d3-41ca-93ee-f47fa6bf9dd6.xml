@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Farnsworth Inventory - John - 24</identifier>
+  <identifier type="local">FSPC - John - 587</identifier>
+  <titleInfo>
+    <title>Mrs. D.P. Bowers as Lady Constance</title>
+  </titleInfo>
+  <abstract>Mrs. D.P. Bowers as Lady Constance quotes "Here is my throne bid Kings come bow to it" in King John act 3 scene 1. Entered according to act of Congress AD 1856, by Martin, Johnson &amp; Co. in the clerk's office of the district court of the Southern district of New York.</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/9520</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/9520/3/FSPC_John_587.jpg.jpg</url>
+  </location>
+  <name>
+    <namePart>Buttre, John Chester, 1821-1893, del.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+    <dateOther>2011-04-13T00:49:13Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print</form>
+  </physicalDescription>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>King John (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Buttre, John Chester, 1821-1893--Engraver</topic>
+  </subject>
+  <subject>
+    <topic>Bowers, D.P.--Actress</topic>
+  </subject>
+  <subject>
+    <topic>Constance (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Crowns</topic>
+  </subject>
+  <subject>
+    <topic>Swords</topic>
+  </subject>
+  <subject>
+    <topic>Shields</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <subject>
+    <topic>Tents</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital images in this repository. Images are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu.</accessCondition>
+</mods>

@@ -1,0 +1,142 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">WMPS (Radio station : Bartlett, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T19:35:53Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T19:35:53Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-03-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33754</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680328-19680329_WMPS_Newscasts-SS238</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an audio recording from WMPS radio on March 28th, 1968. This "On-the-Spot" program offers live coverage of Dr. Martin Luther King, Jr.'s leadership of the Memphis Sanitation Worker's Strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281844628</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Radio news programs</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">WMPS On-the-spot Newscasts, March 28th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WMPS March 28th.JPG</field>
+<field name="originalName">WMPS March 28th.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27228</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33754/1/WMPS%20March%2028th.JPG</field>
+<field name="checksum">a18069524e98fc4e24ce0f8f87b3ae84</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WMPS March 28th.JPG.jpg</field>
+<field name="originalName">WMPS March 28th.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4060</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33754/2/WMPS%20March%2028th.JPG.jpg</field>
+<field name="checksum">09a2d54579fb70ca189782877b61c962</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">WMPS March 28th.JPG.preview.jpg</field>
+<field name="originalName">WMPS March 28th.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13578</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33754/3/WMPS%20March%2028th.JPG.preview.jpg</field>
+<field name="checksum">c1980666e125ce8116ba12cc5dd35923</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33754</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33754</field>
+<field name="lastModifyDate">2018-07-30 14:20:40.652</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

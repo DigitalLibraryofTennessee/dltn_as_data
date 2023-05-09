@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Luchessi, Linda</field>
+<field name="value">Whitehorn, Molly</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T14:48:49Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T14:48:49Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-09-06</field>
+</element>
+</element>
+<element name="graduation">
+<element name="none">
+<field name="value">2015</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33539</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130906_Linda_Luchessi</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Linda Luchessi conducted by Molly Whitehorn ('15) and Dr. John Bass on September 6, 2013.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281666213</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Mike Curb Institute for Music</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Linda Luchessi, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.PNG.jpg</field>
+<field name="originalName">20130906_Linda_Luchessi.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8800</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/3/20130906_Linda_Luchessi.PNG.jpg</field>
+<field name="checksum">ff38484e0999db706d3622e02658d7d3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.pdf.jpg</field>
+<field name="originalName">20130906_Linda_Luchessi.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10754</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/6/20130906_Linda_Luchessi.pdf.jpg</field>
+<field name="checksum">65d854e7eadd4cf6477f88f9c37aef5a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.PNG.preview.jpg</field>
+<field name="originalName">20130906_Linda_Luchessi.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">31775</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/4/20130906_Linda_Luchessi.PNG.preview.jpg</field>
+<field name="checksum">d3446a501a5e662af04e5e4039f88c4d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.pdf.txt</field>
+<field name="originalName">20130906_Linda_Luchessi.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">31166</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/5/20130906_Linda_Luchessi.pdf.txt</field>
+<field name="checksum">a28db55a4da70e1140bd7503043dcad3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.PNG</field>
+<field name="originalName">20130906_Linda_Luchessi.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1638722</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/1/20130906_Linda_Luchessi.PNG</field>
+<field name="checksum">eacf15932b050980d5cacf258513217a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130906_Linda_Luchessi.pdf</field>
+<field name="originalName">20130906_Linda_Luchessi.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">277953</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33539/2/20130906_Linda_Luchessi.pdf</field>
+<field name="checksum">a205c290aeb44dbcbe30066d150717a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33539</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33539</field>
+<field name="lastModifyDate">2018-07-26 16:25:46.948</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

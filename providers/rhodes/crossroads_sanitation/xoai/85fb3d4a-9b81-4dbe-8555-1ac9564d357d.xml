@@ -1,0 +1,215 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Aldridge, John W.</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Viar, Jerry</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T19:12:43Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T19:12:43Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33798</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680526_John_W_Aldridge-SS154-SS155</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Reverend John W. Aldridge who was a minister involved in the Sanitation Strike. He speaks about Ed Stanfield's report for the Southern Regional Council and his involvement with the strike as the only white minister present.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281529964</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. John W. Aldridge, Civil Rights Era Minister, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">John Aldridge.JPG</field>
+<field name="originalName">John Aldridge.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26169</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/1/John%20Aldridge.JPG</field>
+<field name="checksum">99389d8f5c55af052956bfb8daed1bb7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS154_transcript.pdf</field>
+<field name="originalName">SS154_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">111807</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/2/SS154_transcript.pdf</field>
+<field name="checksum">820a9d9b7b2353a417f6ba547c302777</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS155_transcript.pdf</field>
+<field name="originalName">SS155_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">92637</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/3/SS155_transcript.pdf</field>
+<field name="checksum">c5862c1c61de9b47d8ff36dba45cd9df</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">John Aldridge.JPG.jpg</field>
+<field name="originalName">John Aldridge.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3944</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/4/John%20Aldridge.JPG.jpg</field>
+<field name="checksum">6e16002c55aebc74215d6b79ea07116d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS154_transcript.pdf.jpg</field>
+<field name="originalName">SS154_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13591</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/7/SS154_transcript.pdf.jpg</field>
+<field name="checksum">b89b49e9eb469085852f0b7c4451b0e3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS155_transcript.pdf.jpg</field>
+<field name="originalName">SS155_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14736</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/9/SS155_transcript.pdf.jpg</field>
+<field name="checksum">9b30a466e34d86a21b3fe3378339aed2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">John Aldridge.JPG.preview.jpg</field>
+<field name="originalName">John Aldridge.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13077</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/5/John%20Aldridge.JPG.preview.jpg</field>
+<field name="checksum">0796ba953f7570a0ae5ccf430aa49550</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS154_transcript.pdf.txt</field>
+<field name="originalName">SS154_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">54618</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/6/SS154_transcript.pdf.txt</field>
+<field name="checksum">6fccc0ca2fc0b0eb896234fc0fe8126c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS155_transcript.pdf.txt</field>
+<field name="originalName">SS155_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">39970</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33798/8/SS155_transcript.pdf.txt</field>
+<field name="checksum">9e02aa32e8fd5bd6451a2a2f0d082fa1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33798</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33798</field>
+<field name="lastModifyDate">2018-07-30 11:56:05.584</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

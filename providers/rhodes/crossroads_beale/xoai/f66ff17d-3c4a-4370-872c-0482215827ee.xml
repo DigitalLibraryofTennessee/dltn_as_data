@@ -1,0 +1,122 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Beale Avenue Amusement Co.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1949-09-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34938</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A bank deposit form and a check from Beale Avenue Deposit Co. for the National Bank of Commerce in Memphis, Tennessee.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">National Bank of Commerce</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Beale Avenue Amusement Co. Financial Records, 1949</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.jpg</field>
+<field name="originalName">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13810</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34938/2/19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.jpg</field>
+<field name="checksum">30a6152b63a674c7e4695059fb21d703</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.preview.jpg</field>
+<field name="originalName">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">73434</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34938/3/19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg.preview.jpg</field>
+<field name="checksum">61d14594c96f13f0a8282f1edd4af5a7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg</field>
+<field name="originalName">19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1292755</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34938/1/19490405_Beale_Ave_Amusement_Co_Financial_Records_117779.jpg</field>
+<field name="checksum">48f0fe2eae0a4fff5e30dcee1a895cdb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34938</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34938</field>
+<field name="lastModifyDate">2018-11-16 15:33:59.809</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

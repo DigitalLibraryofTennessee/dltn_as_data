@@ -1,0 +1,123 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">United States Internal Revenue Service District Director</field>
+<field name="value">Pantaze Drug Store (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:26Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:26Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1967</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34302</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Pantaze_Drug_Store_label_and_receipt_117676</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A tax stamp issued to Pantaze Drug Store for the selling of certain "narcotics," and directional information for a certain medicine sold by the drug store.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stamp duties</field>
+<field name="value">Narcotics</field>
+<field name="value">Medicine</field>
+<field name="value">Drugstores</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Pantaze Drug Store, Drug Label and Receipt</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pantaze_Drug_Store_label_and_receipt_117676.jpg</field>
+<field name="originalName">Pantaze_Drug_Store_label_and_receipt_117676.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1857187</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34302/1/Pantaze_Drug_Store_label_and_receipt_117676.jpg</field>
+<field name="checksum">49fc8cc3887a313569deb59ae2122d3a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pantaze_Drug_Store_label_and_receipt_117676.jpg.jpg</field>
+<field name="originalName">Pantaze_Drug_Store_label_and_receipt_117676.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11944</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34302/2/Pantaze_Drug_Store_label_and_receipt_117676.jpg.jpg</field>
+<field name="checksum">82742827684b89c769780907d92e08b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pantaze_Drug_Store_label_and_receipt_117676.jpg.preview.jpg</field>
+<field name="originalName">Pantaze_Drug_Store_label_and_receipt_117676.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">64297</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34302/3/Pantaze_Drug_Store_label_and_receipt_117676.jpg.preview.jpg</field>
+<field name="checksum">82d3fe3b660ceab448e1aedb120fbdbe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34302</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34302</field>
+<field name="lastModifyDate">2018-11-15 11:41:08.098</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

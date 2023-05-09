@@ -1,0 +1,157 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Sanders, Charles L.,</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1960-01-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34179</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19600123_Sugarmon_Evers_Bates_Honors_769</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Details the life of W. O. Walker, recounting the success of his newspaper, the Call and Post, and his political activity. The article sits next to photos of Russell B. Sugarmon, Jr., O. Z. Evers, and L. C. Bates, who are recognized by the Chicago Defender for their work in civil rights.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Race relations</field>
+<field name="value">NAACP</field>
+<field name="value">Newpapers</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Walker, W.O.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Sugarmon, Evers, Bates Get Coveted Honors - Cited for Efforts in Arena of Civil Rights</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.jpg</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">914832</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/1/19600123_Sugarmon_Evers_Bates_Honors_769.jpg</field>
+<field name="checksum">876e5d1de4d8705bf51590392b0075a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.pdf</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">48981</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/4/19600123_Sugarmon_Evers_Bates_Honors_769.pdf</field>
+<field name="checksum">2160bc15c37297937b1225cc26c97aa9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.jpg.jpg</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18445</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/2/19600123_Sugarmon_Evers_Bates_Honors_769.jpg.jpg</field>
+<field name="checksum">c43e0510b1255b252d394c34cc803a90</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.pdf.jpg</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12436</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/6/19600123_Sugarmon_Evers_Bates_Honors_769.pdf.jpg</field>
+<field name="checksum">90955d31b3059851293094ab50640c70</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.jpg.preview.jpg</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">93872</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/3/19600123_Sugarmon_Evers_Bates_Honors_769.jpg.preview.jpg</field>
+<field name="checksum">147c75f3e3cf8183593cf1e1af502b38</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600123_Sugarmon_Evers_Bates_Honors_769.pdf.txt</field>
+<field name="originalName">19600123_Sugarmon_Evers_Bates_Honors_769.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">6136</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34179/5/19600123_Sugarmon_Evers_Bates_Honors_769.pdf.txt</field>
+<field name="checksum">e4b43e7fe08741553724e2065b746d01</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34179</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34179</field>
+<field name="lastModifyDate">2018-09-19 16:10:30.586</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,124 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1905-05-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34945</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1967_Club_Handy_Curly_Vending_Invoice_curly_117806</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An invoice from Curly's Vending Co. for Club Handy.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Curly's Vending Co.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Invoice for Curly's Vending Co., 1967</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG</field>
+<field name="originalName">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">197462</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34945/1/1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG</field>
+<field name="checksum">7a817cd19d3f7e592b024a67d6c64d01</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.jpg</field>
+<field name="originalName">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10262</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34945/2/1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.jpg</field>
+<field name="checksum">e2e275738f47d0395dd4b154d944df4f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.preview.jpg</field>
+<field name="originalName">1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">52297</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34945/3/1967_Club_Handy_Curly_Vending_Invoice_Curly_117806.JPG.preview.jpg</field>
+<field name="checksum">409462d88ba67e5b2520b475b9b6c5a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34945</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34945</field>
+<field name="lastModifyDate">2018-11-16 16:10:26.122</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

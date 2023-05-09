@@ -1,0 +1,183 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Crowns, Arthur</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Ausprich, Harry</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33889</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680513_Arthur_Crowns_SS122</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Arthur Crowns. Crowns was a professor of Sociology with emphasis on law enforcement education at Memphis State University and worked to set up programs with Memphis Policement Department.  A veteran of World War II, Crowns obtained JD degree in 1950 at the University of Wisconsin.  He also earned advanced degree in law enforcement education at Florida State and came to Memphis State in 1967 to head law enforcement degree program in the sociology department.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281527770</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Arthur Crowns, Prof. of Sociology at Memphis State Univ., 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS122_transcript.pdf</field>
+<field name="originalName">SS122_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">206196</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/1/SS122_transcript.pdf</field>
+<field name="checksum">e83f32e3dfbc8a3475e851042d22b760</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">crowns.PNG</field>
+<field name="originalName">crowns.PNG</field>
+<field name="format">image/png</field>
+<field name="size">57914</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/2/crowns.PNG</field>
+<field name="checksum">aaf83534b10c272ef4ea327622fbe75b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS122_transcript.pdf.txt</field>
+<field name="originalName">SS122_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">113956</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/3/SS122_transcript.pdf.txt</field>
+<field name="checksum">d4c0c7891b630431a54b451d7781d002</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS122_transcript.pdf.jpg</field>
+<field name="originalName">SS122_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12921</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/4/SS122_transcript.pdf.jpg</field>
+<field name="checksum">b5fde357d6b8733abecf1c771538978a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">crowns.PNG.jpg</field>
+<field name="originalName">crowns.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5392</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/5/crowns.PNG.jpg</field>
+<field name="checksum">b5c3c0bff729c8a4e41363f7812e9922</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">crowns.PNG.preview.jpg</field>
+<field name="originalName">crowns.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17735</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33889/6/crowns.PNG.preview.jpg</field>
+<field name="checksum">d9d8b500d910a0c19b370dd681041246</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33889</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33889</field>
+<field name="lastModifyDate">2018-07-30 15:43:00.789</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

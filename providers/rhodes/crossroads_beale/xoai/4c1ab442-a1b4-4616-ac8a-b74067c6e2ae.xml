@@ -1,0 +1,119 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Tennessee Department of Conservation</field>
+<field name="value">Pantaze Drug Store (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1965-09-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34298</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19650929_Hotel_Inspection_Certificate_117662</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An inspection certificate with an "A" rating for the Pantaze Drug Store from the State of Tennessee Department of Conservation, Division of Hotel and Restaurant Inspection.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Drugstores</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Pantaze Drug Store Inspection Certificate, 1965</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19650929_Hotel_Inspection_Certificate_117662.jpg.jpg</field>
+<field name="originalName">19650929_Hotel_Inspection_Certificate_117662.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11287</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34298/2/19650929_Hotel_Inspection_Certificate_117662.jpg.jpg</field>
+<field name="checksum">708879cf6e3c1b323b98ca2c70b5663e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19650929_Hotel_Inspection_Certificate_117662.jpg.preview.jpg</field>
+<field name="originalName">19650929_Hotel_Inspection_Certificate_117662.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55739</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34298/3/19650929_Hotel_Inspection_Certificate_117662.jpg.preview.jpg</field>
+<field name="checksum">afd7ad26694188398136884c4d1c5faf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19650929_Hotel_Inspection_Certificate_117662.jpg</field>
+<field name="originalName">19650929_Hotel_Inspection_Certificate_117662.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">591489</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34298/1/19650929_Hotel_Inspection_Certificate_117662.jpg</field>
+<field name="checksum">48f5cdd51e74bb9d57754a6955cdd6e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34298</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34298</field>
+<field name="lastModifyDate">2018-11-15 15:30:47.828</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

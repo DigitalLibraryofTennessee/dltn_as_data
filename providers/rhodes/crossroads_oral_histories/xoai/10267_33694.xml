@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Buehler, Phyllis</field>
+<field name="value">Ren, Bing</field>
+<field name="value">Taylor, Ashleigh</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-15</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33694</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100715_Phyllis_Buehler</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Phyllis Buehler, an educator in Memphis. She grew up in Memphis, and now she is teaching math at her alma mater, Central High School. She discusses how Memphis has changed and grown since she was born.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280266828</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Phyllis Buehler, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.JPG.jpg</field>
+<field name="originalName">20100715_Phyllis_Buehler.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11419</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/3/20100715_Phyllis_Buehler.JPG.jpg</field>
+<field name="checksum">5b2892c0893a7180cff670a93b0af318</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.pdf.jpg</field>
+<field name="originalName">20100715_Phyllis_Buehler.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11159</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/6/20100715_Phyllis_Buehler.pdf.jpg</field>
+<field name="checksum">7d54d3a54b7e204599986013736708d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.JPG.preview.jpg</field>
+<field name="originalName">20100715_Phyllis_Buehler.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">46732</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/4/20100715_Phyllis_Buehler.JPG.preview.jpg</field>
+<field name="checksum">5f99c33cb96b963ecb3e9e733b177def</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.pdf.txt</field>
+<field name="originalName">20100715_Phyllis_Buehler.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">31908</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/5/20100715_Phyllis_Buehler.pdf.txt</field>
+<field name="checksum">20625b085e69b521a8a120ce978d27c5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.JPG</field>
+<field name="originalName">20100715_Phyllis_Buehler.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">107350</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/1/20100715_Phyllis_Buehler.JPG</field>
+<field name="checksum">1f9b9b18aa72c28336f787725f2e27bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100715_Phyllis_Buehler.pdf</field>
+<field name="originalName">20100715_Phyllis_Buehler.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">183132</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33694/2/20100715_Phyllis_Buehler.pdf</field>
+<field name="checksum">8d5235eb73204c7ead7ccf6c09cc851a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33694</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33694</field>
+<field name="lastModifyDate">2018-07-17 09:16:54.627</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

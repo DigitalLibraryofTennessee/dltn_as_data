@@ -1,0 +1,117 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hill, Bill Jr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34946</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Bill_Hill_Colt_Booking_Agency_letter_117831</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from Colt Booking Agency advertising their bands for availability.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Colt Booking Agency</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Music</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Colt Booking Agency</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg</field>
+<field name="originalName">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">353369</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34946/1/Bill_Hill_Colt_Booking_Agency_letter_117831.jpg</field>
+<field name="checksum">3a5a22340ca86140b10b5c3431833e89</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.jpg</field>
+<field name="originalName">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13110</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34946/2/Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.jpg</field>
+<field name="checksum">a5d06931a5141c771d039b637ce22d54</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.preview.jpg</field>
+<field name="originalName">Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">65991</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34946/3/Bill_Hill_Colt_Booking_Agency_letter_117831.jpg.preview.jpg</field>
+<field name="checksum">dc13c4adff7824ee7c98a32d568866c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34946</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34946</field>
+<field name="lastModifyDate">2018-11-16 15:40:36.0</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

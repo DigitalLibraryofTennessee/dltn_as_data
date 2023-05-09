@@ -1,0 +1,128 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Carr, Billie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1976</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34196</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1976_Letter_from_Billie_Carr_797</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from Democratic National Committee Member, Billie Carr to his fellow members of the DNC. He is informing the members about the future business of the committee in the upcoming conferences, campaigns and elections.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Letter</field>
+<field name="value">Democratic National Committee (U.S.)</field>
+<field name="value">Political campaigns</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Billie Carr, DNC Texas to National Committee Members</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1976_Letter_from_Billie_Carr_797.pdf.txt</field>
+<field name="originalName">1976_Letter_from_Billie_Carr_797.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">3829</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34196/3/1976_Letter_from_Billie_Carr_797.pdf.txt</field>
+<field name="checksum">f062e58f4cc74ff9aa575e70d1d0f112</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1976_Letter_from_Billie_Carr_797.pdf.jpg</field>
+<field name="originalName">1976_Letter_from_Billie_Carr_797.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15279</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34196/4/1976_Letter_from_Billie_Carr_797.pdf.jpg</field>
+<field name="checksum">f74de95d59243197f1fecc7e369eb2d0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1976_Letter_from_Billie_Carr_797.jpg</field>
+<field name="originalName">1976_Letter_from_Billie_Carr_797.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1331152</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34196/1/1976_Letter_from_Billie_Carr_797.jpg</field>
+<field name="checksum">5ccd86489461b581ebf6b47e102b1733</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">1976_Letter_from_Billie_Carr_797.pdf</field>
+<field name="originalName">1976_Letter_from_Billie_Carr_797.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">41518</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34196/2/1976_Letter_from_Billie_Carr_797.pdf</field>
+<field name="checksum">1f463b985a6c2584bdb322cc2472cc77</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34196</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34196</field>
+<field name="lastModifyDate">2018-09-20 12:33:38.687</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

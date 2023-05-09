@@ -1,0 +1,239 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Handwritten sheet music by an unknown author for a song titled "I Had a Ball."</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34296</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Handwritten_Sheet_Music_117659</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sheet music</field>
+<field name="value">Blues (Music)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Handwritten Sheet Music</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_1.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">241455</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/1/Handwritten_Sheet_Music_117659_1.jpg</field>
+<field name="checksum">0eca79e4ef513d46b73e38e8aa421285</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_2.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1645499</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/2/Handwritten_Sheet_Music_117659_2.jpg</field>
+<field name="checksum">ebe0bcc57a12e8440ae75061187e11ab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_3.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_3.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2017685</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/3/Handwritten_Sheet_Music_117659_3.jpg</field>
+<field name="checksum">194f88396977bc425ae081461fdd3877</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_4.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_4.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2391162</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/4/Handwritten_Sheet_Music_117659_4.jpg</field>
+<field name="checksum">75dd99b3aed7706b631d83cbdad61c03</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_5.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_5.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1880679</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/5/Handwritten_Sheet_Music_117659_5.jpg</field>
+<field name="checksum">8453b8d1fe52d47f5545f41cef2ccf3d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_1.jpg.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11305</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/6/Handwritten_Sheet_Music_117659_1.jpg.jpg</field>
+<field name="checksum">3a76753e1dbe96d175c766434347298c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_2.jpg.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14532</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/8/Handwritten_Sheet_Music_117659_2.jpg.jpg</field>
+<field name="checksum">5839b4fce3da0f8c628fc0473f0596a7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_3.jpg.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_3.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20572</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/10/Handwritten_Sheet_Music_117659_3.jpg.jpg</field>
+<field name="checksum">050e90ade1d1dc87a15ab43c252cfb57</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_4.jpg.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_4.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">25064</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/12/Handwritten_Sheet_Music_117659_4.jpg.jpg</field>
+<field name="checksum">64c007439a819a2698e3ae2aedec2bce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_5.jpg.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_5.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17544</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/14/Handwritten_Sheet_Music_117659_5.jpg.jpg</field>
+<field name="checksum">18d72cdf4de2947d32909fde84355103</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_1.jpg.preview.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45442</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/7/Handwritten_Sheet_Music_117659_1.jpg.preview.jpg</field>
+<field name="checksum">fb581a7dc75ffa38439a0943717031af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_2.jpg.preview.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">76423</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/9/Handwritten_Sheet_Music_117659_2.jpg.preview.jpg</field>
+<field name="checksum">861af5eacf27b964c50c77af3560ab68</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_3.jpg.preview.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_3.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">103222</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/11/Handwritten_Sheet_Music_117659_3.jpg.preview.jpg</field>
+<field name="checksum">3e1ab5a4a3a11922db8202158533d65f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_4.jpg.preview.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_4.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">124314</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/13/Handwritten_Sheet_Music_117659_4.jpg.preview.jpg</field>
+<field name="checksum">54e31f337c128fd9aea1d1a21f60906c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">Handwritten_Sheet_Music_117659_5.jpg.preview.jpg</field>
+<field name="originalName">Handwritten_Sheet_Music_117659_5.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">89991</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34296/15/Handwritten_Sheet_Music_117659_5.jpg.preview.jpg</field>
+<field name="checksum">d9a3593584a0dca0475196081eba83d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34296</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34296</field>
+<field name="lastModifyDate">2018-10-11 18:36:21.669</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

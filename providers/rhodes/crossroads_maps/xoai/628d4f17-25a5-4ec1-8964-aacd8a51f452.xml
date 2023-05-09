@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Orange Mound</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:39Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:39Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1928</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31155</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1928 Orange Mounds Park Map</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Map of the preposed section of land set aside for a "colored" playground" in the Orange Mounds nieghborhood of Memphis</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Orange Mound (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Orange Mound Park Map, 1928</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1928 Orange Mounds Park.jpg.jpg</field>
+<field name="originalName">1928 Orange Mounds Park.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9616</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31155/2/1928%20Orange%20Mounds%20Park.jpg.jpg</field>
+<field name="checksum">c6d30c93ff6a172a3c4a3e9abfdd89ce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1928 Orange Mounds Park.jpg</field>
+<field name="originalName">1928 Orange Mounds Park.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">3029420</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31155/1/1928%20Orange%20Mounds%20Park.jpg</field>
+<field name="checksum">e73e302f3d1876c943715e17ed2bdf3c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1928 Orange Mounds Park.jpg.preview.jpg</field>
+<field name="originalName">1928 Orange Mounds Park.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">59280</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31155/3/1928%20Orange%20Mounds%20Park.jpg.preview.jpg</field>
+<field name="checksum">37a6772305b0c026d946cb7181eb0a4f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31155</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31155</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.834</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

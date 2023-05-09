@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">FSPC-Ham-058</identifier>
+  <identifier type="local">Farnsworth Inventory List-Ham-16</identifier>
+  <titleInfo>
+    <title>Mr. Barry Sullivan as Hamlet</title>
+  </titleInfo>
+  <abstract>Hamlet quotes: "Slanders sir: for the satirical rogue says here, that old men have gray beards; that their faces are wrinkled; their eyes purging thick amber and plum tree gum; and that they have a plentiful lack of wit, together with most weakhams. All of which, sir, though I most powerfully and potently believe, yet I hold it not honestly to have it thus set down; for you yourself, sir, should be as old as I am, if, like a crab, you could go backward."</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/4485</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/4485/3/FSPC_Ham_058.jpg.jpg</url>
+  </location>
+  <name>
+    <namePart>Moore, J. C., 1829-1880, del.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Mayall, John Jabez Edwin, 1810-1901, photographer</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2009-11-03T19:36:12Z</dateCreated>
+    <publisher>London and New York : John Tallis</publisher>
+    <dateOther>2009-11-03T19:36:12Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print from a daguerreotype by Mayall, hxw, 2.78cm x 1.8cm</form>
+  </physicalDescription>
+  <subject>
+    <topic>Sullivan, Barry, 1821-1891--Actor</topic>
+  </subject>
+  <subject>
+    <topic>Daguerreotype</topic>
+  </subject>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <subject>
+    <topic>Hamlet (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Moore, J. C., 1829-1880--Artist</topic>
+  </subject>
+  <subject>
+    <topic>Mayall, John Jabez Edwin, 1810-1901--Photographer</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <language>
+    <languageTerm>English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital objects in this collection. Objects are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu. Fees may apply.</accessCondition>
+</mods>

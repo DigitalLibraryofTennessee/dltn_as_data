@@ -1,0 +1,169 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Jemison, Peggy</field>
+<field name="value">Rhodes, Peyton Nalle, 1900-1984</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-08-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33957</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790807_Peyton_Rhodes</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Dr. Peyton Rhodes, President Emeritus of Southwestern at Memphis. Rhodes tells his story of moving to and settling in Memphis as well as Southwestern&#65533;s start in Memphis. He explains the development of Southwestern's campus and gives a brief history of the buildings and the people involved. Rhodes discusses the school's integration and the racial layout of the student body and faculty. This interview was conducted in 1979.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289599757</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Rhodes College</field>
+<field name="value">Southwestern at Memphis</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dr. Peyton Rhodes, President Emeritus of Southwestern at Memphis, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">peyton rhodes.PNG.jpg</field>
+<field name="originalName">peyton rhodes.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5121</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33957/4/peyton%20rhodes.PNG.jpg</field>
+<field name="checksum">a2ca337c74025cadebefe24260d17fe8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">peyton rhodes.PNG.preview.jpg</field>
+<field name="originalName">peyton rhodes.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18481</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33957/5/peyton%20rhodes.PNG.preview.jpg</field>
+<field name="checksum">e37e3ee1e1d9d97a6284cb0acbabaa62</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">peyton rhodes.PNG</field>
+<field name="originalName">peyton rhodes.PNG</field>
+<field name="format">image/png</field>
+<field name="size">67629</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33957/3/peyton%20rhodes.PNG</field>
+<field name="checksum">3b9415f264ffc2a54fd5b2245783acbe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19790807_Peyton_Rhodes.doc</field>
+<field name="originalName">19790807_Peyton_Rhodes.doc</field>
+<field name="format">application/msword</field>
+<field name="size">129536</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33957/1/19790807_Peyton_Rhodes.doc</field>
+<field name="checksum">7e8caaa3b8207e0c29d004d5b77975b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790807_Peyton_Rhodes.doc.txt</field>
+<field name="originalName">19790807_Peyton_Rhodes.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">69207</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33957/2/19790807_Peyton_Rhodes.doc.txt</field>
+<field name="checksum">016a09566aa07d9919f058decf176be1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33957</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33957</field>
+<field name="lastModifyDate">2018-09-12 20:21:21.144</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

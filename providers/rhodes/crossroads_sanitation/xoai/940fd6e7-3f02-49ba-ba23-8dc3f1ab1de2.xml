@@ -1,0 +1,186 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Newsum, Floyd</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Viar, Wilson</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:18Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:18Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33893</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680516_Floyd_Newsum-SS128</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Floyd Newsum. Newsum was a Memphis city fireman. He was assigned to fire station #2 across from Lorraine Motel.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281528358</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Lorraine Motel</field>
+</element>
+<element name="none">
+<field name="value">Memphis (Tenn.). Fire Department</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Floyd Newsum, Memphis City Fireman, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS128_transcript.pdf</field>
+<field name="originalName">SS128_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">90423</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/1/SS128_transcript.pdf</field>
+<field name="checksum">38733ca0f01e7f8fabb84d4fa47d9991</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">floyd newsum.PNG</field>
+<field name="originalName">floyd newsum.PNG</field>
+<field name="format">image/png</field>
+<field name="size">39637</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/2/floyd%20newsum.PNG</field>
+<field name="checksum">d7539049f7ceacf7d3f7bc3af8824d33</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS128_transcript.pdf.txt</field>
+<field name="originalName">SS128_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">40378</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/3/SS128_transcript.pdf.txt</field>
+<field name="checksum">b8852bea91853aa8ebcb3056c190d093</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS128_transcript.pdf.jpg</field>
+<field name="originalName">SS128_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11976</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/4/SS128_transcript.pdf.jpg</field>
+<field name="checksum">f41276947767f0b9afb9358e3642b327</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">floyd newsum.PNG.jpg</field>
+<field name="originalName">floyd newsum.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4595</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/5/floyd%20newsum.PNG.jpg</field>
+<field name="checksum">847a9905d526a026a5e8bcc8f156180e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">floyd newsum.PNG.preview.jpg</field>
+<field name="originalName">floyd newsum.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">16552</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33893/6/floyd%20newsum.PNG.preview.jpg</field>
+<field name="checksum">6bba5e31430fc4d45d52be6e7b1e58c5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33893</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33893</field>
+<field name="lastModifyDate">2018-07-30 14:42:41.789</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

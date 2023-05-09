@@ -1,0 +1,167 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Boles, Raymond</field>
+<field name="value">Wigginton, Russell Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34007</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Boles_Raymond</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An audio interview conducted by StoryCorps at Rhodes College in which Dr. Russell Wigginton interviews Mr. Raymond Boles who has been working at Rhodes for 46 years. Mr. Boles talks about his life on a farm and how that's affected him today. He also speaks about his interaction with Rhodes students and how personable he was.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116818</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">StoryCorps</field>
+<field name="value">Farms</field>
+<field name="value">African Americans</field>
+<field name="value">Segregation</field>
+<field name="value">Segregation in education</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Raymond Boles and Russ Wigginton, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RB_tn.JPG.jpg</field>
+<field name="originalName">RB_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10069</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/2/RB_tn.JPG.jpg</field>
+<field name="checksum">ff108dfa4043e16a736bc3170cdbf040</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Raymond_Boles.pdf.jpg</field>
+<field name="originalName">20071116_Raymond_Boles.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9402</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/6/20071116_Raymond_Boles.pdf.jpg</field>
+<field name="checksum">29f064c41f7bbc38bfe2e78c3660bcde</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RB_tn.JPG.preview.jpg</field>
+<field name="originalName">RB_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45190</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/3/RB_tn.JPG.preview.jpg</field>
+<field name="checksum">aeb3f8195535f3d4cf4884657131afe9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RB_tn.JPG</field>
+<field name="originalName">RB_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">3220099</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/1/RB_tn.JPG</field>
+<field name="checksum">098f963b6e2dcc2cdebc55a03b70e61b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Raymond_Boles.pdf</field>
+<field name="originalName">20071116_Raymond_Boles.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">96293</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/4/20071116_Raymond_Boles.pdf</field>
+<field name="checksum">e1baf6bc04e89539fb3c674efcbd6d94</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Raymond_Boles.pdf.txt</field>
+<field name="originalName">20071116_Raymond_Boles.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34017</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34007/5/20071116_Raymond_Boles.pdf.txt</field>
+<field name="checksum">79edc3008b176b70a91c0c68de9d6d27</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34007</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34007</field>
+<field name="lastModifyDate">2018-09-10 12:07:26.562</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

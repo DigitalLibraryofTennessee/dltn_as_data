@@ -1,0 +1,178 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Willis, Marc</field>
+<field name="value">Jeffries, Joshua</field>
+<field name="value">Borst-Censullo, Stefan</field>
+<field name="value">Willis, Marc</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-07-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33497</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070725_Marc_Willis</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Marc Willis, who is currently CEO of Soulsville U.S.A. in Memphis, Tennessee. The youngest child of prominent Memphis Civil Rights Attorney and politician A.W. Willis, Marc Willis recalls growing up amidst his father's then bustling political career in the 60's and early 70's. Furthermore, Mr. Willis explains how growing up amidst the Civil Rights Movement influenced his current career choice.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278557472</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Soulsville U.S.A. (Memphis, Tenn.)</field>
+<field name="value">Stax Records</field>
+<field name="value">Willis, A. W., 1925-1988</field>
+<field name="value">Music</field>
+<field name="value">Politics</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">Brown, James, 1933-2006</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Marc Willis, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.JPG</field>
+<field name="originalName">20070725_Marc_Willis.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">33124</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/1/20070725_Marc_Willis.JPG</field>
+<field name="checksum">d0f10dc5bf8434d5b576c912a264b28b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.pdf</field>
+<field name="originalName">20070725_Marc_Willis.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">308712</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/2/20070725_Marc_Willis.pdf</field>
+<field name="checksum">8404dbd94c829e572169ba9dbc23d3c8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.JPG.jpg</field>
+<field name="originalName">20070725_Marc_Willis.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8611</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/3/20070725_Marc_Willis.JPG.jpg</field>
+<field name="checksum">e95de0ac41ec661aeb3c054de31bfde3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.pdf.jpg</field>
+<field name="originalName">20070725_Marc_Willis.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13157</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/6/20070725_Marc_Willis.pdf.jpg</field>
+<field name="checksum">b91e65bece0207f59763e4191bed1f71</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.JPG.preview.jpg</field>
+<field name="originalName">20070725_Marc_Willis.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">23679</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/4/20070725_Marc_Willis.JPG.preview.jpg</field>
+<field name="checksum">d9133b513b38c4cac4edec867ba48de7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070725_Marc_Willis.pdf.txt</field>
+<field name="originalName">20070725_Marc_Willis.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">53467</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33497/5/20070725_Marc_Willis.pdf.txt</field>
+<field name="checksum">3c16e9191753dcb80625136902173a04</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33497</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33497</field>
+<field name="lastModifyDate">2018-07-10 15:56:15.711</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,188 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Davis, Fred</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:58Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:58Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1964-09-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34182</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A news release from Fred Davis and Rufus Jones. Davis and Jones were removed from their positions as auditors for the State Department of Revenue by Commissioner Donald King. The two men dispute public claims that their job performance was not satisfactory and suggest that they were removed because African-American organizations to which they belonged supported the governor's opponent, Ross Bass, in the August 6 primary election for the United States Senate.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+<field name="value">Tennessee</field>
+<field name="value">Bass, Ross, 1918-1993</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Immediate Press Release Regarding the Firing of Fred Davis and Rufus Jones from the State Department of Revenue</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1625143</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/1/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg</field>
+<field name="checksum">9472bdfb31f88fd77d100ac05f235097</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1649974</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/2/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg</field>
+<field name="checksum">c59bacc26471d243d02e5c5ea820117d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">40910</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/3/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf</field>
+<field name="checksum">ec50f931b15eada121df652abf99ae41</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16225</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/4/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.jpg</field>
+<field name="checksum">40b850948d5e824e8d96d40ecc42008a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15676</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/6/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.jpg</field>
+<field name="checksum">35faee6d522b0f61d5f9340b2c71ea0b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14220</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/9/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.jpg</field>
+<field name="checksum">e313bc432593dca7356b9c841b3176e7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.preview.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">69061</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/5/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_1.jpg.preview.jpg</field>
+<field name="checksum">230522a5c20cba116a289196c86bed70</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.preview.jpg</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">66931</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/7/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709_2.jpg.preview.jpg</field>
+<field name="checksum">91792b39c200cd49923e0fa97b636caa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.txt</field>
+<field name="originalName">19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">3408</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34182/8/19640901_News_Release_From_Fred_Davis_and_Rufus_Jones_709.pdf.txt</field>
+<field name="checksum">1c3ee63e71d4b8dc4c4b799eff98c80c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34182</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34182</field>
+<field name="lastModifyDate">2018-09-19 17:22:49.117</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

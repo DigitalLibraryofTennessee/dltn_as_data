@@ -1,0 +1,120 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Garner, Riley C.</field>
+<field name="value">Mitchell's Grill (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:29Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:29Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1955</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34314</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1955_Mitchells_Grill_Tax_Forms_117730</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Two tax notices sent to Mitchell's Grill from the Riley Garner, Shelby County Trustee.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Restaurants</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Mitchell's Grill Tax Forms, 1955-1956</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Mitchells_Grill_Tax_Forms_117730.jpg</field>
+<field name="originalName">1955_Mitchells_Grill_Tax_Forms_117730.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">477205</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34314/1/1955_Mitchells_Grill_Tax_Forms_117730.jpg</field>
+<field name="checksum">ce13241563b88ba3dc36440747faaaf8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Mitchells_Grill_Tax_Forms_117730.jpg.jpg</field>
+<field name="originalName">1955_Mitchells_Grill_Tax_Forms_117730.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">21340</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34314/2/1955_Mitchells_Grill_Tax_Forms_117730.jpg.jpg</field>
+<field name="checksum">1bec4c84e4e5ab5a465612bee6762e3d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1955_Mitchells_Grill_Tax_Forms_117730.jpg.preview.jpg</field>
+<field name="originalName">1955_Mitchells_Grill_Tax_Forms_117730.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">105331</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34314/3/1955_Mitchells_Grill_Tax_Forms_117730.jpg.preview.jpg</field>
+<field name="checksum">b3ece48060f7c799b7cc6b717adfa4b1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34314</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34314</field>
+<field name="lastModifyDate">2018-10-17 16:54:28.648</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

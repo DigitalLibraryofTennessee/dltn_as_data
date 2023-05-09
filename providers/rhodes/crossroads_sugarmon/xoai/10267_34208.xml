@@ -1,0 +1,109 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34208</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Photo_Russell_Sugarmon_and_unknown_officials_803</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A photograph of Russell Sugarmon and other unknown officials participating in the presentation of a certificate</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Tennessee</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Photographs</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Photograph of Russell B. Sugarmon and unknown officials</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.jpg</field>
+<field name="originalName">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14624</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34208/2/Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.jpg</field>
+<field name="checksum">04788873bf6195671eec9897b213245f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.preview.jpg</field>
+<field name="originalName">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">69819</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34208/3/Photo_Russell_Sugarmon_and_unknown_officials_803.jpg.preview.jpg</field>
+<field name="checksum">6dc586ae7fd93305747b62f6a5312f3b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg</field>
+<field name="originalName">Photo_Russell_Sugarmon_and_unknown_officials_803.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">553781</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34208/1/Photo_Russell_Sugarmon_and_unknown_officials_803.jpg</field>
+<field name="checksum">1cee0c061e96c080f5a34431657fe20a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34208</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34208</field>
+<field name="lastModifyDate">2018-09-17 16:41:30.243</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Shelby County</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1994</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31157</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1994 Preposed Shelby County Census Tracts</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Map of preposed 1994 Census Tracts for Memphis, TN.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Census</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Preposed Shelby County Census Tracts, 1994</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1994 Preposed Shelby County Census Tracts.jpg</field>
+<field name="originalName">1994 Preposed Shelby County Census Tracts.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">28860</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31157/2/1994%20Preposed%20Shelby%20County%20Census%20Tracts.jpg</field>
+<field name="checksum">9e752941cac2e8301ecdb2382e71ba4a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1994 Preposed Shelby County Census Tracts</field>
+<field name="originalName">1994 Preposed Shelby County Census Tracts</field>
+<field name="format">image/jpeg</field>
+<field name="size">791588</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31157/1/1994%20Preposed%20Shelby%20County%20Census%20Tracts</field>
+<field name="checksum">c8134cd75e5feb4e21ab1632a3bc97a3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1994 Preposed Shelby County Census Tracts.preview.jpg</field>
+<field name="originalName">1994 Preposed Shelby County Census Tracts.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">161576</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31157/3/1994%20Preposed%20Shelby%20County%20Census%20Tracts.preview.jpg</field>
+<field name="checksum">9945bf096e8d6335bbe571730122584e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31157</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31157</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.967</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

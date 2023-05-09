@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Snowden-Jones, Dorothy (Happy)</field>
+<field name="value">Smith, Tiffani</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-07-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33664</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080714_Dorothy_Happy_Jones</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Dorothy "Happy" Jones. In the interview she talks about working with the Memphis Panel of American Women, the Republican Party and the Concerned Women of Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280259311</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Panel of American Women</field>
+<field name="value">Politics</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dorothy Jones, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.JPG</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">89105</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/1/20080714_Dorothy_Happy_Jones.JPG</field>
+<field name="checksum">7301dea1606f7e8a2a5d32c664e7b7b6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.pdf</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">219237</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/2/20080714_Dorothy_Happy_Jones.pdf</field>
+<field name="checksum">f5cfa5c014ab0b8cb66696e4b6db2e7d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.JPG.jpg</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10949</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/3/20080714_Dorothy_Happy_Jones.JPG.jpg</field>
+<field name="checksum">e9ef432e7167ff2cf3c708ea33f08cfb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.pdf.jpg</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12071</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/6/20080714_Dorothy_Happy_Jones.pdf.jpg</field>
+<field name="checksum">dc4fc08c8447307f42c3ab245f599866</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.JPG.preview.jpg</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">41762</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/4/20080714_Dorothy_Happy_Jones.JPG.preview.jpg</field>
+<field name="checksum">48131e912e79fd425bf028639b903dac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080714_Dorothy_Happy_Jones.pdf.txt</field>
+<field name="originalName">20080714_Dorothy_Happy_Jones.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">40520</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33664/5/20080714_Dorothy_Happy_Jones.pdf.txt</field>
+<field name="checksum">ca038d0ae9e851930e48df17083fa7fe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33664</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33664</field>
+<field name="lastModifyDate">2018-07-16 15:46:08.042</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,311 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hunvald, Edward H.</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1973-01-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33879</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19730116_Edward_Hunvald-SS343-SS345</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Edward Hunvald. Retired Advertising Manager for Goldsmith's Department Store and complier of a series of newspaper clipping files on Memphis social attitudes, politics and race relations over a series of decades.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281551454</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Memphis, (Tenn.) -- Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Edward Hunvald, Advertising Manager for Goldsmith's Department Store, 1973</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS343_transcript.pdf</field>
+<field name="originalName">SS343_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">161452</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/1/SS343_transcript.pdf</field>
+<field name="checksum">8c610756045664c242a39fa910ae3b7c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS344_transcript.pdf</field>
+<field name="originalName">SS344_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">163153</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/2/SS344_transcript.pdf</field>
+<field name="checksum">ed2a8ba35794b7d8b6d885f369af49f4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS345_transcript.pdf</field>
+<field name="originalName">SS345_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">126544</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/3/SS345_transcript.pdf</field>
+<field name="checksum">037e01e62d216bc68c5d45419b04ea9a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">edward hunvald.PNG</field>
+<field name="originalName">edward hunvald.PNG</field>
+<field name="format">image/png</field>
+<field name="size">56465</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/4/edward%20hunvald.PNG</field>
+<field name="checksum">d31b3b1790731a419952dbda91b7de10</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS343.pdf.txt</field>
+<field name="originalName">SS343.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">72790</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/5/SS343.pdf.txt</field>
+<field name="checksum">57324523806ad755ec1c110c8b31635f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS344.pdf.txt</field>
+<field name="originalName">SS344.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">73150</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/7/SS344.pdf.txt</field>
+<field name="checksum">9356975a14cdc1daf7d5883b06e10dbb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS345.pdf.txt</field>
+<field name="originalName">SS345.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">44347</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/9/SS345.pdf.txt</field>
+<field name="checksum">6bcca3ed0f83f2ab0c9b761c8e41b27e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS343_transcript.pdf.txt</field>
+<field name="originalName">SS343_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">72790</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/13/SS343_transcript.pdf.txt</field>
+<field name="checksum">57324523806ad755ec1c110c8b31635f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS344_transcript.pdf.txt</field>
+<field name="originalName">SS344_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">73150</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/15/SS344_transcript.pdf.txt</field>
+<field name="checksum">9356975a14cdc1daf7d5883b06e10dbb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+<element name="bitstream">
+<field name="name">SS345_transcript.pdf.txt</field>
+<field name="originalName">SS345_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">44347</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/17/SS345_transcript.pdf.txt</field>
+<field name="checksum">6bcca3ed0f83f2ab0c9b761c8e41b27e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS343.pdf.jpg</field>
+<field name="originalName">SS343.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11292</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/6/SS343.pdf.jpg</field>
+<field name="checksum">94b943c8a2324267f7570e1296bc4d53</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS344.pdf.jpg</field>
+<field name="originalName">SS344.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11248</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/8/SS344.pdf.jpg</field>
+<field name="checksum">ba492b29c04726829acf5f6d37f49d8d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS345.pdf.jpg</field>
+<field name="originalName">SS345.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13344</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/10/SS345.pdf.jpg</field>
+<field name="checksum">e6047a8ca4a15093692abb39cef278a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">edward hunvald.PNG.jpg</field>
+<field name="originalName">edward hunvald.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5465</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/11/edward%20hunvald.PNG.jpg</field>
+<field name="checksum">35529147e38c93bc9a8a496f0f5372d4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS343_transcript.pdf.jpg</field>
+<field name="originalName">SS343_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11292</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/14/SS343_transcript.pdf.jpg</field>
+<field name="checksum">94b943c8a2324267f7570e1296bc4d53</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+<element name="bitstream">
+<field name="name">SS344_transcript.pdf.jpg</field>
+<field name="originalName">SS344_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11248</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/16/SS344_transcript.pdf.jpg</field>
+<field name="checksum">ba492b29c04726829acf5f6d37f49d8d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+<element name="bitstream">
+<field name="name">SS345_transcript.pdf.jpg</field>
+<field name="originalName">SS345_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13344</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/18/SS345_transcript.pdf.jpg</field>
+<field name="checksum">e6047a8ca4a15093692abb39cef278a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">edward hunvald.PNG.preview.jpg</field>
+<field name="originalName">edward hunvald.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18474</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33879/12/edward%20hunvald.PNG.preview.jpg</field>
+<field name="checksum">07ec5a0dee84f3bb73357ff1c1566e64</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33879</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33879</field>
+<field name="lastModifyDate">2018-07-31 11:24:20.069</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

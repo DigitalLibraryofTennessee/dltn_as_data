@@ -1,0 +1,135 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Jones, Paul Tudor</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-05-06</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34122</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820506_Paul_Tudor_Jones</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, Paul Tudor Jones describes the events that transpired during the Orgill administration, his work with the Urban League, and the activism of local religious leaders. He also describes how the Civil Rights movement of the 1960s is ultimately connected to other justice movements, and the continuing struggle of race relations.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289566701</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Race relations</field>
+<field name="value">Orgill, Edmund</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Paul Tudor Jones, Urban League, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul tudor jones.PNG</field>
+<field name="originalName">paul tudor jones.PNG</field>
+<field name="format">image/png</field>
+<field name="size">43721</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34122/1/paul%20tudor%20jones.PNG</field>
+<field name="checksum">e58cdc9947cdad4b4ccb0d7b68ae9ed8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul tudor jones.PNG.jpg</field>
+<field name="originalName">paul tudor jones.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5951</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34122/2/paul%20tudor%20jones.PNG.jpg</field>
+<field name="checksum">1557682fb73e44188036d32957f6bec0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul tudor jones.PNG.preview.jpg</field>
+<field name="originalName">paul tudor jones.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22282</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34122/3/paul%20tudor%20jones.PNG.preview.jpg</field>
+<field name="checksum">8cf607fb6a2e7c618656435b9489e38d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34122</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34122</field>
+<field name="lastModifyDate">2018-09-12 15:53:10.773</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

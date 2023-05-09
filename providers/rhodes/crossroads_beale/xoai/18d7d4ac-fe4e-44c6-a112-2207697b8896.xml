@@ -1,0 +1,123 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Curly's Vending Co. (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1960</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34308</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Miscellaneous_Mid_20th_Century_Receipts_117685</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Three grocery receipts from various places, one being Curly's Vending Co. in Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">The Lisbon Salesbrook Co.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Grocery stores</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Miscellaneous Mid 20th Century Receipts</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg</field>
+<field name="originalName">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2977361</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34308/1/Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg</field>
+<field name="checksum">e8538de5ac83a0961ce6944a69bffd67</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.jpg</field>
+<field name="originalName">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18813</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34308/2/Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.jpg</field>
+<field name="checksum">8fc3be4f1f42d54c07035aeea4e9040f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.preview.jpg</field>
+<field name="originalName">Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">103407</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34308/3/Miscellaneous_Mid_20th_Century_Receipts_117685_print_1.jpg.preview.jpg</field>
+<field name="checksum">3c61cbafd9c6481e3514b07750320c2f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34308</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34308</field>
+<field name="lastModifyDate">2018-10-11 18:24:47.986</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

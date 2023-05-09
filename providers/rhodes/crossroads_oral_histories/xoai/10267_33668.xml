@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Freeman, Lois</field>
+<field name="value">Hassan, Khadija</field>
+<field name="value">Neimeyer, Eric</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:24Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:24Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-07-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33668</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080729_Lois_Freeman</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Lois Freeman, who participated in the Civil rights Movement in Memphis, Tennessee. In the interview Freeman describes her involvement in the movement for women's rights, and the integration of her workplace.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278572997</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Tennessee</field>
+<field name="value">Civil rights</field>
+<field name="value">Segregation</field>
+<field name="value">Education</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Lois Freeman, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.JPG.jpg</field>
+<field name="originalName">20080729_Lois_Freeman.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12747</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/3/20080729_Lois_Freeman.JPG.jpg</field>
+<field name="checksum">00f83b400b019c78ef3a8654e475522f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.pdf.jpg</field>
+<field name="originalName">20080729_Lois_Freeman.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12324</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/6/20080729_Lois_Freeman.pdf.jpg</field>
+<field name="checksum">bd73b96149334a5b0a0bdfbc2b15df33</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.JPG.preview.jpg</field>
+<field name="originalName">20080729_Lois_Freeman.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">50422</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/4/20080729_Lois_Freeman.JPG.preview.jpg</field>
+<field name="checksum">86efb854a11ec04ea767955db85d5e87</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.pdf.txt</field>
+<field name="originalName">20080729_Lois_Freeman.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45532</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/5/20080729_Lois_Freeman.pdf.txt</field>
+<field name="checksum">fcc6696b321a56c01a3575b22902090c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.JPG</field>
+<field name="originalName">20080729_Lois_Freeman.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">110690</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/1/20080729_Lois_Freeman.JPG</field>
+<field name="checksum">06fcf54c76037d94a1ef7e8bb4732cbd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080729_Lois_Freeman.pdf</field>
+<field name="originalName">20080729_Lois_Freeman.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">221188</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33668/2/20080729_Lois_Freeman.pdf</field>
+<field name="checksum">856d6f14f0d3a852d0491d86fa3a4577</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33668</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33668</field>
+<field name="lastModifyDate">2018-07-26 18:12:10.724</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

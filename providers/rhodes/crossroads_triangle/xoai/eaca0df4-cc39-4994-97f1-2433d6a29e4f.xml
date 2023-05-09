@@ -1,0 +1,133 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dumais, Bob</field>
+</element>
+<element name="author">
+<element name="none">
+<field name="value">Astor, Vincent</field>
+<field name="value">Caperton, Becky</field>
+<field name="value">Feuerhelm, Bryan</field>
+</element>
+</element>
+<element name="editor">
+<element name="none">
+<field name="value">Cook, Allen</field>
+<field name="value">Stilwell, John</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-14T16:06:44Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-14T16:06:44Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31037</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">TJN_v14n8_2004-05</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Memphis Gay and Lesbian Community Center</field>
+<field name="value">OUT Memphis</field>
+<field name="value">Printers Ink</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">LGBTQ Community</field>
+<field name="value">Newspapers</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Triangle Journal News, May 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJN_v14n8_2004-05.pdf</field>
+<field name="originalName">TJN_v14n8_2004-05.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">67620167</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31037/1/TJN_v14n8_2004-05.pdf</field>
+<field name="checksum">095d6f783096105d667dbb71c5113080</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJN_v14n8_2004-05.pdf.txt</field>
+<field name="originalName">TJN_v14n8_2004-05.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">148500</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31037/2/TJN_v14n8_2004-05.pdf.txt</field>
+<field name="checksum">c0d6c8f27c773ab92c07d16ecd19ed47</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJN_v14n8_2004-05.pdf.jpg</field>
+<field name="originalName">TJN_v14n8_2004-05.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">22560</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31037/3/TJN_v14n8_2004-05.pdf.jpg</field>
+<field name="checksum">4effb8fe7cca50a721d4c50b7561fee7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31037</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31037</field>
+<field name="lastModifyDate">2018-05-14 13:35:09.162</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

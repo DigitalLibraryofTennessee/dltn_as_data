@@ -1,0 +1,473 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">NAACP</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1956-06-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34175</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19560626_NAACP_An_American_Organization_767</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This pamphlet, published by the NAACP at the height of the Red Scare in the mid 1950's, stresses the organization's opposition to communism and its commitment to democratic values. The cover is emblazoned with an American flag. It is specifically directed at those supporters of segregation who have tried to falsely link the NAACP with the Communist party.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">NAACP</field>
+<field name="value">Race Relations</field>
+<field name="value">African Americans</field>
+<field name="value">Pamphlet</field>
+<field name="value">Red Scare</field>
+<field name="value">Communism</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">NAACP - An American Organization</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_1.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12526</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/13/NAACP_An_American_Organization_767_print_1.jpg.jpg</field>
+<field name="checksum">b6c0f4ccc7fc6caab961c7cb0b359030</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_2.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8485</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/15/NAACP_An_American_Organization_767_print_2.jpg.jpg</field>
+<field name="checksum">9f295c356208fbd89e6d6da9b1c91ea1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_3.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_3.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16449</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/17/NAACP_An_American_Organization_767_print_3.jpg.jpg</field>
+<field name="checksum">a139f68ee321ddbc0f4580c9269b0212</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_4.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_4.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15767</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/19/NAACP_An_American_Organization_767_print_4.jpg.jpg</field>
+<field name="checksum">286c62701861a7f4c4f002d01753c2ab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">19</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_5.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_5.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17398</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/21/NAACP_An_American_Organization_767_print_5.jpg.jpg</field>
+<field name="checksum">1b71a568baaefb4bd1a9c79b75cba47c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">21</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_6.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_6.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16621</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/23/NAACP_An_American_Organization_767_print_6.jpg.jpg</field>
+<field name="checksum">c0697857528113e93880028e83b7daef</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">23</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_7.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_7.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17391</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/25/NAACP_An_American_Organization_767_print_7.jpg.jpg</field>
+<field name="checksum">38d9a2177d276ea9b486fc16e72d2b8d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">25</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_8.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_8.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17117</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/27/NAACP_An_American_Organization_767_print_8.jpg.jpg</field>
+<field name="checksum">d6c3c7761c3f7a66652d49bd5147a592</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">27</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_9.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_9.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18443</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/29/NAACP_An_American_Organization_767_print_9.jpg.jpg</field>
+<field name="checksum">d06b4520e8e2e8f78c7669a3251128af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">29</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_10.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_10.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15337</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/31/NAACP_An_American_Organization_767_print_10.jpg.jpg</field>
+<field name="checksum">1d4dcc41f06c71860c35dcdd544af184</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">31</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_11.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_11.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17893</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/33/NAACP_An_American_Organization_767_print_11.jpg.jpg</field>
+<field name="checksum">e6d56778b5419f30bb934077856a6c6a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">33</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_12.jpg.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_12.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17926</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/35/NAACP_An_American_Organization_767_print_12.jpg.jpg</field>
+<field name="checksum">a748cb3807902d0a33c4ccf683d177c0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">35</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_1.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">61913</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/14/NAACP_An_American_Organization_767_print_1.jpg.preview.jpg</field>
+<field name="checksum">01c4274de351fa4dfe2f17a0f0995c91</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_2.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">37995</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/16/NAACP_An_American_Organization_767_print_2.jpg.preview.jpg</field>
+<field name="checksum">d0e8a7194d71908f3e660d1515aba153</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_3.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_3.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">96461</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/18/NAACP_An_American_Organization_767_print_3.jpg.preview.jpg</field>
+<field name="checksum">fc04541320eb205c781201a9b89b3359</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_4.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_4.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">88534</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/20/NAACP_An_American_Organization_767_print_4.jpg.preview.jpg</field>
+<field name="checksum">1dedf0ad8a76d9fb7af7b6bfd7f0dab1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">20</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_5.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_5.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">97899</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/22/NAACP_An_American_Organization_767_print_5.jpg.preview.jpg</field>
+<field name="checksum">6ce1b13357e7ca73a7828066f2f51bdd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">22</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_6.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_6.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">92300</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/24/NAACP_An_American_Organization_767_print_6.jpg.preview.jpg</field>
+<field name="checksum">3529bffc33de36c8086638ca0c821a4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">24</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_7.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_7.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">100439</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/26/NAACP_An_American_Organization_767_print_7.jpg.preview.jpg</field>
+<field name="checksum">1d3ab378bb8485b574ee8cf40b0f548e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">26</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_8.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_8.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">101838</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/28/NAACP_An_American_Organization_767_print_8.jpg.preview.jpg</field>
+<field name="checksum">0527976bc47ad27ce3f62dcee56c8970</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">28</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_9.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_9.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">112764</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/30/NAACP_An_American_Organization_767_print_9.jpg.preview.jpg</field>
+<field name="checksum">fcaea8fd1968c48217f1ed956cb19f57</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">30</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_10.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_10.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">92862</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/32/NAACP_An_American_Organization_767_print_10.jpg.preview.jpg</field>
+<field name="checksum">10e43af6d18111d584b95ee62eb217b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">32</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_11.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_11.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">104649</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/34/NAACP_An_American_Organization_767_print_11.jpg.preview.jpg</field>
+<field name="checksum">53eaaeb3a902d94ed74a766f04ed3441</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">34</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_12.jpg.preview.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_12.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">104340</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/36/NAACP_An_American_Organization_767_print_12.jpg.preview.jpg</field>
+<field name="checksum">71eae9f64898e70926f46a0d299414f8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">36</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_1.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">701378</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/1/NAACP_An_American_Organization_767_print_1.jpg</field>
+<field name="checksum">568131df7441a353dff90a86967bca77</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_2.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">325316</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/2/NAACP_An_American_Organization_767_print_2.jpg</field>
+<field name="checksum">99e204a02ba4749f963a40a213ef5c34</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_3.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_3.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">659889</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/3/NAACP_An_American_Organization_767_print_3.jpg</field>
+<field name="checksum">82a867313d1236d6438f5e3ccb163922</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_4.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_4.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">629833</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/4/NAACP_An_American_Organization_767_print_4.jpg</field>
+<field name="checksum">fb4fb48ba2930f25004b9eb0078c16dd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_5.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_5.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">687672</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/5/NAACP_An_American_Organization_767_print_5.jpg</field>
+<field name="checksum">15aa877adc51324b3dedcb200e0270ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_6.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_6.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">640739</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/6/NAACP_An_American_Organization_767_print_6.jpg</field>
+<field name="checksum">df960066aca1c12196b74cfde4197640</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_7.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_7.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">695522</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/7/NAACP_An_American_Organization_767_print_7.jpg</field>
+<field name="checksum">a6f7e6c29ec338b96f8d33854f537f04</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_8.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_8.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">645268</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/8/NAACP_An_American_Organization_767_print_8.jpg</field>
+<field name="checksum">4bd90ccbb3bdd4bacd08a0e4343325f7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_9.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_9.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">778455</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/9/NAACP_An_American_Organization_767_print_9.jpg</field>
+<field name="checksum">81f702cb3f539378850f78a3733187b6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_10.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_10.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">617892</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/10/NAACP_An_American_Organization_767_print_10.jpg</field>
+<field name="checksum">89523d40406a22402627bf58167c9afc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_11.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_11.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">722383</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/11/NAACP_An_American_Organization_767_print_11.jpg</field>
+<field name="checksum">db2850362df36d4b5ccfbffc1d0e28a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">NAACP_An_American_Organization_767_print_12.jpg</field>
+<field name="originalName">NAACP_An_American_Organization_767_print_12.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">973002</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34175/12/NAACP_An_American_Organization_767_print_12.jpg</field>
+<field name="checksum">1eec7049bc69bc29fc2e54aaa4291e11</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34175</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34175</field>
+<field name="lastModifyDate">2018-09-20 12:46:02.614</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

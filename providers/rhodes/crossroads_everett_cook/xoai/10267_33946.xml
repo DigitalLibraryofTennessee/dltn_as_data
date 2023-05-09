@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Lowe, Carol</field>
+<field name="value">Coffey, Donald</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33946</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790605_Donald_Coffey</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Donald Coffey, principal of Snowden School, which consisted of elementary and junior high. Coffey explains the layout of the school, how many students are from the neighborhood and how many are bused and goes in depth about the initiation and continuation of the schools optional program. He discusses a brief history of the school and its involvement with the community. This interview was conducted in 1979.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/290179232</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Education</field>
+<field name="value">Memphis City Schools</field>
+<field name="value">Integration</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Donald Coffey, former Snowden School Principal, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Donald_Coffey.doc</field>
+<field name="originalName">19790605_Donald_Coffey.doc</field>
+<field name="format">application/msword</field>
+<field name="size">91136</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33946/1/19790605_Donald_Coffey.doc</field>
+<field name="checksum">7da3c47ba065443a48f3c93be85986db</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">donald coffey.PNG</field>
+<field name="originalName">donald coffey.PNG</field>
+<field name="format">image/png</field>
+<field name="size">44243</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33946/3/donald%20coffey.PNG</field>
+<field name="checksum">f1aefee3f3ba0b19f28925f675a1c953</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Donald_Coffey.doc.txt</field>
+<field name="originalName">19790605_Donald_Coffey.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">53396</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33946/2/19790605_Donald_Coffey.doc.txt</field>
+<field name="checksum">97a2c669b5faa41a98f1d9dd56e19245</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">donald coffey.PNG.jpg</field>
+<field name="originalName">donald coffey.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6108</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33946/4/donald%20coffey.PNG.jpg</field>
+<field name="checksum">4efc22fede56c2b93c0fa1ad8e83f50a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">donald coffey.PNG.preview.jpg</field>
+<field name="originalName">donald coffey.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20787</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33946/5/donald%20coffey.PNG.preview.jpg</field>
+<field name="checksum">ee54ef26fc1b454b74dc31e710a18735</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33946</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33946</field>
+<field name="lastModifyDate">2018-09-16 16:42:12.915</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

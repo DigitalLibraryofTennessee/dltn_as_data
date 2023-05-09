@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Duncan, Earline W.</field>
+<field name="value">Perry, LaKevia</field>
+<field name="value">Whitney, Bryson</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33700</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100723_Earline_Duncan</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview Earline Duncan discusses growing up in Memphis and what it was like to experience segregation.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279358197</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Segregation</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Earline Duncan, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.JPG</field>
+<field name="originalName">20100723_Earline_Duncan.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">92092</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/1/20100723_Earline_Duncan.JPG</field>
+<field name="checksum">3d0cc627de5e28eeda0e66aaa972c4a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.pdf</field>
+<field name="originalName">20100723_Earline_Duncan.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">193565</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/2/20100723_Earline_Duncan.pdf</field>
+<field name="checksum">02777af3b72862f72b8c95abb502230b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.JPG.jpg</field>
+<field name="originalName">20100723_Earline_Duncan.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11759</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/3/20100723_Earline_Duncan.JPG.jpg</field>
+<field name="checksum">bd39efee95b711b9b251cff672b077cb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.pdf.jpg</field>
+<field name="originalName">20100723_Earline_Duncan.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11577</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/6/20100723_Earline_Duncan.pdf.jpg</field>
+<field name="checksum">8f09a954546793cb8e771f5de114b6b8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.JPG.preview.jpg</field>
+<field name="originalName">20100723_Earline_Duncan.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43654</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/4/20100723_Earline_Duncan.JPG.preview.jpg</field>
+<field name="checksum">d109fc2cf0dd954fc3618cc802a63b4d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100723_Earline_Duncan.pdf.txt</field>
+<field name="originalName">20100723_Earline_Duncan.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">38170</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33700/5/20100723_Earline_Duncan.pdf.txt</field>
+<field name="checksum">8004eec82e1fe667e6427ddbe1108de4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33700</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33700</field>
+<field name="lastModifyDate">2018-07-17 14:50:07.758</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

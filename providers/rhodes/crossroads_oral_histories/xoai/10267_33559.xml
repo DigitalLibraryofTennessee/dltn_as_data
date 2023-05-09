@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Wolff, Bert</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Windless, Crystal</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:06Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:06Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-12-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33559</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20061220_Bert_Wolff</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Bert Wolff was and continues to be involved in many activities in the city of Memphis. A 5th generation Jewish woman with a rich sense of family history, she participated in various interracial organizations to improve the status of African Americans. For example, she was a representative on the Panel of American Women, an organization that traveled to various locations where women from different races and backgrounds would discuss their unique experiences of race and gender. In addition, Wolff was the president of the Memphis City School Board in 1983, an election year. Serving in this position she had the deciding controversial vote to integrate the Raleigh Bartlett schools which were newly annexed into the city of Memphis. After her vote, Wolff was not re-elected to the school board. Nevertheless,Wolff remained very active in the Memphis community and can be considered a pivotal agent of change.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278548334</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Memphis City Schools</field>
+<field name="value">Education</field>
+<field name="value">Panel of American Women</field>
+<field name="value">Gender</field>
+<field name="value">Segregation</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bert Wolff, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.jpg</field>
+<field name="originalName">20061220_Bert_Wolff.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">229720</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/1/20061220_Bert_Wolff.jpg</field>
+<field name="checksum">3c4710b65e0b8aa91b2d490abeff2446</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.pdf</field>
+<field name="originalName">20061220_Bert_Wolff.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">159592</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/2/20061220_Bert_Wolff.pdf</field>
+<field name="checksum">f6770490a5b4b0b1fa52444adee63bb6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.jpg.jpg</field>
+<field name="originalName">20061220_Bert_Wolff.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14080</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/3/20061220_Bert_Wolff.jpg.jpg</field>
+<field name="checksum">d3250fc0ed75d8fdde94fb95876ac5fd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.pdf.jpg</field>
+<field name="originalName">20061220_Bert_Wolff.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16134</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/6/20061220_Bert_Wolff.pdf.jpg</field>
+<field name="checksum">70d4e8fd9fd43df80d7510ff772c4438</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.jpg.preview.jpg</field>
+<field name="originalName">20061220_Bert_Wolff.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">57892</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/4/20061220_Bert_Wolff.jpg.preview.jpg</field>
+<field name="checksum">6c2b2e54b7152944f422663ac4172fae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20061220_Bert_Wolff.pdf.txt</field>
+<field name="originalName">20061220_Bert_Wolff.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">37743</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33559/5/20061220_Bert_Wolff.pdf.txt</field>
+<field name="checksum">a2be8511c5f0287c9463ed98afe36b76</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33559</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33559</field>
+<field name="lastModifyDate">2018-07-12 13:20:38.341</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

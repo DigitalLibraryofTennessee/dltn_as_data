@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Wharton, A C, Jr., 1944-</field>
+<field name="value">James, Holly</field>
+<field name="value">Smith, Tiffani</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-06-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33659</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080626_A_C_Wharton</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mayor A.C. Wharton, who served as the mayor of Shelby County, Tennessee from 2002-2009, and mayor of Memphis since 2009. In this clip he describes what it was like as a college student at Tennessee State University, in Nashville, Tennessee, during the Civil rights Era.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278569549</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Wharton, A C, Jr., 1944-</field>
+<field name="value">Tennessee State University</field>
+<field name="value">Nashville (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">A. C. Wharton, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.JPG</field>
+<field name="originalName">20080626_A_C_Wharton.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">104635</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/1/20080626_A_C_Wharton.JPG</field>
+<field name="checksum">e5cc151dfe7227c6feb0cea709713ce2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.pdf</field>
+<field name="originalName">20080626_A_C_Wharton.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">231649</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/2/20080626_A_C_Wharton.pdf</field>
+<field name="checksum">9047079cbe0b41fc1bc56f9cb3cabfaf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.JPG.jpg</field>
+<field name="originalName">20080626_A_C_Wharton.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12601</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/3/20080626_A_C_Wharton.JPG.jpg</field>
+<field name="checksum">63639f28286be5ff151922f414e13825</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.pdf.jpg</field>
+<field name="originalName">20080626_A_C_Wharton.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13107</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/6/20080626_A_C_Wharton.pdf.jpg</field>
+<field name="checksum">7d5a271532be93ec2969a4ea93da1eda</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.JPG.preview.jpg</field>
+<field name="originalName">20080626_A_C_Wharton.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47568</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/4/20080626_A_C_Wharton.JPG.preview.jpg</field>
+<field name="checksum">a7ded7278eb08888c02eef56364cd864</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080626_A_C_Wharton.pdf.txt</field>
+<field name="originalName">20080626_A_C_Wharton.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">54256</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33659/5/20080626_A_C_Wharton.pdf.txt</field>
+<field name="checksum">ac5d519526be5b74faef6291e030d802</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33659</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33659</field>
+<field name="lastModifyDate">2018-07-12 13:20:39.186</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

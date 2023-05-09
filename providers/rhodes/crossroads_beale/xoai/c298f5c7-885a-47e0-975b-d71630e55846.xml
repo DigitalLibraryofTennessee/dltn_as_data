@@ -1,0 +1,127 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Top Ten Club (Memphis, Tenn.)</field>
+<field name="value">Pantaze Drug Store (Memphis, Tenn.)</field>
+<field name="value">Mitchell Hotel (Memphis, Tenn.)</field>
+<field name="value">Mitchell's Grill (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Gilmore Motors, Inc. (Memphis, Tenn.)</field>
+<field name="value">The Watch Clinic (Memphis, Tenn.)</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1960</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34297</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1960_Miscellaneous_Items_117660</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Business cards and ticket stubs from various businesses in Memphis, probably in the 1960s. The ticket stub for the Top Ten Club cites: July 6, 1963.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Tickets</field>
+<field name="value">Business cards</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Business Cards and Ticket Stubs, 1960s</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1960_Miscellaneous_Items_117660.jpg</field>
+<field name="originalName">1960_Miscellaneous_Items_117660.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2818763</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34297/1/1960_Miscellaneous_Items_117660.jpg</field>
+<field name="checksum">072ca77b6e9d2e25f80aef073db3abc5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1960_Miscellaneous_Items_117660.jpg.jpg</field>
+<field name="originalName">1960_Miscellaneous_Items_117660.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19049</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34297/2/1960_Miscellaneous_Items_117660.jpg.jpg</field>
+<field name="checksum">00661ffcd78a9d32070be0c0664f3778</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1960_Miscellaneous_Items_117660.jpg.preview.jpg</field>
+<field name="originalName">1960_Miscellaneous_Items_117660.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">97524</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34297/3/1960_Miscellaneous_Items_117660.jpg.preview.jpg</field>
+<field name="checksum">457315333ceb72b2979dd5fd02cdb45a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34297</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34297</field>
+<field name="lastModifyDate">2018-11-15 15:41:56.525</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

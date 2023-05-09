@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">The Marquetts Social Club</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1962-09-21</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34944</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A contract between Andrew Mitchell and Marquetts Social Club for the rental of the Club Handy space.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Club Handy</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Club Handy Rental Contract with Marquetts Social Club, 1962</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg</field>
+<field name="originalName">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">235305</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34944/1/19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg</field>
+<field name="checksum">ef6789e18010a6eb29f64b25875a17ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.jpg</field>
+<field name="originalName">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">17708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34944/2/19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.jpg</field>
+<field name="checksum">f659614c111f10282c23d93fb0a439ff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.preview.jpg</field>
+<field name="originalName">19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">81702</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34944/3/19620922_Club_Handy_Rental_Contract_Marquett_Social_Club_117846.jpg.preview.jpg</field>
+<field name="checksum">bb989322135a9f4a0c6c86ff242639e9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34944</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34944</field>
+<field name="lastModifyDate">2018-11-16 16:09:05.98</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

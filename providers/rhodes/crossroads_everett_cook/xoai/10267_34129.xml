@@ -1,0 +1,161 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lockard, Hosea T. (H.T.)</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-07-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34129</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040729_Hosea_Lockard</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, H.T. Lockard describes the political maneuvering of the Memphis Democratic Party from the early 1950s through the 1960s. He recounts the large roll played by the Shelby County Democratic Club in organizing and registering voters, as well as its splinter organizations, the Tennessee Voters Council and Ninth District Democratic Club.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289957911</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Politics and government</field>
+<field name="value">Memphis City Council</field>
+<field name="value">Voting</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">H.T. Lockard, Memphis Democratic Party, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">HT_Lockard_Transcript-Gritter edited.doc.txt</field>
+<field name="originalName">HT_Lockard_Transcript-Gritter edited.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">29770</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34129/5/HT_Lockard_Transcript-Gritter%20edited.doc.txt</field>
+<field name="checksum">6a594d3d8ec34f45e59ae67108776dd7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard 20040729.PNG</field>
+<field name="originalName">ht lockard 20040729.PNG</field>
+<field name="format">image/png</field>
+<field name="size">37076</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34129/1/ht%20lockard%2020040729.PNG</field>
+<field name="checksum">b032c6cc0009c65a1cae5fbcc63e3307</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">HT_Lockard_Transcript-Gritter edited.doc</field>
+<field name="originalName">HT_Lockard_Transcript-Gritter edited.doc</field>
+<field name="format">application/msword</field>
+<field name="size">65024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34129/4/HT_Lockard_Transcript-Gritter%20edited.doc</field>
+<field name="checksum">c84e201f29547fcd138cd76696ec6bfd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard 20040729.PNG.jpg</field>
+<field name="originalName">ht lockard 20040729.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6038</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34129/2/ht%20lockard%2020040729.PNG.jpg</field>
+<field name="checksum">f9f65a20de478b5239c0ecb27c59ccbf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ht lockard 20040729.PNG.preview.jpg</field>
+<field name="originalName">ht lockard 20040729.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20742</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34129/3/ht%20lockard%2020040729.PNG.preview.jpg</field>
+<field name="checksum">4b69ba80b151a39e952dd3b408332fe6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34129</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34129</field>
+<field name="lastModifyDate">2018-09-19 12:49:05.374</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

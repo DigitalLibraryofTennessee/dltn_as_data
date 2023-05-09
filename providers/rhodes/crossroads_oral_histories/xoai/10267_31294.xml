@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Scott, Harold</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-08-27</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31294</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040827_Harold_Scott</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Stax Oral Histories Interviewee: Harold Scott Interviewer: Unknown</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279725762</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stax Records</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Harold Scott, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.pdf.txt</field>
+<field name="originalName">20040827_Harold_Scott.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33871</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/3/20040827_Harold_Scott.pdf.txt</field>
+<field name="checksum">907600a0db667e4c97bbe49a29489e1d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.pdf.jpg</field>
+<field name="originalName">20040827_Harold_Scott.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9726</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/4/20040827_Harold_Scott.pdf.jpg</field>
+<field name="checksum">d5cd264bade867c5936cc6a2be8763d1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.jpg.jpg</field>
+<field name="originalName">20040827_Harold_Scott.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12413</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/5/20040827_Harold_Scott.jpg.jpg</field>
+<field name="checksum">6994573bf72e806df9a2a87de5afafda</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.jpg</field>
+<field name="originalName">20040827_Harold_Scott.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">89965</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/2/20040827_Harold_Scott.jpg</field>
+<field name="checksum">9b7a42d5341d8df424ad60841ee18666</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.pdf</field>
+<field name="originalName">20040827_Harold_Scott.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">131267</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/7/20040827_Harold_Scott.pdf</field>
+<field name="checksum">828011ecc2f3b541d8c0e850b8abe890</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040827_Harold_Scott.jpg.preview.jpg</field>
+<field name="originalName">20040827_Harold_Scott.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">45565</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31294/6/20040827_Harold_Scott.jpg.preview.jpg</field>
+<field name="checksum">e59031fa65ca88dbf0632b55800f42ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31294</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31294</field>
+<field name="lastModifyDate">2018-11-11 15:38:14.317</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

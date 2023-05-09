@@ -1,0 +1,119 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Minneapolis Fire and Marine Insurance Company</field>
+<field name="value">Sam Plough General Insurance</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1947-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34329</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19511029_Mitchell_Insurance_Certificate_117793</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An insurance certificate for Andrew Mitchell.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Andrew Mitchell Insurance Certificate, 1951</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19511029_Mitchell_Insurance_Certificate_117793.jpg</field>
+<field name="originalName">19511029_Mitchell_Insurance_Certificate_117793.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">268986</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34329/1/19511029_Mitchell_Insurance_Certificate_117793.jpg</field>
+<field name="checksum">f6a02f1ef667e737e8aaeb7212027cc3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19511029_Mitchell_Insurance_Certificate_117793.jpg.jpg</field>
+<field name="originalName">19511029_Mitchell_Insurance_Certificate_117793.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11133</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34329/2/19511029_Mitchell_Insurance_Certificate_117793.jpg.jpg</field>
+<field name="checksum">6d42805d88d4bf9a99c2e3a2d569ba15</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19511029_Mitchell_Insurance_Certificate_117793.jpg.preview.jpg</field>
+<field name="originalName">19511029_Mitchell_Insurance_Certificate_117793.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55850</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34329/3/19511029_Mitchell_Insurance_Certificate_117793.jpg.preview.jpg</field>
+<field name="checksum">0ce0e90e4e433dbf8fa640d1fc2141d8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34329</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34329</field>
+<field name="lastModifyDate">2018-11-15 15:40:52.392</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

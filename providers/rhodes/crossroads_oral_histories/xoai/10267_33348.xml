@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Jones, Carey</field>
+<field name="value">Williams, Prince</field>
+<field name="value">Walker, Allison</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:29Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:29Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33348</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150623_Carey_Jones</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Hugh Carey Jones was born in Memphis, TN in 1946 to parents Glen and Evelyn Jones. He attended Treadwell High School where he met his wife, Rita, with whom he had 3 kids; Becky, Chrissy, and Steven. Later, he attended the University of Memphis, formerly known as Memphis State University where he earned his Engineering degree. He did all of this after joining the Tennessee Air Guard in order to help his country in its time of need, even though it meant that he had to sacrifice some time in college. After college and the Air Guard, Jones went on to pursue a career with Memphis Light Gas and Water, working as an electrical engineer.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280578798</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Carey Jones, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.PNG</field>
+<field name="originalName">20150623_Carey_Jones.PNG</field>
+<field name="format">image/png</field>
+<field name="size">352141</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/1/20150623_Carey_Jones.PNG</field>
+<field name="checksum">aca0ae619779688c70c4c8b00d9b2a5e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.pdf</field>
+<field name="originalName">20150623_Carey_Jones.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">167227</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/2/20150623_Carey_Jones.pdf</field>
+<field name="checksum">ce9fd9ec1eab3b358da1d2b26da114d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.jpg</field>
+<field name="originalName">Capture.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8951</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/3/Capture.PNG.jpg</field>
+<field name="checksum">f5979dbd7c25ebe3e92d9d13d5dc56fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.pdf.jpg</field>
+<field name="originalName">20150623_Carey_Jones.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11584</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/6/20150623_Carey_Jones.pdf.jpg</field>
+<field name="checksum">f850f8ebae66ae4343dab833b1108ed3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.PNG.jpg</field>
+<field name="originalName">20150623_Carey_Jones.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8951</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/7/20150623_Carey_Jones.PNG.jpg</field>
+<field name="checksum">f5979dbd7c25ebe3e92d9d13d5dc56fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.preview.jpg</field>
+<field name="originalName">Capture.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20465</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/4/Capture.PNG.preview.jpg</field>
+<field name="checksum">f6dfac1a59cefdcef5e3676c758183bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.PNG.preview.jpg</field>
+<field name="originalName">20150623_Carey_Jones.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20465</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/8/20150623_Carey_Jones.PNG.preview.jpg</field>
+<field name="checksum">f6dfac1a59cefdcef5e3676c758183bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150623_Carey_Jones.pdf.txt</field>
+<field name="originalName">20150623_Carey_Jones.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">29471</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33348/5/20150623_Carey_Jones.pdf.txt</field>
+<field name="checksum">13e2ac3b7a6baf17ff238f8e0f22f7ae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33348</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33348</field>
+<field name="lastModifyDate">2018-07-18 12:21:18.129</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

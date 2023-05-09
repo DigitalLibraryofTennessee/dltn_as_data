@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hayes, Nicky</field>
+<field name="value">Avery, Kieanna</field>
+<field name="value">Mays, Briana</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33465</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150630_Nicky_Hayes</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Nicky Hayes discusses life in Tiptonville, Lake County, Tennessee during the age of segregation.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280207311</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Tiptonville (Tenn.)</field>
+<field name="value">Jim Crow, 1890-1976</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Nicky Hayes, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.JPG</field>
+<field name="originalName">20150630_Nicky_Hayes.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">47425</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/1/20150630_Nicky_Hayes.JPG</field>
+<field name="checksum">b34ba579d5702340bc2679040d288947</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.pdf</field>
+<field name="originalName">20150630_Nicky_Hayes.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">483796</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/2/20150630_Nicky_Hayes.pdf</field>
+<field name="checksum">5805176ff5576df436fa07ba6f1ca02a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.JPG.jpg</field>
+<field name="originalName">20150630_Nicky_Hayes.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6030</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/3/20150630_Nicky_Hayes.JPG.jpg</field>
+<field name="checksum">a88a1c6854f934168839d8ad2fecb991</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.pdf.jpg</field>
+<field name="originalName">20150630_Nicky_Hayes.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11522</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/6/20150630_Nicky_Hayes.pdf.jpg</field>
+<field name="checksum">056dd9f50a6d653a0c138060d1191c89</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.JPG.preview.jpg</field>
+<field name="originalName">20150630_Nicky_Hayes.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20681</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/4/20150630_Nicky_Hayes.JPG.preview.jpg</field>
+<field name="checksum">e2962b3c651adeb3173c2de007a15212</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Nicky_Hayes.pdf.txt</field>
+<field name="originalName">20150630_Nicky_Hayes.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">17972</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33465/5/20150630_Nicky_Hayes.pdf.txt</field>
+<field name="checksum">371b813da4638e1184553f1097e1cfae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33465</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33465</field>
+<field name="lastModifyDate">2018-07-17 12:42:32.05</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

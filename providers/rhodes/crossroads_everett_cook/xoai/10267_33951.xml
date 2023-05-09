@@ -1,0 +1,177 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Maxine, Halliburton</field>
+<field name="value">Jemison, Peggy</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33951</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790625_Maxine_Halliburton</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">\</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/290181640</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Maxine Halliburton, Vollintine Evergreen resident, 1970</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">maxine halliburton.PNG</field>
+<field name="originalName">maxine halliburton.PNG</field>
+<field name="format">image/png</field>
+<field name="size">84016</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/1/maxine%20halliburton.PNG</field>
+<field name="checksum">6bdfb3675614bf4a9b4bd03c8e0fe061</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19790625_Maxine_Halliburton.pdf</field>
+<field name="originalName">19790625_Maxine_Halliburton.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">108547</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/4/19790625_Maxine_Halliburton.pdf</field>
+<field name="checksum">2a8c70cff4ca85644f0dfca5a08cf8d8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">maxine halliburton.PNG.jpg</field>
+<field name="originalName">maxine halliburton.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6475</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/2/maxine%20halliburton.PNG.jpg</field>
+<field name="checksum">d18182cf052a6fcc85e1f240d5f7ba6a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">19790625_Maxine_Halliburton.pdf.jpg</field>
+<field name="originalName">19790625_Maxine_Halliburton.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10490</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/6/19790625_Maxine_Halliburton.pdf.jpg</field>
+<field name="checksum">38776d713b10082fc4bf7bd9eda125e6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">maxine halliburton.PNG.preview.jpg</field>
+<field name="originalName">maxine halliburton.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21940</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/3/maxine%20halliburton.PNG.preview.jpg</field>
+<field name="checksum">d10053ec0d252e6f309bc73b32426698</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790625_Maxine_Halliburton.pdf.txt</field>
+<field name="originalName">19790625_Maxine_Halliburton.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">20636</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33951/5/19790625_Maxine_Halliburton.pdf.txt</field>
+<field name="checksum">78753622ca4f339475bcd811381d7950</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33951</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33951</field>
+<field name="lastModifyDate">2018-11-04 16:03:46.5</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

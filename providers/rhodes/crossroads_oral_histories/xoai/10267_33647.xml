@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">King, Georgia Anna</field>
+<field name="value">Eskew, Courtney</field>
+<field name="value">Majors, Cate</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-04-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33647</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080407_Georgia_King</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Georgia Anna King, who is an ordained minister and community organizer in Memphis. She was an active participant in the modern Civil Rights Movement and has been working non-stop for change ever since.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278564242</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">African Americans</field>
+<field name="value">Civil rights</field>
+<field name="value">Segregation</field>
+<field name="value">Religion</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Georgia King, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.JPG</field>
+<field name="originalName">20080407_Georgia_King.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">86625</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/1/20080407_Georgia_King.JPG</field>
+<field name="checksum">5e1957cdddff897d63010299b880100b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.pdf</field>
+<field name="originalName">20080407_Georgia_King.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">438354</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/2/20080407_Georgia_King.pdf</field>
+<field name="checksum">09c3502ba8638d26428f22d60c10435a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.JPG.jpg</field>
+<field name="originalName">20080407_Georgia_King.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9796</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/3/20080407_Georgia_King.JPG.jpg</field>
+<field name="checksum">ca5585b69e4092668eb0953d28612e32</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.pdf.jpg</field>
+<field name="originalName">20080407_Georgia_King.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9726</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/6/20080407_Georgia_King.pdf.jpg</field>
+<field name="checksum">fe23c7f57c4b99b15d087803f3e8b76f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.JPG.preview.jpg</field>
+<field name="originalName">20080407_Georgia_King.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">39043</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/4/20080407_Georgia_King.JPG.preview.jpg</field>
+<field name="checksum">26f51597bd937d025f73b91c5a05a138</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080407_Georgia_King.pdf.txt</field>
+<field name="originalName">20080407_Georgia_King.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">51240</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33647/5/20080407_Georgia_King.pdf.txt</field>
+<field name="checksum">d90cbb8fb1abe89d56d5e13445a6fea8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33647</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33647</field>
+<field name="lastModifyDate">2018-10-17 11:37:32.695</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

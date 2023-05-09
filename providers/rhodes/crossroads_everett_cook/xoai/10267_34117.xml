@@ -1,0 +1,159 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Farris, Jimmie W.</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34117</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040616_Jimmie_Wall_Farris</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, interviewee Jimmie Wall Farris talks about the political careers of herself and her husband, William "Bill" Farris, that started in Memphis in the late 1950s. She describes how their positions on the Democratic National Committee and the controversies surrounding the 1959 election of Memphis Public Works Commissioner.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289914446</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Politics</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Jimmie Wall Farris, Memphis politician, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Farris_Jimmie W.doc.txt</field>
+<field name="originalName">Farris_Jimmie W.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">63224</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34117/5/Farris_Jimmie%20W.doc.txt</field>
+<field name="checksum">d43dc3feecc7bbd305076623db7216fa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jimmie wall farris.PNG</field>
+<field name="originalName">jimmie wall farris.PNG</field>
+<field name="format">image/png</field>
+<field name="size">40435</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34117/1/jimmie%20wall%20farris.PNG</field>
+<field name="checksum">c8a7bdd49e2693511f6087d36312b102</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Farris_Jimmie W.doc</field>
+<field name="originalName">Farris_Jimmie W.doc</field>
+<field name="format">application/msword</field>
+<field name="size">133632</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34117/4/Farris_Jimmie%20W.doc</field>
+<field name="checksum">a527f15df87b6a02d1c25c3b14f49a89</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jimmie wall farris.PNG.jpg</field>
+<field name="originalName">jimmie wall farris.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5884</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34117/2/jimmie%20wall%20farris.PNG.jpg</field>
+<field name="checksum">30ebffd00233b36c322c595f353e54ee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jimmie wall farris.PNG.preview.jpg</field>
+<field name="originalName">jimmie wall farris.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21631</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34117/3/jimmie%20wall%20farris.PNG.preview.jpg</field>
+<field name="checksum">36910de3054783bd6dbd982651450066</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34117</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34117</field>
+<field name="lastModifyDate">2018-09-15 13:44:56.613</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,162 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Davis, Fred</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:26Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:26Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2000-10-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34113</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20001011_Fred_Davis</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview with Fred Davis, founding member and treasurer of the Shelby Country Democratic Club, he recounts his efforts to organize African-American communities to assist the Ray Sugarmon campaign and other important local elections. He also describes his work with the NAACP, various protest and sit-in experiences, and how religion and music influence himself and his community.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289801130</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Music</field>
+<field name="value">NAACP</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Fred Davis, Shelby Country Democratic Club, 2000</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Davis_Fred.doc</field>
+<field name="originalName">Davis_Fred.doc</field>
+<field name="format">application/msword</field>
+<field name="size">73728</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34113/1/Davis_Fred.doc</field>
+<field name="checksum">a4f31f4166e1334fc938d0cb2d914124</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">fred davis.PNG</field>
+<field name="originalName">fred davis.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42875</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34113/3/fred%20davis.PNG</field>
+<field name="checksum">711f52715829de4b7ba4a598ccb5cdb2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Davis_Fred.doc.txt</field>
+<field name="originalName">Davis_Fred.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26897</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34113/2/Davis_Fred.doc.txt</field>
+<field name="checksum">7ed2a9087d56bc9c9ca02703b003d165</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">fred davis.PNG.jpg</field>
+<field name="originalName">fred davis.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6028</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34113/4/fred%20davis.PNG.jpg</field>
+<field name="checksum">d855997f86e273258fde2e8b3063a335</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">fred davis.PNG.preview.jpg</field>
+<field name="originalName">fred davis.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21991</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34113/5/fred%20davis.PNG.preview.jpg</field>
+<field name="checksum">fd2c19a2f0ec30066f84cee6e0469ee2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34113</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34113</field>
+<field name="lastModifyDate">2018-09-13 22:08:27.125</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

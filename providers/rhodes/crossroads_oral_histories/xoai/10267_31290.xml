@@ -1,0 +1,192 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Newman, Floyd</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2012-06-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31290</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20120628_Floyd_Newman</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Stax Oral Histories Interviewee: Floyd Newman Date: 2012-06-08</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281653791</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stax Records</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Floyd Newman, 2012</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.pdf</field>
+<field name="originalName">20120628_Floyd_Newman.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">140772</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/1/20120628_Floyd_Newman.pdf</field>
+<field name="checksum">48b54b7f1f054b043261b69e7f8d24be</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.JPG</field>
+<field name="originalName">20120628_Floyd_Newman.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">80646</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/7/20120628_Floyd_Newman.JPG</field>
+<field name="checksum">40ec8213e1f0d97b6ec26620c896e447</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.pdf.txt</field>
+<field name="originalName">20120628_Floyd_Newman.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">25595</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/3/20120628_Floyd_Newman.pdf.txt</field>
+<field name="checksum">e4925b359f17200fb7b1dfa75b0f002c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.pdf.jpg</field>
+<field name="originalName">20120628_Floyd_Newman.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11325</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/4/20120628_Floyd_Newman.pdf.jpg</field>
+<field name="checksum">7f782b66d855dcab87a0f7f200073d1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.jpg.jpg</field>
+<field name="originalName">20120628_Floyd_Newman.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7559</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/5/20120628_Floyd_Newman.jpg.jpg</field>
+<field name="checksum">9f15a75cb9f0353e135cd2b3eaba00d4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.JPG.jpg</field>
+<field name="originalName">20120628_Floyd_Newman.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11016</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/8/20120628_Floyd_Newman.JPG.jpg</field>
+<field name="checksum">d3dd687478c8985d245df3333b2f4e4e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.jpg.preview.jpg</field>
+<field name="originalName">20120628_Floyd_Newman.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">26913</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/6/20120628_Floyd_Newman.jpg.preview.jpg</field>
+<field name="checksum">e9f25568f7022018d615b8be0e0c7e9e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20120628_Floyd_Newman.JPG.preview.jpg</field>
+<field name="originalName">20120628_Floyd_Newman.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">44236</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31290/9/20120628_Floyd_Newman.JPG.preview.jpg</field>
+<field name="checksum">fa75576ead28daa1b4985e173d662f9c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31290</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31290</field>
+<field name="lastModifyDate">2018-08-01 14:51:09.337</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

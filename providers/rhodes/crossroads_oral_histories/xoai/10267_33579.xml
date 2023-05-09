@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Cummings, Morris</field>
+<field name="value">Pham, Ngyuen-Huong</field>
+<field name="value">Rhynes, Anne</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-22T19:46:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-22T19:46:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2012-10-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33579</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20121022_Morris_Cummings</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Morris "Blind Mississippi Morris" Cummings discusses his career in Memphis and the Mississippi Delta, growing up blind and the Memphis music scene both past and contemporary. Interviewer: Anne Rhynes Date: October 22, 2012</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280382102</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Morris Cummings, 2012</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.PNG.jpg</field>
+<field name="originalName">20121022_Morris_Cummings.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11414</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/3/20121022_Morris_Cummings.PNG.jpg</field>
+<field name="checksum">57ec1697ddd9e3798bf3d49dafcb5f15</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.pdf.jpg</field>
+<field name="originalName">20121022_Morris_Cummings.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12444</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/6/20121022_Morris_Cummings.pdf.jpg</field>
+<field name="checksum">01458db0b99ae99f522ee2e76a19c203</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.PNG.preview.jpg</field>
+<field name="originalName">20121022_Morris_Cummings.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43511</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/4/20121022_Morris_Cummings.PNG.preview.jpg</field>
+<field name="checksum">ed984a4c5348509fa14aeb22b8ba1333</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.pdf.txt</field>
+<field name="originalName">20121022_Morris_Cummings.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45623</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/5/20121022_Morris_Cummings.pdf.txt</field>
+<field name="checksum">8c4e03f20f32f16f7139332449747feb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.PNG</field>
+<field name="originalName">20121022_Morris_Cummings.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1497189</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/1/20121022_Morris_Cummings.PNG</field>
+<field name="checksum">a267367f5fb2948dbb94f19272440ffd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20121022_Morris_Cummings.pdf</field>
+<field name="originalName">20121022_Morris_Cummings.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">301427</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33579/2/20121022_Morris_Cummings.pdf</field>
+<field name="checksum">c1d07b5161e7d48ee8cd00dfe99e4f98</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33579</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33579</field>
+<field name="lastModifyDate">2018-07-17 10:22:35.441</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

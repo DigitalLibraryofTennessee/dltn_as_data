@@ -1,0 +1,153 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Rudisell-Holt, Grace</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Cates, Bena</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:36Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:36Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33972</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790622_Grace_Rudisell_Holt</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Grace Rudisill-Holt, long time resident of Overton Park/Evergreen neighborhood. She talks about life in the neighborhood, including the opening of the Memphis Zoo and the construction of the freeway in the 60s.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/290307386</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Citizens to Preserve Overton Park v. Volpe</field>
+<field name="value">Overton Park (Memphis, Tenn.)</field>
+<field name="value">Law</field>
+<field name="value">Memphis Zoo</field>
+<field name="value">Neighborhood Histories</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Grace Rudisell-Holt, Evergreen resident, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790622_Grace_Rudisell_Holt.docx</field>
+<field name="originalName">19790622_Grace_Rudisell_Holt.docx</field>
+<field name="format">application/vnd.openxmlformats-officedocument.wordprocessingml.document</field>
+<field name="size">42197</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33972/1/19790622_Grace_Rudisell_Holt.docx</field>
+<field name="checksum">0c91c31af35da08bfb426d19a483280f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19790622_Grace_Holt.JPG</field>
+<field name="originalName">19790622_Grace_Holt.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">53516</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33972/2/19790622_Grace_Holt.JPG</field>
+<field name="checksum">bf36670d495546e18a9dd993ae35c512</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790622_Grace_Holt.JPG.jpg</field>
+<field name="originalName">19790622_Grace_Holt.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5495</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33972/3/19790622_Grace_Holt.JPG.jpg</field>
+<field name="checksum">a4c53ff495dd397b597c53ebcb7e3a54</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790622_Grace_Holt.JPG.preview.jpg</field>
+<field name="originalName">19790622_Grace_Holt.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">16536</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33972/4/19790622_Grace_Holt.JPG.preview.jpg</field>
+<field name="checksum">9316504332616f23bd430b5b91aef26e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33972</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33972</field>
+<field name="lastModifyDate">2018-09-17 11:13:25.392</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Northrop, Miriam</field>
+<field name="value">Zalin, Mackenzie</field>
+<field name="value">Paul, Arijit</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-07-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33686</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090722_Miriam_Northrop</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This interview is with Mrs. Miriam Northrup, a long time resident of the Evergreen Neighborhood, who discusses the positives and negatives of the neighborhood as well as the things that have changed over time. This was done by the 2009 Crossroads to Freedom team.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278578799</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Miriam Northrop, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.JPG</field>
+<field name="originalName">20090722_Miriam_Northrop.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">151102</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/1/20090722_Miriam_Northrop.JPG</field>
+<field name="checksum">d939cf39534612810324c9f78239aa34</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.pdf</field>
+<field name="originalName">20090722_Miriam_Northrop.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">202463</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/2/20090722_Miriam_Northrop.pdf</field>
+<field name="checksum">e348d50e3fa6e08529db1871816d63af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.JPG.jpg</field>
+<field name="originalName">20090722_Miriam_Northrop.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16695</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/3/20090722_Miriam_Northrop.JPG.jpg</field>
+<field name="checksum">093ce66bfc7d5ae73d3a834d958bf2c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.pdf.jpg</field>
+<field name="originalName">20090722_Miriam_Northrop.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13903</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/6/20090722_Miriam_Northrop.pdf.jpg</field>
+<field name="checksum">85aab73712fc9d524eee47e3a603cbf4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.JPG.preview.jpg</field>
+<field name="originalName">20090722_Miriam_Northrop.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">67755</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/4/20090722_Miriam_Northrop.JPG.preview.jpg</field>
+<field name="checksum">07c3bc2dd17fb1ef5c88a12e23cdcd26</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090722_Miriam_Northrop.pdf.txt</field>
+<field name="originalName">20090722_Miriam_Northrop.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">46574</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33686/5/20090722_Miriam_Northrop.pdf.txt</field>
+<field name="checksum">cce2d57fd7bc3e486424618d1b68d0e5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33686</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33686</field>
+<field name="lastModifyDate">2018-07-26 17:50:31.956</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

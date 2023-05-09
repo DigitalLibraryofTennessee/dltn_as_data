@@ -1,0 +1,86 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Farnsworth Inventory - Cymbeline - 13</identifier>
+  <identifier type="local">FSPC - Cymbeline - 459</identifier>
+  <titleInfo>
+    <title>Cymbeline</title>
+  </titleInfo>
+  <abstract>Imogen dressed in boy's clothes awakes to discover Cloten's headless body thinking that it is Posthumus in Cymbeline Act 4 Scene 2.</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/9261</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/9261/3/FSPC_Cymbeline_459.jpg.jpg</url>
+  </location>
+  <name>
+    <namePart>Thurston, John, 1774-1822, del.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Maverick, Peter Rushton, 1755-1811, sculp.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Durand, Asher Brown, 1796-1886, sculp.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2011-02-18T18:49:50Z</dateCreated>
+    <publisher>Memphis, Tenn.: Archives and Special Collections, Rhodes College</publisher>
+    <dateOther>2011-02-18T18:49:50Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print</form>
+  </physicalDescription>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Cymbeline</topic>
+  </subject>
+  <subject>
+    <topic>Thurston, John, 1774-1822--Artist</topic>
+  </subject>
+  <subject>
+    <topic>Maverick, Peter Rushton, 1755-1811--Engraver</topic>
+  </subject>
+  <subject>
+    <topic>Durand, Asher Brown, 1796-1886--Engraver</topic>
+  </subject>
+  <subject>
+    <topic>Imogen (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Posthumus (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Cloten (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital objects in this collection. Objects are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu. Fees may apply.</accessCondition>
+</mods>

@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Cook, Allen</field>
+<field name="value">Stilwell, John</field>
+</element>
+<element name="editor">
+<element name="none">
+<field name="value">Hart, Rebekah</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-07T20:47:48Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-07T20:47:48Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-10</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/30891</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">TJ_v1n9_2006-10</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Memphis Gay and Lesbian Community Center</field>
+<field name="value">OUT Memphis</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">LGBTQ Community</field>
+<field name="value">Newspapers</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Triangle Journal, October 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJ_v1n9_2006-10.pdf.txt</field>
+<field name="originalName">TJ_v1n9_2006-10.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">124334</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30891/2/TJ_v1n9_2006-10.pdf.txt</field>
+<field name="checksum">c6054883df911e72d60ad7401063cd22</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJ_v1n9_2006-10.pdf.jpg</field>
+<field name="originalName">TJ_v1n9_2006-10.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">22493</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30891/3/TJ_v1n9_2006-10.pdf.jpg</field>
+<field name="checksum">035d9e2d6529cbea1c42f948d29bb23d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">TJ_v1n9_2006-10.pdf</field>
+<field name="originalName">TJ_v1n9_2006-10.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">83415301</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30891/1/TJ_v1n9_2006-10.pdf</field>
+<field name="checksum">6ce3983f622f6e0b6c665199ef3af8ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/30891</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/30891</field>
+<field name="lastModifyDate">2018-05-14 13:35:10.709</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

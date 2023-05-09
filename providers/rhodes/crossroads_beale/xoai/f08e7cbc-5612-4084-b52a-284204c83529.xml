@@ -1,0 +1,115 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Ebony (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34947</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Club_Ebony_Flyer_117512</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Posters for Club Ebony featuring prominent performers like Little Willie John, wishing viewers happy holidays.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Posters</field>
+<field name="value">Club Ebony (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Poster for Club Ebony</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Club_Ebony_Flyer_117512.jpg</field>
+<field name="originalName">Club_Ebony_Flyer_117512.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">16962678</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34947/1/Club_Ebony_Flyer_117512.jpg</field>
+<field name="checksum">d146d80204f15e011ec0e4a85d87ccc3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Club_Ebony_Flyer_117512.jpg.jpg</field>
+<field name="originalName">Club_Ebony_Flyer_117512.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18922</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34947/2/Club_Ebony_Flyer_117512.jpg.jpg</field>
+<field name="checksum">7ebaa389096862cbfe15e2e334a469ca</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Club_Ebony_Flyer_117512.jpg.preview.jpg</field>
+<field name="originalName">Club_Ebony_Flyer_117512.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">108238</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34947/3/Club_Ebony_Flyer_117512.jpg.preview.jpg</field>
+<field name="checksum">2ec827e028c6e378c26fff2300404a94</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34947</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34947</field>
+<field name="lastModifyDate">2018-11-19 12:18:59.348</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

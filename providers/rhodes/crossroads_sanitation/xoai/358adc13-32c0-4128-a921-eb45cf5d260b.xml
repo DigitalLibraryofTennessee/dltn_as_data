@@ -1,0 +1,204 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lincoln, Eric C.</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-18T14:07:46Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-18T14:07:46Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1971-11-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33859</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19711111_Eric_C_Lincoln-SS193</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Eric C. Lincoln. Eric was a Professor of Sociology and religion, Union Theological Seminary and author of many books and articles on Negro history. In this recording the contributors discuss local memphis politics, sociology, and race relations compared to that of other cities in the South and the rest of the country.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281549085</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Eric C. Lincoln, Professor of Sociology and Religion, 1971</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">eric lincoln.PNG.jpg</field>
+<field name="originalName">eric lincoln.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4435</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/3/eric%20lincoln.PNG.jpg</field>
+<field name="checksum">fae67e3bf306cbe756a50edf6b4c51b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS193.pdf.jpg</field>
+<field name="originalName">SS193.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13478</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/6/SS193.pdf.jpg</field>
+<field name="checksum">20278d60fefc90d30a570866863011c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS193_transcript.pdf.jpg</field>
+<field name="originalName">SS193_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13478</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/8/SS193_transcript.pdf.jpg</field>
+<field name="checksum">20278d60fefc90d30a570866863011c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">eric lincoln.PNG.preview.jpg</field>
+<field name="originalName">eric lincoln.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">16265</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/4/eric%20lincoln.PNG.preview.jpg</field>
+<field name="checksum">92f521a703ca93b49a29b1954fb2d14b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS193.pdf.txt</field>
+<field name="originalName">SS193.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34397</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/5/SS193.pdf.txt</field>
+<field name="checksum">da6e02ec6e4649ec4761ad65f12b651b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS193_transcript.pdf.txt</field>
+<field name="originalName">SS193_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34397</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/7/SS193_transcript.pdf.txt</field>
+<field name="checksum">da6e02ec6e4649ec4761ad65f12b651b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">eric lincoln.PNG</field>
+<field name="originalName">eric lincoln.PNG</field>
+<field name="format">image/png</field>
+<field name="size">36199</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/1/eric%20lincoln.PNG</field>
+<field name="checksum">9fcf7bc58c0002d3aa7623f5b690ba81</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS193_transcript.pdf</field>
+<field name="originalName">SS193_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">84249</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33859/2/SS193_transcript.pdf</field>
+<field name="checksum">27537e99711d5398da570121a92fabda</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33859</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33859</field>
+<field name="lastModifyDate">2018-07-31 11:25:35.896</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

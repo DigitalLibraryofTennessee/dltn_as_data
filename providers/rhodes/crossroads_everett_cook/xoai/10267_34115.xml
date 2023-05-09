@@ -1,0 +1,161 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Dixon, Roscoe</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-03-03</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34115</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820303_Roscoe_Dixon</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, interviewee and Memphian Roscoe Dixon talks about his work with Operation Push in the 1970's, and the changing trends he sees in the Civil Rights Movement and African American communities since the death of Dr. King. He explains how the Great Society Programs opened educational opportunities to some African American Memphians for the first time.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289963183</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Education</field>
+<field name="value">African Americans</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968--Assassination</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Roscoe Dixon, Operation Push, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">roscoe.dixon.doc</field>
+<field name="originalName">roscoe.dixon.doc</field>
+<field name="format">application/msword</field>
+<field name="size">153600</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34115/1/roscoe.dixon.doc</field>
+<field name="checksum">97016d6f7935ce82a99f04f0a3457dde</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">roscoe dixon.PNG</field>
+<field name="originalName">roscoe dixon.PNG</field>
+<field name="format">image/png</field>
+<field name="size">36659</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34115/3/roscoe%20dixon.PNG</field>
+<field name="checksum">1808d221f02bb8525bc785cabb3fdfbd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">roscoe.dixon.doc.txt</field>
+<field name="originalName">roscoe.dixon.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">65163</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34115/2/roscoe.dixon.doc.txt</field>
+<field name="checksum">bdf2bdd31350a166fe99c00ec81de13b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">roscoe dixon.PNG.jpg</field>
+<field name="originalName">roscoe dixon.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5528</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34115/4/roscoe%20dixon.PNG.jpg</field>
+<field name="checksum">65da0a2d98b50db6d6c11e592a0c2ff5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">roscoe dixon.PNG.preview.jpg</field>
+<field name="originalName">roscoe dixon.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19813</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34115/5/roscoe%20dixon.PNG.preview.jpg</field>
+<field name="checksum">27e473b62ee80a0e9c7526ad17bfb2fc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34115</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34115</field>
+<field name="lastModifyDate">2018-09-14 17:04:20.243</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

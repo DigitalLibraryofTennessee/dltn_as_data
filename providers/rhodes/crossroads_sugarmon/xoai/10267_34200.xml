@@ -1,0 +1,116 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Turner, Johnnie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34200</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A memo to Russell Sugarmon from Johnnie Turner detailing the panel members, S. B. Kyles and Maxine Smith and the upcoming discussion on civil rights and its legal issues.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Civil rights</field>
+<field name="value">African Americans</field>
+<field name="value">Memo</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Smith, Maxine</field>
+<field name="value">Kyles, Samuel Billy</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Memo to Russell Sugarmon from Johnnie Turner</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg</field>
+<field name="originalName">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">241748</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34200/1/Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg</field>
+<field name="checksum">5fc8b4a20fdc30fc7835754ce296dd13</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.jpg</field>
+<field name="originalName">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7394</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34200/2/Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.jpg</field>
+<field name="checksum">60d339affb824533123c985ae8ca88f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.preview.jpg</field>
+<field name="originalName">Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">33696</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34200/3/Memo_from_Johnnie_Turner_to_Russell_Sugarmon_777.jpg.preview.jpg</field>
+<field name="checksum">19074d870968f9585f79661d301ebcc4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34200</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34200</field>
+<field name="lastModifyDate">2018-09-19 18:38:19.91</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

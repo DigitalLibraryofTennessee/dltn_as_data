@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kingsmen Social Club</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1962-08-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34943</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A contract between Andrew Mitchell and the Kingsmen Social Club for the rental of the Club Handy space.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Club Handy</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Club Handy Rental Contract with Kingsmen Social Club, 1962</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg</field>
+<field name="originalName">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">370783</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34943/1/19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg</field>
+<field name="checksum">737100ae6794ed05517c6ff6f45674df</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.jpg</field>
+<field name="originalName">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13848</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34943/2/19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.jpg</field>
+<field name="checksum">980d4aa688ed7a7b55983052474c40fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.preview.jpg</field>
+<field name="originalName">19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">68595</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34943/3/19620812_Club_Handy_Rental_Contract_Kingsmen_Social_Club_117842.jpg.preview.jpg</field>
+<field name="checksum">25ae618cc32c657faae05086435bc58c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34943</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34943</field>
+<field name="lastModifyDate">2018-11-16 16:25:53.346</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

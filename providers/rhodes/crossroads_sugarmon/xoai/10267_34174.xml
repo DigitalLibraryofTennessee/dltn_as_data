@@ -1,0 +1,157 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hayes, T.H., Jr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:56Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1956-01-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34174</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter of recommendation for Russell B. Sugarmon, Jr. to be admitted to the bar in Memphis and Shelby County. The author commends his ability, character, and family background.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Law</field>
+<field name="value">Letter</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from T.H. Hayes, Jr. to Attorney Henry M. Beaty Jr</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">362004</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/1/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg</field>
+<field name="checksum">7315ee79f155b91b8c8ee5a8243df3e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">35936</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/2/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf</field>
+<field name="checksum">9f77027e70e0f220c20261693d93de8f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.jpg</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9968</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/3/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.jpg</field>
+<field name="checksum">8e43ecfa2463da112aa5b736bfbcab09</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.jpg</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7079</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/6/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.jpg</field>
+<field name="checksum">e4b0a1cf991dbe7b0c9a89299272605d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.preview.jpg</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">52172</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/4/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.jpg.preview.jpg</field>
+<field name="checksum">e0ce4939bd8227f2d36e9ce575ffe3cf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.txt</field>
+<field name="originalName">19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">984</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34174/5/19560112_Letter_from_TH_Hayes_to_Henry_Beaty_765.pdf.txt</field>
+<field name="checksum">4e5b72d10a22db50cb90594848d3f84b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34174</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34174</field>
+<field name="lastModifyDate">2018-09-19 19:16:33.31</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

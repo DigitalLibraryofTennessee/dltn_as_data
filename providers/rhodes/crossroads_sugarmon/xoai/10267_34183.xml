@@ -1,0 +1,188 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Tennessee Voters' Council</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:58Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:58Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1964-09-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34183</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19640912_Resolution_to_Frank_G_Clement_710</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A Resolution adopted by the Tennessee Voters' Council addressed to the Hon. Frank G. Clement, Governor of the State of Tennessee. The resolution condemns the firing of Fred Davis and Rufus Jones, asks the Governor to investigate their case and reinstate them, encourages him to support the appointment of minorities to state offices, and urges that political loyalties not be a basis for holding administrative positions in Tennessee.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Race Relations</field>
+<field name="value">African Americans</field>
+<field name="value">Tennessee</field>
+<field name="value">Clement, Frank G., 1949-</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Resolution to the Honorable Frank G. Clement, Governor of the State of Tennessee, from the Tennessee Voters Council</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_1.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1217410</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/1/19640912_Resolution_to_Frank_G_Clement_710_1.jpg</field>
+<field name="checksum">206e39cc02335056ca4cb73b8d414f5f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_2.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1583654</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/2/19640912_Resolution_to_Frank_G_Clement_710_2.jpg</field>
+<field name="checksum">4cfb49285ae40a97743341a48fdd5cb0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710.pdf</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">39502</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/3/19640912_Resolution_to_Frank_G_Clement_710.pdf</field>
+<field name="checksum">2ecf3fa47fecca0cb973aaa80ca49da1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_1.jpg.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13683</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/4/19640912_Resolution_to_Frank_G_Clement_710_1.jpg.jpg</field>
+<field name="checksum">200b400d996ab164db0201b72c96401f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_2.jpg.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10209</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/6/19640912_Resolution_to_Frank_G_Clement_710_2.jpg.jpg</field>
+<field name="checksum">1eef9ea8c17c63303ae360b5efdb58d6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710.pdf.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13714</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/9/19640912_Resolution_to_Frank_G_Clement_710.pdf.jpg</field>
+<field name="checksum">e60967cdaa68b9e53e27ede5cd51629c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_1.jpg.preview.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">63534</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/5/19640912_Resolution_to_Frank_G_Clement_710_1.jpg.preview.jpg</field>
+<field name="checksum">8ab7d854f726fa93e6f9b77678c94386</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710_2.jpg.preview.jpg</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">50083</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/7/19640912_Resolution_to_Frank_G_Clement_710_2.jpg.preview.jpg</field>
+<field name="checksum">bab8835c1bd98dc58b88e0c3fa9b36bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19640912_Resolution_to_Frank_G_Clement_710.pdf.txt</field>
+<field name="originalName">19640912_Resolution_to_Frank_G_Clement_710.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">3365</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34183/8/19640912_Resolution_to_Frank_G_Clement_710.pdf.txt</field>
+<field name="checksum">2cce4f8aefe298def3a46c2d19f3826d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34183</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34183</field>
+<field name="lastModifyDate">2018-09-19 15:25:00.226</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,165 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Seessel, Sam</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Tilly, Bette</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:38Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:38Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33982</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Sam_Seessel</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This interview with Mr. Sam Seessel is a part of the Everett R. Cook Collection and was conducted by MIFA. Mr. Seessel is a long time resident of the Evergreen area, and speaks of his experiences growing up there.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289957919</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Neighborhood Histories</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Sam Seessel, Evergreen resident, c.1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam_Sessel.doc</field>
+<field name="originalName">Sam_Sessel.doc</field>
+<field name="format">application/msword</field>
+<field name="size">93184</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33982/1/Sam_Sessel.doc</field>
+<field name="checksum">e98bebb877c4a140a44d94a3184f0ff9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Sam Seessel.PNG</field>
+<field name="originalName">Sam Seessel.PNG</field>
+<field name="format">image/png</field>
+<field name="size">31223</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33982/3/Sam%20Seessel.PNG</field>
+<field name="checksum">b5b02ea9426b19cbf5a5d5c7d9ad2182</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam_Sessel.doc.txt</field>
+<field name="originalName">Sam_Sessel.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33551</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33982/2/Sam_Sessel.doc.txt</field>
+<field name="checksum">384bec1e75a00ed8246257b51633ef67</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam Seessel.PNG.jpg</field>
+<field name="originalName">Sam Seessel.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4894</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33982/4/Sam%20Seessel.PNG.jpg</field>
+<field name="checksum">df631116c7885537fcaf1e8b112ff6f7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam Seessel.PNG.preview.jpg</field>
+<field name="originalName">Sam Seessel.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19210</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33982/5/Sam%20Seessel.PNG.preview.jpg</field>
+<field name="checksum">49f688e243e3f6d614403690d99441f1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33982</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33982</field>
+<field name="lastModifyDate">2018-09-16 17:09:18.478</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

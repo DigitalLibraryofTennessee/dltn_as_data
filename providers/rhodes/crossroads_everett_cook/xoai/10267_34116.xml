@@ -1,0 +1,181 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Donelson, Lewis R., III, 1917-2018</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34116</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040625_Lewis_Donelson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, native Memphian and lawyer Lewis R. Donelson III describes the challenges of forming a stronger Republican Party in Memphis during and after the Crump era. He also shares how he believes the support of African Americans influenced the shifting political sphere of Memphis in the late 1960s and 1970s.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289955436</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Law</field>
+<field name="value">Politics</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Lewis Donelson, native Memphian and lawyer, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Donelson_Lewis R III (1).doc.txt</field>
+<field name="originalName">Donelson_Lewis R III (1).doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">75634</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/6/Donelson_Lewis%20R%20III%20%281%29.doc.txt</field>
+<field name="checksum">932696e68a5779379fff55c09a44a978</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">Donelson_Lewis R III (2).doc.txt</field>
+<field name="originalName">Donelson_Lewis R III (2).doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">28044</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/7/Donelson_Lewis%20R%20III%20%282%29.doc.txt</field>
+<field name="checksum">05bdbda6fcd5147ef0a2ddd5b7a3018a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lewis donelson.PNG</field>
+<field name="originalName">lewis donelson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">43401</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/1/lewis%20donelson.PNG</field>
+<field name="checksum">317a397ed1cf6b95229b6a28a865b906</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Donelson_Lewis R III (1).doc</field>
+<field name="originalName">Donelson_Lewis R III (1).doc</field>
+<field name="format">application/msword</field>
+<field name="size">168448</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/4/Donelson_Lewis%20R%20III%20%281%29.doc</field>
+<field name="checksum">6037e9e359175933c49f75f7aafb6f9a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">Donelson_Lewis R III (2).doc</field>
+<field name="originalName">Donelson_Lewis R III (2).doc</field>
+<field name="format">application/msword</field>
+<field name="size">75264</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/5/Donelson_Lewis%20R%20III%20%282%29.doc</field>
+<field name="checksum">b883a98cdff680838f87f9124ed119ef</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lewis donelson.PNG.jpg</field>
+<field name="originalName">lewis donelson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5911</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/2/lewis%20donelson.PNG.jpg</field>
+<field name="checksum">7b29592066e8c49bb5a801db1bd82f36</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">lewis donelson.PNG.preview.jpg</field>
+<field name="originalName">lewis donelson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22373</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34116/3/lewis%20donelson.PNG.preview.jpg</field>
+<field name="checksum">8d276606cc3125d9bdab7d80830cf972</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34116</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34116</field>
+<field name="lastModifyDate">2018-10-08 20:09:11.423</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

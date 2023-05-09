@@ -1,0 +1,111 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lockard, Hosea T. (H.T.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34213</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Resume_of_H_T_Lockard_812</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This document is H.T. Lockhard's resume. It describes his education and other accomplishments that demonstrate his ability to complete a task.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Lockard, Hosea T. (H.T.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Resume of H.T. Lockard</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Resume_of_H_T_Lockard_812.jpg.jpg</field>
+<field name="originalName">Resume_of_H_T_Lockard_812.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11361</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34213/2/Resume_of_H_T_Lockard_812.jpg.jpg</field>
+<field name="checksum">ea734f94f6824548b1da2a440d309719</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Resume_of_H_T_Lockard_812.jpg.preview.jpg</field>
+<field name="originalName">Resume_of_H_T_Lockard_812.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55111</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34213/3/Resume_of_H_T_Lockard_812.jpg.preview.jpg</field>
+<field name="checksum">e72d803f41379c49b23fd5c375f31857</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Resume_of_H_T_Lockard_812.jpg</field>
+<field name="originalName">Resume_of_H_T_Lockard_812.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">170666</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34213/1/Resume_of_H_T_Lockard_812.jpg</field>
+<field name="checksum">fbef73d8aa0df1863fd33d294f12bdc1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34213</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34213</field>
+<field name="lastModifyDate">2018-09-17 16:40:21.253</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

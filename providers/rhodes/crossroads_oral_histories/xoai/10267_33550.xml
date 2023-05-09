@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Turley, Lynne</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Williams, Rebecca</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-06-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33550</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20060620_Lynne_Turley</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Lynne Turley describes her experience as a music teacher in the Memphis City School System when Martin Luther King, Jr. was assassinated.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278536873</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Music</field>
+<field name="value">Memphis City Schools</field>
+<field name="value">Education</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Lynne Turley, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.jpg</field>
+<field name="originalName">20060620_Lynne_Turley.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">231926</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/1/20060620_Lynne_Turley.jpg</field>
+<field name="checksum">b793b28819dcab6e0e8afde857ea1e23</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.pdf</field>
+<field name="originalName">20060620_Lynne_Turley.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">147975</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/2/20060620_Lynne_Turley.pdf</field>
+<field name="checksum">35c7ed5f706f6cc20038bd1d24ed3c51</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.jpg.jpg</field>
+<field name="originalName">20060620_Lynne_Turley.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13782</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/3/20060620_Lynne_Turley.jpg.jpg</field>
+<field name="checksum">988275bc89fd95276245248288e40a3c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.pdf.jpg</field>
+<field name="originalName">20060620_Lynne_Turley.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13924</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/6/20060620_Lynne_Turley.pdf.jpg</field>
+<field name="checksum">8f51711b6c33f403a55ba3e17c87e487</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.jpg.preview.jpg</field>
+<field name="originalName">20060620_Lynne_Turley.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">58217</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/4/20060620_Lynne_Turley.jpg.preview.jpg</field>
+<field name="checksum">60e724fafc54c0a0d839431e129a7998</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060620_Lynne_Turley.pdf.txt</field>
+<field name="originalName">20060620_Lynne_Turley.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34102</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33550/5/20060620_Lynne_Turley.pdf.txt</field>
+<field name="checksum">b96982427c47b3ec7292d1ec86a28de1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33550</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33550</field>
+<field name="lastModifyDate">2018-07-20 12:12:14.386</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Stiles, Allen</field>
+<field name="value">Madjlesi, Ace</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-06-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33590</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110629_Allen_Stiles</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Allen Stiles. Mr. Stiles talks about his parents, his childhood in Memphis, his careers and his involvement in the Civil Rights Movement, especially the sit-ins. Particularly, he recounts his first time participating in an integration in Pink Palace Museum in addition to his air-force experiences after that. Eventually, he expresses his opinions upon what changes have taken place in Memphis from the rise of Civil Rights Movement to present, and his advice to young Memphians also. Interviewee: Allen Stiles Interviewer: Ace Madjlesi Date: June 29, 2011</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278584333</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Neighborhood Histories</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis Pink Palace Museum</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Allen Stiles, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.PNG.jpg</field>
+<field name="originalName">20110629_Allen_Stiles.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5399</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/3/20110629_Allen_Stiles.PNG.jpg</field>
+<field name="checksum">3bb1d20ea2a6f5d3511e093f9b433559</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.pdf.jpg</field>
+<field name="originalName">20110629_Allen_Stiles.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9001</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/6/20110629_Allen_Stiles.pdf.jpg</field>
+<field name="checksum">a63b8d1d4bb1e3c3dd0cddb43d3dd441</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.PNG</field>
+<field name="originalName">20110629_Allen_Stiles.PNG</field>
+<field name="format">image/png</field>
+<field name="size">696289</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/1/20110629_Allen_Stiles.PNG</field>
+<field name="checksum">481f1bcd6fb007c860fff4df31bfd2ef</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.pdf</field>
+<field name="originalName">20110629_Allen_Stiles.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">321683</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/2/20110629_Allen_Stiles.pdf</field>
+<field name="checksum">845d19633c6f880c02012621ebbfcff7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.PNG.preview.jpg</field>
+<field name="originalName">20110629_Allen_Stiles.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22602</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/4/20110629_Allen_Stiles.PNG.preview.jpg</field>
+<field name="checksum">056876a8b1bfb9f70b640cf7d338c8f6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110629_Allen_Stiles.pdf.txt</field>
+<field name="originalName">20110629_Allen_Stiles.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">40015</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33590/5/20110629_Allen_Stiles.pdf.txt</field>
+<field name="checksum">c450906cc67fc5aa71984f3b355d7d0c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33590</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33590</field>
+<field name="lastModifyDate">2018-07-12 13:20:40.167</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

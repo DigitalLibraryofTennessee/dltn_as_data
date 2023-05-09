@@ -1,0 +1,206 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Wax, James A. (James Aaron), 1912-1989</field>
+<field name="value">Dimmick, William A.</field>
+<field name="value">Vieron, Nicholas L.</field>
+<field name="value">Ciampa, Peter J. (P.J.)</field>
+<field name="value">McRae, Frank, 1952-</field>
+<field name="value">Eckelkamp, Joseph A.</field>
+<field name="value">Loeb, Henry, 1920-1992</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-18T14:07:46Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-18T14:07:46Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-02-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33861</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680218_Ministers_Negotiations-SS195</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a recording of a meeting between key actors involved in the events of the Memphis Sanitation Workers' Strike on February 18th, 1968.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281520549</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Ministers' Negotiations Part 1, February 18th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS195_transcript.pdf</field>
+<field name="originalName">SS195_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">65367</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/1/SS195_transcript.pdf</field>
+<field name="checksum">f30740a2b2b2efdd8c114561239df044</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">ministersnegotiations1.PNG</field>
+<field name="originalName">ministersnegotiations1.PNG</field>
+<field name="format">image/png</field>
+<field name="size">61468</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/4/ministersnegotiations1.PNG</field>
+<field name="checksum">32c0a40299e29f12d1e35be77d53d6a5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS195.pdf.txt</field>
+<field name="originalName">SS195.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">19630</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/2/SS195.pdf.txt</field>
+<field name="checksum">5f0ac965e4392490ca903f930ad7b46b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS195_transcript.pdf.txt</field>
+<field name="originalName">SS195_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">19630</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/5/SS195_transcript.pdf.txt</field>
+<field name="checksum">5f0ac965e4392490ca903f930ad7b46b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS195.pdf.jpg</field>
+<field name="originalName">SS195.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12010</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/3/SS195.pdf.jpg</field>
+<field name="checksum">28e29aa7a7e9fe45e47fa18056ac8262</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS195_transcript.pdf.jpg</field>
+<field name="originalName">SS195_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12010</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/6/SS195_transcript.pdf.jpg</field>
+<field name="checksum">28e29aa7a7e9fe45e47fa18056ac8262</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">ministersnegotiations1.PNG.jpg</field>
+<field name="originalName">ministersnegotiations1.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6291</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/7/ministersnegotiations1.PNG.jpg</field>
+<field name="checksum">9f02c4f634743c19a9c3590b6b1c2c3b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ministersnegotiations1.PNG.preview.jpg</field>
+<field name="originalName">ministersnegotiations1.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19455</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33861/8/ministersnegotiations1.PNG.preview.jpg</field>
+<field name="checksum">f7aa4a22f8b9f67a83cf543be6c5189a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33861</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33861</field>
+<field name="lastModifyDate">2018-07-31 14:03:51.154</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

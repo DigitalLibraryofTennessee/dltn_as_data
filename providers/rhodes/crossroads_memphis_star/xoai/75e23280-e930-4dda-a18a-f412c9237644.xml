@@ -1,0 +1,128 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="author">
+<element name="none">
+<field name="value">Stewart, John</field>
+<field name="value">Thomas, Chris</field>
+<field name="value">Roller, H. I.</field>
+<field name="value">Santoro, Jim</field>
+</element>
+</element>
+<element name="editor">
+<element name="none">
+<field name="value">Santoro, Jim</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-06T21:36:09Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-06T21:36:09Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1987-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/30819</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">MS_v7n2_1987-08</field>
+</element>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">TC and Co.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Newspapers</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memphis Star, August 1987</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MS_v7n2_1987-08.pdf.txt</field>
+<field name="originalName">MS_v7n2_1987-08.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">192798</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30819/2/MS_v7n2_1987-08.pdf.txt</field>
+<field name="checksum">05dc83aa26870a7ad21534fecda99e23</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MS_v7n2_1987-08.pdf.jpg</field>
+<field name="originalName">MS_v7n2_1987-08.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18091</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30819/3/MS_v7n2_1987-08.pdf.jpg</field>
+<field name="checksum">e826485c3fa4ae2f50be9cd2bb7e153e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">MS_v7n2_1987-08.pdf</field>
+<field name="originalName">MS_v7n2_1987-08.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">66756137</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30819/1/MS_v7n2_1987-08.pdf</field>
+<field name="checksum">1f052a1cd07233ae0573d6f4b806d290</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/30819</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/30819</field>
+<field name="lastModifyDate">2018-05-14 13:42:17.679</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,163 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Farris, William (Bill)</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-05-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34118</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820514_Bill_Farris</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview with Bill Farris, City Commissioner under Mayors Loeb and Ingram, Executive Assistant to Mayors Toby and Orgill and City Judge of Memphis, he describes the political pressures of democrats in the post-Crump era of the 1960s. He talks about appointing the first African American to head a board in the Memphis city government, Macy O'Walker, and how the city government sought to handle the Sanitation Worker's Strike of 1968.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289566718</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">Ingram, William B.</field>
+<field name="value">Law</field>
+<field name="value">Politics</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Bill Farris, City Commissioner, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Farris_Bill No Cuts.doc.txt</field>
+<field name="originalName">Farris_Bill No Cuts.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">27965</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34118/5/Farris_Bill%20No%20Cuts.doc.txt</field>
+<field name="checksum">3b6d267604e762e39d2f1bc343a37a1e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">bill farris.PNG</field>
+<field name="originalName">bill farris.PNG</field>
+<field name="format">image/png</field>
+<field name="size">37906</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34118/1/bill%20farris.PNG</field>
+<field name="checksum">7a630452235e09a9db636d332fbdc063</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Farris_Bill No Cuts.doc</field>
+<field name="originalName">Farris_Bill No Cuts.doc</field>
+<field name="format">application/msword</field>
+<field name="size">84480</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34118/4/Farris_Bill%20No%20Cuts.doc</field>
+<field name="checksum">1b70541efffb784c6e9c75106cedae1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">bill farris.PNG.jpg</field>
+<field name="originalName">bill farris.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5502</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34118/2/bill%20farris.PNG.jpg</field>
+<field name="checksum">b61f33d54e6d01759591085e8bbcce3d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">bill farris.PNG.preview.jpg</field>
+<field name="originalName">bill farris.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21393</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34118/3/bill%20farris.PNG.preview.jpg</field>
+<field name="checksum">b25dd680fe053b8ceda57edd0773acae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34118</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34118</field>
+<field name="lastModifyDate">2018-09-27 08:38:05.188</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

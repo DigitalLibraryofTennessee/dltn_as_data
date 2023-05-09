@@ -1,0 +1,164 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Pryor, Downing</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-05-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34135</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820504_Downing_Pryor</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Downing Pryor describes being the first President of the City Council in 1968 and how the new, inexperienced City Council struggled to excercize authority and put an end to the Sanitation Worker's Strike. He also recounts the King assassination and how it caused African American leadership to fragment in the city of Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289561524</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis City Council</field>
+<field name="value">Black Leaders</field>
+<field name="value">Integration</field>
+<field name="value">Sanitation workers</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968--Assassination</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Downing Pryor, first President of the City Council, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pryor_Downing (2).doc.txt</field>
+<field name="originalName">Pryor_Downing (2).doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45780</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34135/5/Pryor_Downing%20%282%29.doc.txt</field>
+<field name="checksum">e0bbc270f91e158521acb4015464e837</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG</field>
+<field name="originalName">downing pryor.PNG</field>
+<field name="format">image/png</field>
+<field name="size">45545</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34135/1/downing%20pryor.PNG</field>
+<field name="checksum">9d2de1b42e3020ec7170a763d28af71c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Pryor_Downing (2).doc</field>
+<field name="originalName">Pryor_Downing (2).doc</field>
+<field name="format">application/msword</field>
+<field name="size">114688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34135/4/Pryor_Downing%20%282%29.doc</field>
+<field name="checksum">644607664aae4d0382b28043b435bf4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG.jpg</field>
+<field name="originalName">downing pryor.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5936</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34135/2/downing%20pryor.PNG.jpg</field>
+<field name="checksum">c474152c66066df3d2ec42cc2af2cf6e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG.preview.jpg</field>
+<field name="originalName">downing pryor.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22134</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34135/3/downing%20pryor.PNG.preview.jpg</field>
+<field name="checksum">9de1e98d6a11f350d51dd5d995db59eb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34135</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34135</field>
+<field name="lastModifyDate">2018-09-27 08:29:55.866</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,221 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Crook, Dorothy</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Jeffries, Joshua</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:54Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:54Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-05-21</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33488</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070521_Dorothy_Crook</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Dorothy Crook, who was at the time of the interview the Director of AFSCME Local 1733, the Memphis chapter of the nationally known labor union. She began working with the Memphis chapter in 1969, the year after Dr. King was assassinated while aiding in the Memphis Sanitation Workers Strike. To this day, Ms. Crook continues for just and equitable treatment of working class citizens in Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281842908</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">Jackson State University</field>
+<field name="value">Meredith, James</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">AFSCME</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dorothy Crook, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070521_Dorothy_Crook.pdf</field>
+<field name="originalName">20070521_Dorothy_Crook.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">212272</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/1/20070521_Dorothy_Crook.pdf</field>
+<field name="checksum">2a55fc4bd608b145ad97f8a5afc7e89b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Dorothy Crook.JPG</field>
+<field name="originalName">Dorothy Crook.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">59027</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/10/Dorothy%20Crook.JPG</field>
+<field name="checksum">5de92381242f5d4bfed102b39461ebd2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070521_Dorothy_Crook.pdf.txt</field>
+<field name="originalName">20070521_Dorothy_Crook.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">55413</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/3/20070521_Dorothy_Crook.pdf.txt</field>
+<field name="checksum">1d63727c700375b0a0e40e4667bd6197</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070521_Dorothy_Crook.pdf.jpg</field>
+<field name="originalName">20070521_Dorothy_Crook.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12587</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/4/20070521_Dorothy_Crook.pdf.jpg</field>
+<field name="checksum">31602e78833dbb0a09a4b5e870989ab5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20070521_Dorothy_Crook.JPG.jpg</field>
+<field name="originalName">20070521_Dorothy_Crook.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11129</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/5/20070521_Dorothy_Crook.JPG.jpg</field>
+<field name="checksum">58c3b4759e4d0da6bea3ce168573f4da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">Dorothy_Crook.JPG.jpg</field>
+<field name="originalName">Dorothy_Crook.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12529</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/8/Dorothy_Crook.JPG.jpg</field>
+<field name="checksum">9e2e46e45e8c2b88fd4b211a53294d7d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">Dorothy Crook.JPG.jpg</field>
+<field name="originalName">Dorothy Crook.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13054</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/11/Dorothy%20Crook.JPG.jpg</field>
+<field name="checksum">fc196663ba4e29337433b140acd02e78</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070521_Dorothy_Crook.JPG.preview.jpg</field>
+<field name="originalName">20070521_Dorothy_Crook.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">24145</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/6/20070521_Dorothy_Crook.JPG.preview.jpg</field>
+<field name="checksum">83db45b1bc0591a42148b605dc5af3d2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">Dorothy_Crook.JPG.preview.jpg</field>
+<field name="originalName">Dorothy_Crook.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43095</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/9/Dorothy_Crook.JPG.preview.jpg</field>
+<field name="checksum">54e29674d1707406df2587ab08bdc281</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">Dorothy Crook.JPG.preview.jpg</field>
+<field name="originalName">Dorothy Crook.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">44396</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33488/12/Dorothy%20Crook.JPG.preview.jpg</field>
+<field name="checksum">43abef7bfdb7e505fbbdee532542e0a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33488</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33488</field>
+<field name="lastModifyDate">2018-07-26 17:10:00.471</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

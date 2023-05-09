@@ -1,0 +1,157 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Tennessee Voters' Council, East Tennessee Office</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1964</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34192</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1964_Statement_from_Tennssee_Voters_Council_783</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This statement from the Tennessee Voters' Council observes the lack of support for Senator Ross Bass from Mr.Bullard and Mr. Clement after they repudiated his stance on the Civil Rights Act of 1964.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Tennessee</field>
+<field name="value">Civil rights</field>
+<field name="value">Letter</field>
+<field name="value">Civil Rights Act of 1964</field>
+<field name="value">Bass, Ross, 1918-1993</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Statement from the Tennessee Voters' Council</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.jpg</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">782115</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/1/1964_Statement_from_Tennssee_Voters_Council_783.jpg</field>
+<field name="checksum">cae1c6720e63ad6aacb4a6486cb77e99</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.pdf</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">43496</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/2/1964_Statement_from_Tennssee_Voters_Council_783.pdf</field>
+<field name="checksum">554051912600766c542cee41e316334a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.jpg.jpg</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20826</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/3/1964_Statement_from_Tennssee_Voters_Council_783.jpg.jpg</field>
+<field name="checksum">d57d9a26270556bb7534a62d330c8326</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.pdf.jpg</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13998</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/6/1964_Statement_from_Tennssee_Voters_Council_783.pdf.jpg</field>
+<field name="checksum">bfe343823c9fe3b45e746659aa99e46c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.jpg.preview.jpg</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">122382</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/4/1964_Statement_from_Tennssee_Voters_Council_783.jpg.preview.jpg</field>
+<field name="checksum">0201eed936248b97c79a364e15d4745d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1964_Statement_from_Tennssee_Voters_Council_783.pdf.txt</field>
+<field name="originalName">1964_Statement_from_Tennssee_Voters_Council_783.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">3570</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34192/5/1964_Statement_from_Tennssee_Voters_Council_783.pdf.txt</field>
+<field name="checksum">70d17bc900ba40262abc9d86756df570</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34192</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34192</field>
+<field name="lastModifyDate">2018-09-19 18:03:57.884</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

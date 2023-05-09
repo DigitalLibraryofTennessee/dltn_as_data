@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Tortter, Charlene</field>
+<field name="value">Washington, Fayth Hill</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-05-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33547</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20060519_Charlene_Trotter</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Mrs. Charlene W. Trotter was an English teacher at the Hoxie colored school before the integration of the Hoxie school district. Mrs. Trotter was among the first African-American teachers at McClellan High School soon after the school was integrated. She worked in various school districts thereafter.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278523975</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Education</field>
+<field name="value">Segregation</field>
+<field name="value">Hoxie (Ark.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Charlene Trotter, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.jpg</field>
+<field name="originalName">20060519_Charlene_Trotter.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">139877</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/1/20060519_Charlene_Trotter.jpg</field>
+<field name="checksum">bde09e62818c6299d927c3c3d556466a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.pdf</field>
+<field name="originalName">20060519_Charlene_Trotter.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">170195</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/2/20060519_Charlene_Trotter.pdf</field>
+<field name="checksum">fffd8d2d7073e5e03406c621b3ba2dc9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.jpg.jpg</field>
+<field name="originalName">20060519_Charlene_Trotter.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9065</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/3/20060519_Charlene_Trotter.jpg.jpg</field>
+<field name="checksum">24e27bc8cb97019ae6af8196bcd462e4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.pdf.jpg</field>
+<field name="originalName">20060519_Charlene_Trotter.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13746</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/6/20060519_Charlene_Trotter.pdf.jpg</field>
+<field name="checksum">df3542d98634fb22d1f1c9ad2f2e71f5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.jpg.preview.jpg</field>
+<field name="originalName">20060519_Charlene_Trotter.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">36697</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/4/20060519_Charlene_Trotter.jpg.preview.jpg</field>
+<field name="checksum">8528c965957a1e8ee9682f00ae7f4e48</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060519_Charlene_Trotter.pdf.txt</field>
+<field name="originalName">20060519_Charlene_Trotter.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">48718</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33547/5/20060519_Charlene_Trotter.pdf.txt</field>
+<field name="checksum">b25ff19269c2cd21c22da6ff25b8a842</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33547</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33547</field>
+<field name="lastModifyDate">2018-07-27 11:22:14.481</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

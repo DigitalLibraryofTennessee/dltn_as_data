@@ -1,0 +1,175 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Fulton, Walter</field>
+<field name="value">Fulton, Willie Bell</field>
+<field name="value">Mrkva, Andy</field>
+<field name="value">Saba, Daniel</field>
+<field name="value">Saba, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:16Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:16Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33513</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090625_Winnie_Bell_and_Walter_Fulton</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Willie Bell and Walter Fulton, two long time residents of Hyde Park. This interview was a part of the 2009 Crossroads to Freedom Hyde Park team.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278575363</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Religion</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Willie Bell and Walter Fulton, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.jpg</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">118830</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/1/20090625_Winnie_Bell_and_Walter_Fulton.jpg</field>
+<field name="checksum">b37085b8db2eb70931e8d4f65ba7b789</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.pdf</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">226199</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/2/20090625_Winnie_Bell_and_Walter_Fulton.pdf</field>
+<field name="checksum">a068708bf94a2d081589a639176faf1e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.jpg.jpg</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5943</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/3/20090625_Winnie_Bell_and_Walter_Fulton.jpg.jpg</field>
+<field name="checksum">f361d18dc127a090508642cd3058b6a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.pdf.jpg</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12297</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/6/20090625_Winnie_Bell_and_Walter_Fulton.pdf.jpg</field>
+<field name="checksum">70f96d25a759eae5e1f63ba0fa1c6670</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.jpg.preview.jpg</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21909</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/4/20090625_Winnie_Bell_and_Walter_Fulton.jpg.preview.jpg</field>
+<field name="checksum">09280d0d7b14171f934d02a7ffa6e3a5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090625_Winnie_Bell_and_Walter_Fulton.pdf.txt</field>
+<field name="originalName">20090625_Winnie_Bell_and_Walter_Fulton.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">53092</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33513/5/20090625_Winnie_Bell_and_Walter_Fulton.pdf.txt</field>
+<field name="checksum">17d3cc2d248c5103ff9f331559f42215</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33513</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33513</field>
+<field name="lastModifyDate">2018-07-12 13:20:38.559</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

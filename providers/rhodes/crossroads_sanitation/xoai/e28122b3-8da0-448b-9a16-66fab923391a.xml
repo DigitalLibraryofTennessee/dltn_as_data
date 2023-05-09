@@ -1,0 +1,143 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">UPI Radio Network</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-18T14:07:47Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-18T14:07:47Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-01-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33863</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680116-19680328_UPI_Press_Radio_Newscasts-SS198</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">These are reports of Memphis news from January 16th to March 28th, 1968, originally released by UPI Radio Network (formerly UPI Audio).</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281846178</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Radio news programs</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">UPI Radio Network Newscasts, January 16th 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI Press Newscast January.JPG</field>
+<field name="originalName">UPI Press Newscast January.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27275</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33863/1/UPI%20Press%20Newscast%20January.JPG</field>
+<field name="checksum">791662e149ec694a68c77b134044a304</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI Press Newscast January.JPG.jpg</field>
+<field name="originalName">UPI Press Newscast January.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4155</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33863/2/UPI%20Press%20Newscast%20January.JPG.jpg</field>
+<field name="checksum">46dc6d37be27d824df5073f04a29b2af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">UPI Press Newscast January.JPG.preview.jpg</field>
+<field name="originalName">UPI Press Newscast January.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13713</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33863/3/UPI%20Press%20Newscast%20January.JPG.preview.jpg</field>
+<field name="checksum">3b8d664883cb121de29d0fc0ab08b281</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33863</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33863</field>
+<field name="lastModifyDate">2018-07-31 10:58:24.609</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

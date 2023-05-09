@@ -1,0 +1,146 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="author">
+<element name="none">
+<field name="value">Bowman, Rob</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-21T15:15:04Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-21T15:15:04Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2003-02-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34254</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="sponsorship">
+<element name="en_US">
+<field name="value">Stax musician Rob Bowman discusses his career, other Stax musicians including Booker T., Isaac Hayes, and Otis Redding, the Blues genre at Stax, and black culture as it relates to music. Interview recorded on February 13th, 2003.</field>
+</element>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/291122938</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Stax Records</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rob Bowman, 2003</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Video</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2003_Rob_Bowman.JPG</field>
+<field name="originalName">2003_Rob_Bowman.JPG</field>
+<field name="description"/>
+<field name="format">image/jpeg</field>
+<field name="size">91959</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34254/1/2003_Rob_Bowman.JPG</field>
+<field name="checksum">c464da5de41a2f90cca11ae384a0069c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2003_Rob_Bowman.JPG.jpg</field>
+<field name="originalName">2003_Rob_Bowman.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11115</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34254/3/2003_Rob_Bowman.JPG.jpg</field>
+<field name="checksum">4fdf4560c821e54c984b626bf435a492</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2003_Rob_Bowman.JPG.preview.jpg</field>
+<field name="originalName">2003_Rob_Bowman.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">42113</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34254/4/2003_Rob_Bowman.JPG.preview.jpg</field>
+<field name="checksum">28d4cdea3bf45930e49f7d2b7dff31f5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">LICENSE</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">license.txt</field>
+<field name="originalName">license.txt</field>
+<field name="format">text/plain</field>
+<field name="size">1663</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34254/2/license.txt</field>
+<field name="checksum">69d7879d0c65ae9be06d38a27d11bcb2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34254</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34254</field>
+<field name="lastModifyDate">2018-09-21 10:16:41.109</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+<element name="license">
+<field name="bin">Tk9OLUVYQ0xVU0lWRSBESVNUUklCVVRJT04gTElDRU5TRQoKQnkgc2lnbmluZyBhbmQgc3VibWl0dGluZyB0aGlzIGxpY2Vuc2UsIHlvdSAodGhlIGF1dGhvcihzKSBvciBjb3B5cmlnaHQKb3duZXIpIGdyYW50cyB0byBSaG9kZXMgQ29sbGVnZSAoUkhPREVTKSB0aGUgbm9uLWV4Y2x1c2l2ZSByaWdodCB0byByZXByb2R1Y2UsCnRyYW5zbGF0ZSAoYXMgZGVmaW5lZCBiZWxvdyksIGFuZC9vciBkaXN0cmlidXRlIHlvdXIgc3VibWlzc2lvbiAoaW5jbHVkaW5nCnRoZSBhYnN0cmFjdCkgd29ybGR3aWRlIGluIHByaW50IGFuZCBlbGVjdHJvbmljIGZvcm1hdCBhbmQgaW4gYW55IG1lZGl1bSwKaW5jbHVkaW5nIGJ1dCBub3QgbGltaXRlZCB0byBhdWRpbyBvciB2aWRlby4KCllvdSBhZ3JlZSB0aGF0IFJIT0RFUyBtYXksIHdpdGhvdXQgY2hhbmdpbmcgdGhlIGNvbnRlbnQsIHRyYW5zbGF0ZSB0aGUKc3VibWlzc2lvbiB0byBhbnkgbWVkaXVtIG9yIGZvcm1hdCBmb3IgdGhlIHB1cnBvc2Ugb2YgcHJlc2VydmF0aW9uLgoKWW91IGFsc28gYWdyZWUgdGhhdCBSSE9ERVMgbWF5IGtlZXAgbW9yZSB0aGFuIG9uZSBjb3B5IG9mIHRoaXMgc3VibWlzc2lvbiBmb3IKcHVycG9zZXMgb2Ygc2VjdXJpdHksIGJhY2stdXAgYW5kIHByZXNlcnZhdGlvbi4KCllvdSByZXByZXNlbnQgdGhhdCB0aGUgc3VibWlzc2lvbiBpcyB5b3VyIG9yaWdpbmFsIHdvcmssIGFuZCB0aGF0IHlvdSBoYXZlCnRoZSByaWdodCB0byBncmFudCB0aGUgcmlnaHRzIGNvbnRhaW5lZCBpbiB0aGlzIGxpY2Vuc2UuIFlvdSBhbHNvIHJlcHJlc2VudAp0aGF0IHlvdXIgc3VibWlzc2lvbiBkb2VzIG5vdCwgdG8gdGhlIGJlc3Qgb2YgeW91ciBrbm93bGVkZ2UsIGluZnJpbmdlIHVwb24KYW55b25lJ3MgY29weXJpZ2h0LgoKSWYgdGhlIHN1Ym1pc3Npb24gY29udGFpbnMgbWF0ZXJpYWwgZm9yIHdoaWNoIHlvdSBkbyBub3QgaG9sZCBjb3B5cmlnaHQsCnlvdSByZXByZXNlbnQgdGhhdCB5b3UgaGF2ZSBvYnRhaW5lZCB0aGUgdW5yZXN0cmljdGVkIHBlcm1pc3Npb24gb2YgdGhlCmNvcHlyaWdodCBvd25lciB0byBncmFudCBSSE9ERVMgdGhlIHJpZ2h0cyByZXF1aXJlZCBieSB0aGlzIGxpY2Vuc2UsIGFuZCB0aGF0CnN1Y2ggdGhpcmQtcGFydHkgb3duZWQgbWF0ZXJpYWwgaXMgY2xlYXJseSBpZGVudGlmaWVkIGFuZCBhY2tub3dsZWRnZWQKd2l0aGluIHRoZSB0ZXh0IG9yIGNvbnRlbnQgb2YgdGhlIHN1Ym1pc3Npb24uCgpJRiBUSEUgU1VCTUlTU0lPTiBJUyBCQVNFRCBVUE9OIFdPUksgVEhBVCBIQVMgQkVFTiBTUE9OU09SRUQgT1IgU1VQUE9SVEVECkJZIEFOIEFHRU5DWSBPUiBPUkdBTklaQVRJT04gT1RIRVIgVEhBTiBSSE9ERVMsIFlPVSBSRVBSRVNFTlQgVEhBVCBZT1UgSEFWRQpGVUxGSUxMRUQgQU5ZIFJJR0hUIE9GIFJFVklFVyBPUiBPVEhFUiBPQkxJR0FUSU9OUyBSRVFVSVJFRCBCWSBTVUNICkNPTlRSQUNUIE9SIEFHUkVFTUVOVC4KClJIT0RFUyB3aWxsIGNsZWFybHkgaWRlbnRpZnkgeW91ciBuYW1lKHMpIGFzIHRoZSBhdXRob3Iocykgb3Igb3duZXIocykgb2YgdGhlCnN1Ym1pc3Npb24sIGFuZCB3aWxsIG5vdCBtYWtlIGFueSBhbHRlcmF0aW9uLCBvdGhlciB0aGFuIGFzIGFsbG93ZWQgYnkgdGhpcwpsaWNlbnNlLCB0byB5b3VyIHN1Ym1pc3Npb24uCg==</field>
+</element>
+</metadata>

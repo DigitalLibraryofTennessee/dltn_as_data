@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Turley, Henry</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Windless, Crystal</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:52Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:52Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-01-09</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33486</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070109_Henry_Turley</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mr. Henry Turley. He tells his experience of the first march in Memphis, Tennessee for the sanitation workers. 2007-01-09</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278551744</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Jones, T.O.</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">AFSCME</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Henry Turley, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.JPG</field>
+<field name="originalName">20070109_Henry_Turley.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">71876</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/1/20070109_Henry_Turley.JPG</field>
+<field name="checksum">80e6f97695882917f8e827e2cf25e08c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.pdf</field>
+<field name="originalName">20070109_Henry_Turley.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">300990</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/2/20070109_Henry_Turley.pdf</field>
+<field name="checksum">36789315902f8d9b1f8135fc13eebbab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.JPG.jpg</field>
+<field name="originalName">20070109_Henry_Turley.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14281</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/3/20070109_Henry_Turley.JPG.jpg</field>
+<field name="checksum">eca9e35835ed672f332ee37bb72d99cb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.pdf.jpg</field>
+<field name="originalName">20070109_Henry_Turley.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10048</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/6/20070109_Henry_Turley.pdf.jpg</field>
+<field name="checksum">f6136852d940398789c467aa3ef33202</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.JPG.preview.jpg</field>
+<field name="originalName">20070109_Henry_Turley.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43744</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/4/20070109_Henry_Turley.JPG.preview.jpg</field>
+<field name="checksum">7ba63858f0a1b86910cd5f182d9105e5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070109_Henry_Turley.pdf.txt</field>
+<field name="originalName">20070109_Henry_Turley.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">38175</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33486/5/20070109_Henry_Turley.pdf.txt</field>
+<field name="checksum">4f93f3579e51809f9a739ef65c520f51</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33486</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33486</field>
+<field name="lastModifyDate">2018-07-27 11:28:10.499</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

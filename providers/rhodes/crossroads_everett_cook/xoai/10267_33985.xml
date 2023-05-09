@@ -1,0 +1,166 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hilliard, David M.</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Tilly, Bette</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1905-06-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33985</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1979_Rev_David_M_Hilliard</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Reverend David Hilliard in which he talks about his childhood experiences in Memphis.  He also discusses what it was like returning back to Memphis after leaving.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289554335</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Religion</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">David Hilliard, reverend, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1979_Rev_David_M_Hilliard.doc</field>
+<field name="originalName">1979_Rev_David_M_Hilliard.doc</field>
+<field name="format">application/msword</field>
+<field name="size">88576</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33985/1/1979_Rev_David_M_Hilliard.doc</field>
+<field name="checksum">140221c138ab76dd65ac6e6f39f24d5d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">David M Hilliard.PNG</field>
+<field name="originalName">David M Hilliard.PNG</field>
+<field name="format">image/png</field>
+<field name="size">35368</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33985/3/David%20M%20Hilliard.PNG</field>
+<field name="checksum">5bc64a9d404dac4b16aa034afb64c3db</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1979_Rev_David_M_Hilliard.doc.txt</field>
+<field name="originalName">1979_Rev_David_M_Hilliard.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">37315</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33985/2/1979_Rev_David_M_Hilliard.doc.txt</field>
+<field name="checksum">3e83f9d4605e49c7a21d4bbc1158bd6a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">David M Hilliard.PNG.jpg</field>
+<field name="originalName">David M Hilliard.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5081</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33985/4/David%20M%20Hilliard.PNG.jpg</field>
+<field name="checksum">db4743858bf21ceef3c96835f52802a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">David M Hilliard.PNG.preview.jpg</field>
+<field name="originalName">David M Hilliard.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19779</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33985/5/David%20M%20Hilliard.PNG.preview.jpg</field>
+<field name="checksum">ec46d8ccd923958defed2c0d24a60191</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33985</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33985</field>
+<field name="lastModifyDate">2018-09-12 14:44:31.842</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

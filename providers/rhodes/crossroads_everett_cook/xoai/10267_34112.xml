@@ -1,0 +1,160 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Burson, Josephine Wainman</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-07-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34112</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040728_Josephine_Burson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interviewee Josephine Burson recalls her position as State Commissioner of Employment Security starting in 1948, and her role on the Democratic Party Executive Committee. She reflects on how being an African American woman influenced her career in government.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/290315125</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Politics</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Josephine Burson, State Commissioner of Employment Security, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Burson_Josephine.doc</field>
+<field name="originalName">Burson_Josephine.doc</field>
+<field name="format">application/msword</field>
+<field name="size">162304</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34112/1/Burson_Josephine.doc</field>
+<field name="checksum">4ba4f104051d7ce87d128465b996dbe0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">josephine burson.PNG</field>
+<field name="originalName">josephine burson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42545</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34112/3/josephine%20burson.PNG</field>
+<field name="checksum">2209eecc04afaf0c2edf6a21e1c16b1f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Burson_Josephine.doc.txt</field>
+<field name="originalName">Burson_Josephine.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">80666</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34112/2/Burson_Josephine.doc.txt</field>
+<field name="checksum">824bf22a380e7b55995da8e5e2865ae3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">josephine burson.PNG.jpg</field>
+<field name="originalName">josephine burson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5836</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34112/4/josephine%20burson.PNG.jpg</field>
+<field name="checksum">85418a07fc1e0790da53eea91916534f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">josephine burson.PNG.preview.jpg</field>
+<field name="originalName">josephine burson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21878</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34112/5/josephine%20burson.PNG.preview.jpg</field>
+<field name="checksum">3a6bea39bd7cb321a0b2a78ead221b7c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34112</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34112</field>
+<field name="lastModifyDate">2018-09-17 11:21:38.7</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

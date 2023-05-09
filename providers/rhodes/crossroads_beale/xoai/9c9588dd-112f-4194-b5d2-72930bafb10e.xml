@@ -1,0 +1,122 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">American Federation of Musicians of the United States and Canada</field>
+<field name="value">Archer Associations, Inc. (New York, N.Y.)</field>
+<field name="value">Harvey, Bill (Saxophonist)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1957-08-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34337</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19570822_Bill_Harvey_Contract_Regal_Theatre_117946</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Hiring contract for Bill Harvey to perform in Norfolk, Virginia at the Regal Theatre.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Regal Theatre (Norfolk, V.A.)</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Contract Hiring Bill Harvey at the Regal Theatre, 1957</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg</field>
+<field name="originalName">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">715287</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34337/1/19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg</field>
+<field name="checksum">9257f1c6c5fd7ddb4990fd3a52e7c53b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.jpg</field>
+<field name="originalName">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">22844</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34337/2/19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.jpg</field>
+<field name="checksum">1a9a929f14cf85439bf936bc9fbbb2bd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.preview.jpg</field>
+<field name="originalName">19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">121519</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34337/3/19570822_Bill_Harvey_Contract_Regal_Theatre_117946.jpg.preview.jpg</field>
+<field name="checksum">33939332706f4052b9c8349950e1f03e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34337</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34337</field>
+<field name="lastModifyDate">2018-10-11 22:26:23.212</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

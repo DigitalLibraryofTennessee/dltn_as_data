@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Flanagan, Mark</field>
+<field name="value">Shepherd, William</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-04-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33584</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110402_Mark_Flanagan</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Mark Flanagan shares his experiences as a musician in Memphis. He speaks about the revitalization of Beale and the construction of the Handy Park venue. Interviewee: Mark Flanagan Interviewer: William Shepherd Date: April 2, 2011</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279477754</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Music</field>
+<field name="value">WC Handy Performing Arts Park</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Politics</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mark Flanagan, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.PNG.jpg</field>
+<field name="originalName">20110402_Mark_Flanagan.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6609</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/3/20110402_Mark_Flanagan.PNG.jpg</field>
+<field name="checksum">d76648384acd04ac0b9e51343ec09f74</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.pdf.jpg</field>
+<field name="originalName">20110402_Mark_Flanagan.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12437</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/6/20110402_Mark_Flanagan.pdf.jpg</field>
+<field name="checksum">21999b55dac01bc5e9555cb0b4ab77da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.PNG.preview.jpg</field>
+<field name="originalName">20110402_Mark_Flanagan.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">27298</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/4/20110402_Mark_Flanagan.PNG.preview.jpg</field>
+<field name="checksum">fd5ec208aad7354b44019d2319141b11</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.pdf.txt</field>
+<field name="originalName">20110402_Mark_Flanagan.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26757</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/5/20110402_Mark_Flanagan.pdf.txt</field>
+<field name="checksum">4b0cf4a931beb0ca2a7a67ccab3b3909</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.PNG</field>
+<field name="originalName">20110402_Mark_Flanagan.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1142585</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/1/20110402_Mark_Flanagan.PNG</field>
+<field name="checksum">f527a5b9b404de2d87430151945ec1b5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110402_Mark_Flanagan.pdf</field>
+<field name="originalName">20110402_Mark_Flanagan.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">182182</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33584/2/20110402_Mark_Flanagan.pdf</field>
+<field name="checksum">e5e2a0829097539e7d3171843d42b6bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33584</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33584</field>
+<field name="lastModifyDate">2018-07-12 13:20:40.634</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

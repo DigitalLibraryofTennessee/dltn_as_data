@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Crain, Frances Utterback</field>
+<field name="value">McGlown, Holly</field>
+<field name="value">Mulloy, Caroline</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-21</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33697</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100721_Frances_Crain</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frances Crain. She was an active member of the Memphis community who spent her life bringing people from all walks of life into her home.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278721704</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frances Crain, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.JPG</field>
+<field name="originalName">20100721_Frances_Crain.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">79405</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/1/20100721_Frances_Crain.JPG</field>
+<field name="checksum">8ea469cccb1cd7cc8c47bf0c99d9431b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.pdf</field>
+<field name="originalName">20100721_Frances_Crain.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">169578</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/2/20100721_Frances_Crain.pdf</field>
+<field name="checksum">9e82928c15cbb2b795ef6c8ddb31b4a4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.JPG.jpg</field>
+<field name="originalName">20100721_Frances_Crain.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9299</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/3/20100721_Frances_Crain.JPG.jpg</field>
+<field name="checksum">99d726eb755568fc35c26181e9c4e586</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.pdf.jpg</field>
+<field name="originalName">20100721_Frances_Crain.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12685</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/6/20100721_Frances_Crain.pdf.jpg</field>
+<field name="checksum">004a2033e9fc5f9523b6d98e4ae3332a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.JPG.preview.jpg</field>
+<field name="originalName">20100721_Frances_Crain.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">36018</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/4/20100721_Frances_Crain.JPG.preview.jpg</field>
+<field name="checksum">61a148e99beb5ff6d70962d3aa087465</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100721_Frances_Crain.pdf.txt</field>
+<field name="originalName">20100721_Frances_Crain.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26019</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33697/5/20100721_Frances_Crain.pdf.txt</field>
+<field name="checksum">495a7a8c2c80cb7d6f5c98a26b956ac2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33697</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33697</field>
+<field name="lastModifyDate">2018-07-12 13:20:39.334</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Adams, Mary Lou</field>
+<field name="value">Pham, Ngyuen-Huong</field>
+<field name="value">Hines, Cuyler</field>
+<field name="value">Rhynes, Anne-Chevette</field>
+<field name="value">Hughes, Paulette (Gayle)</field>
+<field name="value">Osella, Sophie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T19:54:18Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T19:54:18Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-01-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33560</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130113_Mary_Lou_Adams</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mary Lou Allen, one of Elvis' neighbors at 1034 Audubon Drive, his residence prior to Graceland. She discusses what it was like to live near the King during his initial rise in popularity. The interview was conducted January 13th, 2013. Interviewers for this project include: Nguyen Huong Pham ('14), Cuyler Hines ('14), Anne-Chevette Rhynes ('13), Gayle Hughes ('13), and Sophia Osella ('14).</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279334822</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Presley, Elvis, 1935-1977</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mary Lou Adams, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6753</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/3/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.jpg</field>
+<field name="checksum">c323bef353e8fd92599ac24787618b95</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11889</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/6/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.jpg</field>
+<field name="checksum">2889264c27a76738f58fb9d219845098</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.preview.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">25572</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/4/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG.preview.jpg</field>
+<field name="checksum">d7fa564ecd96919f7dc934cdc3b33159</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.txt</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">2803</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/5/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf.txt</field>
+<field name="checksum">b09bac234e6d8f9d644803db3a8485cf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1483285</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/1/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.PNG</field>
+<field name="checksum">34fa5f042f6129ba52d863c1fd6b667d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">115753</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33560/2/20130113_Elvis_Neighbors_Audubon_HouseMary_Lou_Adams.pdf</field>
+<field name="checksum">10eb632942f4ce1b5fe8cbd57e27402e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33560</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33560</field>
+<field name="lastModifyDate">2018-07-17 10:42:34.6</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

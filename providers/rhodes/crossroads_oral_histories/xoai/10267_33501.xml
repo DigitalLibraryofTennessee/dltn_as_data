@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Fisher, John T.</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Borst-Censullo, Stefan</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:23:59Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:23:59Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-08-03</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33501</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070803_John_T_Fisher</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mr. John T. Fisher. Prior to serving as VP of the Regional Medical Center at Memphis, also known as The MED, he spent forty years in the automobile business. Mr Fisher recounts his memories of Memphis during the Sanitation Workers Strike, including his relationships with then Memphis Mayor, Henry Loeb and Memphis clergyman and strike leader, Jim Lawson. He also recounts his leadership in Memphis Cares, a public response to MLK's assassination. In addition, he shares his insights on the progress that the city has made along with his optimism for future change. 2007-08-03</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280258027</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">Lawson, James M., 1928-</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">John T. Fisher, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.pdf</field>
+<field name="originalName">20070803_John_Fisher.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">263008</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/1/20070803_John_Fisher.pdf</field>
+<field name="checksum">e0f8238cafcac78569cf8bd8c5ab855b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.JPG</field>
+<field name="originalName">20070803_John_Fisher.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">64103</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/2/20070803_John_Fisher.JPG</field>
+<field name="checksum">93054566c83bbfffa6289cb757cc791b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.pdf.txt</field>
+<field name="originalName">20070803_John_Fisher.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">85263</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/3/20070803_John_Fisher.pdf.txt</field>
+<field name="checksum">38846e3830a4f9e6800eed1874570e20</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.pdf.jpg</field>
+<field name="originalName">20070803_John_Fisher.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12794</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/4/20070803_John_Fisher.pdf.jpg</field>
+<field name="checksum">998da394cc4ebbc596b6aae0711533af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.JPG.jpg</field>
+<field name="originalName">20070803_John_Fisher.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14788</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/5/20070803_John_Fisher.JPG.jpg</field>
+<field name="checksum">8234fc9cfa44fff9aad6e4e5ccf6d685</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070803_John_Fisher.JPG.preview.jpg</field>
+<field name="originalName">20070803_John_Fisher.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">44024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33501/6/20070803_John_Fisher.JPG.preview.jpg</field>
+<field name="checksum">98dfb75eeeb4da5dead7a06840380f72</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33501</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33501</field>
+<field name="lastModifyDate">2018-10-17 13:21:11.842</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

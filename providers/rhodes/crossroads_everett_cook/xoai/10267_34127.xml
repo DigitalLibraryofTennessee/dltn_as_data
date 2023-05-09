@@ -1,0 +1,159 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lewis, Warren</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:31Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1983-10-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34127</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19831004_Warren_Lewis</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, head of the Black Knights Warren Lewis describes moving to Memphis from his hometown in rural Mississippi and his activism around the time of the Sanitation Worker's Strike. He also expresses his frustration with the lack of interest and motivation of the late 1970s and 1980s Civil Rights movement.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289798928</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Warren Lewis, head of the Black Knights, 1983</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">warren.lewis.doc.txt</field>
+<field name="originalName">warren.lewis.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">77015</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34127/5/warren.lewis.doc.txt</field>
+<field name="checksum">2642453370afb1d7da1d89b7df0c094e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">warren lewis.PNG</field>
+<field name="originalName">warren lewis.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42971</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34127/1/warren%20lewis.PNG</field>
+<field name="checksum">c7957d000d59bcc1861f3f6f6bd5a052</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">warren.lewis.doc</field>
+<field name="originalName">warren.lewis.doc</field>
+<field name="format">application/msword</field>
+<field name="size">138752</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34127/4/warren.lewis.doc</field>
+<field name="checksum">9bebb41b0bc7d3c96723405ec316be53</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">warren lewis.PNG.jpg</field>
+<field name="originalName">warren lewis.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5678</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34127/2/warren%20lewis.PNG.jpg</field>
+<field name="checksum">e75ddb78a7205e1217885491f9ab8559</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">warren lewis.PNG.preview.jpg</field>
+<field name="originalName">warren lewis.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20394</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34127/3/warren%20lewis.PNG.preview.jpg</field>
+<field name="checksum">9fc355d458d9279e0e3310ecd2eed9f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34127</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34127</field>
+<field name="lastModifyDate">2018-09-19 12:46:26.18</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

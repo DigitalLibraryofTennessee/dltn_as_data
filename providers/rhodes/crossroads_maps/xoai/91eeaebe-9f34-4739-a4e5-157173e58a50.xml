@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Memphis, Tennessee</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1880</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31162</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Memphis 1880 Sewer Map</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">1880 Map of Memphis' sewer system</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation</field>
+<field name="value">Sewer system</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memphis Sewer Map, 1880</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memphis_sewers_1880.jpg.jpg</field>
+<field name="originalName">memphis_sewers_1880.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16196</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31162/2/memphis_sewers_1880.jpg.jpg</field>
+<field name="checksum">86327268eb2bf695a06887be3dfd4d55</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memphis_sewers_1880.jpg</field>
+<field name="originalName">memphis_sewers_1880.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">869341</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31162/1/memphis_sewers_1880.jpg</field>
+<field name="checksum">3d1bed8809e0810265ee590a2a6f25fa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memphis_sewers_1880.jpg.preview.jpg</field>
+<field name="originalName">memphis_sewers_1880.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">105360</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31162/3/memphis_sewers_1880.jpg.preview.jpg</field>
+<field name="checksum">a0e1d983d4cc6edc532f4f2a61403edc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31162</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31162</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.865</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

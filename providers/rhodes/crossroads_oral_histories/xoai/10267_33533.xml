@@ -1,0 +1,177 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">White, Charles</field>
+<field name="value">Whitehorn, Molly</field>
+<field name="value">Bass, John B. III</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T14:48:48Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T14:48:48Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-04-10</field>
+</element>
+</element>
+<element name="graduation">
+<element name="none">
+<field name="value">2015</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33533</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130410_Charles_White</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Charles White discusses his music career and his relationship with Memphis. Interviewed by Molly Whitehorn ('15) and Dr. John Bass on April 10, 2013.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280387943</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Mike Curb Institute for Music</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Charles White, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130410_Charles_White.pdf.txt</field>
+<field name="originalName">20130410_Charles_White.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">16086</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/3/20130410_Charles_White.pdf.txt</field>
+<field name="checksum">2a0aa404e2ed8053ca658ca9eff16843</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130410_Charles_White.pdf.jpg</field>
+<field name="originalName">20130410_Charles_White.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13412</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/4/20130410_Charles_White.pdf.jpg</field>
+<field name="checksum">58888861c0e579cfa577ec6116db6318</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20130410_Charles_White.JPG.jpg</field>
+<field name="originalName">20130410_Charles_White.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8697</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/5/20130410_Charles_White.JPG.jpg</field>
+<field name="checksum">d623c6a23b716178794d0c8887b3d508</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130410_Charles_White.JPG.preview.jpg</field>
+<field name="originalName">20130410_Charles_White.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19770</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/6/20130410_Charles_White.JPG.preview.jpg</field>
+<field name="checksum">81946758824b7cd0be606377f00a4936</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130410_Charles_White.pdf</field>
+<field name="originalName">20130410_Charles_White.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">145841</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/1/20130410_Charles_White.pdf</field>
+<field name="checksum">a8367ef4365b9fae6c93f81df46b8677</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130410_Charles_White.JPG</field>
+<field name="originalName">20130410_Charles_White.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">28415</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33533/2/20130410_Charles_White.JPG</field>
+<field name="checksum">67602382ac267eea6577f84da253a9ee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33533</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33533</field>
+<field name="lastModifyDate">2018-07-17 11:26:22.402</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

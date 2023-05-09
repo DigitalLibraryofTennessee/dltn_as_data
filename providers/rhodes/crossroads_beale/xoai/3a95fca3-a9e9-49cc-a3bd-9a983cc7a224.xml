@@ -1,0 +1,131 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Beale Street Development Corporation (BSDC)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:21Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:21Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34286</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A poster advertising a show at Club Handy set for Feb. 23rd, featuring Larry Birdsong, Rosco Gordon, and Flyod Dixon, three popular R&amp;B singers of the 1950s-60s.&#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Gosserand Superior Printers</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Birdsong, Larry</field>
+<field name="value">Gordon, Rosco</field>
+<field name="value">Dixon, Floyd</field>
+<field name="value">Blues (Music)</field>
+<field name="value">Posters</field>
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">1959 Club Handy Poster - Larry Birdsong, Rosco Gordon, and Floyd Dixon</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg</field>
+<field name="originalName">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">5033614</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34286/1/19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg</field>
+<field name="checksum">6c24119d4feb8253bbba7815fb47a9e7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.jpg</field>
+<field name="originalName">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18524</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34286/2/19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.jpg</field>
+<field name="checksum">ff62892ec19e75aa21327dec672ef400</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.preview.jpg</field>
+<field name="originalName">19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">88142</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34286/3/19590223_Club_Handy_Poster_Birdsong_Gordon_Dixon_117503.jpg.preview.jpg</field>
+<field name="checksum">1e87a2e24c377ca27bfcbe1cc582a401</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34286</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34286</field>
+<field name="lastModifyDate">2018-10-11 21:29:22.744</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

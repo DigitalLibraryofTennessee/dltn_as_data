@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Farnsworth Inventory - Antony - 12</identifier>
+  <identifier type="local">FSPC - Antony - 482</identifier>
+  <titleInfo>
+    <title>Antony and Cleopatra</title>
+  </titleInfo>
+  <abstract>Cleopatra (holding the asp), Charmian, and Iras lie dead in Antony and Cleopatra Act 5 Scene 2.</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/9306</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/9306/3/FSPC_Antony_482.jpg.jpg</url>
+  </location>
+  <originInfo>
+    <dateCreated>2011-02-23T00:00:10Z</dateCreated>
+    <publisher>Memphis, Tenn.: Archives and Special Collections, Rhodes College</publisher>
+    <dateOther>2011-02-23T00:00:10Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print</form>
+  </physicalDescription>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Antony and Cleopatra</topic>
+  </subject>
+  <subject>
+    <topic>Charmian (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Iras (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital objects in this collection. Objects are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu. Fees may apply.</accessCondition>
+</mods>

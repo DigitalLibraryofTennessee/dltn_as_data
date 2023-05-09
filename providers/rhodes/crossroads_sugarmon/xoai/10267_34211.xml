@@ -1,0 +1,114 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">DeCosta-Willis, Miriam</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34211</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A biographical sketch of Russell B. Sugarmon that was written to be included in a book called Notable Black Memphians by Miriam DeCosta Willis (Laurie). There are corrections that have been made by Russell B. Sugarmon included in the document and a thank you note at the bottom from the author</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Black Leaders</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Biographies</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Biographical Sketch of Sugarmon for Notable Black Memphians, by Miriam Decosta-Willis</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg</field>
+<field name="originalName">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">737154</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34211/1/Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg</field>
+<field name="checksum">1cbcbde16e3ed068fa2c852a842af242</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.jpg</field>
+<field name="originalName">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20450</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34211/2/Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.jpg</field>
+<field name="checksum">2d4e9e9551ca4d144a4e85b698a6ec35</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.preview.jpg</field>
+<field name="originalName">Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">126158</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34211/3/Biographical_Sketch_of_Sugarmon_for_Notable_Black_Memphians_807.jpg.preview.jpg</field>
+<field name="checksum">595fd258117223853d333d8e5f97e898</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34211</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34211</field>
+<field name="lastModifyDate">2018-10-17 11:29:21.3</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

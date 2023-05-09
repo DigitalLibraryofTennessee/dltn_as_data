@@ -1,0 +1,166 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Walter, Ronald</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:35Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:35Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1983-09-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34148</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19830919_Ronald_Walter</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, Ronald Walter recalls becoming Chief Administrative Assistant to congressman Harold Ford between 1977 and 1981 and how being African American influenced the political strategies carried out by Senator Ford. He also discusses the forms of discrimination from both within and without the African American community, and how economic development is the key to progressing civil rights.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289798923</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Black Leaders</field>
+<field name="value">Politics</field>
+<field name="value">Voting</field>
+<field name="value">Social justice</field>
+<field name="value">Race relations</field>
+<field name="value">Racism</field>
+<field name="value">Tennessee</field>
+<field name="value">Segregation</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Ronald Walter, Chief Administrative Assistant to congressman Harold Ford, 1983</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ronald walter.PNG</field>
+<field name="originalName">ronald walter.PNG</field>
+<field name="format">image/png</field>
+<field name="size">46570</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34148/1/ronald%20walter.PNG</field>
+<field name="checksum">dbc563b7dd7510390a24aa0eed8cbb31</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">ron.walter.doc</field>
+<field name="originalName">ron.walter.doc</field>
+<field name="format">application/msword</field>
+<field name="size">116736</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34148/4/ron.walter.doc</field>
+<field name="checksum">380a2cee979435218fe475379d8cb07c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ron.walter.doc.txt</field>
+<field name="originalName">ron.walter.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">50310</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34148/5/ron.walter.doc.txt</field>
+<field name="checksum">01e1c5b673233cf7201a456917af880c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ronald walter.PNG.jpg</field>
+<field name="originalName">ronald walter.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6061</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34148/2/ronald%20walter.PNG.jpg</field>
+<field name="checksum">d3c2ed53a70acdf64468925850e6f700</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">ronald walter.PNG.preview.jpg</field>
+<field name="originalName">ronald walter.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34148/3/ronald%20walter.PNG.preview.jpg</field>
+<field name="checksum">9084b8aa02fdeb13f892a082a7113a4b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34148</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34148</field>
+<field name="lastModifyDate">2018-10-01 12:46:03.638</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

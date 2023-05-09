@@ -1,0 +1,167 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Garner, Jesse J.</field>
+<field name="value">Wigginton, Russell Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34006</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Jesse_Garner</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An audio interview conducted by StoryCorps at Rhodes College with Mr. Jesse Garner by Russ Wigginton. Mr. Garner discusses his childhood in Millington, TN as well as many life lessons passed down from his parents. He also shares his experiences working at Rhodes College.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116727</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">StoryCorps</field>
+<field name="value">African Americans</field>
+<field name="value">Segregation</field>
+<field name="value">Race relations</field>
+<field name="value">Millington (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Jesse Garner and Russ Wigginton, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JG_tn.JPG</field>
+<field name="originalName">JG_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">2769971</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/1/JG_tn.JPG</field>
+<field name="checksum">ce8aac6a7af45505ecd5b11bdc936e77</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Jesse_Garner.pdf</field>
+<field name="originalName">20071116_Jesse_Garner.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">90195</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/4/20071116_Jesse_Garner.pdf</field>
+<field name="checksum">a0d12251e2695baa1d51405fecb4d3b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JG_tn.JPG.jpg</field>
+<field name="originalName">JG_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8174</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/2/JG_tn.JPG.jpg</field>
+<field name="checksum">02017389f89b0b6dba26a3df46b8c0b2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Jesse_Garner.pdf.jpg</field>
+<field name="originalName">20071116_Jesse_Garner.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10580</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/6/20071116_Jesse_Garner.pdf.jpg</field>
+<field name="checksum">7956b4363ab39f4ece4a69e6361ed3a2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JG_tn.JPG.preview.jpg</field>
+<field name="originalName">JG_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">31641</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/3/JG_tn.JPG.preview.jpg</field>
+<field name="checksum">f3adc88e7d8000187ca7cd9162eafdc0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Jesse_Garner.pdf.txt</field>
+<field name="originalName">20071116_Jesse_Garner.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">33682</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34006/5/20071116_Jesse_Garner.pdf.txt</field>
+<field name="checksum">17dd367ed022fc4440e6d72d9458fe2e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34006</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34006</field>
+<field name="lastModifyDate">2018-09-10 12:06:37.031</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

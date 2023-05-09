@@ -1,0 +1,165 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Johnson, Margaret</field>
+<field name="value">Johnson, Frances</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Tilly, Bette</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:39Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33986</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790611_Margaret_and_Frances_Johnson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Pat Fawdry and Betty Tilley interview Miss Margaret Johnson and Miss Frances Johnson about growing up in Memphis around the turn of the century. The two ladies disuss how the neighborhood developed over time and what they think about its progression since then. Funded by the Tennessee Committee for the Humanities.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289552947</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Neighborhood Histories</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Margaret and Frances Johnson, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790611_Margaret_and_Frances_Johnson.doc</field>
+<field name="originalName">19790611_Margaret_and_Frances_Johnson.doc</field>
+<field name="format">application/msword</field>
+<field name="size">93696</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33986/1/19790611_Margaret_and_Frances_Johnson.doc</field>
+<field name="checksum">950b28ed6d92f6d7a84f200b00bb09c5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Margaret and Frances  Johnson.PNG</field>
+<field name="originalName">Margaret and Frances  Johnson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">65416</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33986/3/Margaret%20and%20Frances%20%20Johnson.PNG</field>
+<field name="checksum">1a8fa87b5ced963932143f5a7778b1b9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790611_Margaret_and_Frances_Johnson.doc.txt</field>
+<field name="originalName">19790611_Margaret_and_Frances_Johnson.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">51538</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33986/2/19790611_Margaret_and_Frances_Johnson.doc.txt</field>
+<field name="checksum">97871f5cc8878e395283a507174e16b6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Margaret and Frances  Johnson.PNG.jpg</field>
+<field name="originalName">Margaret and Frances  Johnson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8169</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33986/4/Margaret%20and%20Frances%20%20Johnson.PNG.jpg</field>
+<field name="checksum">4cf4c82b278c2e441d8c931d8ec5beb5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Margaret and Frances  Johnson.PNG.preview.jpg</field>
+<field name="originalName">Margaret and Frances  Johnson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">28493</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33986/5/Margaret%20and%20Frances%20%20Johnson.PNG.preview.jpg</field>
+<field name="checksum">1f6d2ceb7550df759f421414c23d7efe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33986</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33986</field>
+<field name="lastModifyDate">2018-09-27 08:33:16.067</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

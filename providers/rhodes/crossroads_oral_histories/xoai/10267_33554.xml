@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Brooks-Hooks, Mose Yvonne</field>
+<field name="value">Davis, Francesca</field>
+<field name="value">Williams, Rebecca</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T15:16:04Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T15:16:04Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2006-08-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33554</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20060802_Brooks_Hooks</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This interview is with Mrs. Mose Yvonne Brooks-Hooks. She discusses how her parents tried to protect her and her siblings from the ills of racism. Throughout the Civil Rights Movement and beyond, Brooks-Hooks served as teacher, professor, superintendent, and educational advocate. She is presently the Director of the Associate Degree program at Langston University.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278538823</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Education</field>
+<field name="value">Segregation</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mose Yvonne Brooks-Hooks, 2006</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.jpg</field>
+<field name="originalName">20060802_Brooks_Hooks.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">210936</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/1/20060802_Brooks_Hooks.jpg</field>
+<field name="checksum">056a75970422e9a164c1c291a5bcde7f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.pdf</field>
+<field name="originalName">20060802_Brooks_Hooks.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">167508</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/2/20060802_Brooks_Hooks.pdf</field>
+<field name="checksum">40c059c7e211e15abfbefa8e9f21695d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.jpg.jpg</field>
+<field name="originalName">20060802_Brooks_Hooks.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13478</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/3/20060802_Brooks_Hooks.jpg.jpg</field>
+<field name="checksum">ce0762dd105984cff4260f8cdbedbf55</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.pdf.jpg</field>
+<field name="originalName">20060802_Brooks_Hooks.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13019</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/6/20060802_Brooks_Hooks.pdf.jpg</field>
+<field name="checksum">dd72a8dd033966ab73f06e22ded9f88b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.jpg.preview.jpg</field>
+<field name="originalName">20060802_Brooks_Hooks.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">53977</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/4/20060802_Brooks_Hooks.jpg.preview.jpg</field>
+<field name="checksum">b4b3f5ab58fb247e954f8ab18e5bf2a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20060802_Brooks_Hooks.pdf.txt</field>
+<field name="originalName">20060802_Brooks_Hooks.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">48315</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33554/5/20060802_Brooks_Hooks.pdf.txt</field>
+<field name="checksum">71803861be130d1be18b2b12bcd87d0a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33554</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33554</field>
+<field name="lastModifyDate">2018-07-17 14:05:41.843</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

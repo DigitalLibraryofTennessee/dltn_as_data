@@ -1,0 +1,115 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shaw Artists Corporation</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:56Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34948</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Johnny_Adams_Photograph_117815</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A photograph of Johnny Adams, perhaps a headshot.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Music</field>
+<field name="value">Jazz</field>
+<field name="value">Blues (music)</field>
+<field name="value">Adams, Johnny</field>
+<field name="value">Photographs</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Photograph of Johnny Adams</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Johnny_Adams_Photograph_117815.jpg</field>
+<field name="originalName">Johnny_Adams_Photograph_117815.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">4252786</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34948/1/Johnny_Adams_Photograph_117815.jpg</field>
+<field name="checksum">0155e2d69e5fa89925d3b4b71a5f8cf3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Johnny_Adams_Photograph_117815.jpg.jpg</field>
+<field name="originalName">Johnny_Adams_Photograph_117815.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13745</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34948/2/Johnny_Adams_Photograph_117815.jpg.jpg</field>
+<field name="checksum">b825355d848e7414c0d1183b582351c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Johnny_Adams_Photograph_117815.jpg.preview.jpg</field>
+<field name="originalName">Johnny_Adams_Photograph_117815.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">82724</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34948/3/Johnny_Adams_Photograph_117815.jpg.preview.jpg</field>
+<field name="checksum">40caa44758c49f4e458eeb920ecc7cae</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34948</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34948</field>
+<field name="lastModifyDate">2018-11-16 16:19:20.202</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

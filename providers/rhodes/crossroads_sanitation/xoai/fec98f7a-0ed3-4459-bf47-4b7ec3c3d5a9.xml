@@ -1,0 +1,278 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Viar, Jerry</field>
+<field name="value">Viar, Wilson</field>
+<field name="value">Bell, Ezekiel</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-24T16:56:48Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-24T16:56:48Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33923</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680528_Ezekiel_Bell_SS016-SS019</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Reverend Ezekiel Bell. Bell was the pastor of Parkway Gardens Presbyterian Church.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281530448</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Ezekiel Bell, Parkway Gardens Presbyterian Church, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Ezekiel Bell.JPG</field>
+<field name="originalName">Ezekiel Bell.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">20502</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/1/Ezekiel%20Bell.JPG</field>
+<field name="checksum">5995056000e84947e24fa6bb926c21e7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS016_transcript.pdf</field>
+<field name="originalName">SS016_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">109979</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/4/SS016_transcript.pdf</field>
+<field name="checksum">deb3642d60740568ae1c29fa01c97f4a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS017_transcript.pdf</field>
+<field name="originalName">SS017_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">71147</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/5/SS017_transcript.pdf</field>
+<field name="checksum">d9eb9eafb80e6ab01bb41f099d55500a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS018_transcript.pdf</field>
+<field name="originalName">SS018_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">115924</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/6/SS018_transcript.pdf</field>
+<field name="checksum">f786999a330ac6563cfdc05ed45f8272</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS019_transcript.pdf</field>
+<field name="originalName">SS019_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">56990</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/7/SS019_transcript.pdf</field>
+<field name="checksum">eb91653227a3c16722a9fe0ba2ffe441</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Ezekiel Bell.JPG.jpg</field>
+<field name="originalName">Ezekiel Bell.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4162</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/2/Ezekiel%20Bell.JPG.jpg</field>
+<field name="checksum">111abab1a1af51e11918d2aa3b3c1c5f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS016_transcript.pdf.jpg</field>
+<field name="originalName">SS016_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13648</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/9/SS016_transcript.pdf.jpg</field>
+<field name="checksum">400d71276965efc30854db379dd13a7a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS017_transcript.pdf.jpg</field>
+<field name="originalName">SS017_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12785</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/11/SS017_transcript.pdf.jpg</field>
+<field name="checksum">c57346f5be54f4ecf5231406b5a23697</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS018_transcript.pdf.jpg</field>
+<field name="originalName">SS018_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13145</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/13/SS018_transcript.pdf.jpg</field>
+<field name="checksum">c9f3bae0f1855a8ce038d3c340f1e666</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS019_transcript.pdf.jpg</field>
+<field name="originalName">SS019_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14264</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/15/SS019_transcript.pdf.jpg</field>
+<field name="checksum">7500dff61d8ae3019e9148fa668cfb50</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Ezekiel Bell.JPG.preview.jpg</field>
+<field name="originalName">Ezekiel Bell.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">11298</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/3/Ezekiel%20Bell.JPG.preview.jpg</field>
+<field name="checksum">186b5d5126653b69933bdab6b26ebdc3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS016_transcript.pdf.txt</field>
+<field name="originalName">SS016_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">56541</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/8/SS016_transcript.pdf.txt</field>
+<field name="checksum">f0e9083a0a4dd0f77665392254f90194</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS017_transcript.pdf.txt</field>
+<field name="originalName">SS017_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24510</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/10/SS017_transcript.pdf.txt</field>
+<field name="checksum">f106ffb29add2930d9636556af0867c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS018_transcript.pdf.txt</field>
+<field name="originalName">SS018_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">56931</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/12/SS018_transcript.pdf.txt</field>
+<field name="checksum">1142cf20bbb898ec7cec9071d43222ff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">SS019_transcript.pdf.txt</field>
+<field name="originalName">SS019_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">12632</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33923/14/SS019_transcript.pdf.txt</field>
+<field name="checksum">4ec85bd8d087497adb9821cdb1f50e47</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33923</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33923</field>
+<field name="lastModifyDate">2018-07-31 13:53:15.946</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

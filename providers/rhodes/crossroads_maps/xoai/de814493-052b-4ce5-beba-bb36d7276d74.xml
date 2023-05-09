@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Shelby County</field>
+<field name="value">Crittenden County</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31164</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Memphis Area Metropolitan Map M-25</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Map M-25 covering Memphis' metropolitan area.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Metropoloitan Map Series</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Memphis Area Metropolitan Map, Section M-25</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Area Metropolitan Map M-25.jpg</field>
+<field name="originalName">Memphis Area Metropolitan Map M-25.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">28263</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31164/2/Memphis%20Area%20Metropolitan%20Map%20M-25.jpg</field>
+<field name="checksum">c49f5f85cb49ff955c7c3da03ad88096</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Area Metropolitan Map M-25</field>
+<field name="originalName">Memphis Area Metropolitan Map M-25</field>
+<field name="format">image/jpeg</field>
+<field name="size">2531487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31164/1/Memphis%20Area%20Metropolitan%20Map%20M-25</field>
+<field name="checksum">50feefe31ad45a9a02bc4f964bc4f945</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Memphis Area Metropolitan Map M-25.preview.jpg</field>
+<field name="originalName">Memphis Area Metropolitan Map M-25.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">165668</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31164/3/Memphis%20Area%20Metropolitan%20Map%20M-25.preview.jpg</field>
+<field name="checksum">4606540c5c9b3445355c9aa02d1602d7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31164</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31164</field>
+<field name="lastModifyDate">2018-05-14 14:47:39.006</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

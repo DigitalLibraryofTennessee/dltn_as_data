@@ -1,0 +1,168 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Jones, Jameson M.</field>
+<field name="value">Jones, Sophie</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Cates, Bena</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:35Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:35Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33970</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790628_Jameson_Jones</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Dr. Jameson Jones talks about his career in Memphis. He started as the academic dean at Southwestern in 1955 and then became the president of the Memphis Academy of Arts in 1972. He discusses challenges faced by Mid-Memphis Improvement Association (MMIA) as well as life in Evergreen neighboorhood.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289596730</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Rhodes College</field>
+<field name="value">Southwestern at Memphis</field>
+<field name="value">Neighborhood Histories</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jameson Jones, Academic Dean at Southwestern, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790628_Jameson_Jones.doc</field>
+<field name="originalName">19790628_Jameson_Jones.doc</field>
+<field name="format">application/msword</field>
+<field name="size">193024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33970/1/19790628_Jameson_Jones.doc</field>
+<field name="checksum">b123ec3c4eb99d0b48769d6932cc80f1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Jameson Jones.PNG</field>
+<field name="originalName">Jameson Jones.PNG</field>
+<field name="format">image/png</field>
+<field name="size">41559</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33970/3/Jameson%20Jones.PNG</field>
+<field name="checksum">bf5a1c259fd64a8352876b1928a1dff5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790628_Jameson_Jones.doc.txt</field>
+<field name="originalName">19790628_Jameson_Jones.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">56157</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33970/2/19790628_Jameson_Jones.doc.txt</field>
+<field name="checksum">393100542e297044d30492766cea8f27</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Jameson Jones.PNG.jpg</field>
+<field name="originalName">Jameson Jones.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5938</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33970/4/Jameson%20Jones.PNG.jpg</field>
+<field name="checksum">2711215a0c333049af6cc4b1adc5f885</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Jameson Jones.PNG.preview.jpg</field>
+<field name="originalName">Jameson Jones.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21667</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33970/5/Jameson%20Jones.PNG.preview.jpg</field>
+<field name="checksum">1517a564bd36dfa5cf2fffb1f914f5a5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33970</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33970</field>
+<field name="lastModifyDate">2018-09-12 19:52:47.991</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

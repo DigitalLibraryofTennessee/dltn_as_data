@@ -1,0 +1,177 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Mabern, Harold</field>
+<field name="value">Whitehorn, Molly</field>
+<field name="value">Bass, John B. III</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T14:48:50Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T14:48:50Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-11-22</field>
+</element>
+</element>
+<element name="graduation">
+<element name="none">
+<field name="value">2015</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33541</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20131122_Harold_Mabern</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Harold Mabern discusses his music career and his experiences in Memphis. Interview conducted by Molly Whitehorn ('15) and Dr. John Bass on November 22, 2013.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278585265</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Mike Curb Institute for Music</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Harold Mabern, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.JPG.jpg</field>
+<field name="originalName">20131122_Harold_Mabern.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10097</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/3/20131122_Harold_Mabern.JPG.jpg</field>
+<field name="checksum">f6c5df233b9a27ef4bd7fa913edabb1e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.pdf.jpg</field>
+<field name="originalName">20131122_Harold_Mabern.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12423</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/6/20131122_Harold_Mabern.pdf.jpg</field>
+<field name="checksum">16b7c709d54ac07178cb799f53bb3574</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.JPG.preview.jpg</field>
+<field name="originalName">20131122_Harold_Mabern.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">23026</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/4/20131122_Harold_Mabern.JPG.preview.jpg</field>
+<field name="checksum">94d1da3b59d2648497f39c8ed9890b4a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.pdf.txt</field>
+<field name="originalName">20131122_Harold_Mabern.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">84827</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/5/20131122_Harold_Mabern.pdf.txt</field>
+<field name="checksum">12bbc62f50a03370614fdb450a31b5e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.JPG</field>
+<field name="originalName">20131122_Harold_Mabern.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">31772</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/1/20131122_Harold_Mabern.JPG</field>
+<field name="checksum">169689b188ca288600cc55732a22ef03</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20131122_Harold_Mabern.pdf</field>
+<field name="originalName">20131122_Harold_Mabern.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">375135</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33541/2/20131122_Harold_Mabern.pdf</field>
+<field name="checksum">30ab3ee678c79113b7b507423a2d028d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33541</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33541</field>
+<field name="lastModifyDate">2018-08-01 15:19:51.675</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

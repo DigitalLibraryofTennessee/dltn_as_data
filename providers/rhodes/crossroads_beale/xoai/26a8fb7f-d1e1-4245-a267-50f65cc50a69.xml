@@ -1,0 +1,119 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1959-05-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34941</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19590520_Andrew_Mitchell_Envelope_117802</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An envelope addressed to Andrew, owner of Mitchell's Hotel and Club Handy on Beale Street.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Envelope Addressed to Andrew Mitchell, 1959</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590520_Andrew_Mitchell_Envelope_117802.JPG</field>
+<field name="originalName">19590520_Andrew_Mitchell_Envelope_117802.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">84033</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34941/1/19590520_Andrew_Mitchell_Envelope_117802.JPG</field>
+<field name="checksum">804cbf5afdd6326d484fa9271711b142</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590520_Andrew_Mitchell_Envelope_117802.JPG.jpg</field>
+<field name="originalName">19590520_Andrew_Mitchell_Envelope_117802.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7529</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34941/2/19590520_Andrew_Mitchell_Envelope_117802.JPG.jpg</field>
+<field name="checksum">383f8c9c995aef39fd6c72657d39b757</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19590520_Andrew_Mitchell_Envelope_117802.JPG.preview.jpg</field>
+<field name="originalName">19590520_Andrew_Mitchell_Envelope_117802.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32976</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34941/3/19590520_Andrew_Mitchell_Envelope_117802.JPG.preview.jpg</field>
+<field name="checksum">0240f75a8ac324878c3b3421bce1b25e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34941</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34941</field>
+<field name="lastModifyDate">2018-11-16 15:32:21.7</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

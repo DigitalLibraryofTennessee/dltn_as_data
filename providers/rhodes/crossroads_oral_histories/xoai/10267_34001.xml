@@ -1,0 +1,164 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">McClain, Jimmy</field>
+<field name="value">Wigginton, Russell Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:12Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:12Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34001</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Jimmy_McClain</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An interview with Jimmy McClain about his 34 years working at Rhodes College, life in Memphis, and the death of Dr. Martin Luther King, Jr.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116276</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968--Assassination</field>
+<field name="value">StoryCorps</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Jimmy McClain and Russ Wigginton, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JM_tn.JPG</field>
+<field name="originalName">JM_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">2811655</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/1/JM_tn.JPG</field>
+<field name="checksum">b505a17158ff2d0f40fa90af75fef451</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Jimmy_McClain.pdf</field>
+<field name="originalName">20071116_Jimmy_McClain.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">95771</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/4/20071116_Jimmy_McClain.pdf</field>
+<field name="checksum">c2c43c65d06f2c231c7e7c60d68f2425</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JM_tn.JPG.jpg</field>
+<field name="originalName">JM_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10012</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/2/JM_tn.JPG.jpg</field>
+<field name="checksum">a669abe9f94707a883746609f3a3de0e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Jimmy_McClain.pdf.jpg</field>
+<field name="originalName">20071116_Jimmy_McClain.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9644</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/6/20071116_Jimmy_McClain.pdf.jpg</field>
+<field name="checksum">66e2ac1e0bfa297a17b2369b38e1a615</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">JM_tn.JPG.preview.jpg</field>
+<field name="originalName">JM_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">47233</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/3/JM_tn.JPG.preview.jpg</field>
+<field name="checksum">e3695304fafd4a2bcaa210051d54381c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Jimmy_McClain.pdf.txt</field>
+<field name="originalName">20071116_Jimmy_McClain.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">36173</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34001/5/20071116_Jimmy_McClain.pdf.txt</field>
+<field name="checksum">f969a9ef728b58bdf8c9d30fc2cce398</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34001</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34001</field>
+<field name="lastModifyDate">2018-09-10 12:00:09.818</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

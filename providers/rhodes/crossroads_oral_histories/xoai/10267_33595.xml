@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Rush, Bobby</field>
+<field name="value">Perry, LaKevia</field>
+<field name="value">Harpole, Zachary (Zach)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:26Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:26Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-10-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33595</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20111028_Bobby_Rush</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Bobby Rush. He talks about his experiences playing on the Chitlin' Circuit. He also discusses how growing up as a preacher's son impacted his life and music. Interviewee: Bobby Rush Interviewer: Zach Harpole Date: October 28, 2011</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278727220</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Music</field>
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Religion</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bobby Rush, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.PNG</field>
+<field name="originalName">20111028_Bobby_Rush.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1658190</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/1/20111028_Bobby_Rush.PNG</field>
+<field name="checksum">146e84e1b514b824aad0356d05ce4b14</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.pdf</field>
+<field name="originalName">20111028_Bobby_Rush.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">327593</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/2/20111028_Bobby_Rush.pdf</field>
+<field name="checksum">7f9c15d21517c1433e848af7e0aaedca</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.PNG.jpg</field>
+<field name="originalName">20111028_Bobby_Rush.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9746</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/3/20111028_Bobby_Rush.PNG.jpg</field>
+<field name="checksum">08eefbc318c70b1efa68e3c0dcf0ea1d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.pdf.jpg</field>
+<field name="originalName">20111028_Bobby_Rush.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9206</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/6/20111028_Bobby_Rush.pdf.jpg</field>
+<field name="checksum">289527fc2ac4a24673c5fbd174e7e087</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.PNG.preview.jpg</field>
+<field name="originalName">20111028_Bobby_Rush.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">35402</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/4/20111028_Bobby_Rush.PNG.preview.jpg</field>
+<field name="checksum">9d775c0ce44750f50fce5c0baca7586c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20111028_Bobby_Rush.pdf.txt</field>
+<field name="originalName">20111028_Bobby_Rush.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">38828</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33595/5/20111028_Bobby_Rush.pdf.txt</field>
+<field name="checksum">26eeeabeb450d4c75174f4c1bff1e784</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33595</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33595</field>
+<field name="lastModifyDate">2018-07-12 13:20:41.609</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

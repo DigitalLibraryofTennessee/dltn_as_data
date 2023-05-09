@@ -1,0 +1,115 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Smith, Maxine</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34204</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this letter to Maxine Smith, Russell Sugarmon offers her a word of encouragement.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">NAACP</field>
+<field name="value">Letter</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Russell B. Sugarmon, Jr. to Maxine Smith</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg</field>
+<field name="originalName">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">607020</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34204/1/Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg</field>
+<field name="checksum">a2dd354f6f3faac08d19053e25db9282</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.jpg</field>
+<field name="originalName">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12240</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34204/2/Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.jpg</field>
+<field name="checksum">b8a8939261fde9a69c95b62eef73f82a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.preview.jpg</field>
+<field name="originalName">Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55548</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34204/3/Letter_from_Russell_Sugarmon_to_Maxine_Smith_790.jpg.preview.jpg</field>
+<field name="checksum">ff6090cafcc0944f5a1c11bd910e0904</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34204</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34204</field>
+<field name="lastModifyDate">2018-09-17 17:03:27.467</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

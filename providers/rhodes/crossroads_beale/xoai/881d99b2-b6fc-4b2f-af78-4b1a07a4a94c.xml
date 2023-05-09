@@ -1,0 +1,129 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Beale Street Development Corporation (BSDC)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34290</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A poster advertising a show at Club Handy for Evelyn "The Whip" Young, a celebrated saxophonist during the 1950s-60s.&#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Globe Poster</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Jazz</field>
+<field name="value">Young, Evelyn "The Whip"</field>
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Posters</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">1950 Club Handy Poster - Evelyn Queen of the Saxophone</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">5458693</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34290/1/1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg</field>
+<field name="checksum">778adcca64e271a7ff264b55d6fd4dd2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16340</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34290/2/1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.jpg</field>
+<field name="checksum">7d8ad6bcdb4f9d7c9d6fc249d9d78da2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.preview.jpg</field>
+<field name="originalName">1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">84881</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34290/3/1950_Club_Handy_Poster_Evelyn_Queen_of_the_Saxophone_117507.jpg.preview.jpg</field>
+<field name="checksum">579f7d0229dd3e71257ebac30f55bf68</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34290</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34290</field>
+<field name="lastModifyDate">2018-10-11 21:58:42.458</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

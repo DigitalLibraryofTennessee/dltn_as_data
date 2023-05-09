@@ -1,0 +1,170 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Schlitz, Don</field>
+<field name="value">Fiandt, Emmaly (Emma)</field>
+<field name="value">Bafford, Tenedra (Nene)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-20T21:27:12Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-20T21:27:12Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-10-07</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33728</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20101007_Don_Schlitz</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Don Schlitz conducted on behalf of the North Carolina Music Hall of Fame. Mr. Schlitz discusses how he broke into the song-writing business, his song-writing process and the Nashville music scene generally.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279346679</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Don Schlitz, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.JPG</field>
+<field name="originalName">20101007_Don_Schlitz.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">71324</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/1/20101007_Don_Schlitz.JPG</field>
+<field name="checksum">ad565c513b342395ffee07efa4e0a06a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.pdf</field>
+<field name="originalName">20101007_Don_Schlitz.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">230017</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/2/20101007_Don_Schlitz.pdf</field>
+<field name="checksum">d6fd8008fb581556e3bafce418fcc0f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.JPG.jpg</field>
+<field name="originalName">20101007_Don_Schlitz.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9092</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/3/20101007_Don_Schlitz.JPG.jpg</field>
+<field name="checksum">57d7139a0f5a404a2b5808437b4f9b41</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.pdf.jpg</field>
+<field name="originalName">20101007_Don_Schlitz.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12230</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/6/20101007_Don_Schlitz.pdf.jpg</field>
+<field name="checksum">0cd51b497459d8ee32a6e469685bac81</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.JPG.preview.jpg</field>
+<field name="originalName">20101007_Don_Schlitz.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32334</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/4/20101007_Don_Schlitz.JPG.preview.jpg</field>
+<field name="checksum">21aef9e958f794de578a8b45bfb046fe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20101007_Don_Schlitz.pdf.txt</field>
+<field name="originalName">20101007_Don_Schlitz.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">48299</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33728/5/20101007_Don_Schlitz.pdf.txt</field>
+<field name="checksum">97d347601f3b48a449124e076cd937bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33728</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33728</field>
+<field name="lastModifyDate">2018-07-12 13:20:43.151</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

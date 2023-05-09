@@ -1,0 +1,192 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Reed, William L. (Billy)</field>
+<field name="value">Lanier, James (Jim)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-22T19:45:59Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-22T19:45:59Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2012-08-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33577</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20120802_Bill_Reed</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Bill Reed, who grew up in Memphis and the Mississippi Delta during the Civil Rights era. He shares his perspective on racism and Memphis as a white male. Interviewee: Bill Reed Interviewer: Jim Lanier Date: August 2, 1012</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278734818</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Politics</field>
+<field name="value">Civil rights</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Bill Reed, 2012</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.jpg</field>
+<field name="originalName">Capture.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6627</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/2/Capture.PNG.jpg</field>
+<field name="checksum">e5dde4c9014851a2dfd27cbdd9750f51</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.PNG.jpg</field>
+<field name="originalName">20120802_Bill_Reed.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6627</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/5/20120802_Bill_Reed.PNG.jpg</field>
+<field name="checksum">e5dde4c9014851a2dfd27cbdd9750f51</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.pdf.jpg</field>
+<field name="originalName">20120802_Bill_Reed.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12043</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/8/20120802_Bill_Reed.pdf.jpg</field>
+<field name="checksum">6b9b5c1c66f97747bdd6b1a48a0820c2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.preview.jpg</field>
+<field name="originalName">Capture.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">24717</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/3/Capture.PNG.preview.jpg</field>
+<field name="checksum">0d75dec64f5152c91242c7996a339e2b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.PNG.preview.jpg</field>
+<field name="originalName">20120802_Bill_Reed.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">24717</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/6/20120802_Bill_Reed.PNG.preview.jpg</field>
+<field name="checksum">0d75dec64f5152c91242c7996a339e2b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.pdf.txt</field>
+<field name="originalName">20120802_Bill_Reed.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">31702</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/7/20120802_Bill_Reed.pdf.txt</field>
+<field name="checksum">999b248a64e47b47c0e557c4b68d8db9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.PNG</field>
+<field name="originalName">20120802_Bill_Reed.PNG</field>
+<field name="format">image/png</field>
+<field name="size">649498</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/1/20120802_Bill_Reed.PNG</field>
+<field name="checksum">9bb649bbc169e6f0e9ce580b037e6b30</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20120802_Bill_Reed.pdf</field>
+<field name="originalName">20120802_Bill_Reed.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">272309</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33577/4/20120802_Bill_Reed.pdf</field>
+<field name="checksum">871b72f55343678e117cfffa38d5c6cc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33577</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33577</field>
+<field name="lastModifyDate">2018-07-12 13:20:43.374</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

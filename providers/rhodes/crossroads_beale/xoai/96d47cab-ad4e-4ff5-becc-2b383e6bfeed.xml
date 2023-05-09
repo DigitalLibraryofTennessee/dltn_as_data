@@ -1,0 +1,123 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Zer-Mac Theatre Co.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:33Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:33Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1948-12-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34342</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19481225_Zer_Mac_Theatre_Checks_05_117773</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Three canceled checks from Zer-Mac Theatre Co. for various amounts.&#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Union Planters National Bank &amp; Trust Co.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Zer-Mac Theatre Co. Cancelled Checks #5, Dec. 25, 1948</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.jpg</field>
+<field name="originalName">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">26085</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34342/2/19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.jpg</field>
+<field name="checksum">45017fd5be76617438a55fb29c0620c3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.preview.jpg</field>
+<field name="originalName">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">138221</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34342/3/19481225_Zer_Mac_Theatre_Checks_05_117773.jpg.preview.jpg</field>
+<field name="checksum">beb8a624ae127267e97587e3630b2b66</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg</field>
+<field name="originalName">19481225_Zer_Mac_Theatre_Checks_05_117773.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">2212439</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34342/1/19481225_Zer_Mac_Theatre_Checks_05_117773.jpg</field>
+<field name="checksum">b67ba1804cd6b8cd082381380c634ee4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34342</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34342</field>
+<field name="lastModifyDate">2018-10-17 16:07:46.272</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,146 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Patterson, James Oglethorpe, 1912-1989</field>
+<field name="value">King, Coretta Scott, 1927-2006</field>
+<field name="value">King, Alfred Daniel Williams (A.D.), 1930-1969</field>
+<field name="value">Farris, Christine King, 1927-</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-18T14:07:48Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-18T14:07:48Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33873</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680502_Memorial_Serv_and_Poor_Peoples_Campaign-SS215</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a recording of the memorial service held for Martin Luther King, Jr. in Memphis on May 2nd, 1968. There is additional audio from the Poor People's Campagin rally.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281526714</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Radio news programs</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Civil rights</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">MLK Memorial Service and Poor People's Campaign Rally, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memorial service.PNG.jpg</field>
+<field name="originalName">memorial service.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5134</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33873/2/memorial%20service.PNG.jpg</field>
+<field name="checksum">4754f86ee1f24c23b5328c8efd91d75c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memorial service.PNG.preview.jpg</field>
+<field name="originalName">memorial service.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17223</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33873/3/memorial%20service.PNG.preview.jpg</field>
+<field name="checksum">14703535455cfdb909858d2e952bd0e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">memorial service.PNG</field>
+<field name="originalName">memorial service.PNG</field>
+<field name="format">image/png</field>
+<field name="size">49904</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33873/1/memorial%20service.PNG</field>
+<field name="checksum">3c03fb56cb0421d101896cce2e5e7c3c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33873</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33873</field>
+<field name="lastModifyDate">2018-07-31 14:00:21.56</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

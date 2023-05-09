@@ -1,0 +1,158 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:57Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1960-01-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34177</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from Russell Sugarmon to Paul Butler. Sugarmon requests a personal meeting with Butler, Chairman of the Democratic National Committee, to discuss relations between Negroes and the Shelby County Democratic Committee.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+<field name="value">Letter</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+<field name="value">Democratic National Committee (U.S.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Russell B. Sugarmon Jr. to Paul Butler</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.jpg</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8054</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/3/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.jpg</field>
+<field name="checksum">865fb81d91a84d6141570cd757c513c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.jpg</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6514</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/6/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.jpg</field>
+<field name="checksum">ec12d689c363d0892ccb6ab1f92c9dbf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.preview.jpg</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">42602</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/4/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg.preview.jpg</field>
+<field name="checksum">d4e313d202a08567951f61f451fe42cf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.txt</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">724</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/5/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf.txt</field>
+<field name="checksum">b69ac75d8dedeb78a7c623c4f41a100d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">483090</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/1/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.jpg</field>
+<field name="checksum">124336cdb1bc93835186d9224b77f5ce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf</field>
+<field name="originalName">19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">30375</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34177/2/19600111_Letter_from_Russell_Sugarmon_to_Paul_Butler_720.pdf</field>
+<field name="checksum">0844ca972842dda30fa4b19c81557b18</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34177</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34177</field>
+<field name="lastModifyDate">2018-09-19 18:23:06.844</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

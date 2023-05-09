@@ -1,0 +1,249 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Yellin, David G.</field>
+<field name="value">Thomas, Bill</field>
+<field name="value">Lawson, James M., 1928-</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-24T16:56:49Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-24T16:56:49Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33926</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680701_James_Lawson_Jr_SS266-SS268</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Reverend James Lawson. Lawson was the pastor of Centenary United Methodist Church and chairman of the strategy committee of C.O.M.E (Community on the Move for Equality), the community organization supporting the strikers. He was also S.C.L.C director of nonviolent education.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281537480</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. James Lawson, SCLC and COME, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James Lawson July 1968.JPG.jpg</field>
+<field name="originalName">James Lawson July 1968.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3795</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/2/James%20Lawson%20July%201968.JPG.jpg</field>
+<field name="checksum">3e6c20b68779d140810f6da0e412f702</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS266_transcript.pdf.jpg</field>
+<field name="originalName">SS266_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11867</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/8/SS266_transcript.pdf.jpg</field>
+<field name="checksum">41574123d2f2a22f385bef72dbce723c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS267_transcript.pdf.jpg</field>
+<field name="originalName">SS267_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12474</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/10/SS267_transcript.pdf.jpg</field>
+<field name="checksum">92147bd2050f659de4fe13c77d4313e1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS268_transcript.pdf.jpg</field>
+<field name="originalName">SS268_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12735</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/12/SS268_transcript.pdf.jpg</field>
+<field name="checksum">b227e92b9499750ed4ddb06c51d6cb0d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James Lawson July 1968.JPG.preview.jpg</field>
+<field name="originalName">James Lawson July 1968.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">9348</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/3/James%20Lawson%20July%201968.JPG.preview.jpg</field>
+<field name="checksum">b1e36a53dbc8c64de3279455feedcabc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James Lawson July 1968.JPG</field>
+<field name="originalName">James Lawson July 1968.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">18059</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/1/James%20Lawson%20July%201968.JPG</field>
+<field name="checksum">2a9873e2cd928c20376c9c249760fb4d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS266_transcript.pdf</field>
+<field name="originalName">SS266_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">156384</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/4/SS266_transcript.pdf</field>
+<field name="checksum">f7568b28feaf35fa6a1c55006c68552c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS267_transcript.pdf</field>
+<field name="originalName">SS267_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">101699</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/5/SS267_transcript.pdf</field>
+<field name="checksum">42677e830f3e9ce1a059dba895f0c85e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS268_transcript.pdf</field>
+<field name="originalName">SS268_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">162793</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/6/SS268_transcript.pdf</field>
+<field name="checksum">447a50cba9e05f283817a4578c458274</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS266_transcript.pdf.txt</field>
+<field name="originalName">SS266_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">72256</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/7/SS266_transcript.pdf.txt</field>
+<field name="checksum">2bb5db88802697e93b2d82506b6c959e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS267_transcript.pdf.txt</field>
+<field name="originalName">SS267_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">24736</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/9/SS267_transcript.pdf.txt</field>
+<field name="checksum">35a54c4c620cc8a20f80ac0f958efb8c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS268_transcript.pdf.txt</field>
+<field name="originalName">SS268_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">77472</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33926/11/SS268_transcript.pdf.txt</field>
+<field name="checksum">e8c77e6f1e39d93513864a9f902f25a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33926</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33926</field>
+<field name="lastModifyDate">2018-09-24 10:37:18.429</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

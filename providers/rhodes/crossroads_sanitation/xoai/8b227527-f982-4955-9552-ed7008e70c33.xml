@@ -1,0 +1,247 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Miles, Frank</field>
+<field name="value">Thomas, Bill</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-16T18:29:10Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-16T18:29:10Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-09-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33842</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680914_Frank_Miles_SS025-SS027</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frank Miles. He tells of his experience organizing labor strikes, mediating for Memphis laborers.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281544320</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frank Miles, Mediator for Memphis Sanitation Strike, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS025_transcript.pdf</field>
+<field name="originalName">SS025_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">152043</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/1/SS025_transcript.pdf</field>
+<field name="checksum">3e008f417ab4ce539585522635a34d64</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS026_transcript.pdf</field>
+<field name="originalName">SS026_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">115346</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/2/SS026_transcript.pdf</field>
+<field name="checksum">9fc5cd0b18e465777a7c7e4e7302add9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS027_transcript.pdf</field>
+<field name="originalName">SS027_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">151484</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/3/SS027_transcript.pdf</field>
+<field name="checksum">e52e6430572bba3e35faf5fcf9b509cf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">frank miles.PNG</field>
+<field name="originalName">frank miles.PNG</field>
+<field name="format">image/png</field>
+<field name="size">44638</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/4/frank%20miles.PNG</field>
+<field name="checksum">0e3819f08506a7a3119783d42e5a5417</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS025_transcript.pdf.txt</field>
+<field name="originalName">SS025_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">89637</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/5/SS025_transcript.pdf.txt</field>
+<field name="checksum">d26a9630c16e782517357b39b4c3c3c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS026_transcript.pdf.txt</field>
+<field name="originalName">SS026_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">61050</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/7/SS026_transcript.pdf.txt</field>
+<field name="checksum">89010ea402bb1ca03ca60e409f43e6bf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS027_transcript.pdf.txt</field>
+<field name="originalName">SS027_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">91581</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/9/SS027_transcript.pdf.txt</field>
+<field name="checksum">50e567407bb076eccfa1fb033a2e699f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS025_transcript.pdf.jpg</field>
+<field name="originalName">SS025_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13923</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/6/SS025_transcript.pdf.jpg</field>
+<field name="checksum">be8596fb3b6f09a324821ee356551c54</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS026_transcript.pdf.jpg</field>
+<field name="originalName">SS026_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14203</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/8/SS026_transcript.pdf.jpg</field>
+<field name="checksum">33b4ef97c8bfd376f96ce8e45d762aec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS027_transcript.pdf.jpg</field>
+<field name="originalName">SS027_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12717</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/10/SS027_transcript.pdf.jpg</field>
+<field name="checksum">35050de521fff2d889ad1be77a3efb97</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">frank miles.PNG.jpg</field>
+<field name="originalName">frank miles.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5460</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/11/frank%20miles.PNG.jpg</field>
+<field name="checksum">913c11acee36716630b4623b871b565d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">frank miles.PNG.preview.jpg</field>
+<field name="originalName">frank miles.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17278</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33842/12/frank%20miles.PNG.preview.jpg</field>
+<field name="checksum">33687bd26a559584952d1c2a73898274</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33842</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33842</field>
+<field name="lastModifyDate">2018-07-31 11:39:21.183</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

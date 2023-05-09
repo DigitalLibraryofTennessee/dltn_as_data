@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Rev. Malcolm Blackburn, Clayborn Ball Temple, 1968</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/33918</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33918/2/Malcolm%20Blackburn.JPG.jpg</url>
+  </location>
+  <name>
+    <namePart>Blackburn, Malcolm</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Trotter, Anne</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Yellin, David G.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1968-05-24</dateCreated>
+    <dateOther>2018-07-20T17:06:06Z</dateOther>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <typeOfResource>sound recording</typeOfResource>
+  <identifier type="local">19680524_Malcolm_Blackburn-SS076-SS077</identifier>
+  <subject>
+    <topic>Oral history</topic>
+  </subject>
+  <subject>
+    <topic>Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Religion</topic>
+  </subject>
+  <subject>
+    <topic>Sanitation Workers Strike, Memphis, Tenn., 1968</topic>
+  </subject>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Crossroads to Freedom</title>
+    </titleInfo>
+  </relatedItem>
+  <abstract>This is an interview with Rev. Malcolm Blackburn, then pastor at Clayborn Ball Temple A.M.E. Church.</abstract>
+  <relatedItem displayLabel="streaming resource">
+    <location>
+      <url>https://vimeo.com/281529439</url>
+    </location>
+  </relatedItem>
+</mods>

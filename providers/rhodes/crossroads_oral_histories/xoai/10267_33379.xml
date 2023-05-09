@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Terwilleger, Jeanette</field>
+<field name="value">Kenalis, Doris</field>
+<field name="value">Henry, Keleigh</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:37Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:37Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-07-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33379</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140702_Jeanette_Terwilleger</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Jeanette Terwilleger was born on December 25, 2016 at home in Highland Heights. Her father worked as a carpenter, while her mother stayed at home. Her grandmother that lived with worked as a seamstress for Bry&#65533;s uptown. She used to work for a transportation company and retired as a bookkeeper in 2000. She attended Treadwell for all 12 years of school. Mrs. Terwilleger married and had two sons. Her oldest son is a part owner of oden and Associates, while her other son is now a firefighter. She is currently working at her church with the Cambodians, and she enjoys teaching them about Jesus Christ.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280421339</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jeanette Terwilleger, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger.pdf</field>
+<field name="originalName">20140702_Jeanette_Terwilleger.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">195581</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/1/20140702_Jeanette_Terwilleger.pdf</field>
+<field name="checksum">db4fc7a63694c8c62c5528430ab77eb4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger</field>
+<field name="originalName">20140702_Jeanette_Terwilleger</field>
+<field name="format">image/jpeg</field>
+<field name="size">19367</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/2/20140702_Jeanette_Terwilleger</field>
+<field name="checksum">ec4011840bac5d5f15b070258aaa75d2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger.pdf.txt</field>
+<field name="originalName">20140702_Jeanette_Terwilleger.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">40222</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/3/20140702_Jeanette_Terwilleger.pdf.txt</field>
+<field name="checksum">24ecfc5c7d8ca21c3b8f3e647581e87c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger.pdf.jpg</field>
+<field name="originalName">20140702_Jeanette_Terwilleger.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11868</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/4/20140702_Jeanette_Terwilleger.pdf.jpg</field>
+<field name="checksum">9cc50f89455d36334700d36eb2695cf1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6724</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/5/Capture.JPG.jpg</field>
+<field name="checksum">9dc3c95e53c2b697b51b3a7f4b5a5719</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger.jpg</field>
+<field name="originalName">20140702_Jeanette_Terwilleger.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6724</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/7/20140702_Jeanette_Terwilleger.jpg</field>
+<field name="checksum">9dc3c95e53c2b697b51b3a7f4b5a5719</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12162</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/6/Capture.JPG.preview.jpg</field>
+<field name="checksum">9bfd78a945617d4cb6e3a445c0697dc8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20140702_Jeanette_Terwilleger.preview.jpg</field>
+<field name="originalName">20140702_Jeanette_Terwilleger.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12162</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33379/8/20140702_Jeanette_Terwilleger.preview.jpg</field>
+<field name="checksum">9bfd78a945617d4cb6e3a445c0697dc8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33379</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33379</field>
+<field name="lastModifyDate">2018-07-17 14:34:24.701</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

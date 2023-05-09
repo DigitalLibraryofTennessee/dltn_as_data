@@ -1,0 +1,164 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Peete, Charles S. (Charlie)</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34132</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040622_Charlie_Peete_Jr</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, interviewee Charles "Charlie" S. Peete, program director for the Memphis Dutch Treat Luncheon, discusses his long time friendship and volunteer work for Henry Loeb for several decades spanning his years as Commissioner and Mayor. He largely defends Henry Loeb's policies and explains how and why other Memphis Conservatives have changed ideologically since the 1960s.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289952304</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Politics and government</field>
+<field name="value">Memphis City Council</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">City government</field>
+<field name="value">Voting</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Charlie Peete Jr., Memphis Dutch Treat Luncheon, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Peete_Charlie Jr.doc.txt</field>
+<field name="originalName">Peete_Charlie Jr.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">69122</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34132/5/Peete_Charlie%20Jr.doc.txt</field>
+<field name="checksum">fcae32f040a3ae2fa1f253a3af075aa7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">charlie peete jr.PNG</field>
+<field name="originalName">charlie peete jr.PNG</field>
+<field name="format">image/png</field>
+<field name="size">38139</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34132/1/charlie%20peete%20jr.PNG</field>
+<field name="checksum">25cf436e7f593d339c02176dda0df0c2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Peete_Charlie Jr.doc</field>
+<field name="originalName">Peete_Charlie Jr.doc</field>
+<field name="format">application/msword</field>
+<field name="size">152064</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34132/4/Peete_Charlie%20Jr.doc</field>
+<field name="checksum">31b6978467f34f141eb9d6c8e78c3f6d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">charlie peete jr.PNG.jpg</field>
+<field name="originalName">charlie peete jr.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5350</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34132/2/charlie%20peete%20jr.PNG.jpg</field>
+<field name="checksum">fc2a2118943bf2860a7121f1098db3df</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">charlie peete jr.PNG.preview.jpg</field>
+<field name="originalName">charlie peete jr.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19427</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34132/3/charlie%20peete%20jr.PNG.preview.jpg</field>
+<field name="checksum">579b3b8903c68d3b808c97f013bfd04a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34132</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34132</field>
+<field name="lastModifyDate">2018-09-19 12:56:49.415</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,216 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Pryor, Downing</field>
+<field name="value">Trotter, Anne</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Beckner, Tom</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-20T17:06:03Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-20T17:06:03Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-08</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33903</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680508_Downing_Pryor_SS050-SS051</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Downing Pryor, who was a member of Memphis City Council during the sanitation strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281527246</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">City council members</field>
+<field name="value">City government</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Downing Pryor, Memphis City Council, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG</field>
+<field name="originalName">downing pryor.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42966</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/1/downing%20pryor.PNG</field>
+<field name="checksum">ddff340665641f39fd25a2fe463ccaa8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS050_transcript.pdf</field>
+<field name="originalName">SS050_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">154900</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/2/SS050_transcript.pdf</field>
+<field name="checksum">783a578656eaa2ce4a08c4ea2e387af6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS051_transcript.pdf</field>
+<field name="originalName">SS051_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">95060</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/3/SS051_transcript.pdf</field>
+<field name="checksum">e69ee4b3c1ea4dcbee3fea31f016b8fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG.jpg</field>
+<field name="originalName">downing pryor.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5023</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/4/downing%20pryor.PNG.jpg</field>
+<field name="checksum">8d11585e930832339f6f99d8c240dbab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS050_transcript.pdf.jpg</field>
+<field name="originalName">SS050_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12912</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/7/SS050_transcript.pdf.jpg</field>
+<field name="checksum">ebe413e104a4a97071c8a15a7c64ef2c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS051_transcript.pdf.jpg</field>
+<field name="originalName">SS051_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13853</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/9/SS051_transcript.pdf.jpg</field>
+<field name="checksum">ec635073938f6f7471cf0fed7d96f5da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">downing pryor.PNG.preview.jpg</field>
+<field name="originalName">downing pryor.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">16748</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/5/downing%20pryor.PNG.preview.jpg</field>
+<field name="checksum">8d64cc915750adce29c0503712cc2caf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS050_transcript.pdf.txt</field>
+<field name="originalName">SS050_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">90945</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/6/SS050_transcript.pdf.txt</field>
+<field name="checksum">0c08b29836f309b60f12a61990ceb1c8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS051_transcript.pdf.txt</field>
+<field name="originalName">SS051_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">42325</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33903/8/SS051_transcript.pdf.txt</field>
+<field name="checksum">295726591e1fe2a2f81d8469ad0e1350</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33903</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33903</field>
+<field name="lastModifyDate">2018-07-30 11:34:26.988</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

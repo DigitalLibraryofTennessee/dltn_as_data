@@ -1,0 +1,158 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Armour, Claude A.</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:54Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:54Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1962-04-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34167</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter written by Claude A. Armour, Memphis Vice Mayor and Commissioner of Fire and Police, inviting Mr. Russell B. Sugarman to the first graduation exercises of an African-American police class.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.) Fire Department</field>
+<field name="value">Memphis (Tenn.) Police Department</field>
+<field name="value">African Americans</field>
+<field name="value">Letter</field>
+<field name="value">Sugarmon, Russell B., Jr.</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Claude A. Armour, Commissioner of Fire &amp; Police to Mr. Russell B. Sugarmon, Jr., Attorney</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.jpg</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10021</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/3/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.jpg</field>
+<field name="checksum">940ede9fd0c7e570f572d10c0a7e7009</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.jpg</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6961</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/6/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.jpg</field>
+<field name="checksum">7acd886172b173a13f9fa0281748f80b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.preview.jpg</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">52512</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/4/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg.preview.jpg</field>
+<field name="checksum">2205aff81c784f5a56a75f70a43088e4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.txt</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">882</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/5/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf.txt</field>
+<field name="checksum">c52d85200ab374486effa0fea6143c4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">504829</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/1/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.jpg</field>
+<field name="checksum">1f25cd5f3060938805846113654a5a50</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf</field>
+<field name="originalName">19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">35718</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34167/2/19620420_Letter_from_Claude_Armour_to_Russell_Sugarmon_692.pdf</field>
+<field name="checksum">0c48ed7055c22fb0d96adf4846730710</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34167</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34167</field>
+<field name="lastModifyDate">2018-09-19 17:03:23.734</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

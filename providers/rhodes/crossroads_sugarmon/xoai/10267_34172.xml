@@ -1,0 +1,253 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">The Volunteer Ticket</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:58:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:58:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1959</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34172</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1959_Pamphlet_for_the_Memphis_Election_736</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A campaign pamphlet of the Volunteer Ticket, which is made up of African-American candidates, August 1959. Page 1 includes pictures of Russell Sugarmon, Commissioner of Public Works; Ben Hooks, Juvenile Court Judge; Henry Bunton and Roy Love, Board of Education. Page 2 is an article by George W. Lee, "The Negro's Position in the August Election," giving reasons for supporting the Volunteer Ticket; Lee is Chairman of the Steering Committee of the Volunteer Ticket. Page 3, entitled "What the Volunteer Candidates Stand For," is a list of issues the four candidates embrace. It concludes with the phrase, "The Negro Has a Love Affair with Destiny." Page 4 is a get-out-the-vote notice aimed at blacks, and includes the phrase "Don't Listen to 'Uncle Tom's'."</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Voting</field>
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">African Americans</field>
+<field name="value">Pamphlet</field>
+<field name="value">Political campaigns</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Pamphlet for the Memphis Election - Volunteer Ticket</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">992082</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/1/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg</field>
+<field name="checksum">f3af7d59c37226a81f5123ead7788a68</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1161399</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/2/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg</field>
+<field name="checksum">8a699866a665ebfba8ad891403d4fb88</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">854596</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/3/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg</field>
+<field name="checksum">971160dce072d14285fcfba511effb51</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">645268</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/4/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg</field>
+<field name="checksum">361bf00bf9ca815ed6013fe27d514ad7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">1959_Pamphlet_for_the_Memphis_Election_736.pdf</field>
+<field name="originalName">1959_Pamphlet_for_the_Memphis_Election_736.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">37054</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/13/1959_Pamphlet_for_the_Memphis_Election_736.pdf</field>
+<field name="checksum">35888c32640323f2f41c3fa300d2ba2a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12000</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/5/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.jpg</field>
+<field name="checksum">cf7f36f5078a765043937d126c55301b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18827</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/7/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.jpg</field>
+<field name="checksum">c50b73041ebf669e64e805b95b049ff0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/9/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.jpg</field>
+<field name="checksum">8a8d7846dde10559f3d0d2c716d884c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11518</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/11/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.jpg</field>
+<field name="checksum">e384b5512db9bdd8b78ed3c41a6ca114</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">1959_Pamphlet_for_the_Memphis_Election_736.pdf.jpg</field>
+<field name="originalName">1959_Pamphlet_for_the_Memphis_Election_736.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12027</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/15/1959_Pamphlet_for_the_Memphis_Election_736.pdf.jpg</field>
+<field name="checksum">e8a74742d72e542e80f63c5f424980c8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.preview.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">60245</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/6/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_1.jpg.preview.jpg</field>
+<field name="checksum">ab1ad23e0eee6533f55cf13a0239ca57</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.preview.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">117982</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/8/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_2.jpg.preview.jpg</field>
+<field name="checksum">821b746025920dda55fd0932408122a7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.preview.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">84808</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/10/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_3.jpg.preview.jpg</field>
+<field name="checksum">457c42b96a03ff288501f5558d3f8d5f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.preview.jpg</field>
+<field name="originalName">Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">56548</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/12/Pamphlet_for_the_Memphis_Election_Volunteer_Ticket_revised_736_print_4.jpg.preview.jpg</field>
+<field name="checksum">c7279bbddfe26dfaa09864e8e802abc6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Pamphlet_for_the_Memphis_Election_736.pdf.txt</field>
+<field name="originalName">1959_Pamphlet_for_the_Memphis_Election_736.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">5607</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34172/14/1959_Pamphlet_for_the_Memphis_Election_736.pdf.txt</field>
+<field name="checksum">470c4882ade28831fce61a7291f942ea</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34172</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34172</field>
+<field name="lastModifyDate">2018-09-18 20:12:56.804</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Farnsworth, Trip</field>
+<field name="value">Pham, Ngyuen-Huong</field>
+<field name="value">Hines, Cuyler</field>
+<field name="value">Rhynes, Anne-Chevette</field>
+<field name="value">Hughes, Paulette (Gayle)</field>
+<field name="value">Osella, Sophie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T19:54:21Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T19:54:21Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-01-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33569</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130113_Trip_Farnsworth</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Trip Farnsworth, one of Elvis' neighbors at 1034 Audubon Drive, his residence prior to Graceland. He discusses what it was like to live near the King during his initial rise in popularity. The interview was conducted January 13th, 2013. Interviewers for this project include: Nguyen Huong Pham ('14), Cuyler Hines ('14), Anne-Chevette Rhynes ('13), Gayle Hughes ('13), and Sophia Osella ('14).</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279335969</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Presley, Elvis, 1935-1977</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Trip Farnsworth, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1295288</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/1/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG</field>
+<field name="checksum">2f4493df88ab3c3ee0fd627bfb6b43b8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">132884</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/2/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf</field>
+<field name="checksum">798d2bf02b727d620a1bbdbc01c7c39c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6888</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/3/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.jpg</field>
+<field name="checksum">5c11c420675d4831faae8643dafcd9a0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11997</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/6/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.jpg</field>
+<field name="checksum">6fea54805d12a42d6e1714fd98c62705</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.preview.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">25029</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/4/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.PNG.preview.jpg</field>
+<field name="checksum">62ca0edf607c6b79e351ce307248e7d8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.txt</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">8309</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33569/5/20130113_Elvis_Neighbors_Audubon_House_Trip_Farnsworth.pdf.txt</field>
+<field name="checksum">610c77c4d1e07aefca689fb670a3e56c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33569</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33569</field>
+<field name="lastModifyDate">2018-07-10 15:03:01.024</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

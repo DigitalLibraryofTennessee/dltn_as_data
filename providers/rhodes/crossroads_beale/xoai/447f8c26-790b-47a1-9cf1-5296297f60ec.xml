@@ -1,0 +1,124 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Plough, Sam</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1950-10-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34939</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter from Sam Plough, an inurance agaent, to ndrew Mitchell, owner of Mitchell's Hotel, thanking him for his business.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">The Georgia Home Insurance Company</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter to Andrew Mitchell from Sam Plough, 1950</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg</field>
+<field name="originalName">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">391818</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34939/1/19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg</field>
+<field name="checksum">c35694f628ebabb6e7e35c3d0fd4f676</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.jpg</field>
+<field name="originalName">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15044</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34939/2/19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.jpg</field>
+<field name="checksum">d58948fb37c618c9fb4d324f65b932f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.preview.jpg</field>
+<field name="originalName">19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">75655</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34939/3/19501002_Letter_to_Andrew_Mitchell_from_Sam_Plough_117796.jpg.preview.jpg</field>
+<field name="checksum">5da02ecff885f11c10773eee63896677</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34939</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34939</field>
+<field name="lastModifyDate">2018-11-16 16:09:54.072</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>James and Marjorie Cherry, 1969</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/33810</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33810/5/SS172_transcript.pdf.jpg</url>
+  </location>
+  <name>
+    <namePart>Cherry, James</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Cherry, Marjorie</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Yellin, David G.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Yellin, Carol Lynn</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1969-02-08</dateCreated>
+    <dateOther>2018-07-13T19:12:46Z</dateOther>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2023-05-09-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <typeOfResource>sound recording</typeOfResource>
+  <identifier type="local">19690208_James_Marjorie_Cherry-SS172-SS174</identifier>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <subject>
+    <topic>Religion</topic>
+  </subject>
+  <subject>
+    <topic>Interviews</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights</topic>
+  </subject>
+  <subject>
+    <topic>Race relations</topic>
+  </subject>
+  <subject>
+    <topic>Memphis (Tenn.)</topic>
+  </subject>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Crossroads to Freedom</title>
+    </titleInfo>
+  </relatedItem>
+  <abstract>This is an interview with James and Marjorie Cherry. James as avertising director of both Memphis newspapers, president of Advertising Club; Majorie as former president of League of Women of Voters and involved in Unitarian church activities and in liberal, bi-racial groups. In this interview the group discusses how the perception of Memphis from the outside compares to the reality of the climate of Memphis.</abstract>
+  <relatedItem displayLabel="streaming resource">
+    <location>
+      <url>https://vimeo.com/281545654</url>
+    </location>
+  </relatedItem>
+</mods>

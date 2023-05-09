@@ -1,0 +1,176 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Snowden, Baynard</field>
+<field name="value">Pham, Ngyuen-Huong</field>
+<field name="value">Hines, Cuyler</field>
+<field name="value">Rhynes, Anne-Chevette</field>
+<field name="value">Hughes, Paulette (Gayle)</field>
+<field name="value">Osella, Sophie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T19:54:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T19:54:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-01-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33562</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130113_Bayard_Snowden</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Banyard Snowden, one of Elvis' neighbors at 1034 Audubon Drive, his residence prior to Graceland. He discusses what it was like to live near the King during his initial rise in popularity. The interview was conducted January 13th, 2013. Interviewers for this project include: Nguyen Huong Pham ('14), Cuyler Hines ('14), Anne-Chevette Rhynes ('13), Gayle Hughes ('13), and Sophia Osella ('14).</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280382983</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Presley, Elvis, 1935-1977</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Baynard Snowden, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6996</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/3/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.jpg</field>
+<field name="checksum">ea0b357b0125756daa78e3d7fd9a2d1f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6245</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/6/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.jpg</field>
+<field name="checksum">58cf006367f167120f10244eebdf4cf6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.preview.jpg</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">26659</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/4/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG.preview.jpg</field>
+<field name="checksum">2be8bb13ec153b88e9413acb3929d706</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.txt</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">4651</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/5/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf.txt</field>
+<field name="checksum">24e5bec03371e3b7932fb711dfe4acd7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1509614</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/1/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.PNG</field>
+<field name="checksum">6e3f2c483fbe89c41644c39c852275c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf</field>
+<field name="originalName">20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">480612</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33562/2/20130113_Elvis_Neighbors_Audubon_House_Bayard_Snowden.pdf</field>
+<field name="checksum">27238400e4392aa002c8447862b8d265</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33562</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33562</field>
+<field name="lastModifyDate">2018-07-17 10:29:21.871</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

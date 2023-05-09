@@ -1,0 +1,161 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Prewitt, Thomas R., Sr.</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34134</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040618_Thomas_Prewitt_Sr</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Here, Tennessee attorney Thomas R. Prewitt Sr. recounts representing the city of Memphis in Watson v. Memphis and the extreme tension of the late 1960s. He also talks about what he sees as the failure of the local and federal government to make proactive legislation that would aid the African American community.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289922884</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Trials</field>
+<field name="value">Social justice</field>
+<field name="value">Education</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Thomas Prewitt Sr., Tennessee attorney, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Prewitt, Thomas edited.doc.txt</field>
+<field name="originalName">Prewitt, Thomas edited.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">58953</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34134/5/Prewitt%2c%20Thomas%20edited.doc.txt</field>
+<field name="checksum">2464b521730462cbfbfded98159de5d0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">thomas prewitt sr.PNG</field>
+<field name="originalName">thomas prewitt sr.PNG</field>
+<field name="format">image/png</field>
+<field name="size">40443</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34134/1/thomas%20prewitt%20sr.PNG</field>
+<field name="checksum">8941b0cac4f35e8260acda4d7cfb68a6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Prewitt, Thomas edited.doc</field>
+<field name="originalName">Prewitt, Thomas edited.doc</field>
+<field name="format">application/msword</field>
+<field name="size">107008</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34134/4/Prewitt%2c%20Thomas%20edited.doc</field>
+<field name="checksum">f386d3148fbbcfa50530a28ca929edcf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">thomas prewitt sr.PNG.jpg</field>
+<field name="originalName">thomas prewitt sr.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5724</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34134/2/thomas%20prewitt%20sr.PNG.jpg</field>
+<field name="checksum">ed88c2efd8aa26bf1aff726c9d81e8f9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">thomas prewitt sr.PNG.preview.jpg</field>
+<field name="originalName">thomas prewitt sr.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21405</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34134/3/thomas%20prewitt%20sr.PNG.preview.jpg</field>
+<field name="checksum">efe212672c1d8a8a08b7b857a43fde8f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34134</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34134</field>
+<field name="lastModifyDate">2018-09-19 12:58:53.138</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

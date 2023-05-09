@@ -1,0 +1,124 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Martin, Jobie</field>
+<field name="value">Henderson, Joe, 1937-2001</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:55Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1962-05-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34942</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A contract for the performance of Joe Henderson and Band at the Elks Club in Jackson, Mississippi.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">American Federation of Musicians of the United States and Canada</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Jackson (Miss.)</field>
+<field name="value">Music</field>
+<field name="value">Elk's Club (Jackson, Miss.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Contract for Joe Henderson, 1962</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg</field>
+<field name="originalName">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">629971</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34942/1/19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg</field>
+<field name="checksum">353f4e6d70e43c8df1f88c54bdf3970c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.jpg</field>
+<field name="originalName">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">23169</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34942/2/19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.jpg</field>
+<field name="checksum">c221b9ddfd61d35bed0770fbac788051</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.preview.jpg</field>
+<field name="originalName">19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">118863</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34942/3/19620528_Joe_Henderson_Band_Contract_Elks_Club_117943.jpg.preview.jpg</field>
+<field name="checksum">f922742edf8360294ea237e1280397dc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34942</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34942</field>
+<field name="lastModifyDate">2018-11-16 15:33:14.915</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

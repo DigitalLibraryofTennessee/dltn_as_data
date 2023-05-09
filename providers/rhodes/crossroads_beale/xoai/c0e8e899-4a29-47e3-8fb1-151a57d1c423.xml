@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">Ellis Auditorium</field>
+<field name="value">Beale Street Auditorium</field>
+<field name="value">Club Ebony (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1961-11-03</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34324</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Tickets to shows at Club Handy, Ellis Auditorium, Beale Street Auditorium, and Club Ebony.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Ellis Auditorium</field>
+<field name="value">Theatres</field>
+<field name="value">Tickets</field>
+<field name="value">Chitlin' Circuit</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Beale Street and Club Handy Tickets page 5, 1959-1964</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">584641</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34324/1/1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg</field>
+<field name="checksum">add3ad44785ba6c7bcfc56d7a276a3b1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20299</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34324/2/1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.jpg</field>
+<field name="checksum">3750f26fa1b39bceb4aa2161199d6725</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.preview.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">96945</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34324/3/1959_Beale_Street_and_Club_Handy_Tickets_p5_117790.jpg.preview.jpg</field>
+<field name="checksum">5b18f3698d675b877211a820a8e13db2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34324</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34324</field>
+<field name="lastModifyDate">2018-10-18 15:55:46.165</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shafer, Anne Whalen</field>
+<field name="value">Richey, Janeesse</field>
+<field name="value">Scales, Marrissa</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T20:59:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2008-07-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33661</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20080701_Anne_Shafer</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Anne Shafer. In the interview she describes growing up in Memphis, her efforts to integrate the Memphis City Beautiful Commission, her involvement with the Catholic Church, and her activism in Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278570381</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Religion</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Race relations</field>
+<field name="value">African Americans</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Anne Shafer, 2008</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.JPG</field>
+<field name="originalName">20080701_Anne_Shafer.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">85340</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/1/20080701_Anne_Shafer.JPG</field>
+<field name="checksum">7180c98c4e0aa947dec48c34fe7b8fff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.pdf</field>
+<field name="originalName">20080701_Anne_Shafer.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">195849</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/2/20080701_Anne_Shafer.pdf</field>
+<field name="checksum">ad6bf702d3baf525df93bdef364b7b2e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.JPG.jpg</field>
+<field name="originalName">20080701_Anne_Shafer.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9898</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/3/20080701_Anne_Shafer.JPG.jpg</field>
+<field name="checksum">573d523eac300cf187d8e93e4a24a7ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.pdf.jpg</field>
+<field name="originalName">20080701_Anne_Shafer.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13633</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/6/20080701_Anne_Shafer.pdf.jpg</field>
+<field name="checksum">1a87d7d480a1983f7d3adfda28b30668</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.JPG.preview.jpg</field>
+<field name="originalName">20080701_Anne_Shafer.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">38523</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/4/20080701_Anne_Shafer.JPG.preview.jpg</field>
+<field name="checksum">b526ca52f9ac2939c7b8476f07feb293</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20080701_Anne_Shafer.pdf.txt</field>
+<field name="originalName">20080701_Anne_Shafer.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">42660</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33661/5/20080701_Anne_Shafer.pdf.txt</field>
+<field name="checksum">808aebce84f9e6995be1dcfc38e1f128</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33661</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33661</field>
+<field name="lastModifyDate">2018-07-31 13:25:22.41</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

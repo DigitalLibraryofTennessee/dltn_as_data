@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Fulton, Sylvester</field>
+<field name="value">Westbrook, Paris</field>
+<field name="value">Saba, Daniel</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:18Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:18Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-07-02</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33518</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090702_Sylvester_Fulton</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Sylvester Fulton who was born and raised in the Hyde Park area in the 1950s. This was done by the 2009 Crossroads to Freedom Hyde Park team. Video in the Crossroads to Freedom repository.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280262226</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Education</field>
+<field name="value">Big Brothers Big Sisters</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Sylvester Fulton, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090702_Sylvester_Fulton.PNG</field>
+<field name="originalName">20090702_Sylvester_Fulton.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1890546</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/1/20090702_Sylvester_Fulton.PNG</field>
+<field name="checksum">0d2a332ba56c8e53ddfe983abe844d67</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090702_SylvesterFulton[1].pdf</field>
+<field name="originalName">20090702_SylvesterFulton[1].pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">341109</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/2/20090702_SylvesterFulton%5b1%5d.pdf</field>
+<field name="checksum">928d4628a67344723f0d67817e7efa3e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090702_Sylvester_Fulton.PNG.jpg</field>
+<field name="originalName">20090702_Sylvester_Fulton.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8776</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/3/20090702_Sylvester_Fulton.PNG.jpg</field>
+<field name="checksum">6ae91db9965abf6300bee484cdf1974f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090702_SylvesterFulton[1].pdf.jpg</field>
+<field name="originalName">20090702_SylvesterFulton[1].pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11871</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/6/20090702_SylvesterFulton%5b1%5d.pdf.jpg</field>
+<field name="checksum">a0fa2f02cfd1b003b16198687a4cb3a0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090702_Sylvester_Fulton.PNG.preview.jpg</field>
+<field name="originalName">20090702_Sylvester_Fulton.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">35265</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/4/20090702_Sylvester_Fulton.PNG.preview.jpg</field>
+<field name="checksum">bd5fda1ce21f1561528914b008b99cd8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090702_SylvesterFulton[1].pdf.txt</field>
+<field name="originalName">20090702_SylvesterFulton[1].pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">60610</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33518/5/20090702_SylvesterFulton%5b1%5d.pdf.txt</field>
+<field name="checksum">7f9b461562e1caec0efc77a5b894ba89</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33518</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33518</field>
+<field name="lastModifyDate">2018-07-16 15:55:58.765</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

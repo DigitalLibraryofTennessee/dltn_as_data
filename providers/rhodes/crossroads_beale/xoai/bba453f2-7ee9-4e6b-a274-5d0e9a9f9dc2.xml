@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Astor, Bob</field>
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1954-10-19</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34333</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to Andrew Mitchell offering dates for different artists' availability to perform.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Shaw Artists Corporation</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Charles, Ray, 1930-2004</field>
+<field name="value">Letters</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Bob Astor of Shaw Artists Corp. to Andew Mitchell, 1954</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg</field>
+<field name="originalName">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">150983</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34333/1/19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg</field>
+<field name="checksum">5766d584f94f150912afaeb95ee13cac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.jpg</field>
+<field name="originalName">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13820</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34333/2/19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.jpg</field>
+<field name="checksum">2a3952c9169f986acfc9487a862249c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.preview.jpg</field>
+<field name="originalName">19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">60578</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34333/3/19541019_Bob_Astor_Letter_to_Andrew_Mitchell_117826.jpg.preview.jpg</field>
+<field name="checksum">df8e6bf2a1bea4a09610e5723ac43418</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34333</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34333</field>
+<field name="lastModifyDate">2018-10-17 12:14:26.558</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

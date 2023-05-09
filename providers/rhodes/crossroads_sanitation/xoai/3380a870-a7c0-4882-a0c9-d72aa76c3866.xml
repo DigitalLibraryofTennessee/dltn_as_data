@@ -1,0 +1,185 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Loeb, Henry, 1920-1992</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T19:12:46Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T19:12:46Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33808</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680701_Henry_Loeb-SS183</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Henry Loeb. Henry Loeb was the Mayor of Memphis at the time of the Sanitation Strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281537249</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">Politics and government</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Henry Loeb, Memphis Mayor, July 1st 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS183_transcript.pdf</field>
+<field name="originalName">SS183_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">125804</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/1/SS183_transcript.pdf</field>
+<field name="checksum">c1729ec0a6841cbfddacb4bb6a532d60</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Mayor henry loeb july 1968.JPG</field>
+<field name="originalName">Mayor henry loeb july 1968.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26108</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/4/Mayor%20henry%20loeb%20july%201968.JPG</field>
+<field name="checksum">57e952f184f475d8790bb68f65523770</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS183_transcript.pdf.txt</field>
+<field name="originalName">SS183_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">67556</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/2/SS183_transcript.pdf.txt</field>
+<field name="checksum">e2089076aac7ac474bfed9e65cb2bf4f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS183_transcript.pdf.jpg</field>
+<field name="originalName">SS183_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12337</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/3/SS183_transcript.pdf.jpg</field>
+<field name="checksum">5f3a3258c685cecd5aae75ca90957ee7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Mayor henry loeb july 1968.JPG.jpg</field>
+<field name="originalName">Mayor henry loeb july 1968.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3924</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/5/Mayor%20henry%20loeb%20july%201968.JPG.jpg</field>
+<field name="checksum">e98d1f742b9b82b47432c054265f0efb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Mayor henry loeb july 1968.JPG.preview.jpg</field>
+<field name="originalName">Mayor henry loeb july 1968.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12854</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33808/6/Mayor%20henry%20loeb%20july%201968.JPG.preview.jpg</field>
+<field name="checksum">2a3cec80287b62bc5fcf3fe63c8f5476</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33808</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33808</field>
+<field name="lastModifyDate">2018-10-17 12:09:50.444</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

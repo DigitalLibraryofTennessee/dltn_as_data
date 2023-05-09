@@ -1,0 +1,214 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Cook, Edward W. "Ned"</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-20T17:06:04Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-20T17:06:04Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-02-11</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281854454</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19690211_Edward_Cook_SS056-SS057</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Edward W. 'Ned' Cook, a business man and friend of Mayor Loeb. He discusses Mayor Loeb's role in the sanitation strike and negotiations with the sanitation workers and union organizers.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281854454</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Edward W. "Ned" Cook, 1969</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">edward cook.PNG</field>
+<field name="originalName">edward cook.PNG</field>
+<field name="format">image/png</field>
+<field name="size">54802</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/1/edward%20cook.PNG</field>
+<field name="checksum">f6057cd499a6ec11f49b7fe33abd96f7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS056_transcript.pdf</field>
+<field name="originalName">SS056_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">105745</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/2/SS056_transcript.pdf</field>
+<field name="checksum">8cfbeaf44c20ff48f3ca2016e394653a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS057_transcript.pdf</field>
+<field name="originalName">SS057_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">86606</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/3/SS057_transcript.pdf</field>
+<field name="checksum">a1b7a0c88cf3a634123e32d6e2565738</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">edward cook.PNG.jpg</field>
+<field name="originalName">edward cook.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/4/edward%20cook.PNG.jpg</field>
+<field name="checksum">7e98368b7f323a2feda7202ef07e943e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS056_transcript.pdf.jpg</field>
+<field name="originalName">SS056_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12293</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/7/SS056_transcript.pdf.jpg</field>
+<field name="checksum">412fe4611bebfd195d2860909ac5827a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS057_transcript.pdf.jpg</field>
+<field name="originalName">SS057_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12704</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/9/SS057_transcript.pdf.jpg</field>
+<field name="checksum">c0235f947478e97d2e37b28cd94ccd55</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">edward cook.PNG.preview.jpg</field>
+<field name="originalName">edward cook.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18814</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/5/edward%20cook.PNG.preview.jpg</field>
+<field name="checksum">4afcfeeda5d45dcee75e69e348e8f758</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS056_transcript.pdf.txt</field>
+<field name="originalName">SS056_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">51891</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/6/SS056_transcript.pdf.txt</field>
+<field name="checksum">50a872b97f8e3a3144b932a6253b9205</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS057_transcript.pdf.txt</field>
+<field name="originalName">SS057_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">36573</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33906/8/SS057_transcript.pdf.txt</field>
+<field name="checksum">bd3c27d2da9890aa37e21d0b58a6c50f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33906</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33906</field>
+<field name="lastModifyDate">2018-10-17 12:09:12.451</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

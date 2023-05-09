@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Spence, Nelle</field>
+<field name="value">Hayes, Layna</field>
+<field name="value">Morris-Loper, Keyonte</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:28Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:28Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-17</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33347</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150617_Nelle_Spence</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Nelle Spence, born in 1921 and a native Tennessean, moved to Highland Heights in 1940. While living in Highland Heights, she married and had two children, but was later on divorced. Ms. Spence highly values her community and believes that it's the people who make it home. She invests in her community by volunteering at schools, churches and hospitals.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280574057</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Nelle Spence, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.JPG</field>
+<field name="originalName">20150617_Spence_Nelle.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">22513</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/1/20150617_Spence_Nelle.JPG</field>
+<field name="checksum">3ba1eacf9e916c1724302de3b7aa439b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.pdf</field>
+<field name="originalName">20150617_Spence_Nelle.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">344935</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/2/20150617_Spence_Nelle.pdf</field>
+<field name="checksum">559f06483e001cc7de7c765e9b5fa111</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10530</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/3/Capture.JPG.jpg</field>
+<field name="checksum">de7f1bdce1a2c3b3413a8f5b68ff32ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.pdf.jpg</field>
+<field name="originalName">20150617_Spence_Nelle.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11689</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/6/20150617_Spence_Nelle.pdf.jpg</field>
+<field name="checksum">e0545afc17ab909ddd8e935041217347</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.JPG.jpg</field>
+<field name="originalName">20150617_Spence_Nelle.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10530</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/7/20150617_Spence_Nelle.JPG.jpg</field>
+<field name="checksum">de7f1bdce1a2c3b3413a8f5b68ff32ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13278</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/4/Capture.JPG.preview.jpg</field>
+<field name="checksum">43e4a36a9fdbc34ae0fbf9b283c8a4df</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.JPG.preview.jpg</field>
+<field name="originalName">20150617_Spence_Nelle.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13278</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/8/20150617_Spence_Nelle.JPG.preview.jpg</field>
+<field name="checksum">43e4a36a9fdbc34ae0fbf9b283c8a4df</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150617_Spence_Nelle.pdf.txt</field>
+<field name="originalName">20150617_Spence_Nelle.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">34729</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33347/5/20150617_Spence_Nelle.pdf.txt</field>
+<field name="checksum">79206911386e641434c3fa9fc1e5823b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33347</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33347</field>
+<field name="lastModifyDate">2018-07-18 11:34:54.14</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

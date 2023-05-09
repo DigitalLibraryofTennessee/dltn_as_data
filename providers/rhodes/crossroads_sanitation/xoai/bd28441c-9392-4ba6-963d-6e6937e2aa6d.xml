@@ -1,0 +1,186 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">McRae, Frank, 1952-</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:23Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-08-06</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33778</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680806_Frank_McRae-SS091</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Reverend Frank McRae describes the negotiations between various interest groups in Memphis during the Memphis Sanitation Strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281541052</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+<field name="value">Politics and government</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Frank McRae, St. John's United Methodist Church, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS091_transcript.pdf</field>
+<field name="originalName">SS091_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">142757</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/1/SS091_transcript.pdf</field>
+<field name="checksum">452356232d10409026046b80d17aac05</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Frank Mcrae.JPG</field>
+<field name="originalName">Frank Mcrae.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">26475</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/4/Frank%20Mcrae.JPG</field>
+<field name="checksum">758e9a0ca196a613e3798456ba1d8fdf</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS091_transcript.pdf.txt</field>
+<field name="originalName">SS091_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">80413</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/2/SS091_transcript.pdf.txt</field>
+<field name="checksum">394f4d45639338be658c61361ce10f71</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS091_transcript.pdf.jpg</field>
+<field name="originalName">SS091_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13813</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/3/SS091_transcript.pdf.jpg</field>
+<field name="checksum">c0f3c951a285dd62c861f79c182b67fd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Frank Mcrae.JPG.jpg</field>
+<field name="originalName">Frank Mcrae.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4472</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/5/Frank%20Mcrae.JPG.jpg</field>
+<field name="checksum">a5f2d9c805c7d1a6caaa4b9e7759e53d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Frank Mcrae.JPG.preview.jpg</field>
+<field name="originalName">Frank Mcrae.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14923</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33778/6/Frank%20Mcrae.JPG.preview.jpg</field>
+<field name="checksum">4f7077cc0ced5efda991d860f9155a9d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33778</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33778</field>
+<field name="lastModifyDate">2018-07-31 14:01:26.822</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

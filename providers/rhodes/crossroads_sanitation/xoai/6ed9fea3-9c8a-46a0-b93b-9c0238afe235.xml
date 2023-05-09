@@ -1,0 +1,181 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">King, Coretta Scott, 1927-2006</field>
+<field name="value">Lawson, James M., 1928-</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:16Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:16Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-08-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33886</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680816_King_Lawson_at_Mason_Temple_Rally-SS115B</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a speech given by Rev. James Lawson to black community of Memphis, encouraging listeners to show the southern Christian leadership conference their strength and resilience.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281541802</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Coretta Scott King and James Lawson at Mason Temple, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS115B_transcript.pdf</field>
+<field name="originalName">SS115B_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">52363</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/1/SS115B_transcript.pdf</field>
+<field name="checksum">69305e68148ff17b8f1e7ea023831383</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">king and lawson.PNG</field>
+<field name="originalName">king and lawson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">95282</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/2/king%20and%20lawson.PNG</field>
+<field name="checksum">5aa050e8723c70c3fece37d1579e81fa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS115B_transcript.pdf.txt</field>
+<field name="originalName">SS115B_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">9718</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/3/SS115B_transcript.pdf.txt</field>
+<field name="checksum">e36ba70b9247b0a9b7db36490e62e443</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS115B_transcript.pdf.jpg</field>
+<field name="originalName">SS115B_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14376</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/4/SS115B_transcript.pdf.jpg</field>
+<field name="checksum">95584f55684c7a4f7ca21ea3d43c5d6e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">king and lawson.PNG.jpg</field>
+<field name="originalName">king and lawson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7637</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/5/king%20and%20lawson.PNG.jpg</field>
+<field name="checksum">ee314753c9edf7b96596a2cae070e48a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">king and lawson.PNG.preview.jpg</field>
+<field name="originalName">king and lawson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">24434</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33886/6/king%20and%20lawson.PNG.preview.jpg</field>
+<field name="checksum">1519464145c0208838f78e6ca0b0fc1b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33886</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33886</field>
+<field name="lastModifyDate">2018-09-24 10:36:47.113</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

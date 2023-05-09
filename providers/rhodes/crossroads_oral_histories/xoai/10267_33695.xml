@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Raybuck, Ronald</field>
+<field name="value">Hardy, Maxwell (Max)</field>
+<field name="value">Whitney, Bryson</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33695</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100720_Ronald_Raybuck</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Ronald Raybuck speaks about his early life and memories of significant Memphis schools and businesses growing up. Interviewed by Max Hardy ('10) and Bryson Whitney.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279477197</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Ronald Raybuck, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.JPG.jpg</field>
+<field name="originalName">20100720_Ronald_Raybuck.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10579</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/3/20100720_Ronald_Raybuck.JPG.jpg</field>
+<field name="checksum">d04d727fc96fa8cf999847554417ceb5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.pdf.jpg</field>
+<field name="originalName">20100720_Ronald_Raybuck.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11415</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/6/20100720_Ronald_Raybuck.pdf.jpg</field>
+<field name="checksum">662c3b53f62f8940ea2369f1252d267a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.JPG.preview.jpg</field>
+<field name="originalName">20100720_Ronald_Raybuck.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">42180</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/4/20100720_Ronald_Raybuck.JPG.preview.jpg</field>
+<field name="checksum">2c2a72b6a37c514c403a49db76706419</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.pdf.txt</field>
+<field name="originalName">20100720_Ronald_Raybuck.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">50257</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/5/20100720_Ronald_Raybuck.pdf.txt</field>
+<field name="checksum">9f64d9dcc687eeb94bcb9ee416dba092</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.JPG</field>
+<field name="originalName">20100720_Ronald_Raybuck.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">95705</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/1/20100720_Ronald_Raybuck.JPG</field>
+<field name="checksum">7bece3ec971351db0ca7cae4540e6805</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100720_Ronald_Raybuck.pdf</field>
+<field name="originalName">20100720_Ronald_Raybuck.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">331084</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33695/2/20100720_Ronald_Raybuck.pdf</field>
+<field name="checksum">8d09f6bc72b0ef4c35fd00f0730874fe</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33695</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33695</field>
+<field name="lastModifyDate">2018-07-12 13:20:43.125</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

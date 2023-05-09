@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Jones, Ollie</field>
+<field name="value">Pette, Marsha</field>
+<field name="value">Maze, Briana</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33468</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20150625_Ollie_Jones</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Ollie Jones shares his experiences growing up and living in Lake County, Tennessee</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280206928</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Tiptonville (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Ollie Jones, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.JPG</field>
+<field name="originalName">20150625_Ollie_Jones.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">45167</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/1/20150625_Ollie_Jones.JPG</field>
+<field name="checksum">757fa5e23437c67919a5838ba95e91b7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.pdf</field>
+<field name="originalName">20150625_Ollie_Jones.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">141335</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/2/20150625_Ollie_Jones.pdf</field>
+<field name="checksum">dedc39cf1107c759dcaffe420227e000</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.JPG.jpg</field>
+<field name="originalName">20150625_Ollie_Jones.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5592</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/3/20150625_Ollie_Jones.JPG.jpg</field>
+<field name="checksum">a7057c5ea943d5bd196dcf4995e974e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.pdf.jpg</field>
+<field name="originalName">20150625_Ollie_Jones.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11568</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/6/20150625_Ollie_Jones.pdf.jpg</field>
+<field name="checksum">13d1145e5d3b44ecc49710e4d9fe05c9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.JPG.preview.jpg</field>
+<field name="originalName">20150625_Ollie_Jones.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">19822</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/4/20150625_Ollie_Jones.JPG.preview.jpg</field>
+<field name="checksum">24888e04c663be4caad30766cd947ee7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150625_Ollie_Jones.pdf.txt</field>
+<field name="originalName">20150625_Ollie_Jones.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">12610</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33468/5/20150625_Ollie_Jones.pdf.txt</field>
+<field name="checksum">70e7ffe5201f7d3658ba5f5ac5fe7fa0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33468</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33468</field>
+<field name="lastModifyDate">2018-08-01 15:41:01.82</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

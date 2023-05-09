@@ -1,0 +1,141 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Barnett, Paul</field>
+<field name="value">WREC (Radio station : Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T13:43:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-03-28</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33878</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680328_WREC_Paul_Barnett_describes_march-SS342</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a recording of a radio broadcast on March 28th, 1968 from WREC Radio, in which Paul Barnett provides live coverage describing the Memphis Sanitation Worker's Strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281521722</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Radio news programs</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">WREC Radio: Paul Barnett Describes March, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul barnett.PNG</field>
+<field name="originalName">paul barnett.PNG</field>
+<field name="format">image/png</field>
+<field name="size">71024</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33878/1/paul%20barnett.PNG</field>
+<field name="checksum">94b025fa7a8ab539d2155cfd9d6a2d26</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul barnett.PNG.jpg</field>
+<field name="originalName">paul barnett.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6660</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33878/2/paul%20barnett.PNG.jpg</field>
+<field name="checksum">1b00759c83e0d3b0e5fab67ce5db2c3c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">paul barnett.PNG.preview.jpg</field>
+<field name="originalName">paul barnett.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">20682</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33878/3/paul%20barnett.PNG.preview.jpg</field>
+<field name="checksum">e52a6a505ccd3fad0e8c6087e6ae73ce</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33878</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33878</field>
+<field name="lastModifyDate">2018-07-31 10:45:23.606</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

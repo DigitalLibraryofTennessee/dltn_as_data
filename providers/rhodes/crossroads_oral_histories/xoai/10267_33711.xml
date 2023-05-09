@@ -1,0 +1,166 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Mitchell, Berry</field>
+<field name="value">Haley, Sydnee N.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-11-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33711</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20171118_Chick_History_Mitchell</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this "Chick History," Berry Mitchell discusses her family history, more specifically her grandmother, Mary Adam Jones, and her great-aunt, Maggie White. Interview conducted in partnership with Chick History at the National Civil Rights Museum.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280990235</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Chick History</field>
+<field name="value">African Americans</field>
+<field name="value">Women</field>
+<field name="value">Politics</field>
+<field name="value">Race relations</field>
+<field name="value">Voting</field>
+<field name="value">Civil rights</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Berry Mitchell, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017118_Berry_Mitchell.txt</field>
+<field name="originalName">2017118_Berry_Mitchell.txt</field>
+<field name="description">Captions</field>
+<field name="format">text/plain</field>
+<field name="size">11462</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33711/1/2017118_Berry_Mitchell.txt</field>
+<field name="checksum">3c44050f4c1b13709fd06b7ee60b4304</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">2017118_Berry_Mitchell.JPG</field>
+<field name="originalName">2017118_Berry_Mitchell.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">85650</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33711/2/2017118_Berry_Mitchell.JPG</field>
+<field name="checksum">1fbea4cc759c2fb8021e1046dfb71337</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017118_Berry_Mitchell.txt.txt</field>
+<field name="originalName">2017118_Berry_Mitchell.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">10697</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33711/3/2017118_Berry_Mitchell.txt.txt</field>
+<field name="checksum">f29db13b2fd19d285580c9622e4d79dc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017118_Berry_Mitchell.JPG.jpg</field>
+<field name="originalName">2017118_Berry_Mitchell.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18313</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33711/4/2017118_Berry_Mitchell.JPG.jpg</field>
+<field name="checksum">466a9bbbb52fcf2312c384214d8b9123</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017118_Berry_Mitchell.JPG.preview.jpg</field>
+<field name="originalName">2017118_Berry_Mitchell.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">55283</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33711/5/2017118_Berry_Mitchell.JPG.preview.jpg</field>
+<field name="checksum">ef615bf051107a073cd2e435e7a7ba44</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33711</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33711</field>
+<field name="lastModifyDate">2018-07-20 14:28:19.273</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

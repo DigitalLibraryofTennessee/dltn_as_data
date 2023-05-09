@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Moore, Lou Emma</field>
+<field name="value">Boone, Damesha</field>
+<field name="value">Miller, Rodtavis</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-30T15:38:20Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-30T15:38:20Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-06-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33616</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140604_Lou_Emma_Moore</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview Lou Emma Moore discusses life in Mississippi, the importance of church, and gaining independence in Memphis.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280409023</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">South Memphis (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Religion</field>
+<field name="value">Mississippi</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Lou Emma Moore, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.JPG</field>
+<field name="originalName">20140604_Lou_Emma_Moore.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">69660</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/1/20140604_Lou_Emma_Moore.JPG</field>
+<field name="checksum">250fd315bd550a250b5ca9af4faac755</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.pdf</field>
+<field name="originalName">20140604_Lou_Emma_Moore.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">69093</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/2/20140604_Lou_Emma_Moore.pdf</field>
+<field name="checksum">8cc5c1feb55289fabf14e2bd714e5050</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.JPG.jpg</field>
+<field name="originalName">20140604_Lou_Emma_Moore.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7851</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/3/20140604_Lou_Emma_Moore.JPG.jpg</field>
+<field name="checksum">58b4506661ca721b3261912d46f40740</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.pdf.jpg</field>
+<field name="originalName">20140604_Lou_Emma_Moore.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12462</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/6/20140604_Lou_Emma_Moore.pdf.jpg</field>
+<field name="checksum">366809b5d6d798cd77fbbcecae3f2555</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.JPG.preview.jpg</field>
+<field name="originalName">20140604_Lou_Emma_Moore.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32646</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/4/20140604_Lou_Emma_Moore.JPG.preview.jpg</field>
+<field name="checksum">9f767b353030dc8f08bb0a451458e048</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140604_Lou_Emma_Moore.pdf.txt</field>
+<field name="originalName">20140604_Lou_Emma_Moore.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">8931</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33616/5/20140604_Lou_Emma_Moore.pdf.txt</field>
+<field name="checksum">21adfa35a197267df0c8ce589cb0393d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33616</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33616</field>
+<field name="lastModifyDate">2018-07-17 13:06:53.025</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

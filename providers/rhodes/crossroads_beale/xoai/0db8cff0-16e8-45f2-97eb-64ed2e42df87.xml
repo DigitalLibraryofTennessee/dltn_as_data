@@ -1,0 +1,126 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Mitchell, Andrew "Sunbeam"</field>
+<field name="value">Big Ten Social Club</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1962-08-27</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34335</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19620827_Big_Ten_Rental_Contract_Club_Handy_117845</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A rental contract from Club Handy betweem Andrew Mitchell and The Big Ten Social Club.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Chitlin' Circuit</field>
+<field name="value">Music</field>
+<field name="value">Theatres</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Big Ten Social Club Rental Contract for Club Handy, 1962</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg</field>
+<field name="originalName">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">411606</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34335/1/19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg</field>
+<field name="checksum">2e083098c54e07c6431359a04cb0fcd9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.jpg</field>
+<field name="originalName">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14544</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34335/2/19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.jpg</field>
+<field name="checksum">fabfbeec2fdcfd83925e214e08ac1bf5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.preview.jpg</field>
+<field name="originalName">19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">73592</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34335/3/19620827_Big_Ten_Rental_Contract_Club_Handy_117845.jpg.preview.jpg</field>
+<field name="checksum">85cc4e38807379405168923ae60876da</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34335</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34335</field>
+<field name="lastModifyDate">2018-10-30 11:57:46.086</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

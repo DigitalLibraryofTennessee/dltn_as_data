@@ -1,0 +1,192 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hughes, Charles L.</field>
+<field name="value">Astor, Vincent</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-08T17:32:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-08T17:32:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-04-27</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/30942</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170427_Vincent_Astor</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Vincent Astor on April 27th, 2017.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280800867</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">LGBTQ Community</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Vincent Astor, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.JPG</field>
+<field name="originalName">20170427_Vincent_Astor.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">18788</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/1/20170427_Vincent_Astor.JPG</field>
+<field name="checksum">e64369c79d8b9601d00ee68c89719100</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.pdf</field>
+<field name="originalName">20170427_Vincent_Astor.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">433594</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/2/20170427_Vincent_Astor.pdf</field>
+<field name="checksum">8fe76cbef82b4bf23e5af01c612bb5ee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017_vincent_astor.JPG.jpg</field>
+<field name="originalName">2017_vincent_astor.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5933</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/3/2017_vincent_astor.JPG.jpg</field>
+<field name="checksum">318e2a07e610aafd927f252a80eadfa8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.pdf.jpg</field>
+<field name="originalName">20170427_Vincent_Astor.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10587</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/5/20170427_Vincent_Astor.pdf.jpg</field>
+<field name="checksum">456fd8bee6a1ed6921de2901de8778a8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.JPG.jpg</field>
+<field name="originalName">20170427_Vincent_Astor.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5933</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/7/20170427_Vincent_Astor.JPG.jpg</field>
+<field name="checksum">318e2a07e610aafd927f252a80eadfa8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.pdf.txt</field>
+<field name="originalName">20170427_Vincent_Astor.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">61309</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/4/20170427_Vincent_Astor.pdf.txt</field>
+<field name="checksum">394faf594ebdfc4dac2babbdb772a8a4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">2017_vincent_astor.JPG.preview.jpg</field>
+<field name="originalName">2017_vincent_astor.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10693</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/6/2017_vincent_astor.JPG.preview.jpg</field>
+<field name="checksum">b86d26c27515f7887406e2565724477e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20170427_Vincent_Astor.JPG.preview.jpg</field>
+<field name="originalName">20170427_Vincent_Astor.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10693</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/30942/8/20170427_Vincent_Astor.JPG.preview.jpg</field>
+<field name="checksum">b86d26c27515f7887406e2565724477e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/30942</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/30942</field>
+<field name="lastModifyDate">2018-07-19 15:31:47.96</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

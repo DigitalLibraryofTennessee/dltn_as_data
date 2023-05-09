@@ -1,0 +1,163 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Norris, William N., Jr.</field>
+<field name="value">Gritter, Elizabeth</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:32Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-24</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34131</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040624_William_Norris_Jr</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview with William Norris Jr., the former Sheriff of Shelby County, describes how he integrated his Deputies and his activism during the Sanitation Workers Strike starting in 1967. He also discusses the current problems he sees in race relations in Memphis and what he believes ought to be done to ease these tensions.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289952324</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Integration</field>
+<field name="value">Politics</field>
+<field name="value">Sanitation workers</field>
+<field name="value">Law</field>
+<field name="value">Loeb, Henry 1920-1992</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">William Norris Jr., Sheriff of Shelby County, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william.n.norris.jr.doc.txt</field>
+<field name="originalName">william.n.norris.jr.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">48897</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34131/5/william.n.norris.jr.doc.txt</field>
+<field name="checksum">9b2820457369ef9b8ae073d44701cbf5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william norris jr.PNG</field>
+<field name="originalName">william norris jr.PNG</field>
+<field name="format">image/png</field>
+<field name="size">42099</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34131/1/william%20norris%20jr.PNG</field>
+<field name="checksum">c7b45d86493dee04c9faeee40263a6c5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">william.n.norris.jr.doc</field>
+<field name="originalName">william.n.norris.jr.doc</field>
+<field name="format">application/msword</field>
+<field name="size">97280</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34131/4/william.n.norris.jr.doc</field>
+<field name="checksum">6fc7337c9ca47910eb59d2659a94fa4c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william norris jr.PNG.jpg</field>
+<field name="originalName">william norris jr.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5997</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34131/2/william%20norris%20jr.PNG.jpg</field>
+<field name="checksum">a1ab236801b6dbcb42a998f1f77b083d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william norris jr.PNG.preview.jpg</field>
+<field name="originalName">william norris jr.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34131/3/william%20norris%20jr.PNG.preview.jpg</field>
+<field name="checksum">ee5c6125e33a333a9f0a7f06af9cdbb1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34131</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34131</field>
+<field name="lastModifyDate">2018-10-17 12:07:11.043</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

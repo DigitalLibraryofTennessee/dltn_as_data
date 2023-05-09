@@ -1,0 +1,196 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Ives, Elliott</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-21T14:48:48Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-21T14:48:48Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2013-07-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33535</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20130705_Elliot_Ives</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Elliott Ives speaks about his experience playing in Memphis bands while attending Memphis University School and Rhodes College, becoming a producer and running the Young Avenue Sound studio, deciding whether to sign with Universal or Stax under Justin Timberlake, and making it big. Interview conducted on July 5, 2013.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280400367</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Rhodes College</field>
+<field name="value">Memphis University School</field>
+<field name="value">UNI Records (Sound recording label)</field>
+<field name="value">Stax Records</field>
+<field name="value">Timberlake, Justin, 1981-</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Elliott Ives, 2013</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.PNG</field>
+<field name="originalName">20130705_Elliot_Ives.PNG</field>
+<field name="format">image/png</field>
+<field name="size">1571211</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/1/20130705_Elliot_Ives.PNG</field>
+<field name="checksum">51166a82b2013981d508e26ce6648b09</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.pdf</field>
+<field name="originalName">20130705_Elliot_Ives.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">279811</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/4/20130705_Elliot_Ives.pdf</field>
+<field name="checksum">022b96ef5313a2bd7dc437572e544541</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.jpg</field>
+<field name="originalName">Capture.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8319</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/2/Capture.PNG.jpg</field>
+<field name="checksum">d0fa1ec0fda4bbf92dcc5656ab421b78</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.PNG.jpg</field>
+<field name="originalName">20130705_Elliot_Ives.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8319</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/5/20130705_Elliot_Ives.PNG.jpg</field>
+<field name="checksum">d0fa1ec0fda4bbf92dcc5656ab421b78</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.pdf.jpg</field>
+<field name="originalName">20130705_Elliot_Ives.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12157</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/8/20130705_Elliot_Ives.pdf.jpg</field>
+<field name="checksum">bf2dd79d46d9c1231238c1227ec04844</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.PNG.preview.jpg</field>
+<field name="originalName">Capture.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">30226</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/3/Capture.PNG.preview.jpg</field>
+<field name="checksum">7d72c0b9571dd5760aa7db2525761ea3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.PNG.preview.jpg</field>
+<field name="originalName">20130705_Elliot_Ives.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">30226</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/6/20130705_Elliot_Ives.PNG.preview.jpg</field>
+<field name="checksum">7d72c0b9571dd5760aa7db2525761ea3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20130705_Elliot_Ives.pdf.txt</field>
+<field name="originalName">20130705_Elliot_Ives.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">43324</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33535/7/20130705_Elliot_Ives.pdf.txt</field>
+<field name="checksum">748b1ecea15ec56235bac43a9737c1bb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33535</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33535</field>
+<field name="lastModifyDate">2018-07-17 12:07:42.157</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

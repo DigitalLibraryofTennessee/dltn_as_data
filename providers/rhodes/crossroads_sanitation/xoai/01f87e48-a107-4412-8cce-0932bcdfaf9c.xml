@@ -1,0 +1,214 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Gianotti, Frank</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Yellin, Carol Lynn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1972-05-10</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33829</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19720510_Frank_Gianotti-SS312-SS313</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Frank Gianotti. Gianotti was the city attorney for Memphis during Mayor Loeb's second term (1968-1972).</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281550385</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Frank Gianotti, Memphis City Attorney, 1972</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Frank Gianotti.JPG</field>
+<field name="originalName">Frank Gianotti.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">24627</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/1/Frank%20Gianotti.JPG</field>
+<field name="checksum">3978b67ddd1bc907af5b781a5e457c57</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS312.pdf</field>
+<field name="originalName">SS312.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">129166</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/2/SS312.pdf</field>
+<field name="checksum">97bf1942746e4983a05718290677e0b3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS313.pdf</field>
+<field name="originalName">SS313.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">127661</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/3/SS313.pdf</field>
+<field name="checksum">6320468c9beea35ebe091cec0dbd9bc2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Frank Gianotti.JPG.jpg</field>
+<field name="originalName">Frank Gianotti.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3946</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/4/Frank%20Gianotti.JPG.jpg</field>
+<field name="checksum">fafcccf7c97b1e5b727fd351db148a4b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS312.pdf.jpg</field>
+<field name="originalName">SS312.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13122</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/7/SS312.pdf.jpg</field>
+<field name="checksum">90ff17727563866e081ae855969915bd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS313.pdf.jpg</field>
+<field name="originalName">SS313.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12886</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/9/SS313.pdf.jpg</field>
+<field name="checksum">f112b149fd77777e0ad15be3aa08aaa4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Frank Gianotti.JPG.preview.jpg</field>
+<field name="originalName">Frank Gianotti.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14347</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/5/Frank%20Gianotti.JPG.preview.jpg</field>
+<field name="checksum">40dd356da172087ea44271ac288efb94</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS312.pdf.txt</field>
+<field name="originalName">SS312.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45010</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/6/SS312.pdf.txt</field>
+<field name="checksum">5f10298876c493e0a5322ae48a54ab80</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS313.pdf.txt</field>
+<field name="originalName">SS313.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">43457</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33829/8/SS313.pdf.txt</field>
+<field name="checksum">cac2798c40716f9239641ddaee1431e8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33829</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33829</field>
+<field name="lastModifyDate">2018-07-30 16:56:42.242</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

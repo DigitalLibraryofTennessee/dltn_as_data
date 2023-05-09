@@ -1,0 +1,258 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Starks, Henry L.</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Schultz, Judy</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-19T17:07:19Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-19T17:07:19Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-31</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33895</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680731_Henry_Starks_SS130-SS131</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. Henry Starks. Starks was a African Methodist Episcopal Church minister and COME leader during the strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281540136</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Henry Starks, COME Leader, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">henry starks.PNG</field>
+<field name="originalName">henry starks.PNG</field>
+<field name="format">image/png</field>
+<field name="size">53043</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/1/henry%20starks.PNG</field>
+<field name="checksum">ba8622e481f6dfd609e361d3a159bed3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS130_transcript.pdf</field>
+<field name="originalName">SS130_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">134192</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/2/SS130_transcript.pdf</field>
+<field name="checksum">48221804ea3b8e860821a7d3a1e7bb5a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS131_transcript.pdf</field>
+<field name="originalName">SS131_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">71626</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/3/SS131_transcript.pdf</field>
+<field name="checksum">6cc0177524bbb83a7ef893554fc00c53</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">henry starks.PNG.jpg</field>
+<field name="originalName">henry starks.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5741</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/4/henry%20starks.PNG.jpg</field>
+<field name="checksum">f0756c2da6137d1ff617505630eaa125</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS130.pdf.jpg</field>
+<field name="originalName">SS130.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12440</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/7/SS130.pdf.jpg</field>
+<field name="checksum">c0ec674a0176e653192967c6c6318ad5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS131.pdf.jpg</field>
+<field name="originalName">SS131.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11899</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/9/SS131.pdf.jpg</field>
+<field name="checksum">fe5086f3b52261c94c2526d40d6df041</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS130_transcript.pdf.jpg</field>
+<field name="originalName">SS130_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12440</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/11/SS130_transcript.pdf.jpg</field>
+<field name="checksum">c0ec674a0176e653192967c6c6318ad5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS131_transcript.pdf.jpg</field>
+<field name="originalName">SS131_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11899</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/13/SS131_transcript.pdf.jpg</field>
+<field name="checksum">fe5086f3b52261c94c2526d40d6df041</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">henry starks.PNG.preview.jpg</field>
+<field name="originalName">henry starks.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18975</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/5/henry%20starks.PNG.preview.jpg</field>
+<field name="checksum">7d0cabf70faca1e18597fc605a441363</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS130.pdf.txt</field>
+<field name="originalName">SS130.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">75072</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/6/SS130.pdf.txt</field>
+<field name="checksum">e6973fe05a0e2cf1ef57a7e72c016031</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS131.pdf.txt</field>
+<field name="originalName">SS131.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">25708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/8/SS131.pdf.txt</field>
+<field name="checksum">bd25caa300a9d83855c28634fdc8405e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS130_transcript.pdf.txt</field>
+<field name="originalName">SS130_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">75072</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/10/SS130_transcript.pdf.txt</field>
+<field name="checksum">e6973fe05a0e2cf1ef57a7e72c016031</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS131_transcript.pdf.txt</field>
+<field name="originalName">SS131_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">25708</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33895/12/SS131_transcript.pdf.txt</field>
+<field name="checksum">bd25caa300a9d83855c28634fdc8405e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33895</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33895</field>
+<field name="lastModifyDate">2018-07-31 13:40:05.254</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

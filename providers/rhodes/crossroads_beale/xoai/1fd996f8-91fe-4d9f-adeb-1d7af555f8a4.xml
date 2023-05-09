@@ -1,0 +1,118 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Barzizza Bros.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1938-08-13</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34306</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19380813_Barizza_Bros_grocery_receipt_117683</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A grocery receipt for Barzizza Bros. on North Main St.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Grocery stores</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Barizza Bros Grocery Receipt, 1938</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380813_Barizza_Bros_grocery_receipt_117683.jpg</field>
+<field name="originalName">19380813_Barizza_Bros_grocery_receipt_117683.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1724897</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34306/1/19380813_Barizza_Bros_grocery_receipt_117683.jpg</field>
+<field name="checksum">6ab05f42f5adf51c1efc28f8caf88aee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380813_Barizza_Bros_grocery_receipt_117683.jpg.jpg</field>
+<field name="originalName">19380813_Barizza_Bros_grocery_receipt_117683.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">23337</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34306/2/19380813_Barizza_Bros_grocery_receipt_117683.jpg.jpg</field>
+<field name="checksum">a685085f96dee2bb42cb6857df050021</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19380813_Barizza_Bros_grocery_receipt_117683.jpg.preview.jpg</field>
+<field name="originalName">19380813_Barizza_Bros_grocery_receipt_117683.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">120819</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34306/3/19380813_Barizza_Bros_grocery_receipt_117683.jpg.preview.jpg</field>
+<field name="checksum">2b3c47420b35c5291441d3c4cf19b1c1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34306</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34306</field>
+<field name="lastModifyDate">2018-10-11 22:27:23.856</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

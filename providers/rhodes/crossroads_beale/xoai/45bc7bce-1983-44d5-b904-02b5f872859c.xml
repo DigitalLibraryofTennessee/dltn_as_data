@@ -1,0 +1,112 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:28Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1947</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34309</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1947_handwritten_business_receipts_117689</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A handwritten list for three weeks in December of 1947 of business expenses for an unknown company.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Receipts</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Handwritten Business Receipts, 1947</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1947_handwritten_business_receipts_117689.jpg.jpg</field>
+<field name="originalName">1947_handwritten_business_receipts_117689.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18506</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34309/2/1947_handwritten_business_receipts_117689.jpg.jpg</field>
+<field name="checksum">bb12f5bca6e4463a6777eb354d5f0df4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1947_handwritten_business_receipts_117689.jpg.preview.jpg</field>
+<field name="originalName">1947_handwritten_business_receipts_117689.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">110861</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34309/3/1947_handwritten_business_receipts_117689.jpg.preview.jpg</field>
+<field name="checksum">7fce4a7f8ee2ff42b4e7f15b7bcef4eb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1947_handwritten_business_receipts_117689.jpg</field>
+<field name="originalName">1947_handwritten_business_receipts_117689.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">3850068</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34309/1/1947_handwritten_business_receipts_117689.jpg</field>
+<field name="checksum">97b7e311f057cbc1528834b892ca9abc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34309</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34309</field>
+<field name="lastModifyDate">2018-10-17 16:47:46.434</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

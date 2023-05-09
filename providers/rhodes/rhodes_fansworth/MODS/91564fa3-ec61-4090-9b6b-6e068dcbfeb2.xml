@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Farnsworth Inventory - HenryIV - 29</identifier>
+  <identifier type="local">FSPC - HenryIV - 527</identifier>
+  <titleInfo>
+    <title>Lady Percy</title>
+  </titleInfo>
+  <abstract>Lady Percy holds a fan and stands beside a painting of soldiers in Henry IV part 1 act 2 scene 3. Shakspeare Gallery Pl. 25.</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/9411</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/9411/3/FSPC_HenryIV_527.jpg.jpg</url>
+  </location>
+  <name>
+    <namePart>Jenkins, Joseph John, c. 1812-1885, del.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Robinson, John Henry, 1796-1871, sculp.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2011-03-04T01:41:40Z</dateCreated>
+    <publisher>Memphis, Tenn.: Archives and Special Collections, Rhodes College</publisher>
+    <dateOther>2011-03-04T01:41:40Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print</form>
+  </physicalDescription>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Henry IV</topic>
+  </subject>
+  <subject>
+    <topic>Jenkins, Joseph John, c. 1812-1885--Artist</topic>
+  </subject>
+  <subject>
+    <topic>Robinson, John Henry, 1796-1871--Engraver</topic>
+  </subject>
+  <subject>
+    <topic>Percy, Lady (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Fans</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital objects in this collection. Objects are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu. Fees may apply.</accessCondition>
+</mods>

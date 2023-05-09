@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Troutt, William E.</field>
+<field name="value">Ahmed, Ozakh</field>
+<field name="value">Bryant, Madalyn</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:30:59Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:30:59Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-06-21</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33702</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170621_William_Troutt</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, Dr. William E. Troutt, former president of Rhodes College, reflects on life experiences and his time here at Rhodes College. Interviewed by Ozakh Ahmed ('17) and Madalyn Bryant ('17) as part of the Crossroads to Freedom summer program.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280801141</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Rhodes College</field>
+<field name="value">Education</field>
+<field name="value">2017 Summer</field>
+<field name="value">Class of 2017</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dr. William E. Troutt, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.JPG.jpg</field>
+<field name="originalName">20170621_William_Troutt.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7666</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/2/20170621_William_Troutt.JPG.jpg</field>
+<field name="checksum">6fd882e136d65ade0a2e3ecc920943a1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.pdf.jpg</field>
+<field name="originalName">20170621_William_Troutt.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10774</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/6/20170621_William_Troutt.pdf.jpg</field>
+<field name="checksum">6a6812a90d7c9467ece62eb6791df0d4</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.JPG.preview.jpg</field>
+<field name="originalName">20170621_William_Troutt.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32112</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/3/20170621_William_Troutt.JPG.preview.jpg</field>
+<field name="checksum">89ac2120b9fd3aa11b2e9a4775e27361</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.pdf.txt</field>
+<field name="originalName">20170621_William_Troutt.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">28147</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/5/20170621_William_Troutt.pdf.txt</field>
+<field name="checksum">aec691292e2b62ede5cc59a8e7011a2c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.JPG</field>
+<field name="originalName">20170621_William_Troutt.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">69406</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/1/20170621_William_Troutt.JPG</field>
+<field name="checksum">e9a82cd983a790416379fe88e582eb6d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170621_William_Troutt.pdf</field>
+<field name="originalName">20170621_William_Troutt.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">147639</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33702/4/20170621_William_Troutt.pdf</field>
+<field name="checksum">35ef46c3a3b9c2d463d524a1a602faa7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33702</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33702</field>
+<field name="lastModifyDate">2018-07-19 15:54:11.632</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

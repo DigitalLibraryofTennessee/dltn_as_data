@@ -1,0 +1,152 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Flowers, Andrew (Andy)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-16T16:46:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-16T16:46:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2015-06-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33463</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Andrew Flowers on June 30th, 2015.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/282744944</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Lake County (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Andy Flowers, 2015</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Andrew_Flowers.JPG.jpg</field>
+<field name="originalName">20150630_Andrew_Flowers.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7017</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33463/2/20150630_Andrew_Flowers.JPG.jpg</field>
+<field name="checksum">1aa6fc3d74a9f8759be6731476409a97</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Andrew_Flowers.JPG.preview.jpg</field>
+<field name="originalName">20150630_Andrew_Flowers.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">24887</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33463/3/20150630_Andrew_Flowers.JPG.preview.jpg</field>
+<field name="checksum">0b57c79d726e3071d503084b284f472b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Andrew_Flowers.JPG</field>
+<field name="originalName">20150630_Andrew_Flowers.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">51226</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33463/1/20150630_Andrew_Flowers.JPG</field>
+<field name="checksum">e4a676c955d2385ed8beba649852aa9a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20150630_Andrew_Flowers.txt</field>
+<field name="originalName">20150630_Andrew_Flowers.txt</field>
+<field name="format">text/plain</field>
+<field name="size">21351</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33463/4/20150630_Andrew_Flowers.txt</field>
+<field name="checksum">54cca9a8886718a8c32fc354303a2e95</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20150630_Andrew_Flowers.txt.txt</field>
+<field name="originalName">20150630_Andrew_Flowers.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">19876</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33463/5/20150630_Andrew_Flowers.txt.txt</field>
+<field name="checksum">a84d346294fb071b568e7590e733eb4d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33463</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33463</field>
+<field name="lastModifyDate">2018-08-01 15:47:23.022</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

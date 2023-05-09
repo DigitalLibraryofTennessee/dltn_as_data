@@ -1,0 +1,160 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Johnson, William</field>
+<field name="value">Faist, Thomas</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-10T18:39:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-10T18:39:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1982-02-22</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34121</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19820222_William_Johnson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview, President of Memphis NAACP William Johnson discusses how the NAACP seeks to work with other organizations like the National League and PUSH. He also speaks on the difficulties of progressing the movement in the face of more subtle, yet thoroughly ingrained racial inequality.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289560792</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">NAACP</field>
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">William Johnson, President of Memphis NAACP, 1982</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">rev.william.johnson.doc.txt</field>
+<field name="originalName">rev.william.johnson.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">39307</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34121/5/rev.william.johnson.doc.txt</field>
+<field name="checksum">5b88fa5bdaf9ddf697d3af43613e6be1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william johnson.PNG</field>
+<field name="originalName">william johnson.PNG</field>
+<field name="format">image/png</field>
+<field name="size">64091</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34121/1/william%20johnson.PNG</field>
+<field name="checksum">c60f88c5b8c272f72046a9ba52f14923</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">rev.william.johnson.doc</field>
+<field name="originalName">rev.william.johnson.doc</field>
+<field name="format">application/msword</field>
+<field name="size">134656</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34121/4/rev.william.johnson.doc</field>
+<field name="checksum">de1f3851ad59d718eff861e141519fe9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william johnson.PNG.jpg</field>
+<field name="originalName">william johnson.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5866</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34121/2/william%20johnson.PNG.jpg</field>
+<field name="checksum">461c16b942bbc7846c95171cfcf7e760</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">william johnson.PNG.preview.jpg</field>
+<field name="originalName">william johnson.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21558</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34121/3/william%20johnson.PNG.preview.jpg</field>
+<field name="checksum">2d9ec8100a5bcaab50ad3e2fb269845a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34121</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34121</field>
+<field name="lastModifyDate">2018-09-19 12:31:25.189</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

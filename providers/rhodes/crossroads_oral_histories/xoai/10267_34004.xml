@@ -1,0 +1,166 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Love, Rose Mae</field>
+<field name="value">Gillum, Olivia</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34004</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Rosa_Mae_Love</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An interview with Rhodes staff member Rose Mae Love on growing up in the rural South, especially during the time of segregation.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116493</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Segregation</field>
+<field name="value">Race relations</field>
+<field name="value">Sharecroppers</field>
+<field name="value">StoryCorps</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Rose Mae Love and Olivia Gillum, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RML_tn.JPG.jpg</field>
+<field name="originalName">RML_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9767</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/2/RML_tn.JPG.jpg</field>
+<field name="checksum">5bbce366e8092ceba63256b8c4de32ed</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Rosa_Mae_Love.pdf.jpg</field>
+<field name="originalName">20071116_Rosa_Mae_Love.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10005</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/6/20071116_Rosa_Mae_Love.pdf.jpg</field>
+<field name="checksum">704c7079df7427e07fb7b2b85563f2aa</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RML_tn.JPG.preview.jpg</field>
+<field name="originalName">RML_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">46336</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/3/RML_tn.JPG.preview.jpg</field>
+<field name="checksum">0066d913569bf4acc2ef9ce82ecfc3d2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">RML_tn.JPG</field>
+<field name="originalName">RML_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">3031722</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/1/RML_tn.JPG</field>
+<field name="checksum">c1e64b1dfe8b42e92efe61f4363d975b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Rosa_Mae_Love.pdf</field>
+<field name="originalName">20071116_Rosa_Mae_Love.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">79487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/4/20071116_Rosa_Mae_Love.pdf</field>
+<field name="checksum">7195ac87e60c8cda4ec29f164ad0dc30</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Rosa_Mae_Love.pdf.txt</field>
+<field name="originalName">20071116_Rosa_Mae_Love.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">27106</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34004/5/20071116_Rosa_Mae_Love.pdf.txt</field>
+<field name="checksum">2409d152e7fa343a01fc643e02437aba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34004</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34004</field>
+<field name="lastModifyDate">2018-09-10 16:29:37.36</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

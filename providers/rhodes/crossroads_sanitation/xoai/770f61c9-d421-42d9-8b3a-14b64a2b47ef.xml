@@ -1,0 +1,214 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Lawson, James M., 1928-</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T20:00:07Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1972-05-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33831</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19720525_James_M_Lawson_Jr-SS317-SS318</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. James Lawson, Jr.. Pastor of Centenary United Methodist Church and chairman of the strategy committee of C.O.M.E. (Community on the move for Equality), the community organization supporting the strikers.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281550551</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. James Lawson, SCLC and COME, May 25th 1972</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS317_transcript.pdf</field>
+<field name="originalName">SS317_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">159517</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/1/SS317_transcript.pdf</field>
+<field name="checksum">28aba3f6d893c505a8e4a41f3d67a1f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS318_transcript.pdf</field>
+<field name="originalName">SS318_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">117403</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/2/SS318_transcript.pdf</field>
+<field name="checksum">85e74bb704d3015a85434d883418efb9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">james lawson may 25.PNG</field>
+<field name="originalName">james lawson may 25.PNG</field>
+<field name="format">image/png</field>
+<field name="size">52398</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/3/james%20lawson%20may%2025.PNG</field>
+<field name="checksum">97344450eb92db0e2975640558105ba8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS317_transcript.pdf.txt</field>
+<field name="originalName">SS317_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">72137</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/4/SS317_transcript.pdf.txt</field>
+<field name="checksum">0bfddf93243406aba459b4dbc07937a9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS318_transcript.pdf.txt</field>
+<field name="originalName">SS318_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35482</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/6/SS318_transcript.pdf.txt</field>
+<field name="checksum">0db4afb854e47591855941fb65b7db11</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS317_transcript.pdf.jpg</field>
+<field name="originalName">SS317_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12856</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/5/SS317_transcript.pdf.jpg</field>
+<field name="checksum">09f4b666b5c9b9d5f59aa3ab1e943793</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS318_transcript.pdf.jpg</field>
+<field name="originalName">SS318_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12514</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/7/SS318_transcript.pdf.jpg</field>
+<field name="checksum">f1f192f71998bcb75cada89e798e83ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">james lawson may 25.PNG.jpg</field>
+<field name="originalName">james lawson may 25.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5416</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/8/james%20lawson%20may%2025.PNG.jpg</field>
+<field name="checksum">6d66a0fc8ba808f7e6a07aa7f44d46cd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">james lawson may 25.PNG.preview.jpg</field>
+<field name="originalName">james lawson may 25.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18222</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33831/9/james%20lawson%20may%2025.PNG.preview.jpg</field>
+<field name="checksum">a10f28d5025564ca6db75a53b68f91e6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33831</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33831</field>
+<field name="lastModifyDate">2018-07-31 12:06:39.753</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,132 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Overton Park</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1902</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31165</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Overton Park 1902 Boundaries Map</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Map depicting Overton Park's 1902 boundaries</field>
+</element>
+</element>
+<element name="format">
+<element name="medium">
+<element name="none">
+<field name="value">Drawn</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Overton Park (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Overton Park Boundary Map, 1902</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Overton Park 1902 Boundaries.jpg.jpg</field>
+<field name="originalName">Overton Park 1902 Boundaries.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12487</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31165/2/Overton%20Park%201902%20Boundaries.jpg.jpg</field>
+<field name="checksum">ae87805d1d92515df64d161333d158e2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Overton Park 1902 Boundaries.jpg</field>
+<field name="originalName">Overton Park 1902 Boundaries.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">883476</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31165/1/Overton%20Park%201902%20Boundaries.jpg</field>
+<field name="checksum">417d28856a7954ae79da7543fa43339e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Overton Park 1902 Boundaries.jpg.preview.jpg</field>
+<field name="originalName">Overton Park 1902 Boundaries.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">59011</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31165/3/Overton%20Park%201902%20Boundaries.jpg.preview.jpg</field>
+<field name="checksum">15c7dcadec08ac03dfaab250712c6ab0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31165</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31165</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.989</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

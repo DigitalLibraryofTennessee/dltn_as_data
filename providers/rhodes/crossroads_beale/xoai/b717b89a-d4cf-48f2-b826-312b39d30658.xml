@@ -1,0 +1,120 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Columbia Pictures Corporation</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:53Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:53Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1939-12-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34934</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19391214_Daisy_Theatre_Booking_Confirmation_118027</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Two confirmation of booking sheets sent to the Daisy Theatre for chapters thirteen and fourteen of "Overland with Kit Carson."</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">New Daisy Theatre (Memphis, Tenn.)</field>
+<field name="value">Theatres</field>
+<field name="value">Motion pictures</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Daisy Theatre Booking Confirmation ft. Overland with Kit Carson #5, 1939</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg</field>
+<field name="originalName">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">7845781</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34934/1/19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg</field>
+<field name="checksum">ea08cba94221af43616a1fc32ead54bc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.jpg</field>
+<field name="originalName">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18848</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34934/2/19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.jpg</field>
+<field name="checksum">b3396769a0e575c0885528b489aac589</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.preview.jpg</field>
+<field name="originalName">19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">96503</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34934/3/19391214_Daisy_Theatre_Booking_Confirmation_118027.jpg.preview.jpg</field>
+<field name="checksum">00b48bc29e9d9c9203339c1f175dfa7d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34934</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34934</field>
+<field name="lastModifyDate">2018-11-19 12:19:26.347</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,129 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Memphis, Tennessee</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:40Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1911</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31166</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">P.F. Collier &amp; Son 1911 Memphis Map</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Map depicting Memphis penned in 1911. Produced by P.F. Collier and Sons. Map provides a comprehensive view of how Memphis appeared and was composed prior to the first World War.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">P.F. Collier and Sons</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">P.F. Collier &amp; Son Memphis Map, 1911</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">P.F. Collier &amp; Son 1911 Memphis Map</field>
+<field name="originalName">P.F. Collier &amp; Son 1911 Memphis Map</field>
+<field name="format">image/jpeg</field>
+<field name="size">556065</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31166/1/P.F.%20Collier%20%26%20Son%201911%20Memphis%20Map</field>
+<field name="checksum">1e58ac0e4e9854fe598b55ef3bee088b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">P.F. Collier &amp; Son 1911 Memphis Map.jpg</field>
+<field name="originalName">P.F. Collier &amp; Son 1911 Memphis Map.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">31965</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31166/2/P.F.%20Collier%20%26%20Son%201911%20Memphis%20Map.jpg</field>
+<field name="checksum">fbd442e992cc3a22dd204fd841b58fd5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">P.F. Collier &amp; Son 1911 Memphis Map.preview.jpg</field>
+<field name="originalName">P.F. Collier &amp; Son 1911 Memphis Map.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">189504</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31166/3/P.F.%20Collier%20%26%20Son%201911%20Memphis%20Map.preview.jpg</field>
+<field name="checksum">729ad68f2f9e23c47924047c52cdc38f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31166</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31166</field>
+<field name="lastModifyDate">2018-05-14 14:47:39.055</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,166 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Bridgeforth, Gertrude</field>
+<field name="value">Haley, Sydnee N.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-12T15:31:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-12T15:31:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-11-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33709</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20171118_Chick_History_Bridgeforth</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this "Chick History," Gertrude Bridgeforth discusses her experience growing up in Hernando, Mississippi. She is a distinguished member of the NAACP. Interview conducted in partnership with Chick History at the National Civil Rights Museum. Filming conducted by Sydnee Haley ('20).</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280971935</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Chick History</field>
+<field name="value">African Americans</field>
+<field name="value">Women</field>
+<field name="value">Politics</field>
+<field name="value">Race relations</field>
+<field name="value">Voting</field>
+<field name="value">Civil rights</field>
+<field name="value">Class of 2020</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Gertrude Bridgeforth, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171118_Chick_History_Bridgeforth.JPG.jpg</field>
+<field name="originalName">20171118_Chick_History_Bridgeforth.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">16966</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33709/2/20171118_Chick_History_Bridgeforth.JPG.jpg</field>
+<field name="checksum">2e8061a943aad8affc15dfbea7ffc261</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171118_Chick_History_Bridgeforth.JPG.preview.jpg</field>
+<field name="originalName">20171118_Chick_History_Bridgeforth.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">68564</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33709/3/20171118_Chick_History_Bridgeforth.JPG.preview.jpg</field>
+<field name="checksum">5790fd47cf9a28fd2ce63d29334cb2f2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171118_Chick_History_Bridgeforth.txt.txt</field>
+<field name="originalName">20171118_Chick_History_Bridgeforth.txt.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">29061</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33709/5/20171118_Chick_History_Bridgeforth.txt.txt</field>
+<field name="checksum">1232e8a29a9f1017ccdfbeb56ff007c6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20171118_Chick_History_Bridgeforth.JPG</field>
+<field name="originalName">20171118_Chick_History_Bridgeforth.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">157711</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33709/1/20171118_Chick_History_Bridgeforth.JPG</field>
+<field name="checksum">85643f7378a5cabfbcef1fdc3cc4bbec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20171118_Chick_History_Bridgeforth.txt</field>
+<field name="originalName">20171118_Chick_History_Bridgeforth.txt</field>
+<field name="format">text/plain</field>
+<field name="size">31146</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33709/4/20171118_Chick_History_Bridgeforth.txt</field>
+<field name="checksum">720c6056bce3457b89f50f07814d0d8c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33709</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33709</field>
+<field name="lastModifyDate">2018-07-20 12:25:47.462</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

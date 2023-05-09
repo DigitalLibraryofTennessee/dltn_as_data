@@ -1,0 +1,156 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Taylor, Joe S.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1964-12-06</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34194</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Joe S. Taylor is reporting on recent events concerning the elections in District Nine of Memphis in this handwritten letter.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Voting</field>
+<field name="value">Letter</field>
+<field name="value">Willis, A. W., 1925-1988</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Letter from Joe S. Taylor to A. W. Willis</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.jpg</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18675</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/3/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.jpg</field>
+<field name="checksum">979439e4827921a7a40f2ea833e56b12</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.jpg</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7092</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/6/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.jpg</field>
+<field name="checksum">44291dbd487843ff2e69ed866b81db95</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.preview.jpg</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">77263</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/4/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg.preview.jpg</field>
+<field name="checksum">4c09b5e761be015a29755e985aeb2313</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.txt</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">976</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/5/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf.txt</field>
+<field name="checksum">78f118fdab2a10793e8999b60b56512f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">261292</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/1/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.jpg</field>
+<field name="checksum">78e3c1751d0098ad06bd2179d2a8ad2e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf</field>
+<field name="originalName">19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">36082</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34194/2/19641206_Letter_from_Joe_Taylor_to_AW_Willis_839.pdf</field>
+<field name="checksum">33430d0fa881001be3777b85e0d4d3ec</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34194</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34194</field>
+<field name="lastModifyDate">2018-09-20 12:48:17.926</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

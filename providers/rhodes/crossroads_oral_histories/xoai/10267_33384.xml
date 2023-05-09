@@ -1,0 +1,192 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Qadhi, Yasir</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-01T15:16:27Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-01T15:16:27Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-07-17</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33384</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140717_Sheikh_Yasir_Qadhi</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Islam in Memphis Oral Histories, Interviewees: Sheik Yasir Qadhi, Date: 2014-07-17</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280431821</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Islam</field>
+<field name="value">Religion</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Sheikh Yasir Qadhi, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi.pdf</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">332420</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/1/20140717_Sheikh_Yasir_Qadhi.pdf</field>
+<field name="checksum">13242c5fe8dcf6151190bee173baf5d0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi</field>
+<field name="format">image/jpeg</field>
+<field name="size">19200</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/2/20140717_Sheikh_Yasir_Qadhi</field>
+<field name="checksum">94f1faa402257f81cbb2c91bdb56414e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi.pdf.txt</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">43785</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/3/20140717_Sheikh_Yasir_Qadhi.pdf.txt</field>
+<field name="checksum">c7643e284ff095e1889b0c0a1c7f3718</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi.pdf.jpg</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11282</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/4/20140717_Sheikh_Yasir_Qadhi.pdf.jpg</field>
+<field name="checksum">802ed26f6e5e2628d6c90e0daf96d1f0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7963</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/5/Capture.JPG.jpg</field>
+<field name="checksum">12f8b7ababf56b8ed7316f65cac5abc5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi.jpg</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7963</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/7/20140717_Sheikh_Yasir_Qadhi.jpg</field>
+<field name="checksum">12f8b7ababf56b8ed7316f65cac5abc5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10406</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/6/Capture.JPG.preview.jpg</field>
+<field name="checksum">09b886024814846a8bc9664c0f9472e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20140717_Sheikh_Yasir_Qadhi.preview.jpg</field>
+<field name="originalName">20140717_Sheikh_Yasir_Qadhi.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10406</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33384/8/20140717_Sheikh_Yasir_Qadhi.preview.jpg</field>
+<field name="checksum">09b886024814846a8bc9664c0f9472e0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33384</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33384</field>
+<field name="lastModifyDate">2018-07-17 16:12:32.62</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

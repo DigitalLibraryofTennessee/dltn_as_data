@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Mildred, Harris</field>
+<field name="value">Westbrook, Paris</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-06-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33516</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090630_Mildred_Harris</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Mildred Harris. During this interview, Harris describes her childhood in Oakland, Tennessee before she moved to Memphis in 1951. Harris also talks about her experiences in Memphis which include working and raising her children. She also provides us with valuable life lessons that she taught her children.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278575942</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Oakland (Tenn.)</field>
+<field name="value">Race relations</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mildred Harris, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.PNG</field>
+<field name="originalName">20090630_Mildred_Harris.PNG</field>
+<field name="format">image/png</field>
+<field name="size">2371888</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/1/20090630_Mildred_Harris.PNG</field>
+<field name="checksum">ce19ecf39455914fb454dc1b2636bbf1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.pdf</field>
+<field name="originalName">20090630_Mildred_Harris.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">311412</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/2/20090630_Mildred_Harris.pdf</field>
+<field name="checksum">d3bef3b4501ed255b331a85a319db577</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.PNG.jpg</field>
+<field name="originalName">20090630_Mildred_Harris.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/3/20090630_Mildred_Harris.PNG.jpg</field>
+<field name="checksum">ef1c07202ebeea050d63ac2171368722</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.pdf.jpg</field>
+<field name="originalName">20090630_Mildred_Harris.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8866</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/6/20090630_Mildred_Harris.pdf.jpg</field>
+<field name="checksum">6870bd97408f7672ace9a8e8e90ed133</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.PNG.preview.jpg</field>
+<field name="originalName">20090630_Mildred_Harris.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">35999</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/4/20090630_Mildred_Harris.PNG.preview.jpg</field>
+<field name="checksum">558142edc5c610c97de73ab8b5975990</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Mildred_Harris.pdf.txt</field>
+<field name="originalName">20090630_Mildred_Harris.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">26412</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33516/5/20090630_Mildred_Harris.pdf.txt</field>
+<field name="checksum">1a1b7ae898c98e4fed8f1581bcc3733e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33516</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33516</field>
+<field name="lastModifyDate">2018-07-27 14:20:19.784</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

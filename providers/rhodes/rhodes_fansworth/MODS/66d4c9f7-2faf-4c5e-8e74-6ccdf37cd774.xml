@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Farnsworth Inventory - Merchant - 01</identifier>
+  <identifier type="local">FSPC - Merchant - 385.3</identifier>
+  <titleInfo>
+    <title>Merchant of Venice</title>
+  </titleInfo>
+  <abstract>Pl. III. Old Gobbo, Jessica 2nd Dress, Grantiano, Nerissa 2nd Dress, Lorenzo 2nd Dress, and Salanio in Merchant of Venice. Published by T.H. Lacy 89 Strand London.</abstract>
+  <location>
+    <url access="object in context" usage="primary display">http://hdl.handle.net/10267/9105</url>
+    <url access="preview">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/9105/3/FSPC_Merchant_385.3.jpg.jpg</url>
+  </location>
+  <originInfo>
+    <dateCreated>2011-02-03</dateCreated>
+    <dateOther>2011-02-03T23:16:24Z</dateOther>
+  </originInfo>
+  <physicalDescription>
+    <form>Print</form>
+  </physicalDescription>
+  <subject>
+    <topic>Prints</topic>
+  </subject>
+  <subject>
+    <topic>Shakespearean actors and actresses</topic>
+  </subject>
+  <subject>
+    <topic>Images</topic>
+  </subject>
+  <subject>
+    <topic>Merchant of Venice</topic>
+  </subject>
+  <subject>
+    <topic>Old Gobbo (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Jessica (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Grantiano (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Nerissa (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Lorenzo (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Salanio (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Dresses</topic>
+  </subject>
+  <subject>
+    <topic>T.H. Lacy--Publisher</topic>
+  </subject>
+  <subject>
+    <topic>Shakespeare, William, 1564-1616</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n88258779">Rhodes College</recordContentSource>
+    <recordChangeDate>2019-06-05-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project">
+    <titleInfo>
+      <title>Farnsworth Shakespeare Print Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Rhodes College owns the rights to the archival digital objects in this collection. Objects are made available for educational use only and may not be used for any non-educational or commercial purpose. Approved educational uses include private research and scholarship, teaching, and student projects. For additional information please contact archives@rhodes.edu. Fees may apply.</accessCondition>
+</mods>

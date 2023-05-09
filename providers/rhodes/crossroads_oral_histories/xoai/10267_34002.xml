@@ -1,0 +1,169 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hill, Louvenia</field>
+<field name="value">Townes, Cornett</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-04T14:04:12Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-04T14:04:12Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-11-16</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34002</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20071116_Louvenia_Hill</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">An interview with Rhodes housekeeping staff members Leuvenia Hill and Cornett Townes about growing up in sharecropping families and living in Memphis during the Civil Rights Movement.</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289116159</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Rhodes College</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sharecroppers</field>
+<field name="value">Oakland (Tenn.)</field>
+<field name="value">African Americans</field>
+<field name="value">Racism</field>
+<field name="value">Segregation</field>
+<field name="value">Housekeeping</field>
+<field name="value">StoryCorps</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Louvenia Hill and Cornett Townes, StoryCorps Interview, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20071116_Louvenia_Hill.pdf.txt</field>
+<field name="originalName">20071116_Louvenia_Hill.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">39170</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/8/20071116_Louvenia_Hill.pdf.txt</field>
+<field name="checksum">8a8c790dbd152563a5efcdf0b3b31979</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LH_tn.JPG</field>
+<field name="originalName">LH_tn.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">2735426</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/1/LH_tn.JPG</field>
+<field name="checksum">7b7a57a4e1aeb2d32289e9f115cb43f8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Louvenia_Hill.pdf</field>
+<field name="originalName">20071116_Louvenia_Hill.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">101937</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/7/20071116_Louvenia_Hill.pdf</field>
+<field name="checksum">f017b4a43bc75388abda7975e8e97545</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LH_tn.JPG.jpg</field>
+<field name="originalName">LH_tn.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8072</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/2/LH_tn.JPG.jpg</field>
+<field name="checksum">0afd8fb627d4656eeca3133f46505dc6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20071116_Louvenia_Hill.pdf.jpg</field>
+<field name="originalName">20071116_Louvenia_Hill.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8673</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/6/20071116_Louvenia_Hill.pdf.jpg</field>
+<field name="checksum">c2ca9b00d5c7e36acf811144813e6d10</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">LH_tn.JPG.preview.jpg</field>
+<field name="originalName">LH_tn.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">37794</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34002/3/LH_tn.JPG.preview.jpg</field>
+<field name="checksum">ed6785acbbef2c3547ea70e6ffc21696</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34002</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34002</field>
+<field name="lastModifyDate">2018-09-10 11:59:07.082</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

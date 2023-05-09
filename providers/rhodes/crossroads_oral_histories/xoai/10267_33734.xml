@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Thigpen, Henderson</field>
+<field name="value">Kollath, Jeff</field>
+<field name="value">Hughes, Charles L.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-20T21:27:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-20T21:27:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-08-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33734</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170801_Henderson_Thigpen</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Henderson Thigpen discusses his early life writing poetry for church and how that led to him being hired as a songwriter for Stax records.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278586340</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Stax Records</field>
+<field name="value">Music</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Henderson Thigpen, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.JPG</field>
+<field name="originalName">20170801_Henderson_Thigpen.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">52099</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/1/20170801_Henderson_Thigpen.JPG</field>
+<field name="checksum">c22f93ec3a285c3a93094cb1f6e27458</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.pdf</field>
+<field name="originalName">20170801_Henderson_Thigpen.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">303681</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/2/20170801_Henderson_Thigpen.pdf</field>
+<field name="checksum">b0926784e13cc4d4dc8c946bcfd8120d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.JPG.jpg</field>
+<field name="originalName">20170801_Henderson_Thigpen.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6018</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/3/20170801_Henderson_Thigpen.JPG.jpg</field>
+<field name="checksum">74961cc83ed90fcf90127451675bec49</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.pdf.jpg</field>
+<field name="originalName">20170801_Henderson_Thigpen.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13578</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/6/20170801_Henderson_Thigpen.pdf.jpg</field>
+<field name="checksum">e5dd652d0158e525dd20d794ca13ba0b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.JPG.preview.jpg</field>
+<field name="originalName">20170801_Henderson_Thigpen.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">22764</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/4/20170801_Henderson_Thigpen.JPG.preview.jpg</field>
+<field name="checksum">b7bc89473b733be833edde0c1a26eba6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170801_Henderson_Thigpen.pdf.txt</field>
+<field name="originalName">20170801_Henderson_Thigpen.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">63973</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33734/5/20170801_Henderson_Thigpen.pdf.txt</field>
+<field name="checksum">cef4fc90eb0220eeacb25b5ab8a1a846</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33734</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33734</field>
+<field name="lastModifyDate">2018-07-17 11:48:31.634</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

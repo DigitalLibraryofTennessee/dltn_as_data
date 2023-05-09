@@ -1,0 +1,182 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Weintraub, Sam</field>
+<field name="value">Yellin, David G.</field>
+<field name="value">Beckner, Tom</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-13T20:00:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-13T20:00:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-09-01</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33813</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680901_Sam_Weintraub-SS253</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Sam Weintraub. Weintraub was an attorney specializing in labor relations and served as the head of National Labor Relations Board in Memphis.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281542638</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Sam Weintraub Part 2, Head of Memphis NLRB, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam Weintraub.JPG</field>
+<field name="originalName">Sam Weintraub.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">21906</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/1/Sam%20Weintraub.JPG</field>
+<field name="checksum">a5d329f94f885bc900ed9d0337a73377</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS253_transcript.pdf</field>
+<field name="originalName">SS253_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">68976</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/2/SS253_transcript.pdf</field>
+<field name="checksum">8b16f0ff55bd5c9ccd873722394a4560</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam Weintraub.JPG.jpg</field>
+<field name="originalName">Sam Weintraub.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">3546</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/3/Sam%20Weintraub.JPG.jpg</field>
+<field name="checksum">0b0e7a304358f5c4189d97eb24bdcc90</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS253_transcript.pdf.jpg</field>
+<field name="originalName">SS253_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13882</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/6/SS253_transcript.pdf.jpg</field>
+<field name="checksum">0dfaabe2804aa1e182ed1f42a1e9aac2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Sam Weintraub.JPG.preview.jpg</field>
+<field name="originalName">Sam Weintraub.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">12579</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/4/Sam%20Weintraub.JPG.preview.jpg</field>
+<field name="checksum">30c596d13fc3f830e79f2ad2a95c6247</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS253_transcript.pdf.txt</field>
+<field name="originalName">SS253_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">22051</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33813/5/SS253_transcript.pdf.txt</field>
+<field name="checksum">3861bc3123592b218cdb77c2b7de2001</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33813</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33813</field>
+<field name="lastModifyDate">2018-07-31 13:41:27.824</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

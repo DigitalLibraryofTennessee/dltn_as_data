@@ -1,0 +1,113 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shelby County Democratic Club</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:02Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34212</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Shelby_County_Democratic_Club_Officer_List_811</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This document is a list of officers of the Shelby County Democratic Club.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Voting</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Officers of the Shelby County Democratic Club</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Shelby_County_Democratic_Club_Officer_List_811.jpg</field>
+<field name="originalName">Shelby_County_Democratic_Club_Officer_List_811.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">319720</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34212/1/Shelby_County_Democratic_Club_Officer_List_811.jpg</field>
+<field name="checksum">ec8384b3bb617bf60e071b55c52df9e9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Shelby_County_Democratic_Club_Officer_List_811.jpg.jpg</field>
+<field name="originalName">Shelby_County_Democratic_Club_Officer_List_811.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19169</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34212/2/Shelby_County_Democratic_Club_Officer_List_811.jpg.jpg</field>
+<field name="checksum">a7fe7c3ab627169de30122627ad08e0e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Shelby_County_Democratic_Club_Officer_List_811.jpg.preview.jpg</field>
+<field name="originalName">Shelby_County_Democratic_Club_Officer_List_811.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">70977</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34212/3/Shelby_County_Democratic_Club_Officer_List_811.jpg.preview.jpg</field>
+<field name="checksum">09e1517a89715e4761a5b3501f3d0eea</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34212</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34212</field>
+<field name="lastModifyDate">2018-09-18 19:12:48.26</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

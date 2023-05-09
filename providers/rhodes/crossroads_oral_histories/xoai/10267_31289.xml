@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Hughes, Charles L.</field>
+<field name="value">Kollath, Jeff</field>
+<field name="value">Rosenberg, Natalie</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-01-17T22:05:13Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-01-17T22:05:13Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2017-06-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31289</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20170623_Natalie_Rosenberg</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Natalie Rosenberg, music writer and producer for artists including Charlie Rich and Johnnie Taylor.
+
+Interviewed by Charles Hughes and Jeff Kollath at Mrs. Rosenberg's home in Memphis, Tennessee on June 23rd, 2017.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278585441</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stax Records</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Natalie Rosenberg, 2017</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.pdf.txt</field>
+<field name="originalName">20170623_Natalie_Rosenberg.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">69119</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/3/20170623_Natalie_Rosenberg.pdf.txt</field>
+<field name="checksum">7113ee3fd17f972a8223d69e91afc473</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.pdf.jpg</field>
+<field name="originalName">20170623_Natalie_Rosenberg.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11569</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/4/20170623_Natalie_Rosenberg.pdf.jpg</field>
+<field name="checksum">427b8ac0b1133607fbcbd0b313e2be9d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.jpg.jpg</field>
+<field name="originalName">20170623_Natalie_Rosenberg.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">8778</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/5/20170623_Natalie_Rosenberg.jpg.jpg</field>
+<field name="checksum">e0526f4e3f9ef2b50512cf39e0b48a94</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.pdf</field>
+<field name="originalName">20170623_Natalie_Rosenberg.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">211653</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/1/20170623_Natalie_Rosenberg.pdf</field>
+<field name="checksum">b2798b66b4de13414b528d9c5f7cac09</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.jpg</field>
+<field name="originalName">20170623_Natalie_Rosenberg.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">95866</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/2/20170623_Natalie_Rosenberg.jpg</field>
+<field name="checksum">ffc73bba64fb8287b5a2f34fe6660097</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20170623_Natalie_Rosenberg.jpg.preview.jpg</field>
+<field name="originalName">20170623_Natalie_Rosenberg.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">32963</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31289/6/20170623_Natalie_Rosenberg.jpg.preview.jpg</field>
+<field name="checksum">0c3dba39de83d21a0ad2ae92dcb42091</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31289</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31289</field>
+<field name="lastModifyDate">2018-07-10 15:43:28.215</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">McGinnis, James B.</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Thomas, Bill</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:22Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:22Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-07-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33777</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680720_James_McGinnis-SS090</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">James "Jim" McGinnis relates his account of the events of the Memphis Sanitation strike from the perspective of a national guardsman.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281856108</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Witnesses</field>
+<field name="value">Witness Testimony</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">James McGinnis, National Guardsman, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James McGinnis.JPG</field>
+<field name="originalName">James McGinnis.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">23936</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/1/James%20McGinnis.JPG</field>
+<field name="checksum">c6a80f4c4c4690867b2d08a1b7cf9788</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS090.pdf</field>
+<field name="originalName">SS090.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">150018</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/2/SS090.pdf</field>
+<field name="checksum">08ed1996d37d2e92f0df86bde176c03e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James McGinnis.JPG.jpg</field>
+<field name="originalName">James McGinnis.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4254</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/3/James%20McGinnis.JPG.jpg</field>
+<field name="checksum">70f607aab0d74b9c95a21e9a3a81bca1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">SS090.pdf.jpg</field>
+<field name="originalName">SS090.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12114</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/6/SS090.pdf.jpg</field>
+<field name="checksum">28710954364765be653003280e118971</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">James McGinnis.JPG.preview.jpg</field>
+<field name="originalName">James McGinnis.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">14754</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/4/James%20McGinnis.JPG.preview.jpg</field>
+<field name="checksum">4420627bbad6c40ccc23b9b160e54098</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS090.pdf.txt</field>
+<field name="originalName">SS090.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">89854</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33777/5/SS090.pdf.txt</field>
+<field name="checksum">ab19b098e9e85c8e73a856b88c26acd6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33777</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33777</field>
+<field name="lastModifyDate">2018-07-30 15:43:32.171</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

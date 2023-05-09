@@ -1,0 +1,195 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Foster, Dosset</field>
+<field name="value">Henry, Kelly</field>
+<field name="value">Williams, Prince</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-04-30T20:02:36Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-04-30T20:02:36Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2014-06-18</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33375</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20140618_Foster_Dossett</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Dossett Foster, born in 1941, is a member of the Highland Heights neighborhood. He grew up in Fayetteville, Tennessee and then moved to Memphis, Tennessee. He is a retired educator and coach. For high school, he went to Treadwell where heran track and played football. While in high school, he recalls that the community was &#65533;very close knit&#65533;. After high school he attended Rhodes College. During the civil rights movement he says that the sanitation strike was probably among some of themoststressful moments. Dossett Foster cares immensely about the Highland Heights community.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/280415633</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Civil rights</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Dosset Foster, 2014</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.JPG</field>
+<field name="originalName">20140618_Foster_Dossett.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27718</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/1/20140618_Foster_Dossett.JPG</field>
+<field name="checksum">0d623519a5ef42e32162de6b71e40a7d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.pdf</field>
+<field name="originalName">20140618_Foster_Dossett.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">155872</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/2/20140618_Foster_Dossett.pdf</field>
+<field name="checksum">5b0105a1a8218ce319716132b9c45a79</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.jpg</field>
+<field name="originalName">Capture.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6261</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/3/Capture.JPG.jpg</field>
+<field name="checksum">1eea8156bc531ae94f50606ed827b091</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.pdf.jpg</field>
+<field name="originalName">20140618_Foster_Dossett.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12775</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/6/20140618_Foster_Dossett.pdf.jpg</field>
+<field name="checksum">20af0d3bc179cde1afe695d56b065137</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.JPG.jpg</field>
+<field name="originalName">20140618_Foster_Dossett.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">6261</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/7/20140618_Foster_Dossett.JPG.jpg</field>
+<field name="checksum">1eea8156bc531ae94f50606ed827b091</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Capture.JPG.preview.jpg</field>
+<field name="originalName">Capture.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18333</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/4/Capture.JPG.preview.jpg</field>
+<field name="checksum">4f14cf71fd756f1d150ad5703971d5ff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.JPG.preview.jpg</field>
+<field name="originalName">20140618_Foster_Dossett.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18333</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/8/20140618_Foster_Dossett.JPG.preview.jpg</field>
+<field name="checksum">4f14cf71fd756f1d150ad5703971d5ff</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20140618_Foster_Dossett.pdf.txt</field>
+<field name="originalName">20140618_Foster_Dossett.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">25257</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33375/5/20140618_Foster_Dossett.pdf.txt</field>
+<field name="checksum">1fb31b6bf07025d52b6e9b2d17df77e5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33375</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33375</field>
+<field name="lastModifyDate">2018-07-17 13:48:14.671</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

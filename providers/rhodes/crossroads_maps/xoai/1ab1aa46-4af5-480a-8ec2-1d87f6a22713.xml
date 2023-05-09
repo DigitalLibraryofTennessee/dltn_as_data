@@ -1,0 +1,125 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Memphis Public Library: Memphis Room</field>
+</element>
+</element>
+<element name="coverage">
+<element name="temporal">
+<element name="none">
+<field name="value">Central Avenue Park</field>
+</element>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2017-12-15T16:50:39Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2017-12-15T16:50:39Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1925</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31152</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1925 Central Ave. Park Map</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">1925 Map of the Central Ave Park. Map courtesy of the MPLIC Memphis/Shelby County room</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Maps</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Central Avenue Park</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Central Ave. Park Map, 1925</field>
+</element>
+</element>
+<element name="type">
+<element name="en_US">
+<field name="value">Still image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1925 Central Ave. Park.jpg.jpg</field>
+<field name="originalName">1925 Central Ave. Park.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15560</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31152/2/1925%20Central%20Ave.%20Park.jpg.jpg</field>
+<field name="checksum">e80680e693d67268e6794cdd7b716ce3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1925 Central Ave. Park.jpg</field>
+<field name="originalName">1925 Central Ave. Park.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">1361475</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31152/1/1925%20Central%20Ave.%20Park.jpg</field>
+<field name="checksum">fe4321b7b09986023437eb882c673592</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1925 Central Ave. Park.jpg.preview.jpg</field>
+<field name="originalName">1925 Central Ave. Park.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">84372</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31152/3/1925%20Central%20Ave.%20Park.jpg.preview.jpg</field>
+<field name="checksum">80d2331873de1545ab60c538b0941f42</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31152</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31152</field>
+<field name="lastModifyDate">2018-05-14 14:47:38.975</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

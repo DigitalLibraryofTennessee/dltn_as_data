@@ -1,0 +1,187 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Abernathy, Ralph, 1926-1990</field>
+<field name="value">King, Coretta Scott, 1927-2006</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-12T20:59:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-12T20:59:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33791</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Abernathy_King_at_Mason_Temple_Singing-SS105</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Coretta Scott King and Ralph Abernathy speak at Mason Temple.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">\</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">History</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Race relations</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Protest movements</field>
+<field name="value">Civil rights</field>
+<field name="value">Civil rights demonstrations</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Abernathy, Ralph, 1926-1990</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Coretta Scott King and Ralph Abernathy Speak at Mason Temple</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS105_transcript.pdf</field>
+<field name="originalName">SS105_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">46084</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/1/SS105_transcript.pdf</field>
+<field name="checksum">6cf3fc7e6385c3209df9b471e26e9eb2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Coretta Scott King Abernathy.JPG</field>
+<field name="originalName">Coretta Scott King Abernathy.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">27197</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/4/Coretta%20Scott%20King%20Abernathy.JPG</field>
+<field name="checksum">d43c5b640928ac3c5acfa8a2cf2c5eee</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS105_transcript.pdf.txt</field>
+<field name="originalName">SS105_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">4564</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/2/SS105_transcript.pdf.txt</field>
+<field name="checksum">7d6cf8d1825e0182e28b849dee470178</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS105_transcript.pdf.jpg</field>
+<field name="originalName">SS105_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15037</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/3/SS105_transcript.pdf.jpg</field>
+<field name="checksum">8b5d07e73fb3f14e0e69b028f6602571</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Coretta Scott King Abernathy.JPG.jpg</field>
+<field name="originalName">Coretta Scott King Abernathy.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4922</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/5/Coretta%20Scott%20King%20Abernathy.JPG.jpg</field>
+<field name="checksum">23c384a5389e5ebc66dca8bd0bfe2cb0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Coretta Scott King Abernathy.JPG.preview.jpg</field>
+<field name="originalName">Coretta Scott King Abernathy.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17350</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33791/6/Coretta%20Scott%20King%20Abernathy.JPG.preview.jpg</field>
+<field name="checksum">146d32c0633e3760f4440d5b6301affc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33791</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33791</field>
+<field name="lastModifyDate">2018-10-17 11:37:14.774</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

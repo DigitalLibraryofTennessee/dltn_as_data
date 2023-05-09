@@ -1,0 +1,127 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Musse, Joe</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:25Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1957-07-12</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34294</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19570712_Associated_Booking_Corp_Howlin_Wolf_117514</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">A letter to an unknown recipient about the availability of&#65533;performer Chester Burnett, "Howlin' Wolf."</field>
+</element>
+</element>
+<element name="publisher">
+<element name="none">
+<field name="value">Associated Booking Corp.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Letters</field>
+<field name="value">Burnett, Chester Arthur</field>
+<field name="value">Howlin' Wolf, 1910-1976</field>
+<field name="value">Blues (Music)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Associated Booking Corp. Letter Regarding Howlin Wolf, 1957</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg</field>
+<field name="originalName">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">6250022</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34294/1/19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg</field>
+<field name="checksum">3ca50eeb670d2fd2dac1831f737bb80c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.jpg</field>
+<field name="originalName">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14743</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34294/2/19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.jpg</field>
+<field name="checksum">0af222558ca8d65d89809096fcf3b1b9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.preview.jpg</field>
+<field name="originalName">19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">77383</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34294/3/19570712_Associated_Booking_Corp_Howlin_Wolf_117514.jpg.preview.jpg</field>
+<field name="checksum">68ff283e72c90346f20b5a01f3355e75</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34294</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34294</field>
+<field name="lastModifyDate">2018-10-17 16:27:13.436</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

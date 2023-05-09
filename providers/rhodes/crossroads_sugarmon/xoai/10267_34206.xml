@@ -1,0 +1,150 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Shelby County Election Commission</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-09-17T14:59:01Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34206</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Absentee_Ballot_by_Mail_Information_799</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This document gives descriptions of those who are eligible for an absentee ballot and the process of applying for one.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Shelby County (Tenn.)</field>
+<field name="value">Voting</field>
+<field name="value">Flyer</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Absentee Ballot by Mail Information</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.jpg.jpg</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15110</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/3/Absentee_Ballot_by_Mail_Information_799.jpg.jpg</field>
+<field name="checksum">f315f97a0982025786c714ca441fcc91</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.pdf.jpg</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10410</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/6/Absentee_Ballot_by_Mail_Information_799.pdf.jpg</field>
+<field name="checksum">e09d28e07d81c62918f372f721947c99</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.jpg.preview.jpg</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">77279</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/4/Absentee_Ballot_by_Mail_Information_799.jpg.preview.jpg</field>
+<field name="checksum">2a0681283d1e2029e3f9f3b61398bd1c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.pdf.txt</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">1822</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/5/Absentee_Ballot_by_Mail_Information_799.pdf.txt</field>
+<field name="checksum">c75075b39e930360760815c585e669f3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.jpg</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">508545</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/1/Absentee_Ballot_by_Mail_Information_799.jpg</field>
+<field name="checksum">48b6727e0e4e0f628c0e31fe939f94d9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Absentee_Ballot_by_Mail_Information_799.pdf</field>
+<field name="originalName">Absentee_Ballot_by_Mail_Information_799.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">39236</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34206/2/Absentee_Ballot_by_Mail_Information_799.pdf</field>
+<field name="checksum">1eb0e481269a910f37ccbccc8f6d603f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34206</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34206</field>
+<field name="lastModifyDate">2018-09-17 16:38:18.491</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

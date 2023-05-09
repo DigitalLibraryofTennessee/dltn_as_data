@@ -1,0 +1,113 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Octave Musician's Social Club</field>
+<field name="value">Tri-State Bank of Memphis</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:31Z</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34330</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">Octave_Club_Unused_Checks_117801</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Blank checks for the Octave Musician's Social Club through the Tri-State Bank of Memphis.</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Octave Musicians Social Club Unused Checks</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Octave_Club_Unused_Checks_117801.jpg</field>
+<field name="originalName">Octave_Club_Unused_Checks_117801.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">4685393</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34330/1/Octave_Club_Unused_Checks_117801.jpg</field>
+<field name="checksum">9e33df24cce8d92005a02b0ecbfb751b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Octave_Club_Unused_Checks_117801.jpg.jpg</field>
+<field name="originalName">Octave_Club_Unused_Checks_117801.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">15830</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34330/2/Octave_Club_Unused_Checks_117801.jpg.jpg</field>
+<field name="checksum">b86abbfbdb5159be41b751190eb2c625</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Octave_Club_Unused_Checks_117801.jpg.preview.jpg</field>
+<field name="originalName">Octave_Club_Unused_Checks_117801.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">90414</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34330/3/Octave_Club_Unused_Checks_117801.jpg.preview.jpg</field>
+<field name="checksum">396f65073c15a15577c18064fc180181</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34330</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34330</field>
+<field name="lastModifyDate">2018-10-11 22:30:49.189</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

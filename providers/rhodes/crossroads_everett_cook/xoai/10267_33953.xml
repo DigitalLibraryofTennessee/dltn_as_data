@@ -1,0 +1,190 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Kremer, Ray Ann</field>
+<field name="value">Lowe, Carol</field>
+<field name="value">Hough, Joe</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T14:39:02Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33953</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790605_Joe_Hough</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Interview with Joe Hough, lifelong member of the VECA neighborhood and active member of the neighborhood association. Hough talks about the changing demographics of the neighborhood and its effects on the real estate market. He discusses block-busting, red lining, and white flight. He also gives a brief history of the VECA Neighborhood Association. This interview was conducted in 1979. &#65533;</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289600605</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Vollintine Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Vollintine Evergreen Community Association</field>
+<field name="value">Real estate development</field>
+<field name="value">Redlining</field>
+<field name="value">Metropolitan Inter-Faith Association (MIFA)</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Joe Hough, lifelong Vollintine Evergreen resident, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Joe_Hough_1.doc.txt</field>
+<field name="originalName">19790605_Joe_Hough_1.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">63891</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/3/19790605_Joe_Hough_1.doc.txt</field>
+<field name="checksum">9aaaedc86ec3ec742fa17a13dcb7f56b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">19790605_Joe_Hough_2.doc.txt</field>
+<field name="originalName">19790605_Joe_Hough_2.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">41339</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/4/19790605_Joe_Hough_2.doc.txt</field>
+<field name="checksum">d704360eaee5bb045416de2cd1ec8c41</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">joe hough.PNG.jpg</field>
+<field name="originalName">joe hough.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4822</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/6/joe%20hough.PNG.jpg</field>
+<field name="checksum">cd2ccb1bbef4501022e85ea8df798bea</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">joe hough.PNG.preview.jpg</field>
+<field name="originalName">joe hough.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">16769</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/7/joe%20hough.PNG.preview.jpg</field>
+<field name="checksum">50f06983e115eb01bd8cc9cf0b5540ac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Joe_Hough_1.doc</field>
+<field name="originalName">19790605_Joe_Hough_1.doc</field>
+<field name="format">application/msword</field>
+<field name="size">103424</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/1/19790605_Joe_Hough_1.doc</field>
+<field name="checksum">59562d622282fe9cc4f0f7dfa3e4ec96</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">19790605_Joe_Hough_2.doc</field>
+<field name="originalName">19790605_Joe_Hough_2.doc</field>
+<field name="format">application/msword</field>
+<field name="size">74240</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/2/19790605_Joe_Hough_2.doc</field>
+<field name="checksum">e836d0884828088ed73dea12a3c0c802</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">joe hough.PNG</field>
+<field name="originalName">joe hough.PNG</field>
+<field name="format">image/png</field>
+<field name="size">53633</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33953/5/joe%20hough.PNG</field>
+<field name="checksum">e7541b8b159b89170f5abb5800ef6c5b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33953</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33953</field>
+<field name="lastModifyDate">2018-10-17 11:43:15.634</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

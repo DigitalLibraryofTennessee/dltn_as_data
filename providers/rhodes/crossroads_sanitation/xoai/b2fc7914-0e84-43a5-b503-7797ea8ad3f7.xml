@@ -1,0 +1,315 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Stimbert, Elden Carl (EC), 1908-2007</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Yellin, David G.</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-20T17:06:01Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-20T17:06:01Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-11-04</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33901</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19681104_E_C_Stimbert-SS046-SS048</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with E. C. Stimbert. Stimbert was the Superintendent of Memphis public schools from 1957-1971.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281545104</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Education</field>
+<field name="value">Memphis City Schools</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">E. C. Stimbert, Superintendent of Memphis Public Schools, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS046_transcript.pdf</field>
+<field name="originalName">SS046_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">114543</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/1/SS046_transcript.pdf</field>
+<field name="checksum">d1b4078a3453213fb20c6e438ced626a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS047_transcript.pdf</field>
+<field name="originalName">SS047_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">114341</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/2/SS047_transcript.pdf</field>
+<field name="checksum">3ddf890f96e33627d28a8595f580b29d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS048_transcript.pdf</field>
+<field name="originalName">SS048_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">85898</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/3/SS048_transcript.pdf</field>
+<field name="checksum">b6351ff8ae88f0d913801ceeb6bbf104</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">stimbert.PNG</field>
+<field name="originalName">stimbert.PNG</field>
+<field name="format">image/png</field>
+<field name="size">51187</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/16/stimbert.PNG</field>
+<field name="checksum">bd888c276e7d86d2af3dc0fd413b062a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">16</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS046.pdf.txt</field>
+<field name="originalName">SS046.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">58178</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/4/SS046.pdf.txt</field>
+<field name="checksum">e4d8d2b4bd75bf06bac9732e092c2078</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS047.pdf.txt</field>
+<field name="originalName">SS047.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">58719</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/6/SS047.pdf.txt</field>
+<field name="checksum">d854ec8e9f6b7a1fd9f3d7a68b662db8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+<element name="bitstream">
+<field name="name">SS048.pdf.txt</field>
+<field name="originalName">SS048.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35953</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/8/SS048.pdf.txt</field>
+<field name="checksum">390424a22ff4b9b02164b724f6830a7c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS046_transcript.pdf.txt</field>
+<field name="originalName">SS046_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">58178</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/10/SS046_transcript.pdf.txt</field>
+<field name="checksum">e4d8d2b4bd75bf06bac9732e092c2078</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS047_transcript.pdf.txt</field>
+<field name="originalName">SS047_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">58719</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/12/SS047_transcript.pdf.txt</field>
+<field name="checksum">d854ec8e9f6b7a1fd9f3d7a68b662db8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+<element name="bitstream">
+<field name="name">SS048_transcript.pdf.txt</field>
+<field name="originalName">SS048_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">35953</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/14/SS048_transcript.pdf.txt</field>
+<field name="checksum">390424a22ff4b9b02164b724f6830a7c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">14</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS046.pdf.jpg</field>
+<field name="originalName">SS046.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14604</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/5/SS046.pdf.jpg</field>
+<field name="checksum">5edb1966b68e63e065c93abcc62d98b2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS047.pdf.jpg</field>
+<field name="originalName">SS047.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13200</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/7/SS047.pdf.jpg</field>
+<field name="checksum">7f93ca6c4b0052ea260ec5770fc48c07</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS048.pdf.jpg</field>
+<field name="originalName">SS048.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11507</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/9/SS048.pdf.jpg</field>
+<field name="checksum">9a911bb2882da2f113b48027cd866fb9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS046_transcript.pdf.jpg</field>
+<field name="originalName">SS046_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14604</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/11/SS046_transcript.pdf.jpg</field>
+<field name="checksum">5edb1966b68e63e065c93abcc62d98b2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+<element name="bitstream">
+<field name="name">SS047_transcript.pdf.jpg</field>
+<field name="originalName">SS047_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13200</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/13/SS047_transcript.pdf.jpg</field>
+<field name="checksum">7f93ca6c4b0052ea260ec5770fc48c07</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">13</field>
+</element>
+<element name="bitstream">
+<field name="name">SS048_transcript.pdf.jpg</field>
+<field name="originalName">SS048_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11507</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/15/SS048_transcript.pdf.jpg</field>
+<field name="checksum">9a911bb2882da2f113b48027cd866fb9</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">15</field>
+</element>
+<element name="bitstream">
+<field name="name">stimbert.PNG.jpg</field>
+<field name="originalName">stimbert.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5798</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/17/stimbert.PNG.jpg</field>
+<field name="checksum">2806e4e9449cc57d020e44baa99ee4ba</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">17</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">stimbert.PNG.preview.jpg</field>
+<field name="originalName">stimbert.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">17804</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33901/18/stimbert.PNG.preview.jpg</field>
+<field name="checksum">254dfebc9b62332cca1b6ef2edcb989a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">18</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33901</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33901</field>
+<field name="lastModifyDate">2018-07-30 11:43:49.385</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

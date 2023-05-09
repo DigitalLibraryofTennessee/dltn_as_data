@@ -1,0 +1,247 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Blanchard, Jerred G.</field>
+<field name="value">Yellin, Carol Lynn</field>
+<field name="value">Beckner, Tom</field>
+<field name="value">Trotter, Anne</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-20T17:06:05Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-20T17:06:05Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-05-27</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33912</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680527_Jerred_Blanchard_SS066-SS068</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Jerred Blanchard, who was a member of Memphis City Council during the santitation strike.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281530217</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">City government</field>
+<field name="value">City council members</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jerred Blanchard, Memphis City Council, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jerred blanchard.JPG</field>
+<field name="originalName">jerred blanchard.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">24170</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/1/jerred%20blanchard.JPG</field>
+<field name="checksum">4e305a785cac1452e8124e61e2481aa2</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS066_transcript.pdf</field>
+<field name="originalName">SS066_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">98535</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/4/SS066_transcript.pdf</field>
+<field name="checksum">940a4dfdf4ee028df5b599ea0dcc5ba1</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">SS067_transcript.pdf</field>
+<field name="originalName">SS067_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">98188</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/5/SS067_transcript.pdf</field>
+<field name="checksum">f8e3cdbe7898b7bc2e5b492091af928f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">SS068_transcript.pdf</field>
+<field name="originalName">SS068_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">60933</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/6/SS068_transcript.pdf</field>
+<field name="checksum">ace362ca7672a343f172a5d662994986</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jerred blanchard.JPG.jpg</field>
+<field name="originalName">jerred blanchard.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4067</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/2/jerred%20blanchard.JPG.jpg</field>
+<field name="checksum">4fb5977cbcd34facee1b89457ab1136e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS066_transcript.pdf.jpg</field>
+<field name="originalName">SS066_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">14505</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/8/SS066_transcript.pdf.jpg</field>
+<field name="checksum">2f3282968bf287c7e1beba6fd0ca82f0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">8</field>
+</element>
+<element name="bitstream">
+<field name="name">SS067_transcript.pdf.jpg</field>
+<field name="originalName">SS067_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12984</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/10/SS067_transcript.pdf.jpg</field>
+<field name="checksum">0951eb79a0aaa206df76513f61ecb250</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">10</field>
+</element>
+<element name="bitstream">
+<field name="name">SS068_transcript.pdf.jpg</field>
+<field name="originalName">SS068_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11626</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/12/SS068_transcript.pdf.jpg</field>
+<field name="checksum">2884855eb1b37da418479cbec70ce654</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">12</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">jerred blanchard.JPG.preview.jpg</field>
+<field name="originalName">jerred blanchard.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">13317</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/3/jerred%20blanchard.JPG.preview.jpg</field>
+<field name="checksum">ad540ac09274736fdea6bc4f32640284</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS066_transcript.pdf.txt</field>
+<field name="originalName">SS066_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45755</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/7/SS066_transcript.pdf.txt</field>
+<field name="checksum">297cdfa2c8d2c7d24229b7422fc995b6</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+<element name="bitstream">
+<field name="name">SS067_transcript.pdf.txt</field>
+<field name="originalName">SS067_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45631</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/9/SS067_transcript.pdf.txt</field>
+<field name="checksum">b746d3c1a1ac4151fb038a7c1599a453</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">9</field>
+</element>
+<element name="bitstream">
+<field name="name">SS068_transcript.pdf.txt</field>
+<field name="originalName">SS068_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">15609</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33912/11/SS068_transcript.pdf.txt</field>
+<field name="checksum">49ff5bfc4051f348c508a4d07efd46e5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">11</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33912</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33912</field>
+<field name="lastModifyDate">2018-07-31 13:56:10.078</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

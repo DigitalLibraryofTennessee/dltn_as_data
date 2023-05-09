@@ -1,0 +1,165 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Sparks, Camille</field>
+<field name="value">Faudree, Pat</field>
+<field name="value">Cates, Bena</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-08-28T15:23:38Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-08-28T15:23:38Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1979-06-05</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33979</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19790605_Camille_Sparks</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">In this interview&#65533;Camille Sparks discusses her life in Midtown, Memphis. She talks about her family, how they moved around a lot, and her neighbors. She also describes what Midtown looked like&#65533;before she left in 1944.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/289594488</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">This item is made available with permission from the Memphis Public Library and Information Center. Permission to reproduce or publish this item is required and may be subject to copyright or other legal restrictions imposed by parties outside of the Library. Please contact the History Department of the Memphis Public Library &amp; Information Center at 901.415.2742 or hisref@memphislibrary.org to request permission. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center.</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Mid-Memphis Improvement Association (MMIA)</field>
+<field name="value">Neighborhood Histories</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Camille Sparks, Midtown Memphis resident, 1979</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Camille_Sparks.doc.txt</field>
+<field name="originalName">19790605_Camille_Sparks.doc.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">17856</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33979/2/19790605_Camille_Sparks.doc.txt</field>
+<field name="checksum">877afef172a08e6760457b324e37dade</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19790605_Camille_Sparks.doc</field>
+<field name="originalName">19790605_Camille_Sparks.doc</field>
+<field name="format">application/msword</field>
+<field name="size">50688</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33979/1/19790605_Camille_Sparks.doc</field>
+<field name="checksum">d08b5456b5f47ca33d5ab0196c3a5eab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">Camille Sparks.PNG</field>
+<field name="originalName">Camille Sparks.PNG</field>
+<field name="format">image/png</field>
+<field name="size">43177</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33979/3/Camille%20Sparks.PNG</field>
+<field name="checksum">b47c12db5c894c2ef632c2f25a116edc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Camille Sparks.PNG.jpg</field>
+<field name="originalName">Camille Sparks.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5888</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33979/4/Camille%20Sparks.PNG.jpg</field>
+<field name="checksum">a721a9c2cf580de291a796852b22ec2c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Camille Sparks.PNG.preview.jpg</field>
+<field name="originalName">Camille Sparks.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">21128</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33979/5/Camille%20Sparks.PNG.preview.jpg</field>
+<field name="checksum">d76486d1c78a2ac34b08c9a907a6b285</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33979</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33979</field>
+<field name="lastModifyDate">2018-09-12 19:31:31.651</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

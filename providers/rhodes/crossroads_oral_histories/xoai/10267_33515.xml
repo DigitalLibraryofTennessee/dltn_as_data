@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Seawood, Margaret</field>
+<field name="value">Saba, Daniel</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T16:29:17Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T16:29:17Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2009-06-30</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33515</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20090630_Margaret_Seawood</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Margaret Seawood, a teacher and long time resident of North Memphis. This was done by the 2009 Crossroads to Freedom team.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/278575726</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Hyde Park (Memphis, Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Education</field>
+<field name="value">Segregation</field>
+<field name="value">LeMoyne-Owen College</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Margaret Seawood, 2009</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.JPG</field>
+<field name="originalName">20090630_Margaret_Seawood.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">40809</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/1/20090630_Margaret_Seawood.JPG</field>
+<field name="checksum">f9388d3070d1ce1b3781f5e1a1756ff7</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.pdf</field>
+<field name="originalName">20090630_Margaret_Seawood.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">265392</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/2/20090630_Margaret_Seawood.pdf</field>
+<field name="checksum">f8a8d4cdf469d2f8c6ba2853d3ba2fac</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.JPG.jpg</field>
+<field name="originalName">20090630_Margaret_Seawood.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">7365</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/3/20090630_Margaret_Seawood.JPG.jpg</field>
+<field name="checksum">3f06c436d2858dc30df2a97c0650de4e</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.pdf.jpg</field>
+<field name="originalName">20090630_Margaret_Seawood.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10611</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/6/20090630_Margaret_Seawood.pdf.jpg</field>
+<field name="checksum">74dacd3fc94127e2bd8f908a23bd2bf3</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.JPG.preview.jpg</field>
+<field name="originalName">20090630_Margaret_Seawood.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">30339</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/4/20090630_Margaret_Seawood.JPG.preview.jpg</field>
+<field name="checksum">eb30ddad1acd227ae6dcfc0e41a53265</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20090630_Margaret_Seawood.pdf.txt</field>
+<field name="originalName">20090630_Margaret_Seawood.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">18602</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33515/5/20090630_Margaret_Seawood.pdf.txt</field>
+<field name="checksum">790d8e00cb405b96b98f34f6db73a63a</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33515</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33515</field>
+<field name="lastModifyDate">2018-07-12 13:20:41.673</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

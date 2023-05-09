@@ -1,0 +1,171 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Rabinbach, Jacob</field>
+<field name="value">Dickinson, Jim</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-01-17T22:05:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2004-06-29</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/31291</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20040629_Jim_Dickinson</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Collection: Stax Museum Oral Histories Interviewee: Jim Dickinson Interviewer: Jacob Rabinbach Date: 2004-06-29</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279893122</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Music</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Stax Records</field>
+<field name="value">Crossroads to Freedom</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Jim Dickinson, 2004</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.jpg</field>
+<field name="originalName">20040629_Jim_Dickinson.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">136690</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/1/20040629_Jim_Dickinson.jpg</field>
+<field name="checksum">69722a3c5c00f69761f6dac98c1b69ab</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.pdf</field>
+<field name="originalName">20040629_Jim_Dickinson.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">234673</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/7/20040629_Jim_Dickinson.pdf</field>
+<field name="checksum">588d7e4c654b50d7693521c25316f92b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.jpg.jpg</field>
+<field name="originalName">20040629_Jim_Dickinson.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">18060</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/2/20040629_Jim_Dickinson.jpg.jpg</field>
+<field name="checksum">407a12e8f4195c0cdcf99872b64c8c74</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.pdf.jpg</field>
+<field name="originalName">20040629_Jim_Dickinson.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11414</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/5/20040629_Jim_Dickinson.pdf.jpg</field>
+<field name="checksum">c99135f63e115e9ae155ad8988320863</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.pdf.txt</field>
+<field name="originalName">20040629_Jim_Dickinson.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">74386</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/4/20040629_Jim_Dickinson.pdf.txt</field>
+<field name="checksum">3fa1a009c3cc768731322a7c25f3625d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20040629_Jim_Dickinson.jpg.preview.jpg</field>
+<field name="originalName">20040629_Jim_Dickinson.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">68668</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/31291/6/20040629_Jim_Dickinson.jpg.preview.jpg</field>
+<field name="checksum">5d7c83bd3554b4cc65b2c4bdea37050d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/31291</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/31291</field>
+<field name="lastModifyDate">2018-10-11 18:31:24.633</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

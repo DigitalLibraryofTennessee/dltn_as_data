@@ -1,0 +1,183 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Beckner, Tom</field>
+<field name="value">Bryant, Braxton</field>
+<field name="value">Beifuss, Joan Turner</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-24T16:56:49Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-24T16:56:49Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-06-25</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33925</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680625_Braxton_Bryant-SS180</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Rev. Braxton Bryant. Bryant was the director of Tennessee Council on Human Relations and one of the early unofficial mediators in the strike with access to the city and union.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281535703</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Rev. Braxton Bryant, Dir. Tenn. Council on Human Relations, June 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Braxton Bryant.JPG</field>
+<field name="originalName">Braxton Bryant.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">19845</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/1/Braxton%20Bryant.JPG</field>
+<field name="checksum">5550cd9f907d8d1e02a62d59e43f4cdd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">SS180_transcript.pdf</field>
+<field name="originalName">SS180_transcript.pdf</field>
+<field name="description">transcript</field>
+<field name="format">application/pdf</field>
+<field name="size">126733</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/4/SS180_transcript.pdf</field>
+<field name="checksum">17d59b02edea0fda3c73a84cad57f167</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Braxton Bryant.JPG.jpg</field>
+<field name="originalName">Braxton Bryant.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">4445</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/2/Braxton%20Bryant.JPG.jpg</field>
+<field name="checksum">681b836fb2e0b8fbcf8f5bf3c858790b</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+<element name="bitstream">
+<field name="name">SS180_transcript.pdf.jpg</field>
+<field name="originalName">SS180_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">13805</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/6/SS180_transcript.pdf.jpg</field>
+<field name="checksum">272d919e6d22c8b9c0e23a13f197c525</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">Braxton Bryant.JPG.preview.jpg</field>
+<field name="originalName">Braxton Bryant.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">10674</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/3/Braxton%20Bryant.JPG.preview.jpg</field>
+<field name="checksum">a956762694a710d86d2f9da2d0e0d377</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS180_transcript.pdf.txt</field>
+<field name="originalName">SS180_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">70555</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33925/5/SS180_transcript.pdf.txt</field>
+<field name="checksum">104d2957bcee9c7142822593ec4ecda8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33925</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33925</field>
+<field name="lastModifyDate">2018-07-30 09:06:46.525</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

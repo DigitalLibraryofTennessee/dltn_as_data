@@ -1,0 +1,172 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Stansbury, Mark</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-18T15:24:00Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-18T15:24:00Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2007-09-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33509</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20070926_Mark_Stansbury</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is a lecture by Mark Stansbury, a photographer who was active in documenting the Civil Rights Movement. During his career as a photographer he worked with the two major black newspapers in Memphis, the Memphis World and the Tristate Defender. In the interview he describes a number of photographs that he took during his career and also recalls vivid memories of the time surrounding the assassination of Dr. Martin Luther King Jr.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279344155</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Civil rights</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Crossroads to Freedom</field>
+<field name="value">Memphis World</field>
+<field name="value">Race relations</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Mark Stansbury, 2007</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.pdf</field>
+<field name="originalName">20070926_Mark_Stansbury.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">404798</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/1/20070926_Mark_Stansbury.pdf</field>
+<field name="checksum">bf6d130d96fc515eecc1f73bcf6d91af</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.JPG</field>
+<field name="originalName">20070926_Mark_Stansbury.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">23611</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/2/20070926_Mark_Stansbury.JPG</field>
+<field name="checksum">38ddd44da44f348e6e5406c77173bd63</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.pdf.txt</field>
+<field name="originalName">20070926_Mark_Stansbury.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">81828</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/3/20070926_Mark_Stansbury.pdf.txt</field>
+<field name="checksum">7afe7c7bf16e295ad49cfc6b9258fac8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.pdf.jpg</field>
+<field name="originalName">20070926_Mark_Stansbury.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9616</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/4/20070926_Mark_Stansbury.pdf.jpg</field>
+<field name="checksum">81ac6630956460f9ebaab282bf059f14</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.JPG.jpg</field>
+<field name="originalName">20070926_Mark_Stansbury.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5456</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/5/20070926_Mark_Stansbury.JPG.jpg</field>
+<field name="checksum">5e817b04df20a6e086a880e29421f24d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20070926_Mark_Stansbury.JPG.preview.jpg</field>
+<field name="originalName">20070926_Mark_Stansbury.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">15782</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33509/6/20070926_Mark_Stansbury.JPG.preview.jpg</field>
+<field name="checksum">1621661c1158f3e9acca0b0177609f17</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33509</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33509</field>
+<field name="lastModifyDate">2018-08-09 11:09:21.848</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

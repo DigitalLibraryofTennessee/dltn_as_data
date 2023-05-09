@@ -1,0 +1,184 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Pollard, Ramsey</field>
+<field name="value">Beifuss, Joan Turner</field>
+<field name="value">Wade, Mitch</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-07-16T18:29:11Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-07-16T18:29:11Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1968-08-26</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33849</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19680826_Ramsey_Pollard-SS040</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Ramsey Pollard. Pollard was the Pastor of Bellevue Baptist Church. He was not involved in sanitation strike crisis directly.</field>
+</element>
+</element>
+<element name="format">
+<element name="none">
+<field name="value">open reel magnetic tape</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/281542193</field>
+</element>
+</element>
+</element>
+<element name="rights">
+<element name="none">
+<field name="value">Digital Audio (c) 2013, University of Memphis Libraries Preservation and Special Collections Department. All rights reserved. Use of this audio shall be governed by the University of Memphis Libraries "Duplication Agreement" http://www.memphis.edu/libraries/pdfs/duplication_agreement.pdf</field>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Sanitation Workers Strike, Memphis, Tenn., 1968</field>
+<field name="value">Civil rights</field>
+<field name="value">King, Martin Luther, Jr., 1929-1968</field>
+<field name="value">Church</field>
+<field name="value">Religion</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Ramsey Pollard, Bellevue Baptist Church, 1968</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Sound</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS040_transcript.pdf</field>
+<field name="originalName">SS040_transcript.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">97727</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/1/SS040_transcript.pdf</field>
+<field name="checksum">0a115853607e183d83589252d2800abc</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">dr ramsey.PNG</field>
+<field name="originalName">dr ramsey.PNG</field>
+<field name="format">image/png</field>
+<field name="size">55224</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/2/dr%20ramsey.PNG</field>
+<field name="checksum">98682fc39556bca62adc6c6c768d4310</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS040_transcript.pdf.txt</field>
+<field name="originalName">SS040_transcript.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">46235</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/3/SS040_transcript.pdf.txt</field>
+<field name="checksum">de7bd133f27a7966c4c1883d0e5ff379</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">SS040_transcript.pdf.jpg</field>
+<field name="originalName">SS040_transcript.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">12713</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/4/SS040_transcript.pdf.jpg</field>
+<field name="checksum">b084641eeb3991bea7dabc733fd30044</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+<element name="bitstream">
+<field name="name">dr ramsey.PNG.jpg</field>
+<field name="originalName">dr ramsey.PNG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">5571</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/5/dr%20ramsey.PNG.jpg</field>
+<field name="checksum">29e6a304c20aeb6a413264e3f00856f8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">dr ramsey.PNG.preview.jpg</field>
+<field name="originalName">dr ramsey.PNG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">18879</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33849/6/dr%20ramsey.PNG.preview.jpg</field>
+<field name="checksum">dcf9fd69416066fdf757bc0f9cd3034f</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33849</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33849</field>
+<field name="lastModifyDate">2018-10-17 11:34:35.052</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

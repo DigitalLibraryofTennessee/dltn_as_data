@@ -1,0 +1,120 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Columbia Pictures Corporation</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-11-15T22:00:54Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-11-15T22:00:54Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1939-12-14</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34935</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">19391214_Palace_Theatre_Booking_Confirmation_117783</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Two confirmation of booking sheets sent to the Palace Theatre for chapters seven and eight of "Flying G Men."</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Theatres</field>
+<field name="value">Palace Theatre (Memphis, Tenn.)</field>
+<field name="value">Motion pictures</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Palace Theatre Booking Confirmation ft. Flying G-Men #2, 1939</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg</field>
+<field name="originalName">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">470616</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34935/1/19391214_Palace_Theatre_Booking_Confirmation_117783.jpg</field>
+<field name="checksum">d6b5d34c3e3740313b4a5cb35c346541</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.jpg</field>
+<field name="originalName">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">19224</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34935/2/19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.jpg</field>
+<field name="checksum">3d1c72ad800d72e43ff8e6d31f023db8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.preview.jpg</field>
+<field name="originalName">19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">91110</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34935/3/19391214_Palace_Theatre_Booking_Confirmation_117783.jpg.preview.jpg</field>
+<field name="checksum">0426be2d75cea96328d1af139c6da12c</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34935</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34935</field>
+<field name="lastModifyDate">2018-11-16 15:55:44.284</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

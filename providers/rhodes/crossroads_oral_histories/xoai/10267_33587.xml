@@ -1,0 +1,174 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Morton, Fred</field>
+<field name="value">Yarbrough, David</field>
+<field name="value">Strauser, Matt</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-05-23T18:43:18Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-05-23T18:43:18Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2011-06-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33587</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20110623_Fred_Morton</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Fred Morton. In which he discusses race relations in the City of Memphis from the 50s to today.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279478303</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Neighborhood Histories</field>
+<field name="value">Highland Heights (Memphis, Tenn.)</field>
+<field name="value">Oral history</field>
+<field name="value">Interviews</field>
+<field name="value">Memphis (Tenn.)</field>
+</element>
+<element name="none">
+<field name="value">Race relations</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Fred Morton, 2011</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving Image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.pdf.jpg</field>
+<field name="originalName">20110623_Fred_Morton.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11659</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/5/20110623_Fred_Morton.pdf.jpg</field>
+<field name="checksum">09269646c831f2af8fb2bb56ab9f41c5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.JPG.jpg</field>
+<field name="originalName">20110623_Fred_Morton.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">10826</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/6/20110623_Fred_Morton.JPG.jpg</field>
+<field name="checksum">a65cec5fb669a00d828e07db051b34fb</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.JPG.preview.jpg</field>
+<field name="originalName">20110623_Fred_Morton.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">41943</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/7/20110623_Fred_Morton.JPG.preview.jpg</field>
+<field name="checksum">647413feab9ceff485c412a68563ec97</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">7</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.pdf</field>
+<field name="originalName">20110623_Fred_Morton.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">214930</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/1/20110623_Fred_Morton.pdf</field>
+<field name="checksum">734d07649fa070a419ac96b326c24c85</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.JPG</field>
+<field name="originalName">20110623_Fred_Morton.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">87342</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/4/20110623_Fred_Morton.JPG</field>
+<field name="checksum">ab737087a81d00228383188e0567ef75</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20110623_Fred_Morton.pdf.txt</field>
+<field name="originalName">20110623_Fred_Morton.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">45916</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33587/2/20110623_Fred_Morton.pdf.txt</field>
+<field name="checksum">41b9bcbcf342c175663ea2a7620207f0</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33587</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33587</field>
+<field name="lastModifyDate">2018-07-17 09:29:14.784</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

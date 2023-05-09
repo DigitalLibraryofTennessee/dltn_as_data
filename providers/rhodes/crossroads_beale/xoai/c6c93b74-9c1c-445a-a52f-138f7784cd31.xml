@@ -1,0 +1,123 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Club Handy (Memphis, Tenn.)</field>
+<field name="value">New Daisy Theatre (Memphis, Tenn.)</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-10-08T20:57:30Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">1959-05-23</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/34321</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">Tickets to shows at Club Handy (and one at the New Daisy Theatre).</field>
+</element>
+</element>
+<element name="subject">
+<element name="none">
+<field name="value">Beale Street (Memphis, Tenn.)</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Music</field>
+<field name="value">Theatres</field>
+<field name="value">King, B.B.</field>
+<field name="value">Tickets</field>
+<field name="value">Chitlin' Circuit</field>
+</element>
+</element>
+<element name="title">
+<element name="none">
+<field name="value">Beale Street and Club Handy Tickets page 2, 1959-1962</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Text</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg</field>
+<field name="format">image/jpeg</field>
+<field name="size">10636818</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34321/1/1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg</field>
+<field name="checksum">be2999519e5b788176637c4d73eade44</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">20742</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34321/2/1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.jpg</field>
+<field name="checksum">aff1b1a462b63352231bca001e11e4cd</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.preview.jpg</field>
+<field name="originalName">1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">105606</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/34321/3/1959_Beale_Street_and_Club_Handy_Tickets_p2_117764.jpg.preview.jpg</field>
+<field name="checksum">decfc71bf3de85a8f1ac476006f50d04</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/34321</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/34321</field>
+<field name="lastModifyDate">2018-10-18 15:58:59.445</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>

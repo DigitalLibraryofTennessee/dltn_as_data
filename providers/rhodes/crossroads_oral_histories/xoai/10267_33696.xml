@@ -1,0 +1,173 @@
+<metadata xmlns="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lyncode.com/xoai http://www.lyncode.com/xsd/xoai.xsd">
+<element name="dc">
+<element name="contributor">
+<element name="none">
+<field name="value">Reed, Diane</field>
+<field name="value">Barksdale, Carlos</field>
+<field name="value">Ren, Bing</field>
+</element>
+</element>
+<element name="date">
+<element name="accessioned">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="available">
+<element name="none">
+<field name="value">2018-06-04T18:01:14Z</field>
+</element>
+</element>
+<element name="issued">
+<element name="none">
+<field name="value">2010-07-20</field>
+</element>
+</element>
+</element>
+<element name="identifier">
+<element name="uri">
+<element name="none">
+<field name="value">http://hdl.handle.net/10267/33696</field>
+</element>
+</element>
+<element name="rhodes">
+<element name="none">
+<field name="value">20100720_Diane_Reed</field>
+</element>
+</element>
+</element>
+<element name="description">
+<element name="none">
+<field name="value">This is an interview with Diane Reed. She was a retired postal worker and discusses her experience living in Mississippi and Tennessee during the Civil Rights Era.</field>
+</element>
+</element>
+<element name="publisher">
+<element name="en_US">
+<field name="value">Rhodes College</field>
+</element>
+</element>
+<element name="relation">
+<element name="uri">
+<element name="none">
+<field name="value">https://vimeo.com/279476684</field>
+</element>
+</element>
+</element>
+<element name="subject">
+<element name="en_US">
+<field name="value">Interviews</field>
+<field name="value">Oral history</field>
+<field name="value">Memphis (Tenn.)</field>
+<field name="value">Neighborhood Histories</field>
+<field name="value">Evergreen Historic District (Memphis, Tenn.)</field>
+<field name="value">Mississippi</field>
+<field name="value">Civil rights</field>
+</element>
+</element>
+<element name="title">
+<element name="en_US">
+<field name="value">Diane Reed, 2010</field>
+</element>
+</element>
+<element name="type">
+<element name="none">
+<field name="value">Moving image</field>
+</element>
+</element>
+</element>
+<element name="bundles">
+<element name="bundle">
+<field name="name">ORIGINAL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.JPG</field>
+<field name="originalName">20100720_Diane_Reed.JPG</field>
+<field name="format">image/jpeg</field>
+<field name="size">92235</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/1/20100720_Diane_Reed.JPG</field>
+<field name="checksum">a6e1ec5e4404dd6ebe75bc24805c5550</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">1</field>
+</element>
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.pdf</field>
+<field name="originalName">20100720_Diane_Reed.pdf</field>
+<field name="format">application/pdf</field>
+<field name="size">291442</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/2/20100720_Diane_Reed.pdf</field>
+<field name="checksum">b6798a2104ebe0f569441225b1182ce5</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">2</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">THUMBNAIL</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.JPG.jpg</field>
+<field name="originalName">20100720_Diane_Reed.JPG.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">11363</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/3/20100720_Diane_Reed.JPG.jpg</field>
+<field name="checksum">a4594ab20eacaf8c46e36bc719b33e2d</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">3</field>
+</element>
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.pdf.jpg</field>
+<field name="originalName">20100720_Diane_Reed.pdf.jpg</field>
+<field name="description">Generated Thumbnail</field>
+<field name="format">image/jpeg</field>
+<field name="size">9954</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/6/20100720_Diane_Reed.pdf.jpg</field>
+<field name="checksum">8119c02727be3023087e12592d3f0db8</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">6</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">BRANDED_PREVIEW</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.JPG.preview.jpg</field>
+<field name="originalName">20100720_Diane_Reed.JPG.preview.jpg</field>
+<field name="description">Generated Branded Preview</field>
+<field name="format">image/jpeg</field>
+<field name="size">43890</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/4/20100720_Diane_Reed.JPG.preview.jpg</field>
+<field name="checksum">29e8ce79c04c2fb2f9d237cabbc5c966</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">4</field>
+</element>
+</element>
+</element>
+<element name="bundle">
+<field name="name">TEXT</field>
+<element name="bitstreams">
+<element name="bitstream">
+<field name="name">20100720_Diane_Reed.pdf.txt</field>
+<field name="originalName">20100720_Diane_Reed.pdf.txt</field>
+<field name="description">Extracted text</field>
+<field name="format">text/plain</field>
+<field name="size">39664</field>
+<field name="url">http://dlynx.rhodes.edu:8080/jspui/bitstream/10267/33696/5/20100720_Diane_Reed.pdf.txt</field>
+<field name="checksum">fc07d6360d588ac55baf170354d5f849</field>
+<field name="checksumAlgorithm">MD5</field>
+<field name="sid">5</field>
+</element>
+</element>
+</element>
+</element>
+<element name="others">
+<field name="handle">10267/33696</field>
+<field name="identifier">oai:dlynx.rhodes.edu:10267/33696</field>
+<field name="lastModifyDate">2018-07-17 13:05:21.497</field>
+</element>
+<element name="repository">
+<field name="name">Rhodes College Digital Archives - DLynx</field>
+<field name="mail">newmanj@rhodes.edu</field>
+</element>
+</metadata>
