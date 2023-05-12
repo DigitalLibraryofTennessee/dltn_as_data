@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Nursing Profession Short Of Facilities, Funds"</title>
+  </titleInfo>
+  <identifier>Memphis - Nurses and nursing</identifier>
+  <identifier>CTFM030.jpg</identifier>
+  <name>
+    <namePart>Frierson, S.</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clemens, Ida</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1960-01-25</dateCreated>
+    <publisher>Commercial Appeal</publisher>
+  </originInfo>
+  <physicalDescription>
+    <form>newspaper clipping</form>
+    <note>mounted</note>
+    <extent>7 x 9.75 in.</extent>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16108.contentdm.oclc.org/cdm/ref/collection/p13039coll5/id/203</url>
+    <url access="preview">http://cdm16108.contentdm.oclc.org/utils/getthumbnail/collection/p13039coll5/id/203</url>
+    <url note="iiif-manifest">http://cdm16108.contentdm.oclc.org/iiif/info/p13039coll5/203/manifest.json</url>
+    <physicalLocation>Memphis &amp; Shelby County Room, MPLIC</physicalLocation>
+  </location>
+  <abstract>"...Despite the many attractions, not enough young girls are entering the profession. Shortage of hospital nurses with an R.N. (licensed as a registered nurse) has been a chronic ailment here and throughout the country a long time. Now the problem is fast becoming acute. It is most felt at the actual bedside of the patient. -- Last month, the Nurses' Official Registry received 1,406 calls from Memphis hospitals for registered nurses. The registry was able to fill only 970. Throughout the year, and average of 308 calls went unfilled each month..."</abstract>
+  <accessCondition type="local rights statement">Digital Image ©2010, Memphis Public Library &amp; Information Center. All rights reserved. While the Memphis Public Library &amp; Information Center may house an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use. Any image from the library's collection published in any form must cite as the source: Memphis and Shelby County Room, Memphis Public Library &amp; Information Center. For all requests, please contact the History Department at 901.415.2742 or hisref@memphistn.gov.</accessCondition>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083064">
+    <topic>Medicine</topic>
+  </subject>
+  <subject>
+    <topic>nursing</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147274">
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf">1960/1969</temporal>
+  </subject>
+  <subject>
+    <topic>Women in Medicine</topic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026867">clippings (information artifacts)</genre>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Memphis Information File</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>The M Files</title>
+    </titleInfo>
+    <abstract>A collection of all things Memphis... a little bit of this, a little bit of that. The M Files is a great place to find portraits and newspaper clippings, but also so much more. As the clippings from the Memphis Information File are digitized, they will be added to The M Files, but so will the smaller manuscript collections and most of the items used to create the topical digital displays in the Memphis Room. </abstract>
+    <location>
+      <url>http://cdm16108.contentdm.oclc.org/cdm/landingpage/collection/p13039coll5</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Memphis Public Library</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>
