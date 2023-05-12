@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ration book, Feb 17, 1813, to March 24, 1813</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/371</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/371</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/371/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Coffee, John, 1772-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Colonel John Coffee's ration book for his volunteer cavalry that detailed each company under his command and their rations each day. The book began at cantonment Washington, and followed the regiment to Camp Jackson. At the end of the book is an unrelated schedule of cotton picked from September to December 1822 and 1823 at Coffee's plantation of Hickory Hill in northern Alabama. It names 25 of his slaves and the cotton picked each day for the months of September, October, November, and December. Account details for various business associates were also included.</abstract>
+  <abstract>John Coffee was one of Andrew Jackson's closest friends. He served under him as general in the War of 1812, both during the Creek campaigns and at the Battle of New Orleans. They were associates in business and land ventures. Coffee, a large man, backed up Jackson in a number of his physical affrays. Coffee also served as surveyor-general for the Mississippi Territory, later Alabama, from 1817 until his death in 1833.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Slavery--United States</topic>
+  </subject>
+  <subject>
+    <topic>Cotton picking</topic>
+  </subject>
+  <subject>
+    <topic>Military rations</topic>
+  </subject>
+  <subject>
+    <topic>Cotton pickers</topic>
+  </subject>
+  <subject>
+    <topic>Cotton plantations</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Books</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

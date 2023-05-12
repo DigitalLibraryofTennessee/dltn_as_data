@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from John Coffee to Andrew Jackson Donelson, June 6, 1831, discussing the Benton affray</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/88</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/88</url>
+  </location>
+  <name>
+    <namePart>Coffee, John, 1772-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>John Coffee replied to Andrew Jackson Donelson's letter reporting the news that the ball in Jackson's arm from the 1813 shootout with the Benton brothers was about to be removed. Coffee wrote, "I rejoice to learn that the painful wound in the Genl's arm is about to be relieved by extracting the ball, which has remained in the arm, now about 18 years. He praised Jackson's fortitude for continuing to do business while enduring the painful wound. Jackson, of course, continued to carry a lead ball from his duel with Dickinson. The second page discussed Mr. [John] Branch and Mr. [Samuel D.] Ingham's feelings toward the president. The third page mentioned John C. Calhoun and Duff Green and their opposition to Jackson's administration.</abstract>
+  <abstract>On June 14, 1813, William Carroll and Jesse Benton dueled; Jackson, unable to calm the parties, served as Carroll's second. Later in 1813, Jackson and John Coffee crossed paths with Jesse and his brother Thomas Hart Benton outside of a tavern in Nashville. Thomas, angered by Jackson's inability to prevent the duel between his brother and Carroll, confronted Jackson, who drew a whip. Benton drew his gun and Jackson followed suit. Jesse approached from behind and both Bentons shot Jackson, who returned fire. Coffee came to Jackson's defense and shot at Thomas Hart Benton, but missed. Jackson took a ball to the upper part of his left arm. Doctors wanted to amputate the arm, but Jackson refused. Doctors were finally able to retrieve the ball about twenty years later.</abstract>
+  <originInfo>
+    <dateCreated>1831 June 6</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Dueling</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Thomas Hart, 1782-1858</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Jesse</topic>
+  </subject>
+  <subject>
+    <geographic>Florence (Ala.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

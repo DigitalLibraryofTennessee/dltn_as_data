@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from John Overton to John Coffee, August 18, 1828</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/319</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/319</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/319/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Overton, John, 1766-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Written in the context of Jackson's coterie of close supporters rallying to his defense during the 1828 electoral campaign, Overton informed Coffee that "the Nashville committee" was "collecting evidence in vindication of General Jackson in relation to the Burr conspiracy." Overton revealed that William L. Brown and William B. Lewis, two committee members, were of the same opinion as him. The style of the 1820s campaigns was such that each side's supporters would launch published and often personal attacks on their man's rivals; in Jackson's case, the "Nashville committee" would then formulate and distribute their rebuttals, often through the means of such correspondence. Overton requested that Coffee make haste to join them.</abstract>
+  <abstract>Aaron Burr stayed at the Hermitage as Jackson's guest in 1805 before meeting his co-conspirator General James Wilkinson at Fort Massac and continuing on to New Orleans. Later in 1805, Wilkinson accused Burr of treason, who was arrested in 1806, in Mississippi Territory by Edmund Pendleton Gaines. Burr was tried and found not guilty. Jackson testified at his trial.</abstract>
+  <originInfo>
+    <dateCreated>1828 August 18</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Coffee, John, 1772-1833</topic>
+  </subject>
+  <subject>
+    <topic>Burr, Aaron, 1756-1836</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Presidential elections--1820-1830</topic>
+  </subject>
+  <subject>
+    <topic>Election campaigns</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

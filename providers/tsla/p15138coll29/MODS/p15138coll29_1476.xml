@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Pvt. Joseph W. Knox to his mother</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/1476</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/1476</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/1476/manifest.json</url>
+  </location>
+  <abstract>Pvt. Joseph William Knox of Dyer, Tennessee, served in Co. E, 11th Inf. Regt. He arrived in France Sept. 1918 and fought the last week of the Meuse-Argonne offensive. He served guard duty after the armistice. He wrote that the sun was shining after days of rain, that he was having a good time, learning a word a day of the language and had a bed with springs. Knox said he was broke, but payday was a few days off, then wished his family Happy New Year. [See also GWjack018-024, 500-516]</abstract>
+  <originInfo>
+    <dateCreated>1919 January 1</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Esch-sur-Alzette (Luxembourg)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson, Madison County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

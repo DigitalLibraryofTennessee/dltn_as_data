@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to Andrew Jackson Hutchings, April 18, 1833</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/163</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/163</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Jackson wrote his former ward, A. J. Hutchings, regarding the Hermitage and the death of two his enslaved persons. Jackson wrote that he "sincerely regret[ted] the loss of they two sampsons" and this it did not occur "from neglect or inhumanity, but from the will of our creator." He was informed that neglect may have been the cause of the death of the enslaved Titus and Anade. Jackson expressed delight that Hutchings had begun managing his own estate and warned him of those who might try to swindle him. He mentioned Dr. Hagg and a payment to Hutchings. He asked about Hutchings family, specifically John Coffee, Mary Coffee, Thomas J. Donelson, Samuel Donelson, and Severn Donelson. He discussed farm business, crops, slaves, and management. He told Hutchings to "seek a wife, one who will aid you in your assertions" and know how to manage money. He used Rachel, John Coffee, and Polly [Mary Coffee] as examples. He warned him of debt, saying "if you get in debt, you become a slave."</abstract>
+  <abstract>Andrew Jackson Hutchings was the grandson of Rachel's sister Catherine. His parents, John Hutchings and Polly Smith Hutchings, died in 1817, when A. J. was only 5. He lived with Andrew and Rachel as a ward, until it was time for him to attend college. He married John Coffee's daughter, Mary, in 1833. Hutchings died in 1841.</abstract>
+  <originInfo>
+    <dateCreated>1833 April 18</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Hutchings, Andrew Jackson, 1812-1841</topic>
+  </subject>
+  <subject>
+    <topic>Slavery--United States</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

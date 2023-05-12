@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Framed collection of ephemera relating to Pvt. John F. Blair</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/368</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/368</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/368/manifest.json</url>
+  </location>
+  <abstract>This framed collection of items related to Pvt. John F. Blair, Co. G, 128th Inf. Regt., 32nd Div. includes a photo postcard showing the USS Leviathan, a troop billet card, a photograph, a letter and a wound tag. John was slightly wounded on October 6, 1918 during the Argonne Offensive. His brother Charles (Charley) was killed in action on October 9, 1918 (see GWnash039). The Leviathan was a troop ship that transported American troops across the Atlantic during World War, 1917-1918.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Blair, John F.</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Nashville, Davidson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Correspondence</form>
+    <form>Postcards</form>
+  </physicalDescription>
+</mods>

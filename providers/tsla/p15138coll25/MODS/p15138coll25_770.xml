@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>John Harding cabin at Belle Meade Plantation</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/770</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/770</url>
+  </location>
+  <abstract>John Harding cabin at Belle Meade Plantation, with unidentified African American male and two children on porch.</abstract>
+  <abstract>John Harding purchased the land in 1807 and he and his family lived in the cabin for several years until the Belle Meade home was completed in 1820. Slaves lived in the cabin between the 1820's and Civil War. The cabin was later occupied by Robert "Bob" Green who helped with the Thoroughbred program and Belle Meade Stud farm.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Belle Meade Plantation (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Plantations--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Plantations</topic>
+  </subject>
+  <subject>
+    <topic>Log cabins</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

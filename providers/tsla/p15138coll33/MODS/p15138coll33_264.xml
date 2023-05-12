@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Plat of John Rice tract (approximately 1824)</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/264</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/264</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/264/manifest.json</url>
+  </location>
+  <abstract>Plat showing the division of the 5,000 acre John Rice tract on the Fourth Chickasaw Bluff that would later be the site of Memphis, Tennessee. This division was between the three men credited with being the founders of Memphis--John Overton, Andrew Jackson, and James Winchester. John Rice, a land speculator, had bought the warrant for this North Carolina grant from Secretary of State John Armstrong's office in the 1780s when this land was Indian territory. Rice was murdered by the Cherokee warrior Doublehead in 1792, long before this part of West Tennessee was opened for settlement by Jackson's treaty with the Chickasaw in 1818.</abstract>
+  <abstract>John Rice was granted 5,000 acres along the Mississippi River on the Fourth Chickasaw Bluff in 1789 by the state of North Carolina. John Overton purchased it from Rice's brother Elisha Rice in 1794 for £1,000. Overton sold half of the tract to Andrew Jackson, who sold a portion of his claim to James Winchester for $5,000. The land along the river was set aside as public land to lay out the city of Memphis.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1824</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Overton, John, 1766-1833</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Winchester, James, 1752-1826</topic>
+  </subject>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <subject>
+    <topic>Boundaries</topic>
+  </subject>
+  <subject>
+    <topic>Plats</topic>
+  </subject>
+  <subject>
+    <geographic>Memphis (Tenn.); Shelby County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Claybrooke and Overton Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Maps</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

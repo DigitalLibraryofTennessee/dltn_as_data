@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Kenneth Redford to his sister regarding news and life in the military during World War I</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2231</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2231</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2231/manifest.json</url>
+  </location>
+  <abstract>In this handwritten letter, Musician Kenneth Redford, 114th FA, HQ Co., 30th Div., responds to the latest letter he received from his sister. He describes washing dishes and drying them with toilet paper. He mentions reading a letter to an illiterate comrade, recent recreational activities, and receiving packages. He also states that the government is sending horses, but the artillery is still drilling with wooden guns. Redford is stationed in Greenville, South Carolina at the time.</abstract>
+  <originInfo>
+    <dateCreated>1917 November 5</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Greenville (S.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Cool Springs, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

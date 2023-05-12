@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>One-half of stereograph of Andrew Jackson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/295</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/295</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/295/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Anthony, Edward</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This portrait of Andrew Jackson was most likely taken by Edward Anthony in 1844 or 1845, just months before Jackson's death. Anthony traveled to the Hermitage to photograph the former president in a series of daguerreotypes. Matthew Brady copied Anthony's daguerreotype and displayed it in his New York Studio, popularizing the image. This particular copy was distributed at a later date by Anthony's company, E. &amp; H. T. Anthony &amp; Co.</abstract>
+  <abstract>In 1819, Edward Anthony was born in New York City. After graduating from Columbia, he studied the daguerreotype process under Samuel Morse. In the 1860s he and his brother, H. T. opened a portrait gallery in New York City. Anthony died in 1888. (Gilbert, Jacqueline, International Center of Photography) Matthew Brady was born in Ireland and immigrated to the United States in 1838. He studied the daguerreotype process under Samuel Morse before striking out on his own. He opened a studio to exhibit his portraits of American politicians and other celebrities. He is perhaps most well-known for his photographic documentation of the Civil War, which left him mired in debt for the remainder of his life.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Stereographs</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Stereographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

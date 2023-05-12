@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Newspaper clipping, members of Btry. B, 114th F.A., 30th Div.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2934</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2934</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2934/manifest.json</url>
+  </location>
+  <abstract>This newspaper photograph and cutline from The Chattanooga Free Press document the 45th reunion of Battery "B," 114th F.A., 30th Div., held on Sept. 14, 1964, at Edmund's. The Still Image shows the men gathered around the dining tables. Five are seated in front, more are seated at the tables and others are standing at the back. The cutline lists the participants in alphbetical order.</abstract>
+  <originInfo>
+    <dateCreated>1964 September 14</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Newspapers</form>
+    <form/>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

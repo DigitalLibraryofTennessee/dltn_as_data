@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Highlander Songsheet</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1896</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1896</url>
+  </location>
+  <abstract>A typed copy of a songsheet with the lyrics to six songs, including "We Shall Not Be Moved" and "We Will Overcome."</abstract>
+  <abstract>The song "We Shall Overcome" began as the gospel song "We Will Overcome." It was first used as a protest song by striking cigar workers in Charleston, South Carolina, led by Lucille Simmons, in 1945. Zilphia Horton learned the song from Simmons, and taught it to organizers while musical director at Highlander Folk School. This is where Pete Seeger and Guy Carawan learned the tune and all three are credited on the copyright. The three continued teaching the song at Highlander after its switch to Civil Rights and here began the song's transition to a Civil Rights mainstay. Dr. Martin Luther King even quoted the song in his final speech at Mason Temple in Memphis, Tennessee, the night before his assassination.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Folk music</topic>
+  </subject>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Education</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Songs and music</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement--United States--History</topic>
+  </subject>
+  <subject>
+    <geographic>Monteagle (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Highlander Folk School Manuscript Collection, 1932-1966</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1811</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Songbooks</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

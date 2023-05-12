@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Myles Horton to Merl Eppse</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1025</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1025</url>
+  </location>
+  <name>
+    <namePart>Horton, Myles, 1905-1990</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Letter from Horton acknowledging Eppse's attendance at an interracial conference in May 1943. Horton states "you have a real contribution to make and we urge you to join us."</abstract>
+  <abstract>Merl Raymond Eppse was a historian who taught at Tennessee State University for over 30 years. He served as president of the Tennessee Negro Education in the late 1940s and founded the National Publication Company in Nashville to publish his many books which included one of the first American History textbooks to include African American history. He retired in 1962 and moved to Los Angeles where he died in 1967. His donated his papers to the Tennessee State Library and Archives where they currently reside.</abstract>
+  <originInfo>
+    <dateCreated>1943 April 23</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Eppse, Merl R. (Merl Raymond), 1893-</topic>
+  </subject>
+  <subject>
+    <topic>Yergan, Max, 1892-1975</topic>
+  </subject>
+  <subject>
+    <topic>Meetings</topic>
+  </subject>
+  <subject>
+    <topic>Race relations</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Merl R. Eppse Papers, 1927-1961</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-120</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

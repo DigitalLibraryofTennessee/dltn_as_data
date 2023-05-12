@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of the Old Hickory Rayon Plant</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3437</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3437</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3437/manifest.json</url>
+  </location>
+  <abstract>This photograph depicts Plants One and Two of the DuPont Rayon Plant, with number one being on the right side of the picture. When number two was built the two plants were connected as they appear here. The gate house, where workers checked in and out, was nicknamed "the dog house." Old Hickory was the home of a massive munitions plant built by DuPont during WWI. In the late 1920s, DuPont returned to the area and began making Rayon, Remay, and Cellophane.</abstract>
+  <originInfo>
+    <dateCreated>1940s</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World war, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World war, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <topic>World war, 1914-1918 -- war work</topic>
+  </subject>
+  <subject>
+    <topic>Chemical plants -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Industrial sites</topic>
+  </subject>
+  <subject>
+    <topic>Defense industries</topic>
+  </subject>
+  <subject>
+    <topic>Gunpowder industries</topic>
+  </subject>
+  <subject>
+    <topic>Gunpowder</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>War work</topic>
+  </subject>
+  <subject>
+    <topic>Defense industry</topic>
+  </subject>
+  <subject>
+    <topic>Defense contracts</topic>
+  </subject>
+  <subject>
+    <topic>Chemical industry</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <geographic>Old Hickory (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Old Hickory, Davidson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Confederate cavalry staff officer's sword &amp; scabbard</title>
+  </titleInfo>
+  <identifier>fran092</identifier>
+  <originInfo>
+    <dateCreated>before May 1862</dateCreated>
+    <place>Sewanee, Franklin County, Tennessee</place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Weapons and ammunition</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll6/id/5870</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll6/id/5870</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll6/5870/manifest.json</url>
+  </location>
+  <abstract>Memphis Novelty Works-made sword, manufactured in Memphis for a private purchaser. The blade is a Roman-style blade with brass guard, leather and brass-wrapped grip; with lap-seamed scabbard. There are fewer than 8 surviving examples of this style saber, which would have been carried by lieutenants and captains.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Memphis (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Looking Back: The Civil War in Tennessee</title>
+    </titleInfo>
+    <abstract>To commemorate the 150th anniversary of the Civil War (2011-2015), the Tennessee State Library and Archives is sending teams of archivists and conservators to communities across Tennessee. Individuals may schedule an appointment, and we will digitally copy and assist in the preservation of your Civil War era manuscripts, artifacts and photographs. Digital copies of these items, representing the rich Civil War heritage of Tennessee families, will become part of a virtual exhibit commemorating the 150th anniversary of the war in Tennessee....</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/cwtn/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

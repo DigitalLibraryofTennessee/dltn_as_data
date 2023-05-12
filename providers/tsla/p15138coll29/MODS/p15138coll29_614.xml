@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Pettis Graham Gordon with Bart Gordon</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/614</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/614</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/614/manifest.json</url>
+  </location>
+  <abstract>Pettis Graham Gordon is on the left and Congressman Bart Gordon is in the center. The photograph was taken in Rutherford County around 1992 to recognize the two oldest veterans in the county. The other veteran is unidentified. Pettis Graham Gordon served in the 323rd Inf. Regt., 81st Div. during the World War, 1914-1918 and was from Christiana, Rutherford County, Tennessee.</abstract>
+  <originInfo>
+    <dateCreated>1992 October</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Gordon, Pettis Graham</topic>
+  </subject>
+  <subject>
+    <topic>Gordon Bart</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Rutherford County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson, Madison County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

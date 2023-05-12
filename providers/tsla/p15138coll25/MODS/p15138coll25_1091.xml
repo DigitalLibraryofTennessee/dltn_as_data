@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Aerial view of the Tennessee Copper Company</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1091</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1091</url>
+  </location>
+  <abstract>Aerial view of the Tennessee Copper Company showing the plant and other buildings as well as the landscape around the area.</abstract>
+  <abstract>In 1899, the Tennessee Copper Company was incorporated and chartered by the Lewisohn Brothers, and work began that year on the mining properties and clearing the land for the development of plants. Prior to this, the area had already been used by the copper mining industry. Eventually, the ecological devastation of the area led to it being considered the largest man-made biological desert in the country and also brought about the first study on the long-term effects of acid rain.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Copper industry</topic>
+  </subject>
+  <subject>
+    <topic>Aerial views</topic>
+  </subject>
+  <subject>
+    <topic>Industrial facilities</topic>
+  </subject>
+  <subject>
+    <geographic>Copperhill (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

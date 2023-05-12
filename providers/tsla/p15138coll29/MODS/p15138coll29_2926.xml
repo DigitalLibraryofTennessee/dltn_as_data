@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Panoramic photograph of Co. D, 117th Inf. Regt., 30th Div.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2926</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2926</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2926/manifest.json</url>
+  </location>
+  <abstract>This section of a larger panoramic photograph shows a portion of Co. D, 117th Inf. Regt., 30th Div. The soldier with the "x" beneath him is Pvt. William C. Crenshaw. The men are shown wearing overseas caps, puttees, cartridge belts and holding P-17 Enfield Rifles. The 30th Div. consisted of National Guard units from Tennessee and North and South Carolina.</abstract>
+  <originInfo>
+    <dateCreated>1917 March 30</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>Camp Jackson (S.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

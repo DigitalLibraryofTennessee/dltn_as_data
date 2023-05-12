@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>John Rhea</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/141</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/141</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/141/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Harrison, William, 1774-</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A portrait of John Rhea wearing a jacket with multiple collars and buttons as well as a white shirt with a collar. He is looking towards the viewer.</abstract>
+  <abstract>U.S. Representative from Tennessee, Rhea was born Ireland and practiced law. A War Hawk in Congress, Rhea urged the declaration of war against Great Britain in 1812.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Rhea, John, 1753-1832</topic>
+  </subject>
+  <subject>
+    <topic>Legislators--United States</topic>
+  </subject>
+  <subject>
+    <topic>United States. Navy--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Legislative bodies</topic>
+  </subject>
+  <subject>
+    <topic>Buttons</topic>
+  </subject>
+  <subject>
+    <topic>Collars</topic>
+  </subject>
+  <subject>
+    <topic>Legislators</topic>
+  </subject>
+  <subject>
+    <topic>Government officials</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

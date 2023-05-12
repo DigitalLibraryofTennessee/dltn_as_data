@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Coxswain John Jacob Baggenstoss</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/1845</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/1845</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/1845/manifest.json</url>
+  </location>
+  <abstract>Baggenstoss was from Tracy City, Grundy County, Tennessee his parents were Swiss immigrants. He joined the US Navy on June 14, 1917 and served until July 31, 1919. His photo album indicates some service with US Navy floating planes. Other photographs indicate the his ship was part of the search for the USS Cyclops. The Cyclops disappeared in March 1918 in the Bermuda Triangle with over 300 passengers and crew aboard. It was the largest loss of life in U.S. Navy history not involving combat.</abstract>
+  <originInfo>
+    <dateCreated>1917-1920</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Baggenstoss, John Jacob</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Maryville, Blount County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

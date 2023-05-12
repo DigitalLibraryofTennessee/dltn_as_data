@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Interview with Margaret Sanders about victory gardens and shortages during World War II</title>
+  </titleInfo>
+  <identifier>42882</identifier>
+  <name>
+    <namePart>Tennessee Historical Society</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1993-05-12</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll18/id/1173</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll18/id/1173</url>
+    <physicalLocation>Tennessee Historical Society</physicalLocation>
+  </location>
+  <subject>
+    <topic>World War 1939-1945</topic>
+  </subject>
+  <subject>
+    <topic>Women and the military</topic>
+  </subject>
+  <subject>
+    <topic>United States-- Armed Forces--Women's Reserves</topic>
+  </subject>
+  <subject>
+    <topic>United States-- Armed Forces-- Women</topic>
+  </subject>
+  <subject>
+    <topic>World War 1939-1945-- Participation, Female-- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>World War 1939-1945-- War Work-- Tennessee</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147274">
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Victory gardens</topic>
+  </subject>
+  <subject>
+    <topic>consumer rationing</topic>
+  </subject>
+  <abstract>Video interview of Margaret Sanders by Susan Gordon of the Tennessee Historical Society. In this clip, Gordon asks Sanders if she knew anyone who planted a victory garden during World War II. Sanders states that she did and that as a member of the board of the Nashville Council of Garden Clubs, she got permission from the Board of Education to use the kitchens in the Nashville public schools to set up classes where local gardeners could come to the public schools and learn how to can and preserve food. Sanders speculates there were about twenty-two million victory gardens across the United States during the war and the techniques were different then for preserving food than they are now.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees, that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>"Home Front" World War II Oral History, 1991-1993</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Education Outreach</title>
+    </titleInfo>
+    <abstract>We're here to help you bring Tennessee history alive in the classroom! The Tennessee State Library and Archives (TSLA) is a great resource for educators and students seeking primary sources for use in the classroom. With extensive holdings in Tennessee, Southern, and regional history, TSLA is also the official repository for the permanent records of the State of Tennessee...</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/educationoutreach/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

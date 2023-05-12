@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"The Doings of Women Folk"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/687</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/687</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/687/manifest.json</url>
+  </location>
+  <name>
+    <namePart>[Nashville] Daily American</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>The Daily American reports on the International Council of Women in Washington and mentions several prominent individuals such as Elizabeth Cady Stanton and Julia Ward Howe. The article states, "It has been one of the most imposing bodies of women ever assembled, and indicates a more widely spread desire on the part of women for suffrage than has been evidenced before."</abstract>
+  <abstract>The National Woman Suffrage Association, led by Susan B. Anthony and Elizabeth Cady Stanton, held the first meeting of the International Council of Women (ICW) in Washington, D. C. on March 25, 1888. This meeting was not only intended to establish the new organization, but also to celebrate the fortieth anniversary of the Seneca Falls Convention. The organization still operates across national boundaries in pursuit of human rights for women.</abstract>
+  <originInfo>
+    <dateCreated>1888 April 3</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women--Civil Rights</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <subject>
+    <topic>Political participation</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Suffrage</topic>
+  </subject>
+  <subject>
+    <topic>Susan B. Anthony</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D. C.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Newspapers on Microfilm</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Newspapers on Microfilm</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Articles</form>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Coleman's Scouts</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/11</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/11</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/11/manifest.json</url>
+  </location>
+  <abstract>Secret reunion of Coleman's Scouts, CSA, held in Nashville. L-R, seated: W.M. Roberts, Sam Roberts, Capt. Henry B. Shaw (alias Coleman), J.M. Shute, George D. Hughes. L-R, standing: W.H. Porch, John G. Davis, and Robert F. Cotton.</abstract>
+  <abstract>Sam Davis, brother of John G. Davis and "boy hero of the Confederacy," was a member of this unit.</abstract>
+  <originInfo>
+    <dateCreated>1866</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Photomontage</topic>
+  </subject>
+  <subject>
+    <topic>Armed Forces--Officers</topic>
+  </subject>
+  <subject>
+    <topic>Reunions</topic>
+  </subject>
+  <subject>
+    <topic>Military scouts</topic>
+  </subject>
+  <subject>
+    <topic>Reunions</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Military personnel</topic>
+  </subject>
+  <subject>
+    <topic>Military officers</topic>
+  </subject>
+  <subject>
+    <topic>Military uniforms</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Negative File</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

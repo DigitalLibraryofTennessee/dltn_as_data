@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bird's eye view of Clarksville, Tenn. and Cumberland River</title>
+  </titleInfo>
+  <identifier>49374</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">uuuu</dateCreated>
+    <publisher>Anderson's News Agency</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Postcards</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/tpc/id/752</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/tpc/id/752</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114250">
+    <topic>Rivers</topic>
+  </subject>
+  <subject>
+    <topic>Cityscapes</topic>
+  </subject>
+  <abstract>Color tinted and enhanced photograph of the Cumberland River with the Clarksville skyline in the distance. Postcard features a white border and divided back. [No. C-11] [No. 2B-H1283]</abstract>
+  <accessCondition type="local rights statement">Copyright not evaluated: http://rightsstatements.org/vocab/CNE/1.0/</accessCondition>
+  <subject>
+    <geographic>Clarksville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Montgomery County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Clarksville (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Tennessee Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>1995-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Tennessee Postcard Collection</title>
+    </titleInfo>
+    <abstract>The items in the Tennessee Postcard Collection span a broad timeframe and include images from across the state. Unlike other collections at the Tennessee State Library and Archives, the items in this grouping are similar only in format. The postcards that comprise the Tennessee Postcard Collection have been gathered from various manuscript collections and placed in a central repository to facilitate research and to ease storage...</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/tpc</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

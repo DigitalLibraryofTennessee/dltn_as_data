@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>House Bill 1165, 1917</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/837</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/837</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/837/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Tennessee. General Assembly</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This bill amended the Charter of the Town of Lookout Mountain to allow women over the age of twenty-one to vote in the town's municipal elections. The bill also stipulated that "one of the three school directors provided for in said charter shall be a woman." It further explained that the two male candidates receiving the highest number of votes among the men who are candidates and the woman receiving the highest number of votes among the women who are candidates would constitute the Board of School Directors for Lookout Mountain. A typescript of the document is included.</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history.</abstract>
+  <originInfo>
+    <dateCreated>1917 March 15</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Legal status, laws, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Election law -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Voting</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- Politics and government -- 1865-1950</topic>
+  </subject>
+  <subject>
+    <topic>Law &amp; legal affairs</topic>
+  </subject>
+  <subject>
+    <topic>Legislative bodies</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Legislative Records</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Window display at department store</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/425</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/425</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/425/manifest.json</url>
+  </location>
+  <abstract>Loveman, Berger, and Teitlebaum Department Store at 5th and Union. View of display window featuring 1862 women's clothing on mannequins and small dolls. A card in the window names an item as property of Mrs. Geo. L. Price.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Clothing</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Women's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Fashion merchandising</topic>
+  </subject>
+  <subject>
+    <topic>Merchandising</topic>
+  </subject>
+  <subject>
+    <topic>Women's clothing industry</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Department stores--United States</topic>
+  </subject>
+  <subject>
+    <topic>Display of merchandise</topic>
+  </subject>
+  <subject>
+    <topic>Dolls</topic>
+  </subject>
+  <subject>
+    <topic>Stores &amp; shops</topic>
+  </subject>
+  <subject>
+    <topic>Department stores</topic>
+  </subject>
+  <subject>
+    <topic>Clothing industry</topic>
+  </subject>
+  <subject>
+    <topic>Fashion industry</topic>
+  </subject>
+  <subject>
+    <topic>Mannequins</topic>
+  </subject>
+  <subject>
+    <topic>Clothing stores</topic>
+  </subject>
+  <subject>
+    <topic>Window displays</topic>
+  </subject>
+  <subject>
+    <topic>Merchandise displays</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

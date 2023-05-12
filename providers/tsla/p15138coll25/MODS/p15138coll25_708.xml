@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>George Stoddart Blackie</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/708</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/708</url>
+  </location>
+  <name>
+    <namePart>Doole, R.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Portrait of George Stoddart Blackie (1834-1881).</abstract>
+  <abstract>Born in Scotland, he was a botanist, doctor, member of Knights Templar, and a professor at many different universities including the University of Nashville, Tennessee College of Pharmacy, and Nashville Medical College. During the Civil War, he was appointed Surgeon to the Provisional Army of the Confederate States. He was a co-editor of the Nashville Medical Journal and contributor to the London Botanical Gazette and the North American Surgical Review. Publications include "Cretins and Cretinism," 1885; "The Medical Flora of Tennessee," 1857, and "History of the Military Monkish Orders of the Middle Ages."</abstract>
+  <originInfo>
+    <dateCreated>1860</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Blackie, George Stodart, 1834-1881</topic>
+  </subject>
+  <subject>
+    <topic>Botanists</topic>
+  </subject>
+  <subject>
+    <topic>Editors</topic>
+  </subject>
+  <subject>
+    <topic>Teachers</topic>
+  </subject>
+  <subject>
+    <topic>Physicians</topic>
+  </subject>
+  <subject>
+    <topic>Authors</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Cartes de visite</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

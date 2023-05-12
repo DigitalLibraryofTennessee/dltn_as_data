@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Myles Horton to Governor Cooper</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1212</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1212</url>
+  </location>
+  <name>
+    <namePart>Horton, Myles, 1905-1990</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Letter from Horton to Gov. Prentice Cooper regarding his stance on the poll tax. Horton incudes quotes from various regional newspapers and appeals to Tennessee's history as the deciding state in the ratification of the 19th Amendment and the state's constitution allowing all citizens suffrage without a poll tax.</abstract>
+  <abstract>Poll taxes are a form of voter suppression targeting poor and minority voters. They required the payment of a tax in order to vote. Coupled with literacy tests and extra-judicial violence and intimidation they discouraged and illegalized minority voting in the Jim Crow-era.</abstract>
+  <originInfo>
+    <dateCreated>1940 April 10</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Poll tax--Law and legislation</topic>
+  </subject>
+  <subject>
+    <topic>Voting</topic>
+  </subject>
+  <subject>
+    <topic>Suffrage</topic>
+  </subject>
+  <subject>
+    <topic>Southern Conference for Human Welfare</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>GP 44: Governor Prentice Cooper Papers, 1939-1945</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>GP 44</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

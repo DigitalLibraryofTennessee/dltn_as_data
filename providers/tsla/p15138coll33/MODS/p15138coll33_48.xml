@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Willie Blount to Andrew Jackson, June, 1833</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/48</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/48</url>
+  </location>
+  <name>
+    <namePart>Blount, Willie, 1768-1835</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Letter from former Tennessee governor Willie Blount to President Andrew Jackson regarding a number of political issues that "contains [his] honest sentiments." Blount began discussing state sovereignty and the Nullification Crisis, decrying the South Carolinians' "noise, "splutters," and "empty declarations." He referred to speeches made by "Stephenson [Andrew Stevenson]," William Cabell Rives, and Daniel Webster that "knock[ed] the doctrine of nullification and secession on the head." He opined that "the Nullifiers of South Carolina will never again run as near the brink of their destruction, as they did. " Blount then moved on to the Force Bill which he described as "the best and most important bill passed at the last session. " Blount believed that the Bill to reduce the Tariff "still need[ed] much alteration and amendment to make it most right. " He then discussed Jackson's administration, comparing it to its predecessors. Blount referred to the policy of Indian removal as "humane and laudable." He expressed a need for "watchfulness and vigilance" regarding western lands. He touched briefly on the Bank Wars but quickly returned to the Nullification Crisis, praising Jackson for "saving the union" against the "boldfaced outrage" of the Southern secessionists.</abstract>
+  <abstract>The Nullification Crisis was a confrontation between the federal government and South Carolina over tariffs, South Carolina's perceived rights, and the threat of secession. It began with the passage of the Tariff of 1828, referred to by the South Carolinians as the "Tariff of Abominations." They argued that the tariff protected manufacturing rather than agriculture. Jackson's election as president was expected to ease the tensions, but Jackson refused to lower the tariff until national debts were repaid. After the passage of the Tariff of 1832, Jackson issued the Proclamation to the People of South Carolina denouncing the nullification doctrine. In the following session, the Force Bill was introduced to Congress, which authorized the use of force to ensure that South Carolina would comply with federal tariffs. This led to the introduction of the Compromise Tariff of 1833. The passage of these two bills eased the rising tensions and ultimately ended the crisis.</abstract>
+  <originInfo>
+    <dateCreated>1833 June</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Nullification (States' rights)</topic>
+  </subject>
+  <subject>
+    <topic>Tariff</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

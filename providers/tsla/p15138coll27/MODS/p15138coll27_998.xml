@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Senate Joint Resolution 1, 1920</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/998</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/998</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/998/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Tennessee. General Assembly</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This joint resolution of the 61st General Assembly of the State of Tennessee to ratify the proposed amendment to the Constitution of the United States to provide for women's suffrage was the source of heated debate in Tennessee in August 1920. The document includes the text of House Joint Resolution 1 from the 66th U. S. Congress that proposed the constitutional amendment granting women the right to vote. The State Senate ratified the amendment on August 13, 1920. The House of Representatives was evenly divided, and a fierce debate raged in newspapers, hotel lobbies and government offices, before the resolution was ratified by the House on August 18, 1920. Anti-suffrage legislators tried to have the ratification repealed, but were unsuccessful. Secretary of State Bainbridge Colby issued the proclamation that declared the ratification of the 19th Amendment, making it part of the United States Constitution, on August 26, 1920.</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history.</abstract>
+  <originInfo>
+    <dateCreated>1920 August 10</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Constitutional amendments -- United States -- Ratification</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Legal status, laws, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Election law -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Voting</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- Politics and government -- 1865-1950</topic>
+  </subject>
+  <subject>
+    <topic>Law &amp; legal affairs</topic>
+  </subject>
+  <subject>
+    <topic>Legislative bodies</topic>
+  </subject>
+  <subject>
+    <topic>Resolutions</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1920 Senate Joint Resolutions, SJR1</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Legislative records</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

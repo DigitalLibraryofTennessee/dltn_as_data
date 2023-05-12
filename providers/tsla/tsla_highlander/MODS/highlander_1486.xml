@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Staff Report on Clinton High School Student Visit</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1486</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1486</url>
+  </location>
+  <name>
+    <namePart>Marlowe, Mikii</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Report from Mikii Marlowe on visit of African American students from Clinton High School. This visit to Highlander is just a few months after the Clinton Twelve first desegregated Clinton High School.</abstract>
+  <abstract>On August 26, 1956, The Clinton Twelve: Maurice Soles, Anna Theresser Caswell, Alfred Williams, Regina Turner Smith, William R. Latham, Gail Ann Epps Upton, Ronald Gordon "Poochie" Hayden, JoAnn Crozier Allen Boyce, Robert Thacker, Bobby Cain, Minnie Ann Dickey Jones, and Alvah McSwain, became the first Black students to desegregate a public school in the South in Clinton, Tennessee. On September 1, led by John Kasper and Asa Carter, the White Citizens Council and the Ku Klux Klan, began protesting and rioting in response to integration, destroying property and threatening the lives of the Clinton Twelve. In December 1956, the students visited Highlander Folk School to recount their story and encourage others to follow suit. On the morning of October 5, 1958, Clinton High School was torn apart by at least 75 sticks of dynamite, but no arrests were ever made. A statue of the Clinton Twelve stands outside the Green McAdoo Cultural Center in Clinton, Tennessee.</abstract>
+  <originInfo>
+    <dateCreated>1956 December</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Segregation in education</topic>
+  </subject>
+  <subject>
+    <topic>School integration</topic>
+  </subject>
+  <subject>
+    <topic>Passive resistance</topic>
+  </subject>
+  <subject>
+    <topic>Nonviolence</topic>
+  </subject>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <topic>Race discrimination</topic>
+  </subject>
+  <subject>
+    <topic>Discrimination in education</topic>
+  </subject>
+  <subject>
+    <topic>Education--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Highlander Folk School Manuscript Collection, 1932-1966</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1811</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Reports</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

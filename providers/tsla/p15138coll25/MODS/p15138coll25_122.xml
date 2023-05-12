@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Colonel Frank W. McNairy</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/122</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/122</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/122/manifest.json</url>
+  </location>
+  <abstract>Lt. Colonel Frank N. McNairy in Confederate uniform. His right hand rests on the hilt of a sword; he holds a slouch hat in the other hand on his left hip. Written beneath the image is "Killed in the second battle of Fort Donelson."</abstract>
+  <abstract>McNairy was killed in the "Second Battle of Fort Donelson," the February 3, 1863, event when 2500 Confederate troops under Maj. Gen. Joseph Wheeler attacked a small garrison (800 men) at Dover, Tenn., under Col. A.C. Harding.; The Confederate failure to capture the garrison left the Federals in control of Middle Tennessee. Nathan Bedford Forrest denounced Wheeler after this battle and refused to serve under him again.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1861-1862</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>McNairy, Frank N.</topic>
+  </subject>
+  <subject>
+    <topic>United States - History - Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee - History - Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Fort Donelson (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Armed Forces--Officers</topic>
+  </subject>
+  <subject>
+    <topic>Caps (Headgear)</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <subject>
+    <topic>Military Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Military personnel</topic>
+  </subject>
+  <subject>
+    <topic>Military officers</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

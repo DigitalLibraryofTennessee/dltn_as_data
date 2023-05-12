@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ashwood Hall entrance</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1047</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1047</url>
+  </location>
+  <name>
+    <namePart>Calvert Brothers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Front view of Ashwood Hall, Columbia, Tennessee, showing seven unidentified individuals. The home has full-length windows, Corinthian columns, a triangular pediment, and iron railing. Two wings with porches extend from the main block.</abstract>
+  <abstract>Ashwood Hall, known as the Marble Mansion, was built for Bishop Leonidas Polk in the 1830's. The house was later sold to Andrew Jackson Polk, who had the home expanded. The home was destroyed by a fire in 1874.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Dwellings--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Architecture, Domestic--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Houses</topic>
+  </subject>
+  <subject>
+    <topic>Columns</topic>
+  </subject>
+  <subject>
+    <topic>Corinthian order</topic>
+  </subject>
+  <subject>
+    <topic>Mansions</topic>
+  </subject>
+  <subject>
+    <geographic>Columbia (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

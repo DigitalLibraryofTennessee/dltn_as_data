@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Reba L. Howard, 57th Pioneer Inf. Regt.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2876</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2876</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2876/manifest.json</url>
+  </location>
+  <abstract>This photograph shows Reba L. Howard wearing an overseas cap and puttees. Howard was from Henagar, Dekalb County, Alabama and was inducted into the service at Chattanooga, Tennessee. He initially served in the 57th Pioneer Inf. Regt. The 57th included large numbers of southerners. It suffered one of the highest casuality rates due to the Spanish Flu epidemic which broke out while they were aboard ship enroute to Europe. Howard survived and ended the war in the 333rd Prisoner of War Escort Company.</abstract>
+  <originInfo>
+    <dateCreated>1917-1918</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Howard, Reba L.</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

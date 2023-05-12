@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Election returns for Confederate President for 6th Civil District of Lawrence County</title>
+  </titleInfo>
+  <identifier>lawr034</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1861-11-06</dateCreated>
+    <place>Lawrenceburg, Lawrence County, Tennessee</place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Documents</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll6/id/11575</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll6/id/11575</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll6/11575/manifest.json</url>
+  </location>
+  <abstract>The sixth district was west and south of Lawrenceburg near the Lincoln County Line. The talley sheet shows the results of electing electors to vote in the Confederate Presidential election as well as a representative to the Confederate Congress. The backside has a printed slate of the electors to stand for Jefferson Davis and Alexander H. Stephens for president and vice-president, respectively and Lee (short for Leonidas) M. Bentley for Confederate Congress. Bentley was a Lawrenceburg native.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Lawrence County (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Looking Back: The Civil War in Tennessee</title>
+    </titleInfo>
+    <abstract>To commemorate the 150th anniversary of the Civil War (2011-2015), the Tennessee State Library and Archives is sending teams of archivists and conservators to communities across Tennessee. Individuals may schedule an appointment, and we will digitally copy and assist in the preservation of your Civil War era manuscripts, artifacts and photographs. Digital copies of these items, representing the rich Civil War heritage of Tennessee families, will become part of a virtual exhibit commemorating the 150th anniversary of the war in Tennessee....</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/cwtn/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Nashville Cole Building</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/433</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/433</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/433/manifest.json</url>
+  </location>
+  <abstract>Cole Building and Poole's Photographic Gallery at Union Street and 4th Ave.</abstract>
+  <abstract>Rodney Poole purchased the former photographic studio of J. H. Van Stavoren in 1871. He sold it in 1896 to S. A. Taylor and the Calvert Brothers who opened for business as Calvert Brothers &amp; Taylor. When that partnership ended in 1900, the studio continued to operate as Calvert Brothers until 1931.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1900</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Building</topic>
+  </subject>
+  <subject>
+    <topic>Photography--Studios and dark rooms</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Photographic studios</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to John Coffee, September 19, 1816</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/149</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/149</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Jackson wrote to Coffee to inform him he had "concluded a treaty with the Cherokee delegation." He explained the treaty stipulations and negotiations in detail mentioning the Chickasaw, Choctaw, Creek, and Cherokee. He closed with the reason no reservations were offered --because the land was disputed with other nations.</abstract>
+  <abstract>The Cherokee Treaty of 1816 ceded land south of the Tennessee River in Alabama in exchange for $6000 per annum for ten years and $5000 for improvements. Jackson concluded a treaty with the Chickasaw the following day.</abstract>
+  <originInfo>
+    <dateCreated>1816 September 19</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Coffee, John, 1772-1833</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject>
+    <geographic>Pontotoc County (Miss.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

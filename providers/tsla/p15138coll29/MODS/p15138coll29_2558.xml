@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Medal for Pilgrimage of Mothers and Widows</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2558</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2558</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2558/manifest.json</url>
+  </location>
+  <abstract>This bronze colored medal features a central five pointed star surrounded by a wreath of oak leaves and laurel and surmounted flags and the Great Seal. The suspension is blue, white and red vertical striped silk attached to a rectangular bronze colored mount engraved "Mrs. Sarah F. Ring/ Tennessee." The reverse of the medal is marked "7086." Sarah Frances Ring of Franklin, lost her son, Pvt. Frank M. Ring, Co. A, 114th MG Battn., 30th Div in October 1918 while fighting in France.</abstract>
+  <originInfo>
+    <dateCreated>1933</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Franklin, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Medals</form>
+  </physicalDescription>
+  <typeOfResource>three dimensional object</typeOfResource>
+</mods>

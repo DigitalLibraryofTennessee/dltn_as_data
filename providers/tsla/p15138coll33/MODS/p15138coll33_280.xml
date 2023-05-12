@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>A sketch of the attack made by Major General Jackson, on a division of the British army commanded by Major General Kean on the evening of the 23 Dec., 1814</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/280</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/280</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/280/manifest.json</url>
+  </location>
+  <abstract>A map of the December 23rd night attack south of New Orleans. American troops are hand-colored in blue, while the British are red. Levees, ditches, plantation properties, fences, Gen Kean's headquarters, and the damaged schooner Carolina are all depicted. Geographic features include the Mississippi River, canals, and a cypress swamp. Annotations on the troop units, British landing site and other locations are included.</abstract>
+  <abstract>This night battle of December 23 served as a precursor to the greater battle on January 8. On the morning of the 23rd, British General John Keane and 1,800 regulars landed south of New Orleans. Andrew Jackson led a detachment of over 2,000 men, including Major Jean Dacquin's battalion of free blacks and eighteen Choctaw led by Captain Pierre Jugeant, to meet them seven miles south of the city. He surprised them in the night and the almost two-and-a-half hour battle delayed further British advance until January. This allowed the Americans to construct earthworks to protect their artillery, until the main attack occurred on January 8, 1815.</abstract>
+  <originInfo>
+    <dateCreated>1817</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>Pakenham, Edward Michael, 1778-1815</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Military service</topic>
+  </subject>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <subject>
+    <topic>Campaigns &amp; battles</topic>
+  </subject>
+  <subject>
+    <geographic>New Orleans (La.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grille Books</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>E 382 .E11</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Drawings</form>
+    <form>Maps</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

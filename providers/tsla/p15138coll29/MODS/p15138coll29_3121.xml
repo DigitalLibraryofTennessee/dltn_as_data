@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Roster of Second Battalion, Second Training Regiment</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3121</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3121</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3121/manifest.json</url>
+  </location>
+  <abstract>This printed multi-page roster is bound in heavy gray paper with the front imprinted "Roster of the Second Battalion / Second Training Regiment / Southern Military Training Camp / Fort Oglethorpe, Georgia / June 3 - 30, 1916." James McFerren Johnston is included in the list. Johnston served in the Ord. Corps and was attached to the 114th MG Battn., 30th Div.</abstract>
+  <originInfo>
+    <dateCreated>1916 June</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>Fort Oglethorpe (Ga.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Rosters</form>
+    <form>Military Records</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Office hunters for the year 1834</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/265</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/265</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/265/manifest.json</url>
+  </location>
+  <abstract>This political cartoon is a sepia print of a winged demon with the head of Andrew Jackson, hovering in the sky holding strings connected to symbols and objects representing political offices. This cartoon depicts the "spoils system" of rewarding the political loyalists with offices and thereby changing government appointees with each election. Clearly expressive of anti-Jackson sentiments, the cartoon shows among other images a withered witch holding a Roman lictor and a tree with two hanged militiamen, an allusion to Jackson's summary execution of men during the Creek War.</abstract>
+  <abstract>During Jackson's presidential administration, he replaced many Republican officeholders with loyal Democrats that supported him. Jackson believed that instead of civil servants having lifetime jobs people needed to be rotated into office and give more people a chance to serve their government. Jackson's opponents called the practice of rewarding political supporters with government jobs the spoils system.</abstract>
+  <originInfo>
+    <dateCreated>1834</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Patronage, Political</topic>
+  </subject>
+  <subject>
+    <topic>Civil Service Reform</topic>
+  </subject>
+  <subject>
+    <topic>Sale of public office</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Cartoons</form>
+    <form>Drawings</form>
+    <form>Political cartoons</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

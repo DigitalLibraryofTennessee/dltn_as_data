@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jackson Purchase Marks Its 150th Anniversary</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/509</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/509</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/509/manifest.json</url>
+  </location>
+  <abstract>This commemorative newspaper issue from the vertical file collection has an image that depicts the signing of the Treaty of 1818. The mural image depicts Isaac Shelby and Andrew Jackson arranging for the signing of the treaty of 1818 with representative chiefs of the Chickasaw Indian nation. The photograph was taken from a mural that is in the post office in Dresden, Tennessee.</abstract>
+  <abstract>The Jackson Purchase included the area of West Tennessee and southwestern Kentucky between the Tennessee and Mississippi Rivers. This area had historically belonged to the Chickasaws but was ceded in the Treaty of Tecumseh. The treaty with the Chickasaws was negotiated by Andrew Jackson and Issac Shelby in 1818. The treaty signed in October of 1818 required the national government to pay $300,000 to the Chickasaws for their land claims. Over time, white settlers and speculators came into the West Tennessee area and by 1819 Hardin and Shelby counties were formed.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson Purchase</topic>
+  </subject>
+  <subject>
+    <topic>Chickasaw Indians</topic>
+  </subject>
+  <subject>
+    <topic>Chickasaw Indians--History</topic>
+  </subject>
+  <subject>
+    <topic>Chickasaw Indians--Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <subject>
+    <geographic>Mayfield (Ky.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Vertical Files;</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Vertical File Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Illustrations</form>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

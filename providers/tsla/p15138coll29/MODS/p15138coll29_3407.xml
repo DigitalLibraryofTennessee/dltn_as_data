@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of factory power loom</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3407</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3407</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3407/manifest.json</url>
+  </location>
+  <abstract>This indoor scene shows an enormous industrial loom. Munitions manufacturing ceased at the Old Hickory site after WWI, but DuPont built another plant for the manufacture of a cheaper newly invented textile that mimicked silk by 1929. Rayon is a spun polyesterbond fabric. Reemay was also made at the facility. In the postwar era, portions of Old Hickory became known as Rayon City. The Old Hickory Gunpowder Plant had produced smokeless gunpowder during World War I and was the largest in the world.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World war, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World war, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <topic>World war, 1914-1918 -- war work</topic>
+  </subject>
+  <subject>
+    <topic>Chemical plants -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Industrial sites</topic>
+  </subject>
+  <subject>
+    <topic>Defense industries</topic>
+  </subject>
+  <subject>
+    <topic>Gunpowder industries</topic>
+  </subject>
+  <subject>
+    <topic>Gunpowder</topic>
+  </subject>
+  <subject>
+    <topic>War</topic>
+  </subject>
+  <subject>
+    <topic>War work</topic>
+  </subject>
+  <subject>
+    <topic>Defense industry</topic>
+  </subject>
+  <subject>
+    <topic>Defense contracts</topic>
+  </subject>
+  <subject>
+    <topic>Chemical industry</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <geographic>Old Hickory (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Old Hickory, Davidson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

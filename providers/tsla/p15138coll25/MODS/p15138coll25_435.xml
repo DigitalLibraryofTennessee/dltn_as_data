@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Belle Boyd</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/435</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/435</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/435/manifest.json</url>
+  </location>
+  <abstract>Carte de visite portrait of Confederate spy Belle Boyd.</abstract>
+  <abstract>Isabelle Marie Boyd (1844-1900) was a Confederate spy who operated from her father's hotel in Front Royal, Virginia. In one instance, at age seventeen, she provided valuable information about Yankee troop movements to General Stonewall Jackson during his attack on Federal troops in Front Royal. She was arrested several times. In 1864, she made her way to England and returned to the U. S. in 1866. She once provided valuable information on Yankee troop movements to General Thomas J. �Stonewall� Jackson. Belle fled to England in 1864.</abstract>
+  <originInfo>
+    <dateCreated>1860-1870</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Boyd, Belle, 1844-1900</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865 -- Participation, Female</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865 -- Women</topic>
+  </subject>
+  <subject>
+    <topic>Espionage</topic>
+  </subject>
+  <subject>
+    <topic>Spies</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Cartes de visite</form>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

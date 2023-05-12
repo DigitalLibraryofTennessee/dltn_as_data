@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Red Cross personal effects bag</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/823</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/823</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/823/manifest.json</url>
+  </location>
+  <abstract>The American Red Cross provided various items to military personnel. Small bags like this one were intended to hold a soldier's personal items. Sgt. Connie Marshall Williams, Sr., Co. E, 306th Engineer Regt. used this one. Williams was from Huntington, Tennessee. The 306th trained at Camp Sevier in South Carolina and moved to France in the summer of 1918. Co. E was assigned to the Maffosse Valley building dugouts and operating saw mills. The whole regiment participated in the Meuse-Argonne offensive.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson, Madison County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Clothing</form>
+    <form>Tools and equipment</form>
+  </physicalDescription>
+  <typeOfResource>three dimensional object</typeOfResource>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"She Knows How She Got Her Vote"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/765</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/765</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/765/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Reid, Albert Turner, 1873-1955</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A political cartoon by Albert T. Reid, depicting a woman holding a newspaper called "Daily Paper" with the headline "Women Win Vote: Suffrage Passes in Tennessee by the Aid of the Republicans." She is reading a sign titled "How Suffrage Was Obtained" that features a bar graph illustrating that the majority of ratifications came from Republican states rather than Democratic states.</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Caricatures and cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Constitutional amendments -- United States -- Ratification</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons</topic>
+  </subject>
+  <subject>
+    <topic>Press</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Carrie Chapman Catt Papers, 1916-1921</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Political Cartoons</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>James Lawrence</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/43</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/43</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/43/manifest.json</url>
+  </location>
+  <abstract>Full-length portrait of Captain James Lawrence (1781-1813), in uniform, holding a saber, and seated in ship's interior. The engraving is from the original painting by Alonzo Chappel.</abstract>
+  <abstract>Lawrence was commander of the U.S.S. Hornet during the War of 1812. In 1813, he commanded the U.S.S. Chesapeake which lost its battle with the British ship H.M.S. Shannon.; The Navy's motto "Don't give up the ship" is attributed to Lawrence who - though mortally wounded - gave the order to his officers.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Lawrence, James, 1781-1813</topic>
+  </subject>
+  <subject>
+    <topic>United States. Navy--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Chesapeake (Ship : Built 1793)</topic>
+  </subject>
+  <subject>
+    <topic>Sabers</topic>
+  </subject>
+  <subject>
+    <topic>Collars</topic>
+  </subject>
+  <subject>
+    <topic>Boots</topic>
+  </subject>
+  <subject>
+    <topic>Chairs</topic>
+  </subject>
+  <subject>
+    <topic>Ships</topic>
+  </subject>
+  <subject>
+    <topic>Ship captains</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Engravings</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Engravings</form>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

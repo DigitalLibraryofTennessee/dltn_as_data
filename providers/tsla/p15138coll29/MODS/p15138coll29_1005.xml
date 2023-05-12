@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>3 Photographs of Pvts. Jeff Montgomery and Tharp Greer</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/1005</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/1005</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/1005/manifest.json</url>
+  </location>
+  <abstract>3 Photographs of Pvt. Jeff Montgomery and Tharp Greer at Parris Island, S.C. The first photograph shows four Marines. Tharp Greer is standing on the right and Jeffery Glynn Montgomery is seated. The other two are unidentified. The second image shows both men seated with Tharp on the left and Montgomery on the right. The third image shows Tharp holding Montgomery on his shoulders. Both men served in the United States Marine Corps but the war ended before they could finish training at Parris Island.</abstract>
+  <originInfo>
+    <dateCreated>1918-1919</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Montgomery, Jeffery Glenn</topic>
+  </subject>
+  <subject>
+    <topic>Greer, Tharp</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Parris Island (S.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson, Madison County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bean Station monument</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/884</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/884</url>
+  </location>
+  <abstract>Monument erected by the Daughters of the American Revolution to Bean Station as one of the earliest settlements in Tennessee.</abstract>
+  <abstract>In the 1780's, the sons of William Bean, an early Tennessee settler, established Bean Station as a frontier outpost. In the Civil War, the Battle of Bean's Station occurred in December of 1863, and resulted in forcing Union Soldiers to retreat.</abstract>
+  <originInfo>
+    <dateCreated>1929</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Land settlement</topic>
+  </subject>
+  <subject>
+    <topic>Monuments &amp; memorials</topic>
+  </subject>
+  <subject>
+    <topic>Historic sites</topic>
+  </subject>
+  <subject>
+    <topic>Settlements</topic>
+  </subject>
+  <subject>
+    <geographic>Bean Station (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

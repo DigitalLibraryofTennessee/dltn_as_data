@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Muster roll of Capt. William White's company of militia, Sept. 7, 1792</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll14/id/20</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll14/id/20</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll14/20/manifest.json</url>
+  </location>
+  <abstract>Muster roll of Capt.William White's company of militia. Comprised mainly of men from Greene County in the Territory South of the River Ohio (later Greene County, Tennessee.)</abstract>
+  <abstract>Territorial Governor William Blount called on the militia to muster in the fall of 1792 in support of settlers in the Cumberland region who were under attack by Native American forces. Col. John Sevier was commander of the East Tenn. brigade, in which these militia companies served.</abstract>
+  <originInfo>
+    <dateCreated>1792 September 7</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>Greene County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Blackston McDannel Family Papers, 1780-1989, bulk 1830-1890</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0015</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Military records</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

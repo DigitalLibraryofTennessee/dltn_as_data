@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Book of poems dedicated to Lt.-Col. Charles W. Whittlesey</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2643</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2643</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2643/manifest.json</url>
+  </location>
+  <abstract>A book of poems, "The History and Rhymes of the Lost Battn.", by L. G. McCollum is missing its cover. The book is dedcated to Lt.-Col. Charles W. Whitlesey, the commander of the Lost Battalion. Inside the book was a V.F. W. recruiting brochure from the the 1930s. "The Lost Battalion" references nine companies of the 77th Div. who found themselves surrounded when the supporting units on either flank failed to advance. The unit held out for six days before a relief force arrived.</abstract>
+  <originInfo>
+    <dateCreated>1923-1939</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Franklin, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Books</form>
+    <form>Poetry</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

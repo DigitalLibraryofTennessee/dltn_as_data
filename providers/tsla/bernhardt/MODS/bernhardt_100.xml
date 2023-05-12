@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tammany Hall, New York City</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/bernhardt/id/100</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/bernhardt/id/100</url>
+  </location>
+  <name>
+    <namePart>Wall, Bernhardt, 1872-1956</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A pen and ink drawing of Tammany Hall in New York City. The three-story building is located on a street corner. The inscription reads: "Tammany Hall, New York City, where Andrew Jackson attended a public dinner on February 23, 1819. Collection of New York Historical Society."</abstract>
+  <abstract>Tammany Hall was the Democratic Party political machine that played a major role in controlling New York City politics from the 1790s to the 1960s. The Tammany Society was founded on May 12, 1789. By 1798, the Society's activities had grown increasingly politicized, and eventually Tammany Hall emerged as the center for Democratic-Republican Party politics in the city. The sketch shows the original building where the society met.</abstract>
+  <originInfo>
+    <dateCreated>1937</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Democratic Party (N.Y.)</topic>
+  </subject>
+  <subject>
+    <topic>Awards</topic>
+  </subject>
+  <subject>
+    <topic>Rewards of Merit</topic>
+  </subject>
+  <subject>
+    <topic>Political parties</topic>
+  </subject>
+  <subject>
+    <topic>Partisan politics</topic>
+  </subject>
+  <subject>
+    <topic>Political organizations</topic>
+  </subject>
+  <subject>
+    <topic>Political patronage</topic>
+  </subject>
+  <subject>
+    <topic>Municipal government</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Bernhardt Wall Collection, ca. 1914-1953</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>150</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+</mods>

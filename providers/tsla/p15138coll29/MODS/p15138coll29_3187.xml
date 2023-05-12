@@ -1,0 +1,30 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Drawing of a tiger and doves</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3187</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3187</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3187/manifest.json</url>
+  </location>
+  <abstract>Pencil sketch of a tiger's head by British private Harold Hanson, West Yorkshire Infantry Regiment. The tiger's mouth is open in a growl so that its sharp teeth are visible. Two doves of peace hover above. Hanson was born in Wyke, West Yorkshire, and was killed in action in France on October 7, 1918, a little over a month before the Armistice was signed. The West Yorks won over 200 battle honors during the Great War. Its regimental buttons and pins displayed a tiger with tail up.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1916</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Drawings</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

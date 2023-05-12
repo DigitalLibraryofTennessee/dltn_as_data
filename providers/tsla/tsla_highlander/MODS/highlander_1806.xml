@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Same Boat, Brother Sheet Music</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1806</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1806</url>
+  </location>
+  <name>
+    <namePart>E.Y. Harburg</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Earl Robinson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>An original four-page song sheet for "The Same Boat, Brother" by E.Y. Harburg and Earl Robinson.</abstract>
+  <abstract>E. Y. Harburg and Earl Robinson wrote "The Same Boat, Brother" following the destruction of World War II as a call for unity. It was popularized in the United States by Huddie William "Lead Belly" Ledbetter, a folk and blues singer, and internationally by Indian singer Bhupen Hazarika. Pete Seeger notes Lead Belly as one of his influences.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Leadbelly, 1885-1949</topic>
+  </subject>
+  <subject>
+    <topic>Folk music</topic>
+  </subject>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Education</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Songs and music</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement--United States--History</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Civil rights--Songs and music</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Zilphia Horton Folk Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1064</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Sheet Music</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

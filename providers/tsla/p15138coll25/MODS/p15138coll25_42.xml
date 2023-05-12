@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Henry Laurens</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/42</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/42</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/42/manifest.json</url>
+  </location>
+  <abstract>Portrait of Henry Laurens (1724-1792) standing outside of a building with a cane. He is wearing a dark jacket, a shirt with white ruffled sleeves, breeches, and shoes with buckles. Plants, columns, and a decorative gate are part of the background.</abstract>
+  <abstract>Led the movement to overthrow British rule during the American Revolution, first in his native state of South Carolina and then as President of the Continental Congress (1777-1778). Captured and imprisoned by the British.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Laurens, Henry, 1724-1792</topic>
+  </subject>
+  <subject>
+    <topic>Garments</topic>
+  </subject>
+  <subject>
+    <topic>Apparel</topic>
+  </subject>
+  <subject>
+    <topic>Men's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Sleeves</topic>
+  </subject>
+  <subject>
+    <topic>Staffs (Sticks, canes, etc.)</topic>
+  </subject>
+  <subject>
+    <topic>Columns</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Details</topic>
+  </subject>
+  <subject>
+    <topic>Legislators</topic>
+  </subject>
+  <subject>
+    <topic>Revolutionaries</topic>
+  </subject>
+  <subject>
+    <topic>Collars</topic>
+  </subject>
+  <subject>
+    <topic>Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Military personnel</topic>
+  </subject>
+  <subject>
+    <topic>Military officers</topic>
+  </subject>
+  <subject>
+    <topic>Military uniform</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

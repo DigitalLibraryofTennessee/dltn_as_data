@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Decatur County Courthouse</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1281</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1281</url>
+  </location>
+  <abstract>Front of the exterior of the second Decatur County Courthouse. The two-story brick building has four square columns, a pediment, windows with shutters, and several chimneys.</abstract>
+  <abstract>The original Decatur County courthouse was a cabin that burned down in 1869. After this, a committee, consisting of J.W. Mayo, W.C. Fryar, D.M. Scott, and others, decided to replace it with a two-story brick courthouse. An arsonist, motivated to destroy all the records held in the courthouse, burned the building down in 1927.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Courthouses--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Public buildings--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Courthouses</topic>
+  </subject>
+  <subject>
+    <geographic>Decaturville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

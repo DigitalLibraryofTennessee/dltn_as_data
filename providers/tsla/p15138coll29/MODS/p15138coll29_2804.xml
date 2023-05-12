@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Nathan S. (Ned) Ring to his mother Sarah Frances M. Ring</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2804</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2804</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2804/manifest.json</url>
+  </location>
+  <abstract>Letter from Lt. Nathan S. Ring, 40th F.A., Camp Custer, to his mother in Franklin, Tenn. He says 2 of his men took "French leave" (went AWOL) and if quarantine isn't lifted he will have more. Doesn't think he will make it to Euorpe before the war ends "since old Austria, Bulgaria, and Turkey have thrown up the sponge..." Also mentions politics dominating discussion among local men because Henry Ford was a U.S. Senate candidate that year. Ford, a Democrat, lost to Truman Newberry by just 1.7% of vote.</abstract>
+  <originInfo>
+    <dateCreated>1918 November 8</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Battle Creek (Mich.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Franklin, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

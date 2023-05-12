@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee Constitution, 1796</title>
+  </titleInfo>
+  <identifier>33633</identifier>
+  <name>
+    <namePart>Tennessee. Constitutional Convention (1796)</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1796-02-06</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Documents</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/tfd/id/681</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/tfd/id/681</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/tfd/681/manifest.json</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Tennessee--History--To 1865</topic>
+  </subject>
+  <subject>
+    <topic>Constitutions</topic>
+  </subject>
+  <abstract>Tennessee's first constitution, adopted in 1796. Handwritten in ink on paper. The 1796 Tennessee Constitution was drafted in Knoxville over a four week period by a convention of fifty-five delegates (two delegates from each of the territory's eleven counties). These delegates included William Blount (president of the convention), James Robertson, William Cocke, and Andrew Jackson. Although John Sevier did not participate directly in the proceedings, he did work behind the scenes to promote Blount's position. The convention delegates never intended to present the Constitution to the citizens for ratification. Instead, the delegates hurried to finish the Constitution in order to present a copy to Congress before their spring adjournment. After much contention, a compromise was reached giving Tennessee immediate statehood on the condition of having only one representative in the House. The bill was signed by President Washington on June 1, 1796. The 1796 Constitution's declarations on rights, taxation, and legislative authority were drawn largely from the North Carolina and Pennsylvania constitutions. The Declaration of Rights and the position on suffrage differentiate Tennessee's constitution from others of its time. According to historian J.G.M. Ramsey, Thomas Jefferson described Tennessee's as the "least imperfect and most republican of the state constitutions." Article III, Section 1st gives all freemen (white and black) twenty-one years of age who owned a freehold or who had resided in the county six months the right to vote. There was also a provision giving men serving in the militia the right to elect their officers.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Tennessee Founding Documents</title>
+    </titleInfo>
+    <abstract>From King George’s Proclamation of 1763 to the earliest purchase of land from Native Americans to the first Constitutions of the State of Tennessee, these are among the most important records from our past. Significant milestones in the formation and early history of the state are presented here for the first time in digital form taken directly from the originals, with full transcription and accompanying historical text. These Landmark Documents are available for citizens and students to search, study, and download. The series will continue with future installments of Tennessee’s recorded heritage from the 1830s to the Civil War and beyond.</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/TeVAsites/FoundingDocuments/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Copy of the "Old Hickory News"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3469</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3469</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3469/manifest.json</url>
+  </location>
+  <abstract>The mimeographed newsletter was written for the residents of Old Hickory. Articles on neighborhood activities include: dances, shoe repair, Old Hickory Base Ball Club (fastest in Nashville), poll taxes, club news, dry goods prices, scouting, and Easter. With the closing of the munitions plant in 1919, the population of Old Hickory dropped dramatically and unemployment soared. The newsletter discusses several industrial and manufacturing interests which might purchase or use portions of the former plant.</abstract>
+  <originInfo>
+    <dateCreated>1922 April 15</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World war, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World war, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Old Hickory (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Old Hickory, Davidson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Newsletters</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Certificate of Identification of Sarah Frances M. Ring for War Mothers and Widows Pilgrimage</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2830</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2830</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2830/manifest.json</url>
+  </location>
+  <abstract>Issued by the Secretary of War, this served as a passport for the gold star widows and mothers who made the trips to France. These pilgrimages were based for for the United States War Department. They transported hundreds of widows and mothers of deceased American servicemen to France in the early 1930s. The women would visit the American graves in France. Sarah Frances Ring's youngest son, Frank, was killed in action in October 1918. He servied in Co. B, 114th MG Battn., 30th Div.</abstract>
+  <originInfo>
+    <dateCreated>1933</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Franklin, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Certificates</form>
+    <form>Military records</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

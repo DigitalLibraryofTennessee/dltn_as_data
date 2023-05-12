@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jackson electors broadside</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/263</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/263</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/263/manifest.json</url>
+  </location>
+  <abstract>This broadside shows the presidential electors from Pennsylvania for the 1828 election. It has a large picture of Andrew Jackson surrounded by military memorabilia and one of his campaign slogans "Democracy, Jackson, and Our Country." Beneath Jackson are the words "The Union must be preserved," a reference to Jackson's strong unionist stance against John Calhoun and the nullification doctrine.</abstract>
+  <abstract>Andrew Jackson won the presidential election of 1828 after losing to John Quincy Adams in 1824 in what Jackson called the 'corrupt bargain'. Jackson, known as the 'people's candidate,' gained his renown from winning the Battle of New Orleans against the British in the War of 1812. Jackson's two terms in office were transformative and controversial, with his presidency weathering the Nullification Crisis and overseeing the Indian Removal Act and the Bank Wars. Jackson was known for his heavy handed governance, with many vetoes and clashes with Congress during his presidency.</abstract>
+  <originInfo>
+    <dateCreated>1828</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Presidential elections--1820-1830</topic>
+  </subject>
+  <subject>
+    <topic>Election campaigns</topic>
+  </subject>
+  <subject>
+    <topic>Broadsides</topic>
+  </subject>
+  <subject>
+    <topic>Presidential elections</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>3, 79-048</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Broadsides</form>
+    <form>Illustrations</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

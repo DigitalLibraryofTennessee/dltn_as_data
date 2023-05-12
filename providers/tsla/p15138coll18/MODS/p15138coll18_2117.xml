@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Regulations concerning the removal of the Indians</title>
+  </titleInfo>
+  <identifier>RegulationsConcerningIndianRemoval</identifier>
+  <name>
+    <namePart>Cass, Lewis</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1832-05-15</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll18/id/2117</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll18/id/2117</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Indian Removal, 1813-1903</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject>
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject>
+    <topic>Indigenous peoples</topic>
+  </subject>
+  <subject>
+    <topic>Indian agents</topic>
+  </subject>
+  <abstract>This booklet was a publication printed by the United States War Department and outlines the regulations for conducting the business of removing the Indians from the Southeast to the territory west of the Mississippi River. It outlines the Directing Department, special agents, disbursements, transportation, supplies, provisions, appraisement and payment of property, miscellaneous and compensation relating to the removal. The opening paragraph states that the observations of the past year ""have led to the convictions, that a more systemic plan of operations is essential to the economy and to the satisfactory progress of these movements."" It states what the emigrants can and cannot carry with them, how much each person is to receive in rations, what items are to be provided to them, how much they will be paid for their property and compensation to those hired to help remove them. The forms at the back of the book are an example of how these things are to be recorded and submitted to the Office of Commisary General of Subsistence.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees, that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</geographic>
+    <cartographics>
+      <coordinates>38.89511, -77.03637</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Library Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Education Outreach</title>
+    </titleInfo>
+    <abstract>We're here to help you bring Tennessee history alive in the classroom! The Tennessee State Library and Archives (TSLA) is a great resource for educators and students seeking primary sources for use in the classroom. With extensive holdings in Tennessee, Southern, and regional history, TSLA is also the official repository for the permanent records of the State of Tennessee...</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/educationoutreach/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Constitution of Cherokee Nation, 1827</title>
+  </titleInfo>
+  <identifier>33638</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1827-07-24</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <note>Application/pdf</note>
+    <note>Documents</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/tfd/id/328</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/tfd/id/328</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Nation Constitution (1827)</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Legal status, laws, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Ross, John, 1790-1866</topic>
+  </subject>
+  <subject>
+    <topic>Constitutions</topic>
+  </subject>
+  <abstract>23 pages handwritten in ink that comprise the Cherokee Constitution of 1827. This early copy may have been written by Sam Houston. It was found in the 1827 Tennessee legislative papers and may have been given to the State of Tennessee in exchange for copies of Tennessee documents. A short introduction to this document is available here: http://tsla.tnsosfiles.com/digital/teva/intros/33638.pdf .</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>New Town (Ga.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>1452</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>M-63, F. 11</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Tennessee Founding Documents</title>
+    </titleInfo>
+    <abstract>From King George’s Proclamation of 1763 to the earliest purchase of land from Native Americans to the first Constitutions of the State of Tennessee, these are among the most important records from our past. Significant milestones in the formation and early history of the state are presented here for the first time in digital form taken directly from the originals, with full transcription and accompanying historical text. These Landmark Documents are available for citizens and students to search, study, and download. The series will continue with future installments of Tennessee’s recorded heritage from the 1830s to the Civil War and beyond.</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/TeVAsites/FoundingDocuments/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Civil War memoir of C. S. O. Rice</title>
+  </titleInfo>
+  <identifier>dyer043</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1967</dateCreated>
+    <place>Dyersburg, Dyer County, Tennessee</place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Memoirs</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll6/id/12290</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll6/id/12290</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll6/12290/manifest.json</url>
+  </location>
+  <abstract>53-page memoir of Charles Stephens Olin Rice, 2nd Lt., Co. M, 7th Tenn. Cav. Regt., CSA. Rice was captured at Vicksburg. He discusses, among other things, the formation of the "Lauderdale Hornets," a local Confederate unit. Also discusses African Americans who served with Confederate units in combat and paternalistic race relations in the antebellum South.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Lauderdale County (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Looking Back: The Civil War in Tennessee</title>
+    </titleInfo>
+    <abstract>To commemorate the 150th anniversary of the Civil War (2011-2015), the Tennessee State Library and Archives is sending teams of archivists and conservators to communities across Tennessee. Individuals may schedule an appointment, and we will digitally copy and assist in the preservation of your Civil War era manuscripts, artifacts and photographs. Digital copies of these items, representing the rich Civil War heritage of Tennessee families, will become part of a virtual exhibit commemorating the 150th anniversary of the war in Tennessee....</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/cwtn/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

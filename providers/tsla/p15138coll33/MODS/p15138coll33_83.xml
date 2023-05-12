@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from General John Coffee to Major General Andrew Jackson, April 1, 1814, reporting on the Battle of Horseshoe Bend</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/83</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/83</url>
+  </location>
+  <name>
+    <namePart>Coffee, John, 1772-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This letter from John Coffee detailed his experience at the Battle of Horseshoe Bend. Coffee reported to Jackson that "agreeably to his orders" Coffee set out with 700 mounted cavalry and mounted gunmen, 500 Cherokee, and 100 friendly Creeks, at 6:30 p.m. on March 27, 1814. His unit crossed the Tallapoosa River "at the little island ford, three miles below the bend, in which the enemy had concentrated." The enemy yelled, so Coffee formed up his lines and marched toward the yelling. They took the bank of the river to prevent their escape upon Jackson's frontal assault. Coffee reported that once the artillery barrage began, the enemy rushed toward the river bank "with great impetuosity." He explained that his troops crossed the river and lit a fire in the village. Col. Gideon Morgan, commander of the Cherokees, Capt. Kerr, and Capt. William Russell were among the first that crossed the river. Coffee commended the actions of his Indian troops. He commented that Capt. Hammond's company of rangers 'kept up a continued and destructive fire on the enemy that attempted to escape into the river, and killed a very large proportion." Lieutenant Bean captured the island to prevent the Red Sticks from "seeking refuge" there. Coffee stated that "not one escaped, very few ever reached the bank, and that few was killed the instant they landed." He estimated that two-hundred and fifty to three hundred were "buried in the water." He also estimated that that his losses were "two white men killed and ten wounded - making the whole of my detachment, twenty five killed and fifty seven wounded."</abstract>
+  <abstract>The Battle of Horseshoe Bend was fought on March 27, 1814, between the war faction (Red Stick) Creek and a coalition of American and Native American troops. The decisive battle proved to be the climax of the Creek War, a conflict between warring factions of Creek and their allies as a part of the War of 1812. Major General Andrew Jackson led a force of just over 2,700 soldiers composed of US Regulars, Tennessee militia and volunteers, as well as 500 Cherokee and 100 allied Creek warriors to a Red Stick fortification at a bend on the Tallapoosa River in present-day Alabama. Jackson estimated that the defending Red Sticks numbered about a thousand. Jackson sent General John Coffee, the cavalry, and almost all of their Indian allies to encircle the encampment and prevent any escape. A two hour artillery barrage preceded a covert attack on the fortification led by Captain Russell, Colonel Richard Brown [Cherokee], and Colonel Morgan, who was in overall command of the Cherokee. This small force set fire to a few of the buildings in an attempt to force the Red Sticks out. The 39th US Infantry, raised almost exclusively in Tennessee and led by Colonel John Williams and Major Lemuel Montgomery, mounted a simultaneous frontal assault of the fortification. Third lieutenant Sam Houston participated in this assault and was wounded, while Montgomery was killed. In his official report, Jackson recorded, "The enemy, altho[ugh] many of them fought to the last with that kind of bravery which desperation inspires, were at length entirely routed and cut to pieces." Many escaping Red Sticks were killed by Coffee's troops. Jackson estimated 800 enemy were killed, including their prophet, Monahee, who was shot in the mouth. Jackson commented, "as if heaven designed to chastise his impostures by an appropriate punishment." He reported that 26 white men were killed along with 18 Cherokee, with 107 and 36 wounded, respectively.</abstract>
+  <originInfo>
+    <dateCreated>1814 April 1</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Coffee, John, 1772-1833</topic>
+  </subject>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>Horseshoe Bend, Battle of, Ala., 1814</topic>
+  </subject>
+  <subject>
+    <topic>Houston, Sam, 1793-1863</topic>
+  </subject>
+  <subject>
+    <geographic>Alabama</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>3, 79-048</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

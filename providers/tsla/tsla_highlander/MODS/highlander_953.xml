@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The South is Playing with Fire</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/953</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/953</url>
+  </location>
+  <name>
+    <namePart>Williams, Aubrey Willis, 1890-1965</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Printed copy of Aubrey Williams' address at the 25th anniversary of Highlander Folk School on September 2, 1957. His speech argues that the South's failure to compromise during the Civil War parallels its contemporary failure to compromise with equal rights for African Americans, and that this will be its downfall.</abstract>
+  <abstract>Aubrey Williams was born in Springville, Alabama, in 1890. He grew up poor and worked to put himself through Maryville College in East Tennessee. He joined the French Foreign Legion in World War I and afterwards obtained a doctorate from the University of Bordeaux, France. After a short career of social work in Ohio and Wisconsin, Williams served as an administrator in the Federal Emergency Relief Administration, helped establish and administer the Civil Works Administration and Works Progress Administration, and directed the National Youth Administration. Following his time with the Roosevelt Administration, Williams ran the Southern Conference Educational Fund, fighting to end segregation. He died in 1965.</abstract>
+  <originInfo>
+    <dateCreated>1957 September 2</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Equality before the law</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights</topic>
+  </subject>
+  <subject>
+    <topic>Race discrimination</topic>
+  </subject>
+  <subject>
+    <topic>White Citizens councils</topic>
+  </subject>
+  <subject>
+    <topic>Segregation</topic>
+  </subject>
+  <subject>
+    <topic>Segregation--Law and legislation</topic>
+  </subject>
+  <subject>
+    <topic>Discrimination in housing</topic>
+  </subject>
+  <subject>
+    <topic>African Americans--Civil rights--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Segregation in education</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Highlander Folk School Manuscript Collection, 1932-1966</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1811</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Speeches</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

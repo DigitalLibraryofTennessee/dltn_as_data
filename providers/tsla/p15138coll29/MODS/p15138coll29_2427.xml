@@ -1,0 +1,36 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Blue denim barracks bag</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2427</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2427</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2427/manifest.json</url>
+  </location>
+  <abstract>This blue barracks bag has the original name label which has become detached. The barracks bag has the soldier number, "1237", stenciled in white paint and also in black ink on the oppostie side. The name on the tag is "Lyle R. Pvt./Btry. D/312th F.A." These denim bags were used to hold the soldiers clothing when not in use. The 312th F.A. was part of the 79th Division and saw combat in the Meuse-Argonne Offensive. The division earned the nickname "Cross of Lorraine" for their defense of France.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Franklin, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Clothing</form>
+  </physicalDescription>
+  <typeOfResource>three dimensional object</typeOfResource>
+</mods>

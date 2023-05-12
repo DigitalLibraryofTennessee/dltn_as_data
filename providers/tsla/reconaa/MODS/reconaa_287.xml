@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee pension application of ex-slave</title>
+  </titleInfo>
+  <identifier>34019</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1921</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Military records</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/reconaa/id/287</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/reconaa/id/287</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Military pensions</topic>
+  </subject>
+  <subject>
+    <topic>Slavery</topic>
+  </subject>
+  <subject>
+    <topic>Forrest, Nathan Bedford, 1821-1877</topic>
+  </subject>
+  <subject>
+    <topic>Pensions</topic>
+  </subject>
+  <subject>
+    <topic>Slavery</topic>
+  </subject>
+  <abstract>Pension application of a former slave in Tennessee named Ben Davis. The information indicates that Davis was "given" to Confederate General Nathan Bedford Forrest as a personal servent during the Civil War.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Shelby County (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Tennessee Civil War Pensions</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Reconstruction and the African American Legacy in Tennessee</title>
+    </titleInfo>
+    <abstract>For years, the Reconstruction era marked a tumultuous period in American and Tennessee history. Even before the formal process of Reconstruction began following the Civil War, steps were taken to address the rights of freed slaves and the readmission of Confederate states to the Union. The materials in this collection portray a few of the challenges and victories that emerged during Reconstruction. The focus of the images rests primarily on the Reconstruction period and Gilded Age (1876-1910) in Tennessee following the Civil War.</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/TeVAsites/Reconstruction/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

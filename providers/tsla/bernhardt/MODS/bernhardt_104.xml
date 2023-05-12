@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Capitol, Washington D.C.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/bernhardt/id/104</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/bernhardt/id/104</url>
+  </location>
+  <name>
+    <namePart>Wall, Bernhardt, 1872-1956</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A pen and ink drawing of the United States Capitol building in Washington D.C. The drawing shows both houses of Congress and the rotunda before the dome was built. The caption reads: "The Capitol, Washington D.C. where Andrew Jackson sat as U.S. Senator, 1823-1824. He also served in the same capacity in 1797."</abstract>
+  <abstract>The United States Capitol serves as the seat of government for the United States Congress, the legislative branch of the federal government. It is located in Washington, D.C., on top of Capitol Hill at the east end of the National Mall. George Washington laid the cornerstone on September 18, 1793. The Senate wing was completed in 1800, while the House wing was completed in 1811.</abstract>
+  <originInfo>
+    <dateCreated>1937</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>United States Capitol (Washington D.C.)</topic>
+  </subject>
+  <subject>
+    <topic>United States. Congress</topic>
+  </subject>
+  <subject>
+    <topic>Legislative bodies</topic>
+  </subject>
+  <subject>
+    <topic>Politics &amp; government</topic>
+  </subject>
+  <subject>
+    <topic>Capitols</topic>
+  </subject>
+  <subject>
+    <topic>Government facilities</topic>
+  </subject>
+  <subject>
+    <topic>Rotundas</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Bernhardt Wall Collection, ca. 1914-1953</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>150</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+</mods>

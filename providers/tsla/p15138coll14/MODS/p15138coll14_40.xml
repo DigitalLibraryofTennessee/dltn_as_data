@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>County Court report and bill of sale for estate sales</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll14/id/40</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll14/id/40</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll14/40/manifest.json</url>
+  </location>
+  <abstract>County Court report and bill of sale for the public sale of land and slaves from the estates of Benjamin Springfield, John Reeves, Lazarus Denny, and Richard Compton. The four page document details items, buyer names, and prices paid for a sale held by the County Court of Hardeman County on October 16, 1858. Slave names are included for the Springfield and Compton estates. The last page lists the initials R. P. N. for R. P. Neely, the Clerk and Master of the County Court. Broadsides advertising the individual estate sales accompany the document.</abstract>
+  <originInfo>
+    <dateCreated>1858 October 16</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Slavery -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Slavery -- Tennessee -- History -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Slavery -- Tennessee -- Hardeman County</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- Tennessee -- History</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- Tennessee -- Hardeman County</topic>
+  </subject>
+  <subject>
+    <topic>Estate sales</topic>
+  </subject>
+  <subject>
+    <topic>County courts -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Hardeman County (Tenn.)--History</topic>
+  </subject>
+  <subject>
+    <geographic>Hardeman County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0018</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Legal documents</form>
+    <form>Reports</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

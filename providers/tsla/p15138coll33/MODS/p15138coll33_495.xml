@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Quartermaster account book of William B. Lewis</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/495</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/495</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/495/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Lewis, William Berkeley, 1784-1866</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Quartermaster account book of William B. Lewis during the War of 1812, recording accounts payable "for transportation, repairs, quarters and other contingent expenses." Lewis, a close friend and political associate of Jackson, served as quartermaster of accounts for Tennesseans who contributed goods or services to the war effort--particularly and primarily during the Creek campaigns. The book spans from January 7, 1813, to June 30, 1815 and records the amount of payments being made to individuals for all manner of service from lodging to linens to providing provisions, animals and wagons. Famous Tennesseans such as John McNairy, John Rains, Samuel Polk, Samuel Crockett, James Robertson, Felix Robertson, David McGavock, and Duncan Robertson were all reimbursed for contributions in Nashville. Many Native American troops are mentioned in the records, often for foraging for either food or horses, use of their ferry, acting as interpreters, or work as runners and rangers. These include John Ross, Levi Colbert, James Brown, George Wolf, Thelockta, Madwolf, John, and Sam. John Coffee, William Carroll, and Andrew Jackson are reimbursed many times for money fronted by them to pay, equip and feed their troops. Jackson has an entry on June 12, 1815, for $25,000 "for the use of New Orleans Bank." Governor Willie Blount was repaid $1000 on June 12, 1815.</abstract>
+  <abstract>This volume, reproduced here in full, is a fascinating and revealing look at how the War of 1812 is conducted by the State of Tennessee. Following the disbursement of funds for the war effort gives insight into the many different individuals--civilian and military, including native Americans--who provided logistical support necessary to maintain a sizable militia army in the field for months. William Berkeley Lewis was a longtime friend and associate of Andrew Jackson. He was appointed quartermaster under Jackson during the War of 1812 and assisted Jackson's 1823 campaign for the Senate and presidential campaigns. Once president, Jackson appointed Lewis second auditor of the treasury.</abstract>
+  <originInfo>
+    <dateCreated>1815</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>U.S. Army campaigns of the War of 1812</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Account books</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

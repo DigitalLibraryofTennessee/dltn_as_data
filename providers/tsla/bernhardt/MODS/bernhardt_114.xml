@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The tomb of Andrew and Rachel Jackson in the Hermitage Garden</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/bernhardt/id/114</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/bernhardt/id/114</url>
+  </location>
+  <name>
+    <namePart>Wall, Bernhardt, 1872-1956</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This print shows the tomb of Andrew and Rachel Jackson in the gardens of The Hermitage, Jackson's home near Nashville, Tennessee. It is surrounded by trees and a fence.</abstract>
+  <abstract>Andrew Jackson died in 1845 while living at his home in Hermitage, Tennessee, after suffering from an extended period of declining health. He was 78. Two days after his death, he was buried in the Hermitage garden. Rachel Jackson was buried in 1828, in the white dress that she had purchased for her husband's inaugural ceremonies. She died from a heart attack, and had been under great stress in the weeks before her death. Jackson's political opponents had long cast doubts on his wife's honor.</abstract>
+  <originInfo>
+    <dateCreated>1937</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Rachel, 1767-1828</topic>
+  </subject>
+  <subject>
+    <topic>United States presidents</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Tombs &amp; sepulchral monuments</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Bernhardt Wall Collection, ca. 1914-1953</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>150</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+</mods>

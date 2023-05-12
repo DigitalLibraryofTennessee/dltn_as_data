@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tremont House, Boston, Massachusetts</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/bernhardt/id/108</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/bernhardt/id/108</url>
+  </location>
+  <name>
+    <namePart>Wall, Bernhardt, 1872-1956</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This etching pictures the front of Tremont House, also known as Tremont Hotel. A scant view of Beacon Street is provided at the right side of the image--the hotel being located at the intersection of Tremont and Beacon Streets. Flavor is provided with the addition of people and a carriage with horses in the foreground.</abstract>
+  <abstract>Andrew Jackson and his party stayed at the Tremont House in 1833. This four-story, granite-faced hotel was designed by noted architect Isaiah Rogers in 1829. It was the first hotel in the nation to be equipped with running water and indoor plumbing and it set the standard for luxury that other major hotels in the nation followed.</abstract>
+  <originInfo>
+    <dateCreated>1937</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Tremont House (Hotel : Boston, Mass.)</topic>
+  </subject>
+  <subject>
+    <topic>Hotels</topic>
+  </subject>
+  <subject>
+    <topic>Historic buildings</topic>
+  </subject>
+  <subject>
+    <geographic>Boston (Mass.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Bernhardt Wall Collection, ca. 1914-1953</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>150</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+</mods>

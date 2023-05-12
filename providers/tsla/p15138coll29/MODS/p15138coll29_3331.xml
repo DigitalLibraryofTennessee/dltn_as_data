@@ -1,0 +1,32 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Part Time Diary of R. [Reba] L. Howard in World War I"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3331</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3331</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3331/manifest.json</url>
+  </location>
+  <abstract>Loose-leaf black binder filled with notes of Howard's WW I experiences. It commences September 4, 1918, when he reports to the Chattanooga draft board, although he was from Henagar, Alabama. His assignment was as a cook in the 57th Pioneer Inf. Regt. From Camp Merritt, N.J., they sailed past the Statue of Liberty and then to France. Many soldiers were sick with influenza. Howard includes a list of full-pack equipment and writes of the Armistice and feeling hunger for the first time.</abstract>
+  <originInfo>
+    <dateCreated>1918-1919</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Diaries</form>
+  </physicalDescription>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Joseph Stineford Carels</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/766</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/766</url>
+  </location>
+  <name>
+    <namePart>A. de Anquinos &amp; Son</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Albumen print of Joseph Stineford Carels (1825-1916).</abstract>
+  <abstract>Superintendent of Watkins Institute in Nashville for 20 years. Treasurer and Librarian for the Tennessee Historical Society for 30 years. He became a member of Mount Moriah Lodge of Masons at Murfreesboro, and in 1846 he was made its Worshipful Master in 1852. In 1862, he presented to the Secretary of the United States Navy a petition, endorsed by every Representative and Senator of the State for a position in the navy, and was appointed assistant paymaster. Was attached to the steamer Clifton in Admiral Farragut's West Gulf squadron, but at the end of one year was compelled to resign on account of illness. Moved to Nashville in 1863 and was made book-keeper and stamp clerk in the post office.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1900</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Librarians</topic>
+  </subject>
+  <subject>
+    <topic>School superintendents</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.); Davidson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

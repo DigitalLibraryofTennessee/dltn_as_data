@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>An extract from the instructions of Major General Pinckney to Major General Andrew Jackson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/331</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/331</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/331/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Pinckney, Thomas, 1750-1828</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Pinckney ordered Jackson to build a series of "posts" or forts connecting Tennessee and Georgia with the confluence of the Coosa and Tallapoosa Rivers and down the Alabama River to Mobile on the Gulf coast. This was to put the Southern country in a "good state of defence." Once Jackson had completed that and "dispersed the enemy at Kahaba [Cahaba]," Pinckney writes, he was free to discharge his troops.</abstract>
+  <abstract>Thomas Pinckney was a Revolutionary War veteran, South Carolina state legislator, South Carolina governor, United States Ambassador to Great Britain, United States representative from South Carolina, and major general during the War of 1812, commanding the 6th military district. While a member of the United States House of Representatives, Pinckney was appointed to help conduct the impeachment proceedings against William Blount.</abstract>
+  <originInfo>
+    <dateCreated>1814 April 22</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Pinckney, Thomas, 1750-1828</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Military leadership</topic>
+  </subject>
+  <subject>
+    <geographic>Alabama</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>3, 79-048</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

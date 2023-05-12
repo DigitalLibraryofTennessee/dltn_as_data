@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Alvin C. York story -- rear, Squire Williams house</title>
+  </titleInfo>
+  <identifier>35528</identifier>
+  <name>
+    <namePart>Albert F. Ganier</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1939</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll10/id/38</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll10/id/38</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll10/38/manifest.json</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040193">
+    <topic>Dwellings</topic>
+  </subject>
+  <subject>
+    <topic>Ganier, Albert Franklin, 1883-1973</topic>
+  </subject>
+  <subject>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n84048479">
+      <namePart>York, Alvin Cullum, 1887-1964</namePart>
+    </name>
+  </subject>
+  <subject>
+    <topic>Sergeant York (Motion picture)</topic>
+  </subject>
+  <subject>
+    <topic>Fentress County (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>William, Francis Asbury, 1856-1942</topic>
+  </subject>
+  <subject>
+    <topic>Williams, Mary Alice Pile, 1856-1931</topic>
+  </subject>
+  <abstract>Rear view of two homes at a 45-degree angle to each other. There are three unidentified persons in the photograph (two men and one woman). A picket fence surrounds both homes. One house has a back porch where a man and woman are standing. The other man is standing inside the fence gate. The house with the porch has one chimney; the other has chimneys at each end.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic>Fentress County (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem>
+    <identifier>1989-114A</identifier>
+    <location>
+      <url>http://www.state.tn.us/tsla/history/manuscripts/findingaids/89-114A.pdf</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Albert F. Ganier Photograph Collection, 1900-1955</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Alvin C. York</title>
+    </titleInfo>
+    <abstract>Alvin Cullum York (1887-1964) was one of the most decorated soldiers of the First World War.  A recipient of the Medal of Honor and the French Legion of Honour, York is considered one of the greatest of Tennessee’s native sons...</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/p15138coll10</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

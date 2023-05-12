@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Birth and Baptismal Record Book, Louisa County, Virginia</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll14/id/88</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll14/id/88</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll14/88/manifest.json</url>
+  </location>
+  <abstract>Circa 1760s birth and baptism record from the area around Louisa County and possibly Spotsylvania County, Virginia. Includes reference to the birth of John Overton of Tennessee and baptisms of two of his family's slaves. Moleskin-bound, contains 30 bound pages and 5 loose, partial pages (at back) recording births and baptism of more than 300 people, including many listed as "Negro" grouped with apparently white families. Pages are inscribed front and back. John Overton is listed on page 3. Other family names listed include McGehee, Estes, Gentry, Lipscomb, and Boxley. Entries appear to run from the mid-1760s through 1778. The first 15 pages appear to be missing, and most of pages 16 and 17 have been cut or torn out. Suede cover may be from a later time period. Original owned by Historic Travellers Rest, Nashville, Tenn.</abstract>
+  <originInfo>
+    <dateCreated>1764-1778</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Registers of births, etc. -- Virginia -- Louisa County</topic>
+  </subject>
+  <subject>
+    <topic>Baptismal records -- Virginia -- Louisa County</topic>
+  </subject>
+  <subject>
+    <topic>Overton, John, 1766-1833</topic>
+  </subject>
+  <subject>
+    <topic>African Americans -- Statistics, Vital</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- United States -- Statistics, Vital</topic>
+  </subject>
+  <subject>
+    <topic>Overton family</topic>
+  </subject>
+  <subject>
+    <geographic>Virginia</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Birth and Baptismal Record Book, VA, 1760s-1778</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0021</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Birth records</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

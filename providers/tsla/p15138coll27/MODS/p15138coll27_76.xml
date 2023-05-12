@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from E. H. Crump to State Treasurer Hill McAlister</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/76</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/76</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/76/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Crump, Edward Hull, 1874-1954</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>E. H. Crump, chairman of the Democratic State Executive Committee and County Trustee of Shelby County wrote to State Treasurer Hill McAlister to encourage him to use his influence with the governor to call an extra session of the state legislature upon the question of women paying poll taxes. He was concerned that "a large negro population in West Tennessee, and particularly in Memphis and Shelby County" would give the Republicans a "large and dangerous vote down this way" if negro women voted. Crump stated that the extra poll tax revenue would be more than enough to pay for the cost of a special session of the legislature.</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history. Hill McAlister (1875-1959) was an influential Democratic politician from Nashville. He served two terms in the Tennessee State Senate (1911-1915), on the Democratic Executive Committee (1918-1920), as state treasurer (1919-1927), and as governor of Tennessee (1933-1937).</abstract>
+  <originInfo>
+    <dateCreated>1919 July 28</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Crump, Edward Hull, 1874-1954</topic>
+  </subject>
+  <subject>
+    <topic>McAlister, Hill, 1875-1959</topic>
+  </subject>
+  <subject>
+    <topic>African Americans -- Suffrage -- Southern states</topic>
+  </subject>
+  <subject>
+    <topic>Democratic Party (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Political strategies</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <subject>
+    <topic>Poll taxes</topic>
+  </subject>
+  <subject>
+    <geographic>Memphis (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Hill McAlister Papers, 1806-1959</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

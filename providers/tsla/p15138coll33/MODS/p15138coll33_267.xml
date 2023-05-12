@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Broadside detailing the execution of John Woods</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/267</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/267</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/267/manifest.json</url>
+  </location>
+  <abstract>Political broadside published in 1828 to oppose Jackson's presidential candidacy. Styled as a 'monument' to the slain young militiaman, it explained the execution of John Woods in an emotional plea to would-be voters. The emboldened words "shot to death" and the explanation of Woods' "adherence to duty" characterized Jackson as a vindictive military tyrant.</abstract>
+  <abstract>In March 1814, Jackson charged John Woods, an eighteen year old militiaman, with disobedience, disrespect, and mutiny and offered him reprieve if he joined the regular army. Woods declined the offer, so Jackson had him executed. Jackson's opponents used this broadside to attack his character during his presidential campaigns.</abstract>
+  <originInfo>
+    <dateCreated>1828</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Broadsides</topic>
+  </subject>
+  <subject>
+    <topic>Presidential elections</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Broadsides</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

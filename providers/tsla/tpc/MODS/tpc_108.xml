@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Belmont College, Nashville, Tenn.</title>
+  </titleInfo>
+  <identifier>32822</identifier>
+  <originInfo>
+    <dateCreated>Illegible</dateCreated>
+    <publisher>Adolf Selige Publishing Co.</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Postcards</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/tpc/id/108</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/tpc/id/108</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141086">
+    <topic>Universities and colleges</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85098119">
+    <topic>Parks</topic>
+  </subject>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <topic>Dwellings</topic>
+  </subject>
+  <abstract>View of Belmont College, Nashville, Tennessee. Shows mansion in an English-style garden or park. Shows students in park.</abstract>
+  <accessCondition type="local rights statement">Copyright not evaluated: http://rightsstatements.org/vocab/CNE/1.0/</accessCondition>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Saint Louis (Mo.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Tennessee Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>71-109</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Tennessee Postcard Collection</title>
+    </titleInfo>
+    <abstract>The items in the Tennessee Postcard Collection span a broad timeframe and include images from across the state. Unlike other collections at the Tennessee State Library and Archives, the items in this grouping are similar only in format. The postcards that comprise the Tennessee Postcard Collection have been gathered from various manuscript collections and placed in a central repository to facilitate research and to ease storage...</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/tpc</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

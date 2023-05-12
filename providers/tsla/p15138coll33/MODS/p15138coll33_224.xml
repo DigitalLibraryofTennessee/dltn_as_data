@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Ephraim Foster to John Coffee, February 25, 1828</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/224</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/224</url>
+  </location>
+  <name>
+    <namePart>Foster, Ephraim Hubbard, 1794-1854</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Confidential letter from Ephraim Foster, an early Jackson protégé and political operative, to John Coffee. He began the letter discussing the Tariff of 1828. However "these speculations [were] not the business of this letter." Foster reported that slanderous newspapers were "attempting to break down Genl Jackson." He specified the report of the execution of John Woods, a popular anti-Jackson point of attack, had made the papers. Foster requested a "true statement of that matter" from Coffee. He expected Jackson to win the presidency, but implored Coffee's assistance, demanding that "activity and vigilance must be the order of the day." He concluded by saying that Jackson was in "excellent health and spirits." A postscript, written by John C.[Christmas] McLemore discussed raising money to rebut the slanders against Jackson and mentioned William B. Lewis, Foster, and Thomas Crutcher as other contributors.</abstract>
+  <abstract>Ephraim Foster served as Jackson's secretary during the War of 1812, attorney, Tennessee state representative and Speaker of the House, and United States Senator from Tennessee. He later turned against Jackson politically and became a Whig.</abstract>
+  <originInfo>
+    <dateCreated>1828 February 25</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Foster, Ephraim Hubbard, 1794-1854</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Coffee, John, 1772-1833</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence Tariffs</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

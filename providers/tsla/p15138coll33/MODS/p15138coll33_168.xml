@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to Robert Hays, January 4, 1814</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/168</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/168</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Jackson wrote to his friend Colonel Robert Hays from his headquarters at Fort Strother, Alabama. He reported that [members of] General Isaac Roberts Brigade were "risqueing [sic] all the penalties of desertion, sedition, and mutiny, and determined to leave the encampment contrary to my orders." He implored Hays not to muster them out, unless expressly ordered by Governor Blount. Jackson detailed the unit's muster and the mustering in of Colonel John Williams' regiment. He explained recent letters he sent to General John Floyd and Governor Blount. He concluded with a note asking Hays to tell his wife he was well and that he hoped to be able to use his arm soon (his arm was injured in a gun fight with the Benton brothers the year before). A postscript mentioned other letters he expected and wanted to know if his son, Andrew Jackson, Jr. had "got his little Lyncoya" and what his thoughts were.</abstract>
+  <abstract>Robert Hays was born in Salisbury, North Carolina in 1758. He fought in the Revolutionary War and thus received a land grant in Middle Tennessee. He met and married Jane Donelson, Rachel Donelson Jackson's sister. In Davidson County, his property took the name Haysboro. He served as trustee to the Davidson Academy, representative to the North Carolina legislature from Davidson County, colonel of cavalry, justice of the peace, and deputy inspector general during the War of 1812. He died in 1819.</abstract>
+  <originInfo>
+    <dateCreated>1814 January 4</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Saint Clair County (Ala.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

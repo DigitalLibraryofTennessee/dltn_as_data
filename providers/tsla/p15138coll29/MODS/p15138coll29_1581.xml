@@ -1,0 +1,46 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Real photo postcard of Pvt. Robert Holloway and his brother Joseph Brown Holloway</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/1581</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/1581</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/1581/manifest.json</url>
+  </location>
+  <abstract>The civilian in this photograph, Joseph Brown Holloway, enlisted after this postcard was made and was posted to England when war ended. The brothers were from Whitwell in Marion County. Robert was inducted 20 Sept 1917 and was sent to Camp Gordon, GA and served in Co. B, 105 Supply Train, 30th Div. He was overseas June 11, 1918 to April 4, 1919. Joseph Brown Holloway was inducted 26 July 1918 and served as a private in the 157 Depot Brig., 82nd Div. He was overseas September 4, 1918 to January 23, 1918.</abstract>
+  <originInfo>
+    <dateCreated>1914-1918</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Holloway, Robert</topic>
+  </subject>
+  <subject>
+    <topic>Holloway, Joseph Brown</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Maryville, Blount County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Postcards</form>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

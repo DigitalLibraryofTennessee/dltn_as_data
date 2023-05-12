@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Sarah Wise to Josephine A. Pearson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/871</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/871</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/871/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Wise, Sarah Landa</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Sarah Wise wrote that she was trying to get an "expression of sentiment" about the Susan B. Anthony amendment from the various groups of Jewish women. She reported that Zella Armstrong planned to gauge the sentiment of additional women's clubs, and that if they could get a "number worth while," they would write a petition to the governor. She also described a visit to Nashville in which she met with Rabbi Levinthal's wife and visited Centennial Park and the Parthenon. The envelope has an added note, likely by Josephine A. Pearson, stating "The Jewish people and Rabbis stood solid with the cause vs Federal Suffrage."</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history. Josephine A. Pearson (1868-1944) was an educator from Monteagle who became president of the Tennessee State Association Opposed to Woman Suffrage and the Southern Women's League for the Rejection of the Susan B. Anthony Amendment. She worked tirelessly with various women's groups, religious and political leaders throughout Tennessee in an unsuccessful effort to prevent the passage of women's suffrage.</abstract>
+  <originInfo>
+    <dateCreated>1920 August</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Constitutional amendments -- United States -- Ratification</topic>
+  </subject>
+  <subject>
+    <topic>Jews -- United States -- Politics and government</topic>
+  </subject>
+  <subject>
+    <topic>Jews -- Political activity -- United States</topic>
+  </subject>
+  <subject>
+    <topic>Women -- Political activity -- United States</topic>
+  </subject>
+  <subject>
+    <topic>Women in public life</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Activists</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Josephine A. Pearson Papers, 1860-1943</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

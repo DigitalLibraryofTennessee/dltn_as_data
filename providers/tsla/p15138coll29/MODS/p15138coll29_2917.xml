@@ -1,0 +1,29 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ordnance and Tennessee National Guard collar discs</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2917</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2917</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2917/manifest.json</url>
+  </location>
+  <abstract>These bronze collar discs belonged to James McFerren Johnston during World War I. One disc has the flaming bomb insignia of the Ordnance Deptment and the other has "TENN" and is an alternative devise for Tennessee National Guard. James McFerren Johnston served in HQ Co., Ord. Corps, attached to the 114th MG Battn., 30th Div. The 30th Div. consisted of National Guard units from Tennessee and the Carolinas and served under the British. Their nickname was the "Old Hickory" division.</abstract>
+  <originInfo>
+    <dateCreated>1910-1920</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Insignia</form>
+  </physicalDescription>
+</mods>

@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to William Williams, September 25, 1819</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/199</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/199</url>
+  </location>
+  <abstract>Jackson began the letter defending himself against Col. John Williams's "false" and "malicious" charge of fraud in the matter of Florida land transactions. Jackson later discussed his role in the Chickasaw treaty of 1818 and the commercial potential of the salt lick contained within the treaty's bounds.</abstract>
+  <abstract>The Chickasaw Treaty of 1818, also known as the Jackson Purchase, was the cession of land in west Tennessee and Kentucky by the Chickasaw Nation to the United States. The treaty was ratified on October 19, 1818. Andrew Jackson and Isaac Shelby served as commissioners on behalf of the United States.</abstract>
+  <originInfo>
+    <dateCreated>1819 September 25</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Chickasaw Indians--Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Public land sales</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS T-100</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

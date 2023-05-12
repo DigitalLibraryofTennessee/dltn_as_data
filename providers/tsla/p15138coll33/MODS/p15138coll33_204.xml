@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from William B. Lewis to John Coffee, July 27, 1828</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/204</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/204</url>
+  </location>
+  <name>
+    <namePart>Lewis, William Berkeley, 1784-1866</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Lewis wrote Coffee to report that "The floodgates of falsehood, slander, and abuse [had] been hoisted, and the most nauseating filth is poured, in torrents, on the head of . General Jackson." He accused Adams's and Clay's supporters of losing "all sense of decency." Lewis informed Coffee that Jackson's enemies accused him of being a "negroe [sic] trader" in regard to a contested slave transaction between Jackson, John Hutchings, and "old Rawlings." Lewis defended Jackson's role in the transaction, saying that he "had nothing to do with it." Lewis also reported that some of Governor Isaac Shelby's family "charged the general with having acted corruptly at the Chickasaw Treaty of 1818, relative to the purchase of the Colbert Reservations." Lewis asked Coffee if Jimmy [James] Jackson had any hand in that accusation and the details of the treaty.</abstract>
+  <abstract>William Berkeley Lewis was a longtime friend and associate of Andrew Jackson. He was appointed quartermaster under Jackson during the War of 1812 and assisted Jackson's 1823 campaign for the Senate and his presidential campaigns. Once president, Jackson appointed Lewis second auditor of the treasury.</abstract>
+  <originInfo>
+    <dateCreated>1828 July 27</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Coffee, John, 1772-1833</topic>
+  </subject>
+  <subject>
+    <topic>Lewis, William Berkeley, 1784-1866</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

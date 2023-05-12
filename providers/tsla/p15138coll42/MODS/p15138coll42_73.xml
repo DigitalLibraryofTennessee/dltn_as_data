@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Maggie Murphy works on white oak basket</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll42/id/73</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll42/id/73</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll42/73/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Overcast, Roy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Maggie Murphy of Short Mountain works on a white oak basket at her home in Cannon Co., TN, 1973.</abstract>
+  <originInfo>
+    <dateCreated>1973 May</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Murphy, Maggie</topic>
+  </subject>
+  <subject>
+    <topic>Crafts: basketmaking</topic>
+  </subject>
+  <subject>
+    <topic>Anglo-American</topic>
+  </subject>
+  <subject>
+    <topic>Folklife -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Folklife -- 20th century -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Basketmaking -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <geographic>Short Mountain (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Cannon County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Arts Commission, Folk Arts Program, Records (1899-2014)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

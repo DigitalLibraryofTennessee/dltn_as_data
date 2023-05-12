@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Highlander Songbook</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/highlander/id/1655</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/highlander/id/1655</url>
+  </location>
+  <name>
+    <namePart>Highlander Folk School</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>An original songbook titled "Songs of the Soil" published by the Highlander Folk School. It contains the lyrics to twenty-one songs dealing with themes related to labor and folk songs.</abstract>
+  <abstract>Highlander taught songs and published songbooks to both educate workers and spread enthusiasm for their cause while picketing or protesting. Zilphia Horton, Highlander's drama and musical director from the 1930s until her death in 1956, traveled to rural areas collecting folk songs which she would rework into union and protest songs. She also taught inspirational music to those protesting and organizing against segregation and racism in the South, often credited with arranging and turning the song "We Shall Overcome" into a Civil Rights anthem.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Folk music</topic>
+  </subject>
+  <subject>
+    <topic>Highlander Folk School (Monteagle, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Education</topic>
+  </subject>
+  <subject>
+    <topic>Working class--Songs and music</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement</topic>
+  </subject>
+  <subject>
+    <topic>Labor movement--United States--History</topic>
+  </subject>
+  <subject>
+    <geographic>Monteagle (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Monteagle (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Zilphia Horton Folk Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1064</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Songbooks</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

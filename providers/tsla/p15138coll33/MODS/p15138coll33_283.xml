@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Jackson equestrian statue, Nashville</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/283</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/283</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/283/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Wiles, Marvin Willard, approximately 1883-1957</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Photograph of the copy of Clark Mills's equestrian statue of Andrew Jackson that stands on the grounds of the Tennessee State Capitol. Looking eastward, It shows the elegant 19th century townhouses (now-demolished) that once stood on Park Place between Cedar and Gay Streets.</abstract>
+  <abstract>This statue, commissioned in 1847 and completed in 1852, commemorated Jackson's victory over the British at the Battle of New Orleans. Clark Mills, with help from his enslaved apprentice Phillip Reid, cast the piece in ten sections. The White House Historical Association states that it was first bronze statue cast in the United States and the first two legged equestrian statue in the world. The statue outside the Tennessee State Capitol was erected in 1880. Exact replicas stand in Jackson Square in New Orleans and at the White House.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1910</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Capitol Mall (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Equestrian statues</topic>
+  </subject>
+  <subject>
+    <topic>Capitols</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

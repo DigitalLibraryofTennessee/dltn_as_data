@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Drawing of 'Defeat of the British army, 12,000 strong, under the command of Sir Edward Packenham'</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/274</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/274</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/274/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Laclotte, Jean Hyacinthe, 1765-1828</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Jean Hyacinthe Laclotte's detailed drawing of the Battle of New Orleans on Chalmette Plain based on his painting of the same. Many not necessarily simultaneous events are depicted in Laclotte's rendering, including British infantry carrying fascines to scale the American breastworks, fighting at the artillery redoubt on Jackson's right, behind which are buckskin-clad troops. Packenham's attack on the American center appears to have already been repulsed, and, toward the top, British soldiers are shown carrying someone on a stretcher, possibly the mortally wounded Packenham. A caped Jackson is depicted just below the American flag, near the center of the breastworks in front of the Rodriguez House.</abstract>
+  <abstract>Jean Hyacinthe Laclotte was a French architect and artist. In 1810, he began an architectural partnership with Arsène LaTour. By 1813 his firm went bankrupt and Laclotte volunteered for the Louisiana militia as an engineer. His painting, based on battlefield sketches, was made into an engraving by Philibert-Louis Debucourt and mass produced.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>Pakenham, Edward Michael, 1778-1815</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Military service</topic>
+  </subject>
+  <subject>
+    <topic>Engraving</topic>
+  </subject>
+  <subject>
+    <topic>Campaigns &amp; battles</topic>
+  </subject>
+  <subject>
+    <topic>Military officers</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Drawings</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

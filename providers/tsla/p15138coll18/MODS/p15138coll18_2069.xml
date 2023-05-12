@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from wife of Henry Benton Henegar to Ed Porter Thompson regarding Indian removal</title>
+  </titleInfo>
+  <identifier>42137</identifier>
+  <name>
+    <namePart>Henegar, Henry Benton</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1897-10-25</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <note>Application/pdf</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll18/id/2069</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll18/id/2069</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Indian Removal, 1813-1903</topic>
+  </subject>
+  <subject>
+    <topic>Trail of Tears, 1838-1839</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject>
+    <topic>Ross, John, 1790-1866</topic>
+  </subject>
+  <subject>
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject>
+    <topic>Indigenous peoples</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114250">
+    <topic>Rivers</topic>
+  </subject>
+  <subject>
+    <topic>Forts &amp; fortifcations</topic>
+  </subject>
+  <subject>
+    <topic>Indian agents</topic>
+  </subject>
+  <subject>
+    <topic>Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Tribal chiefs--Cherokees</topic>
+  </subject>
+  <abstract>This letter, dictated by H. B. Henegar and transcribed by his wife, is a response to a request from Ed Porter Thompson for more information regarding the removal of the Cherokee Indians in 1838 and 1839. Henegar, who was employed by John Ross during the Removal period, starts his reply to Thompson by describing the place in Bradley County, Tennessee, where the Cherokees he accompanied were collected by the United States troops under the orders of General Winfield Scott. He explains the division of the Cherokee people into smaller groups, called detachments, and the process for each group's removal. According to his letter, Henegar states all the Cherokee detachments that were collected at this spot in Bradley County traveled the same route to the West through Tennessee and parts of Kentucky and Illinois before crossing the Mississippi River into Missouri. He describes his detachment getting stuck in the middle of the Mississippi River for three weeks when it froze. From there they traveled to the Indian Country in Arkansas where they dispersed and settled. He goes on to describe the events that happened after their relocation, including the creation of a new constitution and the conflict between the Ross and Ridge parties. He also gives an account of the assassinations of several Ridge party members who signed the Treaty of New Echota, though he believes Ross was not involved in organizing these attacks.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees, that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic>Charleston (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Henegar Family Papers, 1845-1924</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Education Outreach</title>
+    </titleInfo>
+    <abstract>We're here to help you bring Tennessee history alive in the classroom! The Tennessee State Library and Archives (TSLA) is a great resource for educators and students seeking primary sources for use in the classroom. With extensive holdings in Tennessee, Southern, and regional history, TSLA is also the official repository for the permanent records of the State of Tennessee...</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/educationoutreach/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

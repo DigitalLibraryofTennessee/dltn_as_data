@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>James Monroe</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/125</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/125</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/125/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Chappel, Alonzo, 1828-1887</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Engraved image of James Monroe (1758-1831), seated in chair with cabriole legs. He wears a dark suit, trousers, and cravat and holds what appears to be a handkerchief in one hand. A large book is propped against a table leg. Facsimile signature.</abstract>
+  <abstract>James Monroe's presidency ushered in the "Era of Good Feelings" following the War of 1812. He was elected fifth president in 1816 and was reelected in 1820. Early in his first administration, the nationalism that characterized the Era of Good Feelings; began to crack, and serious sectional issues grew. The Monroe Doctrine, which announced a hands-off policy to European powers seeking additional colonies in the Western Hemisphere, was effective well into the 20th century.</abstract>
+  <originInfo>
+    <dateCreated>1861</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Monroe, James, 1758-1831</topic>
+  </subject>
+  <subject>
+    <topic>Cabinet officers--United States</topic>
+  </subject>
+  <subject>
+    <topic>Legislators--United States</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <subject>
+    <topic>Nationalism</topic>
+  </subject>
+  <subject>
+    <topic>Monroe doctrine</topic>
+  </subject>
+  <subject>
+    <topic>Executive power</topic>
+  </subject>
+  <subject>
+    <topic>Furniture</topic>
+  </subject>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Government officials</topic>
+  </subject>
+  <subject>
+    <topic>Engravings</topic>
+  </subject>
+  <subject>
+    <topic>Trousers</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Engravings</form>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

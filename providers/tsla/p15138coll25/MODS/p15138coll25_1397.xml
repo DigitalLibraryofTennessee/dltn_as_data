@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ezekiel Wallis Rock house</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1397</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1397</url>
+  </location>
+  <name>
+    <namePart>Johnston, Frances Benjamin, 1864-1952</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Exterior of the Ezekiel Wallis Rock House near Charlotte, N.C., an example of a Quaker house. Shows the two-story stone house with a chimney at one end of the house. The home has patterned stonework on the side. Circular ventilators are located at the attic.</abstract>
+  <abstract>Built in 1778, during the Revolutionary War, by Ezekiel Wallis. Visitors to the home included Marshall Polk (brother of James K. Polk) and Andrew Jackson. The home was demolished in 1950.</abstract>
+  <originInfo>
+    <dateCreated>1936</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Houses</topic>
+  </subject>
+  <subject>
+    <topic>Stone buildings</topic>
+  </subject>
+  <subject>
+    <topic>Windows</topic>
+  </subject>
+  <subject>
+    <topic>Masonry</topic>
+  </subject>
+  <subject>
+    <topic>Chimneys</topic>
+  </subject>
+  <subject>
+    <topic>Porches</topic>
+  </subject>
+  <subject>
+    <topic>Architectural decorations &amp; ornaments</topic>
+  </subject>
+  <subject>
+    <geographic>Charlotte (N.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

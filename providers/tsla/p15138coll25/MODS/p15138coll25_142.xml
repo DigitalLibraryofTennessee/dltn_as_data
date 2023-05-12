@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>William Starke Rosecrans</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/142</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/142</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/142/manifest.json</url>
+  </location>
+  <abstract>Full-length portrait of General William Starke Rosecrans in military uniform, with cape draped over shoulders. He is holding a piece of paper in his hand [map] and is standing in front of a chair and desk.</abstract>
+  <abstract>Union general during the Civil War.</abstract>
+  <originInfo>
+    <dateCreated>1863</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Rosecrans, William S. (William Starke), 1819-1898</topic>
+  </subject>
+  <subject>
+    <topic>Cloaks</topic>
+  </subject>
+  <subject>
+    <topic>Chairs</topic>
+  </subject>
+  <subject>
+    <topic>Collars</topic>
+  </subject>
+  <subject>
+    <topic>Jackets</topic>
+  </subject>
+  <subject>
+    <topic>Armored troops--Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Military uniforms--History</topic>
+  </subject>
+  <subject>
+    <topic>Military weapons</topic>
+  </subject>
+  <subject>
+    <topic>Generals</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Military officers</topic>
+  </subject>
+  <subject>
+    <topic>Military personnel</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <subject>
+    <geographic>New York (N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

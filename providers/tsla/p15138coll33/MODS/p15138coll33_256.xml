@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Lincoyer to Andrew Jackson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/256</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/256</url>
+  </location>
+  <name>
+    <namePart>Jackson, Lyncoya</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Labeled a "true copy" of a letter from Lincoyer, Andrew Jackson's adopted Creek son, to "Dear Father." In this plaintive letter, Lincoyer addresses his status in the Jackson household and asks Jackson, "If the Mad Wolfe and Ogilvrie call thee father, may not Lincoyer, and be justified?" The authenticity of this letter has come under scrutiny.</abstract>
+  <abstract>Lincoyer[also written Lyncoya, or Lincoya], a Creek child, was found on the battlefield at Tallushatchee, lying next to his slain mother. Jackson took in the child and raised him alongside his own adopted son Andrew Jackson Jr. Lincoyer died of tuberculosis in 1828.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Correspondence Jackson, Andrew, 1767-1845--Family</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845--Relation with Creek Indians</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

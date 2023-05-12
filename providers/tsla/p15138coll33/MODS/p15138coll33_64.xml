@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to James Winchester, January 31, 1815</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/64</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/64</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Major General Jackson wrote to James Winchester, commanding at Mobile, concerning supplies. Jackson said that he ordered Captain William Lauderdale to purchase supplies on October 15, and that he heard from him when he arrived at Fort Strother, but not since. Jackson expressed astonishment at Lauderdale's "silence and his failure to execute the business for which he was sent." Jackson rejoiced the victory at New Orleans, giving "sincere thanksgiving for the remarkable interposition of Heaven on our behalf." He laments that a shipment of arms arrived late or "the whole force of [the] invaders might and would have been captured or destroyed." Jackson guessed that the British would not attempt any further attack on the southern coast, specifically Fort Bowyer, but may try to "stir up the Indians" at "Apalachala [Apalachicola]." A postscript stated that their prisoners had just been returned and reported that the British are building flat-bottomed boats.</abstract>
+  <originInfo>
+    <dateCreated>1815 January 31</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>James Winchester Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

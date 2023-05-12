@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Andrew Jackson's last will and testament</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/108</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/108</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>The last will and testament of Andrew Jackson as of June 7, 1843, which amended his will of September 30, 1833. Jackson requested that he be buried "by the side of [his] dear departed wife in the garden of the Hermitage." Jackson specifically asked for his executor to pay off six thousand dollars to General J. B. Plauch's company. The purchase of Hiram G. Runnels' plantation in Mississippi, purchased by Andrew Jackson, Jr., is also mentioned. Jackson went on to mention a few other debts owed by him to be paid off at his death. Jackson bequeathed the Hermitage and all its adjacent land, furniture, slaves, stock, as well as the remainder of his estate after the payment of his debts to his adopted son, Andrew Jackson, Jr. Andrew Jackson gave his granddaughter Rachel Jackson "several negroes." He left his grandson, Andrew Jackson, "a negro named Ned, son of blacksmith Aaron and Hannah his wife." He left his grandson Samuel Jackson "one negro boy, named Davy or George, son of Squire and his wife Geney." To his daughter-in-law Jackson reaffirms his marriage gift of "the negro girl Gracy. as her maid and seamstress with her increase, with my house servant Hanna, and her two daughters, namely Charlotte and Mary." Jackson left his nephew, Andrew Jackson Donelson "the elegant sword presented to [Jackson] by the State of Tennessee, with this injunction, that he not fail to use it when necessary, in support and protection of our glorious union." He left the sword given to him by Captain Beal's company of New Orleans to his nephew Andrew Jackson Coffee. He bequeathed the sword given to him by the citizens of Philadelphia to his grandson, Andrew Jackson. He left the pistols of General Lafayette to George Washington Lafayette. Jackson continued through his prized possessions gifting General Robert Armstrong his "case of pistols and sword worn by [Jackson] throughout [his] military career." Marion Adams, Elizabeth D. Long, Thomas J. Donelson, Richard Smith, and Robert Armstrong all signed the will as witnesses.</abstract>
+  <originInfo>
+    <dateCreated>1843 June 7</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1776-1845</topic>
+  </subject>
+  <subject>
+    <topic>Donelson, Andrew Jackson, 1799-1871</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, Jr., 1809-1865</topic>
+  </subject>
+  <subject>
+    <geographic>Davidson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>3, 79-048</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Legal documents</form>
+    <form>Documents</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

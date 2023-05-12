@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from James Buchanan to W. Hugh Hamilton, March 19, 1824</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/232</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/232</url>
+  </location>
+  <name>
+    <namePart>Buchanan, James, 1791-1868</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Pennsylvania congressman Buchanan reported that Jackson's friends considered Calhoun's presidential nomination "impolitic," and that "Major Eaton never wrote a letter to Harrisburg advising that measure." He reported that there was much discussion about how New York would vote, with both Adams' and Crawford's supporters claiming it in their column. Buchanan "consider[ed] Clay as much out of the question as Calhoun." He guessed that Jackson's success "depend[ed] on the electoral votes. unless a great change should take place in the House of Representatives." Buchanan referred to Jackson as a "noble old fellow." He concluded the letter with an update on the tariff bill moving through Congress. President Jackson later appointed Buchanan as Minister to Russia.</abstract>
+  <abstract>The 1824 presidential election was a fierce contest. Four frontrunners, Henry Clay, William Crawford, John Quincy Adams, and Andrew Jackson, were identified as early as a year before the election. The results were highly regional; each candidate won his home state. Jackson received the most popular votes but failed to win a majority of electoral votes so the choice fell to the House of Representatives. Clay threw his support behind Adams, who ultimately won. Adams then appointed Clay as Secretary of State which infuriated Jackson and his supports who deemed it the "corrupt bargain." James Buchanan served as a member of the United States House of Representatives from Pennsylvania at the time of this letter and Hugh Hamilton was editor of the Harrisburg Chronicle. Jackson as president later appointed Buchanan as Minister to Russia.</abstract>
+  <originInfo>
+    <dateCreated>1824 March 19</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Buchanan, James, 1791-1868</topic>
+  </subject>
+  <subject>
+    <topic>Presidential elections</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrew Jackson Collection, 1788-1942</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>3, 79-048</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

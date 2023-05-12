@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Model 1911 US automatic pistol with holster</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/1790</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/1790</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/1790/manifest.json</url>
+  </location>
+  <abstract>The .45 caliber model 1911 Automatic Colt Pistol was the standard sidearm of US officers and NCOs during World War I. The cavalry pattern leather holster was made at the Rock Island Arsenal and is dated 1912. This particular example was owned by Lt. John Barksdale Greer, 117th MG Battn., 31st Div. Greer also served in the 324th MG Battn., 83rd Div. Both the 31st and 83rd Division provided replacement troops to other units. He was from Loudon, Tennessee. He was born in 1897 and died in 1965.</abstract>
+  <originInfo>
+    <dateCreated>1911-1920</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Hartford (Conn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Maryville, Blount County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Weapons and ammunition</form>
+  </physicalDescription>
+  <typeOfResource>three dimensional object</typeOfResource>
+</mods>

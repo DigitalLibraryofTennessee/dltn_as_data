@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Entry for Andrew Jackson's distilling operations in Federal distillery tax book, page 166</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/505</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/505</url>
+  </location>
+  <name>
+    <namePart>Overton, John, 1766-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>John Overton was the collector in Tennessee of the first Federal excise tax, the so-called Whiskey Tax. The entries from his ledgers list distillers in Tennessee by county. Included on this page is an entry for Andrew Jackson and his whisky operations at Hunter's Hill outside Nashville, his residence before purchasing the Hermitage property.</abstract>
+  <originInfo>
+    <dateCreated>1799-1800</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Whiskey Rebellion, Pa., 1794</topic>
+  </subject>
+  <subject>
+    <topic>Distilling industry--Tennessee--History</topic>
+  </subject>
+  <subject>
+    <topic>Distilling industry</topic>
+  </subject>
+  <subject>
+    <topic>Taxes</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jacob McGavock Dickinson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Documents</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

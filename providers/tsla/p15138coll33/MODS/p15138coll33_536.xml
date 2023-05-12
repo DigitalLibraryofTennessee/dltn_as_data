@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Governor McMinn's Message to the Senate</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/536</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/536</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/536/manifest.json</url>
+  </location>
+  <name>
+    <namePart>McMinn, Joseph, 1758-1824</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A legislative message given by Governor Joseph McMinn in 1817. This message addresses many of the concerns and issues at the time in Tennessee. One of the issues that Governor McMinn addresses in the message is the Chickasaw land claim that is "bound by the Tennessee River on the east and bound on the west by the Mississippi." This area would later be acquired through the Jackson Purchase.</abstract>
+  <abstract>Joseph McMinn was born on June 22, 1758 in Westchester, Pennsylvania. During the Revolutionary War, McMinn served in the Continental army. After the war, he moved to the future Tennessee, and bought a farm in Hawkins County in 1786. Over time, McMinn was elected to the first Tennessee State Senate and later served three times as Speaker of the Senate. He was later Governor of Tennessee for three terms between 1815 and 1821. During his time as governor, the Jackson Purchase was completed, the State Capitol was moved from Knoxville to Murfreesboro, and the Bank of Tennessee was incorporated. After retiring from being governor in 1821, McMinn purchased a farm near Calhoun. Two years later, he was appointed as Agent of the United States to the Cherokees. McMinn died on November 17, 1824 at the Cherokee Agency on the Hiwassee River. Both McMinn County and McMinnville in Warren County are named in his honor.</abstract>
+  <originInfo>
+    <dateCreated>1817 September 15</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>McMinn, Joseph, 1758-1824</topic>
+  </subject>
+  <subject>
+    <topic>Chickasaw Indians</topic>
+  </subject>
+  <subject>
+    <topic>Legislative messages</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>GP 6: Governor Joseph McMinn Papers, 1815 - 1821</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>GP 6</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Documents</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

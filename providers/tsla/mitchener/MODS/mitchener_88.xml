@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>A Wartime Log</title>
+  </titleInfo>
+  <identifier>33554</identifier>
+  <name>
+    <namePart>Mitchener, Hardy A., 1919-1957</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1944/1945</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/mitchener/id/88</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/mitchener/id/88</url>
+  </location>
+  <subject>
+    <topic>Lions</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1939-1945--Europe</topic>
+  </subject>
+  <subject>
+    <topic>Prisoners of war</topic>
+  </subject>
+  <subject>
+    <topic>Diaries</topic>
+  </subject>
+  <abstract>This is the cover of Hardy A. Mitchener, Jr.'s diary during his incarceration as a prisoner of war at the Stalag Luft III camp in Zagan, Poland, during World War II.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic>Zagan (Poland)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem>
+    <identifier>THS 760</identifier>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Hardy A. Mitchener, Jr. Journal, 1944-1945</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Hardy A. Mitchener, Jr. Journal</title>
+    </titleInfo>
+    <abstract>Hardy A. Mitchener, Jr. was a 2nd Lieutenant in the 509th Bombardment Squadron, 351st Bombardment Group, 8th Air Force, stationed in Polebrook, England, during World War II. He was shot down and captured on May 30, 1944, after a bombing mission in Oschersleben, Germany, and sent to Stalag Luft III shortly thereafter. During his stay at this POW camp in Sagan, Germany, known principally for the famous “Great Escape” that took place in March 1944, Mitchener kept a diary of his experiences. The diary contains detailed drawings of life at the camp as well as documentation of the prisoners’ rapid evacuation of Stalag Luft III on January 27, 1945. Mitchener was fond of writing songs and poems in his diary, and has included numerous examples of works that speak to the prisoners’ depression, boredom, frustration, and overpowering desire for freedom...</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/mitchener</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

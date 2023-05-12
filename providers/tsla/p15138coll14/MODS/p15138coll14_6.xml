@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Squire Hayes</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll14/id/6</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll14/id/6</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll14/6/manifest.json</url>
+  </location>
+  <abstract>Copy print portrait of Esquire "Squire" Hayes (Hays) (1858-1947).</abstract>
+  <abstract>Squire Hayes was born in Kerrville, Tennessee on February 9, 1858, died on March 18, 1947, and is buried in the Union Hill Cemetery in Munford, Tennessee. He was the son of William Henry Hayes and Mary Elizabeth Hayes. He married three times to: Mae Frances Williams from Crawley Ridge, Arkansas, Lizzie Hood from Marion, Arkansas (1893) and Pinkey Reddit (Reddick) (1904). He had twelve children: William, Joseph, Benjamin, Oscar, Eddie, Herman, Anthony, Mike, Ziller, Agusta, Mary, Booker, and Armantha.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Hayes Family Photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0002</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Prints</form>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

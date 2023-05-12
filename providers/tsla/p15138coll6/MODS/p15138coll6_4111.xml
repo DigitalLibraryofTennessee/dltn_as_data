@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Anna E. Peck to her cousin</title>
+  </titleInfo>
+  <identifier>shel032</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1862-09-31</dateCreated>
+    <place>Memphis, Shelby County, Tennessee</place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Correspondence</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll6/id/4111</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll6/id/4111</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll6/4111/manifest.json</url>
+  </location>
+  <abstract>Letter from Anna E. Peck to her cousin, Pvt. John N. Warlick, Co. G, 55th Tenn. Vol. Inf. Regt., CSA, thanking him for news of her brother who was in Maryland. She writes, "his heart and soul is with us, who are only contending for our own rights. Oh when will this cruel blood shed end." The letter also details the fates of friends and family members who are fighting in the war, including her son who "has hired a substitute over 50 years old to go in his place."</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <subject>
+    <geographic>Atlanta (Ga.)</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Looking Back: The Civil War in Tennessee</title>
+    </titleInfo>
+    <abstract>To commemorate the 150th anniversary of the Civil War (2011-2015), the Tennessee State Library and Archives is sending teams of archivists and conservators to communities across Tennessee. Individuals may schedule an appointment, and we will digitally copy and assist in the preservation of your Civil War era manuscripts, artifacts and photographs. Digital copies of these items, representing the rich Civil War heritage of Tennessee families, will become part of a virtual exhibit commemorating the 150th anniversary of the war in Tennessee....</abstract>
+    <location>
+      <url>http://www.tn.gov/tsla/cwtn/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Christian Advocate editors</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1158</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1158</url>
+  </location>
+  <name>
+    <namePart>Nashville Christian advocate</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Composite print of Christian Advocate editors, 1836-1941, shown on the cover of the publication.</abstract>
+  <abstract>The Nashville Christian Advocate was the official paper of the Tennessee Conference and served as the weekly newspaper of the Methodist Episcopal Church. Originally named the Southwestern Christian Advocate, by 1846 the name changed to the Nashville Christian Advocate. At the time in the South, it was one of the leading Methodist newspapers. The church's publishing house was in Nashville, and this resulted in the name eventually changing to just the Christian Advocate.</abstract>
+  <originInfo>
+    <dateCreated>1940 December 27</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>McTyeire, Holland Nimmons, 1824-1889</topic>
+  </subject>
+  <subject>
+    <topic>Fitzgerald, O. P. (Oscar Penn), 1829-1911</topic>
+  </subject>
+  <subject>
+    <topic>Hoss, E. E. (Elijah Embree), 1849-1919</topic>
+  </subject>
+  <subject>
+    <topic>Winton, George B. (George Beverly), 1861-1938</topic>
+  </subject>
+  <subject>
+    <topic>Ivey, Thomas N. (Thomas Neal), 1860-1923</topic>
+  </subject>
+  <subject>
+    <topic>Smith, Alfred F., 1869-1962</topic>
+  </subject>
+  <subject>
+    <topic>King, William P. (William Peter), 1871-1957</topic>
+  </subject>
+  <subject>
+    <topic>M'Ferrin, John B. (John Berry), 1807-1887</topic>
+  </subject>
+  <subject>
+    <topic>Newspaper editors</topic>
+  </subject>
+  <subject>
+    <topic>Editors</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

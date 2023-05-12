@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Federal distillery tax book for Tennessee, 1796-1801</title>
+  </titleInfo>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll35/id/431</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll35/id/431</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll35/431/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Overton, John, 1766-1833</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>John Overton was the collector in Tennessee of the first Federal excise tax, the so-called Whiskey Tax. The entries from his ledgers list distillers in Tennessee by county. The record details those who distilled spirits, the number of pots or stills, their annual production of distilled spirits in gallons, and the amount of tax owed. This volume, 1796-1801, includes entries for Andrew Jackson and his whisky operations at Hunter's Hill outside Nashville, his residence before purchasing the Hermitage property.</abstract>
+  <abstract>This tax volume is a product of the earliest federal tax in the United States, an excise on all distilled spirits produced in the United States. This tax was the revenue-generating part of Washington's Secretary of the Treasury Alexander Hamilton's grand plan to repay the bonded debt owed from the Revolutionary War and to establish the fiscal standing of the national government. Because it was done on the backs of farmers, many of whom distilled their corn into value-added whisky, the excise was widely unpopular in rural areas; it sparked the Whiskey Rebellion in western Pennsylvania and discontent generally. Distilling was a staple rural industry in frontier America, and particularly in this largely Scot-Irish state, where many Tennesseans distilled whiskey to sell, imbibe, and as a dietary and medicinal supplement.</abstract>
+  <originInfo>
+    <dateCreated>1796-1801</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Whiskey Rebellion, Pa., 1794</topic>
+  </subject>
+  <subject>
+    <topic>Distilling industry--Tennessee--History</topic>
+  </subject>
+  <subject>
+    <topic>Distilling industry</topic>
+  </subject>
+  <subject>
+    <topic>Taxes</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jacob McGavock Dickinson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+</mods>

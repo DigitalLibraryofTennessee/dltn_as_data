@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Thomas Maupin performs with Jackie Case and Daniel and Danny Rothwell at the Museum of Appalachia Homecoming</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll42/id/246</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll42/id/246</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll42/246/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Everts-Boehm, Dana</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Champion buckdancer Thomas Maupin of Murfreesboro, TN, dances to the old-time music of Jackie Case, grandson Daniel Rothwell and son-in-law Danny Rothwell at the Museum of Appalachia Homecoming, Norris 2011.</abstract>
+  <abstract>Maupin is a 2011 recipient of the Tennessee Folklife Heritage Award. Funding for this event was provided in part by a TAC Folklife grant.</abstract>
+  <originInfo>
+    <dateCreated>2011 October 7</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Case, Jackie</topic>
+  </subject>
+  <subject>
+    <topic>Rothwell, Daniel</topic>
+  </subject>
+  <subject>
+    <topic>Rothwell, Danny</topic>
+  </subject>
+  <subject>
+    <topic>Maupin, Thomas</topic>
+  </subject>
+  <subject>
+    <topic>Museum of Appalachia Homecoming 2011</topic>
+  </subject>
+  <subject>
+    <topic>Dancing: buckdancing</topic>
+  </subject>
+  <subject>
+    <topic>Anglo-American</topic>
+  </subject>
+  <subject>
+    <topic>Folklife -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Folklife -- 20th century -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Clog dancing -- United States -- History</topic>
+  </subject>
+  <subject>
+    <geographic>Norris (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Anderson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Arts Commission, Folk Arts Program, Records (1899-2014)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

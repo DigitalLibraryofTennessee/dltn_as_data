@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Portrait of Judge John Overton</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/285</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/285</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/285/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Earl, Ralph Eleaser Whiteside, approximately 1785-1838</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Photograph of a portrait of John Overton by Ralph Earl. A pair of quills and books appear in the background, emphasizing Overton's intellectual gifts. Original is owned by Travellers Rest Plantation &amp; Museum in Nashville.</abstract>
+  <abstract>John Overton was born in Louisa County, Virginia in 1766. Overton moved to Nashville in March 1789 and began practicing law in the Davidson County court. During his lifetime he served as an early Tennessee lawyer, a jurist, banker and political leader. Overton was also a trusted friend and advisor to Andrew Jackson. John Overton was perhaps Jackson's closest advisor and confidante. He often wrote to Overton, discussing Washington politics, local and national affairs, gossip, and land speculation. He served as federal tax collector on the whiskey tax from 1796 until 1803. Overton was elected to replace Jackson as judge of the Superior Court of Law and Equity, where he served until 1810. After the Jackson Purchase in 1818, Overton, James Winchester and Andrew Jackson established the town of Memphis in the western corner of Tennessee near the Mississippi River. During his later years, Overton devoted a substantial portion of his time at promoting the new town's growth and development. Overton lived at his plantation near Nashville, Traveller's Rest.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Overton, John, 1766-1833</topic>
+  </subject>
+  <subject>
+    <topic>Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Books</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Nell Savage Mahoney Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 457, THS 681</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

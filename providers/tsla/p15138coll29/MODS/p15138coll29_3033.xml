@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Trautes Heim, dien denk' ich immer / Trautes Heim, dir gilt mein Gruss</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/3033</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/3033</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/3033/manifest.json</url>
+  </location>
+  <abstract>The translated printed portion of this German postcard reads, "Home Sweet Home, I'm always thinking of you/Home Sweet Home, you receive my regards" which are lines from the German folks song, "I Want to Return Home," written circa 1885. Written on top of the card is "Please respond immediately, your husband" and below, "Give my regards to my Children." The reverse inciates that the soldier is writing from a hospital in Saarburg. The soldier was Landsturmmann F. Heinbach, Landstrum Btn. No. 15.</abstract>
+  <originInfo>
+    <dateCreated>1915 December 4</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <geographic>Saarburg (Germany)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga, Hamilton County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Postcards</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

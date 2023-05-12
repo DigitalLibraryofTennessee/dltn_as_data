@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Castle Menzies</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1094</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1094</url>
+  </location>
+  <abstract>Exterior view of Castle Menzies, a stone castles located near Aberfeldy in the Highlands of Perthshire. Shows the Z-plan castle, towers, stone dormer windows, and turrets. The offset wings are visible in the background.</abstract>
+  <abstract>Castle Menzies, a sixteenth-century castle, was the stronghold of the Chiefs of Clan Menzies for many centuries. It was built after the Place at Weem burned down. Later extensions and additions were made to the castle, including the wing at the rear of the castle.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Castles--Scotland</topic>
+  </subject>
+  <subject>
+    <topic>Menzies family</topic>
+  </subject>
+  <subject>
+    <topic>Fortification</topic>
+  </subject>
+  <subject>
+    <topic>Castles</topic>
+  </subject>
+  <subject>
+    <topic>Architecture</topic>
+  </subject>
+  <subject>
+    <topic>Architecture--Scotland</topic>
+  </subject>
+  <subject>
+    <topic>Castles &amp; palaces</topic>
+  </subject>
+  <subject>
+    <topic>Forts &amp; fortifications</topic>
+  </subject>
+  <subject>
+    <topic>Towers</topic>
+  </subject>
+  <subject>
+    <geographic>Aberfeldy (Scotland)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

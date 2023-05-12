@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Open letter to Tennessee legislators"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll27/id/78</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll27/id/78</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll27/78/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Catt, Carrie Chapman, 1859-1947</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Carrie Chapman Catt, the president of the National American Woman Suffrage Association who campaigned for the 19th Amendment in Tennessee, wrote to Tennessee legislators to persuade those that feared that voting on the suffrage amendment during the special session would violate their oath to the constitution of Tennessee. She explained how the United States Constitution provided guidance for situations when a state constitution conflicted with the federal constitution by citing Article 6, Section 2: "This Constitution shall be the Supreme law of the land, and judges in every State shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." Catt underlined that last phrase for emphasis. She further stated that Attorney General Thompson had rendered the opinion to Governor Roberts that legislators had the right to vote for the amendment. Acting Federal Attorney General Frierson had rendered a similar opinion to President Wilson.</abstract>
+  <abstract>The 19th Amendment to the U. S. Constitution granted women the right to vote. When the Tennessee General Assembly passed the ratification resolution on August 18, 1920, it gave the amendment the 36th and final state necessary for ratification. Suffragists and anti-suffragists lobbied furiously to secure votes during that intense summer in Nashville. The ratification resolution passed easily in the Tennessee State Senate on August 13, but the House of Representatives was deadlocked. When young Harry T. Burn of Niota changed his vote to support ratification of the 19th Amendment, he broke a tie in the House of Representatives and made history. Carrie Chapman Catt (1859-1947) was president of the National American Woman Suffrage Association (NAWSA). She came to Nashville during the summer of 1920 to support the efforts of Tennessee suffragists. Her leadership was a key factor in Tennessee becoming the "Perfect 36," the state that put the 19th Amendment over the top.</abstract>
+  <originInfo>
+    <dateCreated>1920 July 29</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women -- Suffrage -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Constitutional amendments -- United States -- Ratification</topic>
+  </subject>
+  <subject>
+    <topic>Catt, Carrie Chapman, 1859-1947</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee. General Assembly</topic>
+  </subject>
+  <subject>
+    <topic>Activists</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Political organizations</topic>
+  </subject>
+  <subject>
+    <topic>Politicians</topic>
+  </subject>
+  <subject>
+    <topic>Women's rights</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Carrie Chapman Catt Papers, 1916-1921</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

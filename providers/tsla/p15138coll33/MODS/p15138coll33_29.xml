@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from William Carroll to James Winchester, January 3, 1815</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/29</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/29</url>
+  </location>
+  <name>
+    <namePart>Carroll, William, 1788-1844</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Three-page letter from General William Carroll to General James Winchester describing the December 23, 1814, night battle at New Orleans against the British. Carroll reported that the British disembarked from their ships on December 23 and Jackson led several corps to meet them "about seven miles below the city of New Orleans and gave him battle in the night and drove him off his ground." According to Carroll the battle lasted about two hours and twenty minutes. After the skirmish, Jackson "erected a fortified camp four miles below the city," and had "been fighting the enemy every day since the battle." He described the British bombardment of their fortifications as a, "tremendous firing of cannon balls, bomb shells, and Congreve rockets." He estimated the enemy to be about seven or eight thousand strong.</abstract>
+  <abstract>This night battle of December 23 served as a precursor to the greater battle on January 8. On the morning of the 23rd, British General John Keane and 1,800 regulars landed south of New Orleans. Andrew Jackson led a detachment of over 2,000 men to meet them seven miles south of the city. He surprised them in the night and the almost two-and-a-half hour battle delayed further British advance until January. This allowed the Americans to construct earthworks to protect their artillery, until the main attack occurred on January 8, 1815.</abstract>
+  <originInfo>
+    <dateCreated>1815 January 3</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Carroll, William, 1788-1844</topic>
+  </subject>
+  <subject>
+    <topic>Winchester, James, 1752-1826</topic>
+  </subject>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence Campaigns &amp; battles</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>James Winchester Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 27</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

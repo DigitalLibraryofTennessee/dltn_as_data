@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Fort Mimms</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/12</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/12</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/12/manifest.json</url>
+  </location>
+  <abstract>Black and white engraving entitled Massacre at Fort Mimms, depicting the raid against inhabitants of the fort led by Creek Chief William Weatherford in 1813. Decorative border surronds image.</abstract>
+  <abstract>The band of Creeks known as the Red Sticks attacked the fort on August 30, 1813 resulting in the deaths or capture of approximately 250 settlers, militia, slaves, and Creeks who were loyal to the Americans.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Weatherford, William, approximately 1780-1824</topic>
+  </subject>
+  <subject>
+    <topic>Fort Mims (Ala.)</topic>
+  </subject>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>Violence</topic>
+  </subject>
+  <subject>
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject>
+    <topic>Campaigns &amp; battles</topic>
+  </subject>
+  <subject>
+    <topic>Massacres</topic>
+  </subject>
+  <subject>
+    <topic>Forts &amp; fortifications</topic>
+  </subject>
+  <subject>
+    <topic>Engravings</topic>
+  </subject>
+  <subject>
+    <geographic>Baldwin County (Ala.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Engravings</form>
+    <form>Prints</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

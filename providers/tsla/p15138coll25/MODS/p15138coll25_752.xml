@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Yearling horse</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/752</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/752</url>
+  </location>
+  <abstract>Side view of a yearling horse. A bridge is in the background.</abstract>
+  <abstract>Belle Meade Plantation was founded in 1807 by John Harding, and over time the size of the plantation grew. His son, General William G. Harding, managed it from 1839-1883. During that time, he was imprisoned by Civil War Federal authorities for six months, and Elizabeth McGavock Harding, his wife, managed the plantation. The plantation was well known for its thoroughbred breeding farm both before and after the Civil War. By the 1880s and 1890s it became a destination for visitors.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Belle Meade Plantation (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Plantations--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Thoroughbred horse--Breeding</topic>
+  </subject>
+  <subject>
+    <topic>Thoroughbred horse</topic>
+  </subject>
+  <subject>
+    <topic>Horses--Breeding</topic>
+  </subject>
+  <subject>
+    <topic>Race horses--Breeding--United States</topic>
+  </subject>
+  <subject>
+    <topic>Horses--Breeding--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Horse farms--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Horses</topic>
+  </subject>
+  <subject>
+    <topic>Horse farms</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

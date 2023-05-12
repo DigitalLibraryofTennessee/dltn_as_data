@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>U. S. Navy recruit identification card of Seaman 2nd Class Edward Raymond Exum</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/740</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/740</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/740/manifest.json</url>
+  </location>
+  <abstract>The identification card of Seaman 2nd Class Edward Raymond Exum of Jackson, Tennessee, notes that he had brown hair, blue eyes weighed 116 pounds and was 5'8" tall. Exum was on active duty from July 8, 1918 to April 4, 1919. He trained at Great Lakes, Illinois, and served in Puget Sound, Washington. He was honorably discharged September 30, 1921. He died Feb. 18, 1967. [See also GWjack025-028]</abstract>
+  <originInfo>
+    <dateCreated>1918 July 5</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Saint Louis (Mo.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson, Madison County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Military records</form>
+    <form>Documents</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

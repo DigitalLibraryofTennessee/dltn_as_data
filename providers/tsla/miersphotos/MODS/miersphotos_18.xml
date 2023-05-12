@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Roustabouts" on deck of steamboat</title>
+  </titleInfo>
+  <identifier>33012</identifier>
+  <originInfo/>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <note>Photographs</note>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/miersphotos/id/18</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/miersphotos/id/18</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/miersphotos/18/manifest.json</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African americans</topic>
+  </subject>
+  <subject>
+    <topic>Waterfronts</topic>
+  </subject>
+  <subject>
+    <topic>Labor supply</topic>
+  </subject>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Laborers</topic>
+  </subject>
+  <abstract>Four African American men relax on the deck of a riverboat. The man in front wears blue jeans, vest, coat, and boots. The man in back wears overalls and a plaid shirt. Visible in the background are stacked wooden boxes.</abstract>
+  <accessCondition type="local rights statement">No copyright - United States: http://rightsstatements.org/vocab/NoC-US/1.0/</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Earl S. Miers River Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>908</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Miers River Photo Collection</title>
+    </titleInfo>
+    <abstract>The Earl S. Miers River Photographs date from the first decade of the 20th century (ca. 1900-1912) and show steamboats, buildings, people and scenes along the Mississippi and Tennessee Rivers. There are 69 photographs in the collection, 34 of which are displayed here. Many of the photographs depict steamboats belonging to the St. Louis and Tennessee River Packet Company along with crewmen and laborers who worked on them. There are scenes of riverboat landings and the varied work and activities that occurred there when boats tied up. Images depict mule-drawn ferries, African-American ‘roustabouts,’ drovers loading hogs, oxen hauling cargo, and crossties being loaded at a tieyard.</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/miersphotos</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

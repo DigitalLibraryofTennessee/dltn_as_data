@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hand-copied letter from James Armstrong to James Winchester, December 5, 1814</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/316</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/316</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/316/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Armstrong, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Dr. James Armstrong wrote James Winchester from Pensacola to warn him that the British flotilla, commanded by Admiral Alexander Cochrane, was anchored near Pensacola and planned to attack New Orleans. He revealed that his source was an American prisoner who had been kept on board a British warship for 5 months. He claimed to have heard the British officers "boast that they will eat their Christmas dinner in Orleans." Armstrong ended his letter by mentioning the he knows "Gen. Jackson, Gen. Coffee, and most of officers from Tennessee." A note confirming the accuracy of the report is written and signed by William Smith Richards, who wrote a letter to Jackson the same day from Pensacola relaying the same information. That letter is stored at the Library of Congress.</abstract>
+  <abstract>The primary Battle of New Orleans took place on January 8, 1815, the culmination of 17 days of engagement between American and British troops south of New Orleans. Under cover of artillery fire, the British launched a two-pronged attack on the American breastworks at the Rodriquez Canal on the morning of January 8. One, led by Colonel William Thornton on the west bank of the Mississippi River, attempted to distract from the main assault, but a collapsed dam and heavy mud, held it up. The main force, led by Major General Samuel Gibbs, marched toward the center of the fortifications, held by Major General William Carroll, hidden by a dense fog. As they neared the defenses, the fog lifted exposing them to heavy artillery fire, which, along with forgetting to bring the ladders and fascines to cross the canal, decimated the British advance. Major General John Keane led a small detachment to assist the assault but was wounded while crossing the battlefield. Colonel Rennie and most other senior officers, as well as a large number of their troops, were killed in the initial attack. Major General Edward Pakenham, the commander of the entire British force, led a second wave, which collapsed when both Pakenham and Gibbs received fatal wounds by grapeshot. Major Wilkinson led a third and final assault on the breastworks, but was wounded when he made it to the American line. The remainder of the British force, primarily reserves commanded by Major General John Lambert, retreated toward camp. Thornton's delayed attack on the west bank was initially successful, but the lack of support left these achievements unrealized. Adjutant General Robert Butler reported to Jackson that the British sustained 700 killed, 1400 wounded, and 500 taken prisoner; however, the United States Army Center for Military History today states 285 killed, 1,265 wounded, and 484 captured or missing. The American suffered only 13 dead, 30 wounded, and 19 captured or missing. This one-sided victory cemented Andrew Jackson's reputation as a war hero and thrust him into the national spotlight.</abstract>
+  <originInfo>
+    <dateCreated>1814 December 5</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Pensacola (Fla.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>James Winchester Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

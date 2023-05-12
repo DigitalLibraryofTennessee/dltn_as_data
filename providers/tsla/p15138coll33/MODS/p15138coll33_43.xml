@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Andrew Jackson to William B. Lewis, December 19, 1813</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/43</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/43</url>
+  </location>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Jackson wrote during the Creek War to his friend and quartermaster, William B. Lewis, that they had yet to receive blankets at Fort Strother (Ala. Jackson states that he was afraid that "before [the blankets] reach me, I shall have no men left to buy or wear them and my corps will be deserted." Jackson reported that he was told that the "Tennessee volunteer infantry" had been "doing there [sic] duty as good soldiers or receiving exemplary punishment for disobedience." He mentioned that that the East Tennessee troops, despite having only been in the field for three months, were all home or marching home except for one regiment. He reports that the militia in his division "caught the disease." Jackson demands that Lewis "arouse the governor from his lethargy" and ask that the militia be drafted into the regular army for six months and "fill the disgraceful retrograde of the volunteers." Jackson hoped to put an end to the Creek War, but could only do so if he had a full complement of troops.</abstract>
+  <abstract>William Berkeley Lewis was a longtime friend and associate of Andrew Jackson. He was appointed quartermaster under Jackson during the War of 1812 and assisted Jackson's 1823 campaign for the Senate and presidential campaigns. Once president, Jackson appointed Lewis second auditor of the treasury.</abstract>
+  <originInfo>
+    <dateCreated>1813 December 19</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Saint Clair County (Ala.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

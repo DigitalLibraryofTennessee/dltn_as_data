@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Civilian Conservation Corps basketball team of Company 496</title>
+  </titleInfo>
+  <identifier>35429</identifier>
+  <name>
+    <namePart>Spencer &amp; Wyckoff</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <publisher>Spencer &amp; Wycoff</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll7/id/81</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll7/id/81</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll7/81/manifest.json</url>
+    <physicalLocation>Tennessee State Library &amp; Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Basketball players</topic>
+  </subject>
+  <subject>
+    <topic>Athletes</topic>
+  </subject>
+  <subject>
+    <topic>Civilian Conservation Corps (U.S.)</topic>
+  </subject>
+  <subject>
+    <topic>New Deal, 1933-1939</topic>
+  </subject>
+  <subject>
+    <topic>Basketball</topic>
+  </subject>
+  <subject>
+    <topic>Athletes</topic>
+  </subject>
+  <abstract>Civilian Conservation Corps company's eleven-member basketball team also features a man in a suit and another in a military-style uniform. The team is photographed in two rows: seven men stand in the rear, and the remaining four team members and two other individuals are seated on a bench in the front row. Two of the players in the front row hold basketballs with the printing "CCC Co. 496" on them. Numbers are visible on the players' uniforms.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.</accessCondition>
+  <subject>
+    <geographic>Lexington (Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem>
+    <identifier>RG 93</identifier>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>RG 93, Civilian Conservation Corps Records</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Civilian Conservation Corps</title>
+    </titleInfo>
+    <abstract>This unit of the Tennessee Virtual Archive features images of the work and history of the Civilian Conservation Corps in Tennessee.  Created in 1933 by President Franklin Delano Roosevelt to preserve and nurture America’s natural resources, the CCC brought forests back from the brink of destruction, established recreational destinations, and provided work for tens of thousands of young men from the Volunteer state.  Approximately three million American men, including more than 75,000 Tennesseans, enrolled in the program.  The legacy of the CCC, which was dissolved as the country entered World War II, endured in the lives of the men who served in its ranks and in the improvements made to the nation’s physical landscape...</abstract>
+    <location>
+      <url>http://cdm15138.contentdm.oclc.org/cdm/landingpage/collection/p15138coll7</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

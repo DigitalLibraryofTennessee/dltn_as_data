@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Andrew Jackson cartoon</title>
+  </titleInfo>
+  <identifier>31836</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1856-01-19</dateCreated>
+    <publisher>Frank Leslie's illustrated newspaper</publisher>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll19/id/193</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll19/id/193</url>
+    <url note="iiif-manifest">http://cdm15138.contentdm.oclc.org/iiif/info/p15138coll19/193/manifest.json</url>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+  </location>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845. Works. 1986</topic>
+  </subject>
+  <subject>
+    <topic>New Orleans, Battle of, New Orleans, La., 1815</topic>
+  </subject>
+  <subject>
+    <topic>Louisiana--History--War of 1812</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85106459">
+    <topic>Presidents</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105182">
+    <topic>Portraits</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85048969">
+    <topic>Flags</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <subject>
+    <topic>Cannons</topic>
+  </subject>
+  <subject>
+    <topic>Death</topic>
+  </subject>
+  <subject>
+    <topic>Bayonets</topic>
+  </subject>
+  <abstract>A newspaper illustration of Andrew Jackson's portrait in the middle with cherubs surrounding it. Above the portrait is Lady Liberty with the U.S. flag wrapped around her and then below his portrait is a picture of the Battle of New Orleans.</abstract>
+  <accessCondition type="local rights statement">While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Library Photograph Collection, Oversize</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Online Exhibits</title>
+    </titleInfo>
+    <location>
+      <url>http://www.tn.gov/tsla/exhibits/index.htm</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

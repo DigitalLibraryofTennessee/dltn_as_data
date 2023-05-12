@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Land and negroes for sale</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll14/id/42</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll14/id/42</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll14/42/manifest.json</url>
+  </location>
+  <abstract>Broadside advertisement for the sale of land and "negroes" in Hardeman County. R. P. Neely, the Clerk and Master of the County Court of Hardeman County, advertised the sale of a tract of land and “4 negroes,” in the case of Andrew Turner administrator of Benjamin Springfield, et als., vs. James T. Ingram and wife, et als. The tract of land contained 131 acres. The four slaves were listed as Peter (38 years of age), Milly (30 years of age), Maria (13 years of age), and Fanny (4 years of age).</abstract>
+  <originInfo>
+    <dateCreated>1858 September 16</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Slavery -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Slavery -- Tennessee -- History -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Slavery -- Tennessee -- Hardeman County</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- History -- Sources</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- Tennessee -- History</topic>
+  </subject>
+  <subject>
+    <topic>Slaves -- Tennessee -- Hardeman County</topic>
+  </subject>
+  <subject>
+    <topic>Estate sales</topic>
+  </subject>
+  <subject>
+    <topic>County courts -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Hardeman County (Tenn.)--History</topic>
+  </subject>
+  <subject>
+    <topic>Broadsides</topic>
+  </subject>
+  <subject>
+    <topic>Advertisements</topic>
+  </subject>
+  <subject>
+    <topic>Slavery</topic>
+  </subject>
+  <subject>
+    <topic>Slaves</topic>
+  </subject>
+  <subject>
+    <geographic>Bolivar (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0018</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Advertisements</form>
+    <form>Broadsides</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

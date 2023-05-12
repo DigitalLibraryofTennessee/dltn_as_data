@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The old lion and the cock what won't fight</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/271</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/271</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/271/manifest.json</url>
+  </location>
+  <abstract>Political cartoon depicting the dispute between the United States and France over war indemnifications from the Napoleonic Wars. Reparations were sought by the Jackson administration for damages to American merchant shipping by French privateers before and during the War of 1812. In the cartoon, Jackson, as a lion bellowing his famous "By the Eternal" oath, refuses to apologize to Louis-Philippe, the Gallic rooster. Jackson stands on a bag of money with the inscription 25,000,000.</abstract>
+  <abstract>In 1831, France finally agreed to repay the United States 25 million francs for the disruption of American shipping during the Napoleonic Wars. In 1824, after a failure to pay, Jackson issued a warning and threatened to seize French property. In 1835, the French government agreed to begin repayment only if Jackson apologized, which Jackson refused to do. In December 1835, Jackson backed down from his threat, but steadfastly refused to apologize. This was satisfactory in the eyes of the French, who began reparations shortly thereafter.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1835</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Louis Philippe, King of the French, 1773-1850</topic>
+  </subject>
+  <subject>
+    <topic>Napoleonic Wars, 1800-1815</topic>
+  </subject>
+  <subject>
+    <topic>Political cartoons</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 9</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Cartoons</form>
+    <form>Political cartoons</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

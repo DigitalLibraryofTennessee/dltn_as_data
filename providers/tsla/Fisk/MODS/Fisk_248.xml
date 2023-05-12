@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Anniversary Program of Fisk University"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/Fisk/id/248</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/Fisk/id/248</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/Fisk/248/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Fisk University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Program with activities celebrating the fifty-fourth commencement and anniversary of Fisk University. Includes candidates for graduation and schedule of speeches, music recitals, sermons, alumni meetings, etc. which took place at the Fisk Memorial Chapel and on campus at Fisk University in Nashville, Tennessee.</abstract>
+  <abstract>The Fisk Memorial Chapel is an ecumencial, non-denominational, and interdenominational church that was constructed in 1892. The Chapel is a primary assembly area on campus for Fisk University sponsoring numerous public functions including concerts, lectures, conferences, and graduation exercises, etc. Included among those who have visited the Chapel are Dr. Martin Luther King Jr., Booker T. Washington, Louis Armstrong, Jesse Jackson, Merle Haggard, etc. as well as being home to the Fisk Jubilee Singers.</abstract>
+  <originInfo>
+    <dateCreated>1928 June 1 - June 6</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Churches</topic>
+  </subject>
+  <subject>
+    <topic>Graduation ceremonies</topic>
+  </subject>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Ambrose A. Bennett Family Papers, 1918-1996</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>99-100</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Booklets</form>
+    <form>Programs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

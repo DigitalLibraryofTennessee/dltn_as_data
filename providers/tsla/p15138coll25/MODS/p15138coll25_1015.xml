@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Statue of Jere Baxter</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/1015</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/1015</url>
+  </location>
+  <abstract>Statue of Jere Baxter (1852-1904), located at Sixteenth Avenue and Broad. The sculpture was created by Belle Kinney Scholz (1890-1959) in 1907.</abstract>
+  <abstract>Jere Baxter was a lawyer, businessman, politician, and publisher. He was the founder of the Tennessee Central Railroad. During his political career, he served in the Tennessee State Senate and ran for governor of Tennessee in 1890. He was the publisher of The Legal Reporter (also known as Baxter's Reports).</abstract>
+  <originInfo>
+    <dateCreated>1956</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Baxter, Jere, 1852-1904</topic>
+  </subject>
+  <subject>
+    <topic>Governors--United States--Election</topic>
+  </subject>
+  <subject>
+    <topic>Railroad companies</topic>
+  </subject>
+  <subject>
+    <topic>Legislators</topic>
+  </subject>
+  <subject>
+    <topic>Lawyers</topic>
+  </subject>
+  <subject>
+    <topic>Publishers</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

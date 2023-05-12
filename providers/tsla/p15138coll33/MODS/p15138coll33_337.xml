@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Nashville Gazette, extra. October 12, 1824. Refuting Jesse Benton's pamphlet attacking General Andrew Jackson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/337</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/337</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/337/manifest.json</url>
+  </location>
+  <abstract>The extra edition of the Nashville Gazette, penned by "Truth," refuted a pamphlet written by Jesse Benton. Benton, brother of Thomas Hart Benton and old personal foe of Jackson's, had written a tract that contained 34 personal attacks on General Andrew Jackson during the 1824 presidential election. In the manner of 1820s political campaigning, the response of Jackson's supporter attempted to clarify the "falsehoods" contained in Benton's pamphlet. Many of the allegations resulted from Jackson's draconian treatment of militiamen during the Creek campaigns or questionable land transactions.</abstract>
+  <abstract>On June 14, 1813, William Carroll and Jesse Benton dueled; Jackson, unable to calm the parties, served as Carroll's second. Later in 1813, Jackson and John Coffee crossed paths with Jesse and his brother Thomas Hart Benton outside of a tavern in Nashville. Thomas, angered by Jackson's inability to prevent the duel between his brother and Carroll, confronted Jackson, who drew a whip. Benton drew his gun and Jackson followed suit. Jesse approached from behind and both Bentons shot Jackson, who returned fire. Coffee came to Jackson's defense and shot at Thomas Hart Benton, but missed. Jackson took a ball to the upper part of his left arm. Doctors wanted to amputate the arm, but Jackson refused. Doctors were finally able to retrieve the ball about twenty years later.</abstract>
+  <originInfo>
+    <dateCreated>1824 October 12</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Jesse</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Thomas Hart, 1782-1858</topic>
+  </subject>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Jackson Materials, Additions</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Articles</form>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Chief Red Cloud</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll25/id/17</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll25/id/17</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll25/17/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Schleier, T. M. (Theodore M.)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Portrait of Indian Chief Red Cloud of the Oglala Lakota. He is wearing a dark jacket, vest, and tie [possibly a pocket watch].</abstract>
+  <abstract>Chief of the Oglala Lakota (1868-1909) and known for Red Cloud's War (1866-1868) in Wyoming and Montana that was between the American Indian Plains tribes and the US Army. Also, related to the Fort Laramie Treaty.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Red Cloud, 1822-1909</topic>
+  </subject>
+  <subject>
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject>
+    <topic>Indian reservations</topic>
+  </subject>
+  <subject>
+    <topic>Red Cloud's War, 1866-1867</topic>
+  </subject>
+  <subject>
+    <topic>Fetterman Fight, Wyo., 1866</topic>
+  </subject>
+  <subject>
+    <topic>Wyoming--History</topic>
+  </subject>
+  <subject>
+    <topic>Treaty Indian reservations</topic>
+  </subject>
+  <subject>
+    <topic>Tribal chiefs</topic>
+  </subject>
+  <subject>
+    <topic>Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Lapels</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS Picture Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS 193</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

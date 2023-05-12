@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Colorized postcard of World War I soldiers marching</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/2318</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/2318</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/2318/manifest.json</url>
+  </location>
+  <abstract>This postcard shows a group of World War I soldiers in uniform marching in column with their weapons and gear. The image has been colorized. The postcard is addressed to Cpt. Clyde Redford from George I. Briggs, Co. 18, COTS Camp Gordon, Georgia. Briggs thanks Redford for his aid and acknowledges how hard the work is at the training camp. Because of his former experience in the Tennessee National Guard, Cpt. Redford was assigned as an instructor for training draftees.</abstract>
+  <originInfo>
+    <dateCreated>1918 September 8</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Atlanta (Ga.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Cool Springs, Williamson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Postcards</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

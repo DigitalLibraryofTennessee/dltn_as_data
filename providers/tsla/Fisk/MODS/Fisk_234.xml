@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Scrapbook of William Henry Fort, Jr.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/Fisk/id/234</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/Fisk/id/234</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/Fisk/234/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Fort, William Henry, 1911-1974</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This scrapbook was created by William Henry Fort, Jr., during his time as a student at Fisk University in Nashville, Tennessee. It consists of over 130 page documenting student life at Fisk from 1926-1930. Included are pamphlets, programs of college activities, and numerous photographs of students, faculty, the Fisk campus, and visitors such as Langston Hughes and Clarence Darrow.</abstract>
+  <abstract>William Henry Fort, Jr., was the son of educator William Henry Fort, Sr. (1871-1935). Fort, Jr. graduated from Fisk in 1928 and went on to a career as an educator, first serving as a school principal, then teaching at Fisk and Tennessee State University. Fort, Jr. was assistant to the President of Meharry Medical College at the time of his death in 1974. Fisk University is a private historically black university in Nashville, Tennessee. Fisk University is the oldest institution of higher learning in Nashville, Tennessee, having been founded in 1866 as the “Fisk Free Colored School.”</abstract>
+  <originInfo>
+    <dateCreated>1926-1930</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Programs</topic>
+  </subject>
+  <subject>
+    <topic>Scrapbooks</topic>
+  </subject>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Ambrose A. Bennett Family Papers, 1918-1996</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>99-100</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Scrapbooks</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Deposition of Andrew Greer (1803) regarding the near fight between Jackson and Sevier</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/186</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/186</url>
+  </location>
+  <abstract>Deposition of Andrew Greer from 1803, in which he described a confrontation on the road in Knox County between Governor John Sevier and Judge Andrew Jackson; pistols and swords were drawn.</abstract>
+  <abstract>The bitter feud between John Sevier and Andrew Jackson grew out of a dispute over military appointments both men competed over a position as major general of the Tennessee militia. The relationship between Sevier and Jackson deteriorated after Jackson accused Sevier of land fraud, asserting that Sevier conspired to destroy original records of land ownership, replacing them with forged claims. On October 1, 1803, the two men met on the steps of the Old Knox County Courthouse and traded heated words. Gov. Sevier brandished his sword, dared Jackson to draw arms, then insulted Jackson's wife, Rachel, resulting in a physical confrontation. Jackson lunged at Sevier with his cane, then friends of both parties drew pistols, and shots rang out as a bullet grazed at least one bystander. After allies of both men separated the two, a war of words between the governor and the judge quickly escalated in an exchange of letters. In their correspondence, Jackson requested an 'interview' with Sevier--a commonly understood term for a duel. Dueling, however, was prohibited within the borders of Tennessee, so Sevier offered to meet Jackson at any time and place not within the State of Tennessee. Thereafter the two men argued over the timing and location to settle their dispute. Eventually, Jackson met Sevier near present-day Kingston, Tennessee, where a failed attempt at a duel took place. Loyalists to both men provided conflicting accounts and details surrounding the chaotic events of that day in sworn affidavits signed by witnesses, and in published newspaper accounts of the incident. Ultimately, tempers cooled, but the animosity between Sevier and Jackson remained until Sevier's death in 1815. (Belt, Gordon T., and Traci Nichols-Belt. John Sevier: Tennessee's First Hero. Charleston: The History Press, 2014.)</abstract>
+  <originInfo>
+    <dateCreated>1803 October 3</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Sevier, John, 1745-1815</topic>
+  </subject>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS T-100</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Legal documents</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

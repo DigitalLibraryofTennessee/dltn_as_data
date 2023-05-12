@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>"Murder Will Out! 1828 Broadside by Jesse Benton further explaining his earlier attacks on Jackson</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/279</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/279</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll33/279/manifest.json</url>
+  </location>
+  <abstract>Broadside reprint by "We the people. " of a proclamation by Jesse Benton from City Hotel in Nashville that explained his attacks on Jackson in 1824. To establish Jackson's cruelty, Benton brought up the execution of six militiamen and twelve regulars in 1815. Benton attacked Jackson's honesty by discussing his role as Chickasaw Treaty commissioner, and the lands in formerly Chickasaw territory given to his friends. See "Nashville Gazette, extra" item (43134) from Jackson Materials, Addition.</abstract>
+  <abstract>The election of 1828 was one of the most contentious and unscrupulous of the 19th century. Many published attacks on Jackson's character and supposed misdeeds circulated the country. Jackson's supporters denounced John Quincy Adams for promising the Secretary of State position to Henry Clay in return for his support in the 1824 election. Jackson prevailed, winning 56% of the popular vote.</abstract>
+  <originInfo>
+    <dateCreated>1828 October 28</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Jesse</topic>
+  </subject>
+  <subject>
+    <topic>Benton, Thomas Hart, 1782-1858</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Broadsides</topic>
+  </subject>
+  <subject>
+    <topic>Proclamations</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>THS T-200</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Broadsides</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

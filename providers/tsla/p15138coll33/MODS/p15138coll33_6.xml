@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from George S. Gaines to John Coffee, WIlliam Clark, and Thomas Hinds, August 13, 1826</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll33/id/6</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll33/id/6</url>
+  </location>
+  <name>
+    <namePart>Gaines, George Strother, approximately 1784-1873</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Regarding upcoming negotiations with the Chickasaw and Choctaw nations for the cession of territory, Gaines wrote to the three treaty commissioners at the request of the War Department to inform them of "the feelings of the Chactaw [sic] Indians on the subject of a cession of their lands." Gaines had recently attended a council meeting near the Choctaw agency in which not one was in favor of selling their lands. He told them of a recent change of chiefs in the northern and western districts of the nation, but was not sure how that would affect their proceedings. He reported that the council adopted a constitution and that the prospect of an exchange of lands was "very gloomy." Gaines estimated that the middle of October would be the best time to negotiate a treaty. He discussed meeting with the Chickasaw as well and mentioned that Jesse Brashears would be a good person to include in those negotiations.</abstract>
+  <abstract>In 1826, Secretary of War James Barbour appointed John Coffee, William Clark, and Thomas Hinds as commissioners to treat with the Choctaw and Chickasaw Nations. Their orders included the complete cession of their lands east of the Mississippi River. They ultimately failed to convince the nations to acquiesce to their demand in 1826. However, in 1830 and 1832 the Choctaw and Chickasaw, respectively, signed the Treaty of Pontotoc ceding the remainder of their eastern tribal lands to the United States. George Strother Gaines, the brother of Edmund Pendleton Gaines, served as assistant Indian factor for the Choctaw, negotiated the Treaty of Dancing Rabbit Creek, and led an expedition to survey the Choctaw lands in Indian Territory.</abstract>
+  <originInfo>
+    <dateCreated>1826 August 13</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Choctaw Nation. Treaties, etc. United States, 1830 September 27</topic>
+  </subject>
+  <subject>
+    <topic>Chickasaw Nation. Treaties, etc. United States, 1832 October 20</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Annexations</topic>
+  </subject>
+  <subject>
+    <geographic>Demopolis (Ala.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dyas Collection of John Coffee Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of John "Johnny" Gooch, Beverly Randolph Gooch, George W. Gooch, Jr.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll29/id/51</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll29/id/51</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll29/51/manifest.json</url>
+  </location>
+  <abstract>This photograph of John "Johnny" B. Gooch on left with cigarette in hand, his son Beverley Randolph Gooch in the center with a small model airplane, and Johnny's brother, George W. Gooch, Jr. on right was taken at the airfield in Smyrna, Tenn. Beverley won the 1947 State Model Airplane Contest held at Vanderbilt Stadium, Nashville, Tenn. George W. Gooch, Jr. served as a wagoner in the 119th Ambulance Co., 30th Div. in World War, 1914-1918.</abstract>
+  <originInfo>
+    <dateCreated>1948</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Gooch, John</topic>
+  </subject>
+  <subject>
+    <topic>Gooch, Beverlry Randolph</topic>
+  </subject>
+  <subject>
+    <topic>Gooch, George W., Jr.</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918 - History</topic>
+  </subject>
+  <subject>
+    <geographic>Rutherford County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Nashville, Davidson County, Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

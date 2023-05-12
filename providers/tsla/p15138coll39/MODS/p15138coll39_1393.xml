@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Cartmell Diary Vol. 5, 1884-1885</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll39/id/1393</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll39/id/1393</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll39/1393/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Cartmell, Robert H., 1828-1915</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>This is volume five of a thirty-three volume set of diaries written by Robert H. Cartmell, covering the dates of February 1884-December 1885. Throughout this diary, he writes frequently of the weather and other factors that impact the management of his farm. He also regularly reports on the information that he receives from newspapers about events within the state and throughout the country.</abstract>
+  <abstract>Robert H. Cartmell was a Madison County, Tennessee farmer.</abstract>
+  <originInfo>
+    <dateCreated>1884-1885</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>United States--History--1849-1915</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture--Tennessee--History</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <geographic>Madison County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Robert H. Cartmell (1828-1915) Papers, 1849-1915;</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1968.27; 1974.142</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives;</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Diaries</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>
