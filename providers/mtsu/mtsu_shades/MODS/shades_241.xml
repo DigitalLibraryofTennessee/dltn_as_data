@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Elmwood Cemetery Landscape</title>
+  </titleInfo>
+  <titleInfo>
+    <title type="alternative">Confederate Rest, Elmwood Cemetery, Memphis</title>
+  </titleInfo>
+  <originInfo/>
+  <location>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/shades/id/241</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/shades/id/241</url>
+    <url note="iiif-manifest">http://cdm15838.contentdm.oclc.org/iiif/info/shades/241/manifest.json</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Black and white image of a cemetery landscape with magnolia trees surrounding a raised area with a central monument, a short stack of steps, and stones laid out in a line below.</abstract>
+  <accessCondition type="local rights statement">Images reproduced on this website are intended for individual, educational use only. For research inquiries about specific objects or requests for high resolution images, contact Elmwood Cemetery, Memphis, Tennessee</accessCondition>
+  <subject>
+    <topic>Tombs and Sepulchral Monuments, Cemeteries, United States--History--Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>The Persistence of Memory</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n2007043373">Memphis (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.14953, -90.04898</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <temporal>1870-79</temporal>
+  </subject>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Shades of Gray and Blue</title>
+    </titleInfo>
+    <abstract>In Tennessee, we have all heard stories of life and death on the state’s Civil War battlefields, but what happened to the men, women, and children who stayed at home? Their stories, seen through the lens of the objects that were a part of their daily lives, reflect the ways Tennesseans adapted, coped, and thrived during a war whose reverberations are still felt today. Visit the Shades of Gray and Blue project site for additional options for browsing the collection, contextual essays, and lesson plans. This project is a collaborative effort of the Middle Tennessee State University Walker Library, the Center for Historic Preservation at Middle Tennessee State University, and Vanderbilt University Libraries.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/shades</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

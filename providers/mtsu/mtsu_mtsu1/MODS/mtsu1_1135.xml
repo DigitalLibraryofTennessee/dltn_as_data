@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>National Youth Administration</title>
+  </titleInfo>
+  <identifier>198</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1935/1943</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <form>photograph</form>
+    <extent>5 x 7 in.</extent>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Albert Gore Research Center, Middle Tennessee State University</physicalLocation>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/mtsu1/id/1135</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/mtsu1/id/1135</url>
+    <url note="iiif-manifest">http://cdm15838.contentdm.oclc.org/iiif/info/mtsu1/1135/manifest.json</url>
+  </location>
+  <abstract>National Youth Administration (NYA) in "NYA formation" on the steps of Kirksey Old Main</abstract>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Alumni Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Copyright may or may not belong to MTSU; Reproduced with permission of the Albert Gore Research Center, MTSU May be used freely by individuals for research, teaching, and personal use under the fair use provisions of the Copyright Act; Credit: Property of the Albert Gore Research Center, Middle Tennessee State University, Murfreesboro, TN 37132; For other uses contact The Albert Gore Research Center, P.O. Box 193, MTSU, Murfreesboro TN 37132</accessCondition>
+  <subject>
+    <topic>United States. National Youth Administration</topic>
+  </subject>
+  <subject>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no94039410">
+      <namePart>Middle Tennessee State Teachers College</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50071680">
+      <namePart>Middle Tennessee State College</namePart>
+    </name>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">1930/1939</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">1940/1949</temporal>
+  </subject>
+  <subject>
+    <geographic>Murfreesboro, TN</geographic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>MTSU Memory</title>
+    </titleInfo>
+    <abstract>Created to commemorate the University's centennial in 2011, this digital collection contains photographs, memorabilia and other materials that document the critical role played by MTSU within the broader community during its first century. Please note that two separate collections also document MTSU History: The Midlanders collection contains complete digital copies of the Midlander yearbook from 1926 to 2004. The Sidelines collection contains digital copies of a nearly-complete run of Sidelines, the student newspaper of the university, from 1938 to 2011. MTSU Memory is a collaborative project of the Albert Gore Research Center and the James E. Walker Library.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/mtsu1</url>
+    </location>
+  </relatedItem>
+  <note displayLabel="Intermediate Provider">Digital Initiatives, James E. Walker Library,
+                Middle Tennessee State University</note>
+  <recordInfo>
+    <recordContentSource>Albert Gore Research Center, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

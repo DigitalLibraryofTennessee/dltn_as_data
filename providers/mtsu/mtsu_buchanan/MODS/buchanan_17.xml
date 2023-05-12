@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Honors College names new seminars for Nobel Laureate</title>
+  </titleInfo>
+  <name>
+    <namePart>Weiler, Randy</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2006-08-14</dateCreated>
+  </originInfo>
+  <physicalDescription/>
+  <location>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/buchanan/id/17</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/buchanan/id/17</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>A short article describes the newly created Buchanan Fellows program at MTSU.</abstract>
+  <relatedItem>
+    <titleInfo>
+      <title>The Record, August 14, 2006</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="local rights statement">Copyright held by Middle Tennessee State University May be reproduced for personal or educational purposes with attribution;</accessCondition>
+  <subject>
+    <topic>Buchanan family</topic>
+  </subject>
+  <subject>
+    <topic>Scholarships</topic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300199056">papers (document genres)</genre>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Buchanan Family collection</title>
+    </titleInfo>
+    <abstract>This collection documents the family of James McGill Buchanan (1919-2013), MTSU alumnus and 1986 winner of the Nobel Prize for Economics. His family has deep roots in middle Tennessee, including an 18th-century settler of Nashville and 19th-century Governor. Mr. Buchanan earned his B.S. at Middle Tennessee State Teachers College in 1940, followed by his M.A. in Economics at UT-Knoxville and his Ph.D. at the University of Chicago.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/buchanan</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

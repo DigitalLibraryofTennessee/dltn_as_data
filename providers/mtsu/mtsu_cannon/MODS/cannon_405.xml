@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>W.L. Clement oral history. Audio. Part 2</title>
+  </titleInfo>
+  <titleInfo>
+    <title type="alternative">Photographs of W.L. Clement, U.S. Soil Conservation Service</title>
+  </titleInfo>
+  <name>
+    <namePart>Hatch, Evan</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/rcd">Recordist</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clement, William L.</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Vincent, Mickey</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2009-10-14</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <form>oral history</form>
+    <extent>65 min.</extent>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <physicalLocation>Arts Center of Cannon County</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/cannon/id/405</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/cannon/id/405</url>
+  </location>
+  <accessCondition type="local rights statement">Copyright Arts Center of Cannon County; May be excerpted for educational and non-commercial uses with attribution</accessCondition>
+  <subject>
+    <topic>United States. Soil Conservation Service</topic>
+  </subject>
+  <subject>
+    <topic>Oral history</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">2000/2009</temporal>
+  </subject>
+  <subject>
+    <geographic>Rutherford County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Murfreesboro</geographic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300202595">oral histories (document genres)</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Farms of Cannon County, Tennessee</title>
+    </titleInfo>
+    <abstract>This collection includes photographs of agricultural activities in Cannon County, TN that were taken by W.L. Clement, District Conservationist for the U.S. Soil Conservation Service, and his assistants between the mid-1940s and mid-1970s. They document the daily work of the farm families in Cannon County and the agricultural techniques promoted by the U.S. Department of Agriculture during the period.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/cannon</url>
+    </location>
+  </relatedItem>
+  <note displayLabel="Intermediate Provider">Digital Initiatives, James E. Walker Library,
+                Middle Tennessee State University</note>
+  <recordInfo>
+    <recordContentSource>Arts Center of Cannon County</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

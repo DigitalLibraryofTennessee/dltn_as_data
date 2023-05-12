@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Midlander 1953</title>
+  </titleInfo>
+  <part>
+    <detail>
+      <number>Volume 28</number>
+    </detail>
+  </part>
+  <identifier>Volume 28</identifier>
+  <identifier>378.768 M58m</identifier>
+  <name>
+    <namePart>Smotherman, Emily</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/edt">Editor</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Taylor, Nowlin</namePart>
+    <role>
+      <roleTerm type="text">Assistant director</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1953</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <form>book</form>
+    <extent>176 p.</extent>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Special Collections, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/p15838coll3/id/4188</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/p15838coll3/id/4188</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>Yearbook of Middle Tennessee State College</abstract>
+  <accessCondition type="local rights statement">Copyright protected. Reproduced with permission of the University Reproduction is permitted for non-profit educational and research purposes only; Credit to Special Collections, James E. Walker Library, Middle Tennessee State University</accessCondition>
+  <subject>
+    <topic>College yearbooks--Tennessee--Murfreesboro</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">1950/1959</temporal>
+  </subject>
+  <subject>
+    <temporal>Murfreesboro, TN</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</genre>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <note>Middle Tennessee State College</note>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Midlanders</title>
+    </titleInfo>
+    <abstract>Midlander was the student yearbook of the University from 1926 to 2004. This collection offers a complete digital copy of almost every issue.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/p15838coll3</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

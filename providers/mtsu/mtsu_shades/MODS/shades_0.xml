@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Colonel and Mrs. James A Whiteside, Son Charles and Servants</title>
+  </titleInfo>
+  <titleInfo>
+    <title type="alternative">Cameron, Whiteside Family</title>
+  </titleInfo>
+  <identifier>HMAA.1975.7</identifier>
+  <name>
+    <namePart>Cameron, James, 1817-1882</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated qualifier="approximate">ca. 1858-1859</dateCreated>
+    <publisher>Hunter Museum of American Art</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>53 in. x 75 in.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/shades/id/0</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/shades/id/0</url>
+    <url note="iiif-manifest">http://cdm15838.contentdm.oclc.org/iiif/info/shades/0/manifest.json</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <abstract>The scene depicts the James A. Whiteside family, including Mr. Whiteside (1803-1861), his wife Harriet (1824-1903), a son and two family slaves sitting on the veranda of their home overlooking the Moccasin Bend of the Tennessee River as it runs through Chattanooga.</abstract>
+  <accessCondition type="local rights statement">Images reproduced on this website are intended for individual, educational use only. For research inquiries about specific objects or requests for high resolution images, contact the Hunter Museum of American Art.</accessCondition>
+  <subject>
+    <topic>United States--Tennessee--Chatanooga</topic>
+  </subject>
+  <subject>
+    <topic>Artists</topic>
+  </subject>
+  <subject>
+    <topic>Taking Care of Business</topic>
+  </subject>
+  <subject>
+    <topic>Walking a Fine Line</topic>
+  </subject>
+  <subject>
+    <geographic>United States--Tennessee--Chattanooga</geographic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">1850/1859</temporal>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300264387">images (object genre)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Shades of Gray and Blue</title>
+    </titleInfo>
+    <abstract>In Tennessee, we have all heard stories of life and death on the state’s Civil War battlefields, but what happened to the men, women, and children who stayed at home? Their stories, seen through the lens of the objects that were a part of their daily lives, reflect the ways Tennesseans adapted, coped, and thrived during a war whose reverberations are still felt today. Visit the Shades of Gray and Blue project site for additional options for browsing the collection, contextual essays, and lesson plans. This project is a collaborative effort of the Middle Tennessee State University Walker Library, the Center for Historic Preservation at Middle Tennessee State University, and Vanderbilt University Libraries.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/shades</url>
+    </location>
+  </relatedItem>
+  <note displayLabel="Intermediate Provider">Digital Initiatives, James E. Walker Library,
+                Middle Tennessee State University</note>
+  <recordInfo>
+    <recordContentSource>Hunter Museum of American Art</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

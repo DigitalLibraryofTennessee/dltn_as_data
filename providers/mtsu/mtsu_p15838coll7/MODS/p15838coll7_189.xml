@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>First Baptist Church East Nashville</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1928</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes">2005</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form>photograph</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Center for Historic Preservation, Middle Tennessee State University</physicalLocation>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/p15838coll7/id/189</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/p15838coll7/id/189</url>
+    <url note="iiif-manifest">http://cdm15838.contentdm.oclc.org/iiif/info/p15838coll7/189/manifest.json</url>
+  </location>
+  <abstract>Black and white photograph of a two-story, Greek Revival style church facade viewed from Main Street. The front portico has three white entry doors and four Ionic columns supporting a brick pediment with a circular window. Both pediment and roofline are trimmed in white. Side stairs lead to a raised entrance level. The church has a limestone foundation and matching decorative stone facing at street level.</abstract>
+  <accessCondition type="local rights statement">Reproduction permitted for non-profit educational and research purposes only. All reproductions require acknowledgement of the contributing institution. For research inquiries about specific objects, contact the Center for Historic Preservation.</accessCondition>
+  <subject>
+    <topic>Finding Community</topic>
+  </subject>
+  <subject>
+    <topic>Religious Institutions</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001817">
+    <topic>African American churches</topic>
+  </subject>
+  <subject>
+    <geographic authority="lcnaf" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.16589, -86.78444</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>Davidson County</geographic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Trials and Triumphs</title>
+    </titleInfo>
+    <abstract>Tennessee’s history between the end of the American Civil War (1865) and the end of World War II (1945) often gets ignored. Citizenship—what that has meant and how that has changed—is at the heart of this digital exploration into Tennessee history and culture “between the wars." The stories you can explore through the objects, songs, photographs, paintings, and documents of this website are often those of challenges and obstacles placed before those who pursued the rights and benefits of citizenship.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/p15838coll7</url>
+    </location>
+  </relatedItem>
+  <note displayLabel="Intermediate Provider">Digital Initiatives, James E. Walker Library,
+                Middle Tennessee State University</note>
+  <recordInfo>
+    <recordContentSource>Center for Historic Preservation, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

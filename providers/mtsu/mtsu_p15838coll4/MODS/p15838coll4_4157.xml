@@ -1,0 +1,98 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mt. Ararat MB: front and side view</title>
+  </titleInfo>
+  <name>
+    <namePart>West, Carroll Van</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1998-6-10</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg2000</internetMediaType>
+    <form>photograph</form>
+    <form>paper</form>
+    <extent>4 x 6 in.</extent>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Center for Historic Preservation, Middle Tennessee State University</physicalLocation>
+    <physicalLocation>Digital Initiatives, James E. Walker Library, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/p15838coll4/id/4157</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/p15838coll4/id/4157</url>
+    <url note="iiif-manifest">http://cdm15838.contentdm.oclc.org/iiif/info/p15838coll4/4157/manifest.json</url>
+  </location>
+  <abstract>Mount Ararat Missionary Baptist Church</abstract>
+  <accessCondition type="local rights statement">Copyright of the creator. Reproduced with permission Credit Center for Historic Preservation, Middle Tennessee State University; Reproduction permitted for non-profit educational and research purposes only</accessCondition>
+  <subject>
+    <topic>African American Churches--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Church buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85025854">
+    <topic>Church buildings</topic>
+  </subject>
+  <subject>
+    <topic>Steeples</topic>
+  </subject>
+  <subject>
+    <topic>Porticoes</topic>
+  </subject>
+  <subject>
+    <topic>Gable roofs</topic>
+  </subject>
+  <subject>
+    <topic>Brickwork</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85025854">
+    <topic>Church buildings</topic>
+  </subject>
+  <subject>
+    <topic>Brickwork</topic>
+  </subject>
+  <subject>
+    <temporal encoding="edtf" keyDate="yes">1990/1999</temporal>
+  </subject>
+  <subject>
+    <geographic>Trezevant, Carroll County, TN</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <coordinates>36.013507,-88.628622</coordinates>
+    </cartographics>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300199056">papers (document genres)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>SP_MtAraratMB_001.tif</note>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Southern Places</title>
+    </titleInfo>
+    <abstract>Southern Places is a project of MTSU's Center for Historic Preservation and the James E. Walker Library. This database includes images and property histories from the Center's work in preserving churches, schools, cemeteries, and other historic sites.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/p15838coll4</url>
+    </location>
+  </relatedItem>
+  <note displayLabel="Intermediate Provider">Digital Initiatives, James E. Walker Library,
+                Middle Tennessee State University</note>
+  <recordInfo>
+    <recordContentSource>Center for Historic Preservation, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

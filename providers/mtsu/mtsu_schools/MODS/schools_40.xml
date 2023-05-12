@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Middle Tennessee Oral History Project</title>
+  </titleInfo>
+  <originInfo/>
+  <physicalDescription>
+    <internetMediaType>audio/mp3</internetMediaType>
+    <form>interview</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation>Albert Gore Research Center, Middle Tennessee State University</physicalLocation>
+    <url usage="primary" access="object in context">http://gorecenter.mtsu.edu/research/MTOralHistory.shtml</url>
+    <url usage="primary" access="object in context">http://cdm15838.contentdm.oclc.org/cdm/ref/collection/schools/id/40</url>
+    <url access="preview">http://cdm15838.contentdm.oclc.org/utils/getthumbnail/collection/schools/id/40</url>
+  </location>
+  <abstract>A number of former Rutherford County teachers and students are included in this large oral history collection. Numerous interviewees recall Crichlow School: C. B. Arnette, Zane Cantrell, Shirley Jones, Martha Moffett, Richard Reeves, Mary Belle Robinson, and Jane Tucker. Additional highlights include interviews with educators Ruth Bowdoin, Vera Covington, Jerry Gaither, and Myrtle Lord. The collection also includes interviews with former students of Bradley Academy (Olivia Woods), Campus School (Harry Patillo), and Holloway High School (George Minter).</abstract>
+  <accessCondition type="local rights statement">Check with the MTSU Digital Collections team to assess copyright. Have the object identifier and title available with your request. http://cdm15838.contentdm.oclc.org/cdm/</accessCondition>
+  <subject>
+    <topic>Schools--Tennessee--Rutherford County--History</topic>
+  </subject>
+  <subject>
+    <topic>Teachers--Tennessee--Rutherford County--Interviews</topic>
+  </subject>
+  <subject>
+    <geographic>United States -- Tennessee -- Rutherford County</geographic>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</genre>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026392">interviews</genre>
+  <typeOfResource>sound recording</typeOfResource>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Rutherford County Schools Collection</title>
+    </titleInfo>
+    <abstract>This collection provides access to a variety of sources that document the history of elementary and secondary schools in Rutherford County, Tennessee.</abstract>
+    <location>
+      <url>http://cdm15838.contentdm.oclc.org/cdm/landingpage/collection/schools</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Albert Gore Research Center, Middle Tennessee State University</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core
+                record by the Digital Library of Tennessee, a service hub of the Digital Public
+                Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN.
+                Metadata originally created in a locally modified version of qualified Dublin Core
+                using ContentDM (data dictionary available:
+                https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>
