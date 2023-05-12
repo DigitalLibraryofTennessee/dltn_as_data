@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Catalogue of the E.T. University, 1846-7</title>
+  </titleInfo>
+  <identifier>C 378.768 (bound with Catalogue of East Tennessee University, 1845-6).</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/1893</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/1893</url>
+  </location>
+  <abstract>CATALOGUE Of the Officers,. Alumni and Students of E. T. University, 1846-7. KNOXVILLE, TENN. PRESS OF JAS. C. &amp; JNO. L. MOSES. 1847. (East Tennessee University).</abstract>
+  <name>
+    <namePart>E. T. University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1847</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <topic>Catalogs</topic>
+  </subject>
+  <physicalDescription>
+    <form>catalog</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

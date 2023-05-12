@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Village of Bearden - Creswell</title>
+  </titleInfo>
+  <identifier>C 976.89 BEARDEN</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3076</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3076</url>
+  </location>
+  <abstract>A brief historical sketch of the Village of Bearden. By John B. Creswell. Published by S. B. Newman &amp; Co., Knoxville, Tenn. [1899?]</abstract>
+  <name>
+    <namePart>John B. Creswell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>[1899?]</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>History</topic>
+  </subject>
+  <subject>
+    <topic>Villages</topic>
+  </subject>
+  <physicalDescription>
+    <form>booklet</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

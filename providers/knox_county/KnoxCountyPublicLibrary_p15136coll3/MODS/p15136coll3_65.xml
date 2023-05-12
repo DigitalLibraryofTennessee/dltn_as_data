@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Types of American Homes, Geo. F. Barber</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll3/id/65</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll3/id/65</url>
+  </location>
+  <abstract>Types of American Homes, Geo. F. Barber. Includes selections from "Modern Dwellings" and the work of Barber &amp; Kluttz, Architects. Features homes from various states. Pages 9-12 are printed on a smaller page, added in to the volume. From the George F. Barber Collection. Advertises work from "Modern Dwellings" and "American Homes."</abstract>
+  <name>
+    <namePart>Geo. F. Barber</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Barber &amp; Kluttz, Architects</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>architects</topic>
+  </subject>
+  <subject>
+    <topic>architecture</topic>
+  </subject>
+  <subject>
+    <topic>houses</topic>
+  </subject>
+  <physicalDescription>
+    <form>catalog</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

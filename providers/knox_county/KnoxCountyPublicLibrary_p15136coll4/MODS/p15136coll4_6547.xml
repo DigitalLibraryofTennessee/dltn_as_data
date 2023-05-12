@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ephemera 2017.003 Knoxville Baseball teams, 1906</title>
+  </titleInfo>
+  <identifier>Ephemera 2017.003</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6547</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6547</url>
+  </location>
+  <abstract>Five Knoxville baseball teams clipped from Spalding’s Official Base Ball (baseball) Guide, Knoxville teams, 1906. Five printed images of Knoxville teams. Ephemera 2017.003.001: Baker-Hind (sic) [Himel] baseball team Ephemera 2017.003.002: Knoxville Reds baseball team Ephemera 2017.003.003: Imperial baseball team Ephemera 2017.003.004: McClung baseball team Ephemera 2017.003.005: Y.M.C.A. baseball team</abstract>
+  <name>
+    <namePart>Spalding’s Official Base Ball Guide, 1906</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1906</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Baseball players</topic>
+  </subject>
+  <subject>
+    <topic>Group portraits</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <physicalDescription>
+    <form>clipped pictures from guide booklet</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,36 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>French. Menticulture. 03</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p265301coll8/id/64</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p265301coll8/id/64</url>
+  </location>
+  <abstract>Menticulture. A Series of Five Practical Lectures on the Training of Mind Through Study of Law, Unity, and Individuality. By Mrs. L. Crozier-French. ca. 1890s. Lower inside page.</abstract>
+  <name>
+    <namePart>Lizzie Crozier French</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>ca. 1890s</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Public speaking</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Ephemera</topic>
+  </subject>
+  <physicalDescription>
+    <form>ephemera</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

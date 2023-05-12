@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Unidentified woman</title>
+  </titleInfo>
+  <identifier>N-6305</identifier>
+  <name>
+    <namePart>Thompson Brothers</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">uuuu</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <extent>400 dpi</extent>
+    <form>photograph</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p265301coll7/id/6397</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p265301coll7/id/6397</url>
+    <url note="iiif-manifest">http://cdm16311.contentdm.oclc.org/iiif/info/p265301coll7/6397/manifest.json</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <abstract>Unidentified woman.</abstract>
+  <accessCondition type="local rights statement">To use photographs or to order reproductions, contact DigitalCollections@knoxlib.org or phone 865 215-8808. Please refer to Image Number and provide a brief description of the photograph.</accessCondition>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105182">
+    <topic>Portraits</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Thompson Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>The Thompson Photograph Collection</title>
+    </titleInfo>
+    <abstract>James E. (Jim) Thompson (1881-1976) was one of Knoxville’s pioneer commercial and professional photographers. He captured a rich visual legacy of East Tennessee from 1907 to 1960.  This growing digital collection will eventually contain 10,000 images covering the years from the early 1920s to mid-1930s. The Thompson Photograph Collection includes an estimated 75,000 negatives, providing a rich visual legacy of Knoxville and East Tennessee from 1907 to 1960. Preservation printing of these negatives has been the major focus of the McClung Historical Collection for two decades. Jim Thompson and his younger brother Robin Thompson (1895-1977) were business partners from 1920 to 1926 as Thompson Brothers. Both men were pioneer commercial photographers. By the late 1920s, Jim Thompson’s photographs (Jim Thompson Co.) and those of his brother Robin Thompson (Robin Thompson, Inc.) were appearing in local and national commercial publications.</abstract>
+    <location>
+      <url>http://cdm16311.contentdm.oclc.org/cdm/landingpage/collection/p265301coll7</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>MM-2014-004</title>
+  </titleInfo>
+  <identifier>MM-2014-004</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3263</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3263</url>
+  </location>
+  <abstract>No. 3820 Head-Quarters, Department East Tenn. Office Provost Marshal, Knoxville, Tenn. June 5, 1862. Permission is granted Miss Kate Snead to visit East Tennessee at pleasure, upon honor, not to communicate in writing, or verbally, for publication, any fact ascertained, which, if known to the enemy, might be injurious to the Confederate States of America. (Signed) W.M. Churchwell, Colonel and Provost Marshal. (Haws &amp; Dunkerley, Printers, Knoxville) Signed, printed form filled in by hand. 1 pc. On back: I Kate D(?) Sneed (Snead?), do solemnly swear, or affirm, that I will bear true faith and yield obedience to the Confederate States of America, and that I will serve them honestly and faithfully against their enemies. (Signed) Katie Sneed. Knoxville, June 5th, 1862.</abstract>
+  <name>
+    <namePart>W.M. Churchwell, Colonel and Provost Marshal</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>June 5, 1862</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Civil wars</topic>
+  </subject>
+  <physicalDescription>
+    <form>manuscript</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

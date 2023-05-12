@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Johnson family postcard</title>
+  </titleInfo>
+  <identifier>A 929.2 Johnson</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/320</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/320</url>
+  </location>
+  <abstract>Postcard of the Johnson family, 45(?)01 Alabama, St. Elmo, Tennessee. Ca. 1909-1910. Real photograph postcard added to back of printed book. The information was provided by Penelope Johnson Allen.</abstract>
+  <name>
+    <namePart>unknown</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>ca. 1909-1910</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Postcards</topic>
+  </subject>
+  <subject>
+    <topic>Families</topic>
+  </subject>
+  <subject>
+    <topic>African Americans</topic>
+  </subject>
+  <subject>
+    <topic>Yards</topic>
+  </subject>
+  <physicalDescription>
+    <form>postcard</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

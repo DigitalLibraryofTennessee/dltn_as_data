@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sevierville postcard</title>
+  </titleInfo>
+  <identifier>Postcard Collection&gt;Tennessee Towns&gt; Sevierville</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6518</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6518</url>
+  </location>
+  <abstract>View of Business Section Sevierville, Tenn. RPPC One postcard, unused, Shows people on sidewalk, cars and wagon on street.</abstract>
+  <name>
+    <namePart>unknown</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1910s?</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Business districts</topic>
+  </subject>
+  <subject>
+    <topic>Carts &amp; wagons</topic>
+  </subject>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Postcards</topic>
+  </subject>
+  <physicalDescription>
+    <form>postcard</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

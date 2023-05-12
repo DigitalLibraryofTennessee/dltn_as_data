@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>White. James White, 1793.</title>
+  </titleInfo>
+  <identifier>MM-2013-004</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3260</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3260</url>
+  </location>
+  <abstract>MM-2013-004 James White note to Lt. Robert Rhea, September 9, 1793. Re: collect your troop of horse(?) &amp; take the track of the horses taken from Calwells and do your best to overtake the thieves &amp; chastise them &amp; retake the horses.</abstract>
+  <name>
+    <namePart>James White</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>September 9, 1793</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Horses</topic>
+  </subject>
+  <physicalDescription>
+    <form>manuscript</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

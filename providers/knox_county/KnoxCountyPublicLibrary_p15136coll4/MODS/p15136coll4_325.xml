@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Civil War ambrotype [Willett?]</title>
+  </titleInfo>
+  <identifier>Civil War ambrotype</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/325</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/325</url>
+  </location>
+  <abstract>Cased ambrotype of four people, one in Confederate uniform. Possibly Z.T. (Zaddock T.) Willett or T.H. Walker, based on newspaper clipping that accompanied the ambrotype. The other man is holding a Confederate uniform cap. Two unidentified women. Gold highlights and light hand tinting. One break at left. Taken by photographer J.W. Keen, Jonesboro, TN, October 14, 1861.</abstract>
+  <name>
+    <namePart>Photographer J.W. Keen, Jonesboro, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>October 14, 1861</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Group portraits</topic>
+  </subject>
+  <subject>
+    <topic>Civil wars</topic>
+  </subject>
+  <subject>
+    <topic>Military uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Ambrotypes</topic>
+  </subject>
+  <physicalDescription>
+    <form>ambrotype</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,36 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Smoky Mountain Railroad time table</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/2682</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/2682</url>
+  </location>
+  <abstract>Smoky Mountain Railroad. KNOXVILLE AND SEVIERVILLE, TENNESSEE. TIME TABLE NO. 5 (Effective 12:01 A. M. Central Time) Monday, July 21, 1947. F.L. Sparks, Superintendent. The train between Knoxville and Sevierville was known as the "Slow and Easy."</abstract>
+  <name>
+    <namePart>Smoky Mountain Railroad</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>July 21, 1947</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Railroads</topic>
+  </subject>
+  <subject>
+    <topic>Ephemera</topic>
+  </subject>
+  <subject>
+    <topic>Schedules (Time plans)</topic>
+  </subject>
+  <physicalDescription>
+    <form>ephemera</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

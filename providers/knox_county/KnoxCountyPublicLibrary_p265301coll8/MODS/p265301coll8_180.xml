@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Milton. Car in front of Milton home.</title>
+  </titleInfo>
+  <identifier>Folder 153</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p265301coll8/id/180</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p265301coll8/id/180</url>
+  </location>
+  <abstract>Decorated car parked in front of the George and Abby Milton house in Chattanooga, TN. Car belonged to Abby Crawford Milton. Thought to be a suffrage or women's rights event.</abstract>
+  <name>
+    <namePart>Judd, Chattanooga, TN</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Houses</topic>
+  </subject>
+  <subject>
+    <topic>Events</topic>
+  </subject>
+  <physicalDescription>
+    <form>photograph</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

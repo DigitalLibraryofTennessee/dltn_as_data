@@ -1,0 +1,35 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Barber. Geo. F. Barber specifications for residence of H.N. Hesgard</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll3/id/1310</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll3/id/1310</url>
+  </location>
+  <abstract>Geo. F. Barber &amp; Co., Architects, Knoxville, Tennessee, specifications for residence of H.N. Hesgard, Orfordville, Wisconsin.</abstract>
+  <name>
+    <namePart>Geo. F. Barber &amp; Co., Architects</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>architects</topic>
+  </subject>
+  <subject>
+    <topic>advertisements</topic>
+  </subject>
+  <subject>
+    <topic>specification writing</topic>
+  </subject>
+  <subject>
+    <topic>specifications</topic>
+  </subject>
+  <physicalDescription>
+    <form>specifications</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

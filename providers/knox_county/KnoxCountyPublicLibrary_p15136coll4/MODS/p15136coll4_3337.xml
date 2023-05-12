@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Briscoe. Russell Briscoe drawing of a German soldier.</title>
+  </titleInfo>
+  <identifier>German soldier</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3337</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3337</url>
+  </location>
+  <abstract>W.R. (William Russell) Briscoe (1899-1979) ink sketch of a German soldier. Signed W. Russell Briscoe [1918]. For most of his life, Russell Briscoe lived and worked in Knoxville, TN. He joined the Marines during World War I and was stationed in Washington, D.C. He was co-owner with his wife of Bristoy toy company in the 1930s and he was an executive vice president of the J.E. Lutz Insurance Company. He began painting at age 57 and produced 75 painting, most of historic subjects in East Tennessee.</abstract>
+  <name>
+    <namePart>W. Russell Briscoe</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>[1918]</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Drawings</topic>
+  </subject>
+  <subject>
+    <topic>Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Portrait drawings</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers</topic>
+  </subject>
+  <physicalDescription>
+    <form>drawing</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

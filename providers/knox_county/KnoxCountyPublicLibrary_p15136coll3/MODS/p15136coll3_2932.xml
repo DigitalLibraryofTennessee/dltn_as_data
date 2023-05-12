@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>American Homes Feb. 1897</title>
+  </titleInfo>
+  <identifier>C 728.05 American</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll3/id/2932</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll3/id/2932</url>
+  </location>
+  <abstract>American Homes. A Monthly Journal Devoted to Planning, Building and Beautifying The Home. American Homes Publishing Co., Knoxville, Tenn. Geo. F. Barber, Editor. February 1897. Vol. IV, No. 2. Front cover missing; issue bound with January through June 1897 issues. Only articles by George F. Barber or associates have full text transcriptions. This page may have been a beginning page of the March 1897 issue of American Homes.</abstract>
+  <name>
+    <namePart>American Homes Publishing Co., Geo. F. Barber, Editor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>February 1897</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>architects</topic>
+  </subject>
+  <subject>
+    <topic>architecture</topic>
+  </subject>
+  <physicalDescription>
+    <form>periodical</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

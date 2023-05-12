@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Knoxville's Million Dollar Fire, April 8, 1897</title>
+  </titleInfo>
+  <identifier>C 976.88 Knoxville (Accession Number 19661)</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/64</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/64</url>
+  </location>
+  <abstract>Knoxville's Million Dollar Fire, April 8, 1897. Booklet published by J.E. Auldridge, Knoxville, Tenn. Features photographs of Knoxville, Tennessee's "Million Dollar Fire" of April 8, 1897. Includes map showing the fire burned district. Advertisers at the back of the booklet include: McArthur &amp; Sons; Knoxville Centennial Building, Baumann Brothers, Architects; Hotel Imperial; Mester, Newcomer &amp; Company; Marble City Drug Mfg. Co.; Sterchi Bros.; Sanford, Chamberlain &amp; Albers Co.; J. Rawls Anderson and Col. W.A. Gage, Civil Engineers; The Dixie Stamp Factory; Knoxville Bicycle Hospital; Hotel Flanders; J.E. Auldridge; and Chapman, White, Lyons Co.</abstract>
+  <name>
+    <namePart>Published by J.E. Auldridge, Knoxville, Tenn.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>[1897]</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Fires</topic>
+  </subject>
+  <physicalDescription>
+    <form>booklet</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

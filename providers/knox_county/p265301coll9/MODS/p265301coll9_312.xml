@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Summer School of the South, 1911</title>
+  </titleInfo>
+  <identifier>SPC 2011.008.001</identifier>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1911</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <extent>400 dpi</extent>
+    <form>photograph</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p265301coll9/id/312</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p265301coll9/id/312</url>
+    <url note="iiif-manifest">http://cdm16311.contentdm.oclc.org/iiif/info/p265301coll9/312/manifest.json</url>
+  </location>
+  <abstract>Summer School of the South, Knoxville, TN, Tenth Session, June 20-July 28, 1911. A teacher training program affiliated with the University of Tennessee, developed to improve public education for poor Southerners. Group of teachers.</abstract>
+  <accessCondition type="local rights statement">To use photographs or to order reproductions, contact DigitalCollections@knoxlib.org or phone 865 215-8808. Please refer to Image Number if available and provide a brief description of the photograph.</accessCondition>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203">
+    <topic>Portraits, Group</topic>
+  </subject>
+  <subject>
+    <topic>Teachers</topic>
+  </subject>
+  <subject>
+    <topic>Schools</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Small Photograph Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Selected Photographs</title>
+    </titleInfo>
+    <abstract>The McClung Historical Collection has a large number of small photograph collections, as well as manuscript collections with unusual and interesting photographs included in them. The Selected Photographs digital collection highlights some of these photographs.</abstract>
+    <location>
+      <url>http://cdm16311.contentdm.oclc.org/cdm/landingpage/collection/p265301coll9</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

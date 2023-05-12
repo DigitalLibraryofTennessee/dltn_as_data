@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Modern Dwellings by Geo. F. Barber, 1905</title>
+  </titleInfo>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll3/id/344</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll3/id/344</url>
+  </location>
+  <abstract>MODERN DWELLINGS BY GEO. F. BARBER A BOOK OF PRACTICAL DESIGNS AND PLANS FOR THOSE Who Wish to Build or Beautify Their Homes PRICES REVISED UP TO DATE ESTABLISHED IN 1888 BY GEO. F. BARBER (COPYRIGHTED) FIFTH EDITION PRICE $1.75 BARBER &amp; KLUTTZ, Architects, Knoxville, Tenn. THE GRESHAM PUBLISHING CO., 34 SOUTHAMPTON ST., STRAND, W. C, LONDON, ENGLAND, Are Sole Agents in England and Ireland for all our Books and Plans 1905 S. B. Newman &amp; Co., Printers and Bookbinders Knoxville, Tennessee. From the George F. Barber Collection.</abstract>
+  <name>
+    <namePart>George F. Barber</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1905 (Fifth Edition)</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>architecture</topic>
+  </subject>
+  <subject>
+    <topic>architects</topic>
+  </subject>
+  <subject>
+    <topic>books</topic>
+  </subject>
+  <subject>
+    <topic>houses</topic>
+  </subject>
+  <physicalDescription>
+    <form>book</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

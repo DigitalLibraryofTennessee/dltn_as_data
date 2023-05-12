@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pitner's Map of Knoxville 1930</title>
+  </titleInfo>
+  <identifier>Maps 912.7688 - 1930 - Pitner - Knoxville</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3331</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3331</url>
+  </location>
+  <abstract>Pitner's Map of Knoxville, Tennessee. Published by Carl Pitner 945 Pennsylvania Ave., N.W. Washington, D.C. Copyright by Carl Pitner. 1930. Includes Oakwood, Park City, South Knoxville, Mechanicsville, West Knoxville, Sequoyah Hills, Lonsdale, Vestal, East Knoxville, North Knoxville, Lincoln Park, Fountain City, and City Wards.</abstract>
+  <name>
+    <namePart>Carl Pitner</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1930</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <physicalDescription>
+    <form>map</form>
+  </physicalDescription>
+  <typeOfResource>cartographic</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

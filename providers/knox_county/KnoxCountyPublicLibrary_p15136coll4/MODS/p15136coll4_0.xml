@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sevier. John Sevier proclamation, 1785</title>
+  </titleInfo>
+  <identifier>MM-2009-007</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/0</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/0</url>
+  </location>
+  <abstract>Proclamation issued by John Sevier to the inhabitants of the State of Franklin. The Washington referred to was Washington Court House, as Jonesborough (Jonesboro) was sometimes known in this period. May 15, 1785. "In the true attachment &amp; faithfull ______ The good Citizens of this State; I have thought Proper to Issue this my proclamation, Strictly enj[oin]-ing and Requiring all and Every of the good Citizens of his state, as they will answer the same at there (sic.) [peril]?] To be obedient and Conformable to the Laws thereof Witness John Sevier Esquire governor and Ca[ptain] General in and over the said state Under his hand And seal at arms in Washington the 15th day of May 1785. And in the first year of our Independence. God save the state. John Sevier."</abstract>
+  <name>
+    <namePart>John Sevier</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>May 15, 1785</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Governors</topic>
+  </subject>
+  <subject>
+    <topic>Proclamations</topic>
+  </subject>
+  <physicalDescription>
+    <form>manuscript</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Education of the Deaf and Dumb, 1846-7</title>
+  </titleInfo>
+  <identifier>C 312.71 TSD</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/3781</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/3781</url>
+  </location>
+  <abstract>THE SECOND BIENNIAL REPORT OF THE BOARD OF TRUSTEES OF THE TENNESSEE INSTITUTION FOR THE EDUCATION OF THE DEAF &amp; DUMB, TO THE LEGISLATURE OF THE STATE OF TENNESSEE, FOR 1846-7. NASHVILLE: PRINTED BY W. F. BANG &amp; CO. BANNER OFFICE. 1847. Referred to as Tennessee Deaf and Dumb School. Later became Tennessee School for the Deaf.</abstract>
+  <name>
+    <namePart>Board of Trustees of the Tennessee Institution for the Education of the Deaf &amp; Dumb</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1847</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <form>report</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

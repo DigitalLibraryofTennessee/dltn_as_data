@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Eph 2017.001 Hope Bros</title>
+  </titleInfo>
+  <identifier>Ephemera Collection 2017.001</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6517</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6517</url>
+  </location>
+  <abstract>“Our New Home” Hope Brothers, 428 Gay Street, Knoxville, Tenn. Open house “May 31st” 1930. 1 brochure (4 x 5.25 inches). (ephemera)</abstract>
+  <name>
+    <namePart>Hope Brothers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1930</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Jewelers</topic>
+  </subject>
+  <subject>
+    <topic>Business enterprises</topic>
+  </subject>
+  <subject>
+    <topic>Ephemera</topic>
+  </subject>
+  <physicalDescription>
+    <form>booklet</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

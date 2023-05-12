@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>McClung Warehouses by H.P. Ijams, 1927</title>
+  </titleInfo>
+  <identifier>McClung Warehouses by H.P. Ijams, 1927</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/1336</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/1336</url>
+  </location>
+  <abstract>C.M. McClung Warehouses on Jackson Avenue, Knoxville, TN. Ink drawing by H.P. Ijams dated January 1927. Original is 25.75 x 19.5"</abstract>
+  <name>
+    <namePart>H.P. Ijams</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>January 1927</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Warehouses</topic>
+  </subject>
+  <subject>
+    <topic>Drawings</topic>
+  </subject>
+  <physicalDescription>
+    <form>drawing</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

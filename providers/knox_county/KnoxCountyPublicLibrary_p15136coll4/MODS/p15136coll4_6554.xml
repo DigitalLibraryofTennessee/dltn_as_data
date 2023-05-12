@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>New Map of Knoxville Tenn. and Suburbs, 1895</title>
+  </titleInfo>
+  <identifier>Q 912.7688 1895 Ogden New Map of Knoxville, TN. (scan: knoxville_and_suburbs_1894_ret_300dpi)</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6554</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6554</url>
+  </location>
+  <abstract>New Map of Knoxville Tenn. and Suburbs compiled from actual surveys and best authority by John R. Pill, Civil Engineer; certified by Maury Nicholson, Ex-City Engineer for Ogden Bros. &amp; Co. Baltimore, Md.: William A. Flamm &amp; Co., 1895. Depicts the city of Knoxville as well as West Knoxville and North Knoxville, also separately incorporated bodies, and South Knoxville. Depicts a race track, later owned by African American merchant and businessman Cal Johnson (1844-1925) in South Knoxville near Sevier Avenue. Locations given on the map for 65 fire alarm boxes. Cherokee Addition south of the Tennessee River planned in 1893 but never built is shown on the map. 30 inches x 35.75 inches. Scale: .75 inches=1000 ft.</abstract>
+  <name>
+    <namePart>John R. Pill</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1895</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <physicalDescription>
+    <form>map</form>
+  </physicalDescription>
+  <typeOfResource>cartographic</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Azaleas on Gregory Bald, Great Smoky Mountains</title>
+  </titleInfo>
+  <identifier>ThGSM 016</identifier>
+  <name>
+    <namePart>Thompson Brothers</namePart>
+    <role>
+      <roleTerm type="text" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>[June 1936]</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/tiff</internetMediaType>
+    <extent>400 dpi</extent>
+    <form>photograph</form>
+  </physicalDescription>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll2/id/15</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll2/id/15</url>
+    <url note="iiif-manifest">http://cdm16311.contentdm.oclc.org/iiif/info/p15136coll2/15/manifest.json</url>
+  </location>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <abstract>Azaleas on Gregory Bald. Great Smoky Mountains (N.C. and Tenn.). Hand tinted photograph. Old number A-238 A5. [June 1936]</abstract>
+  <accessCondition type="local rights statement">To use photographs or to order reproductions, contact DigitalCollections@knoxlib.org or phone 865 215-8808. Please refer to Image Number and provide a brief description of the photograph.</accessCondition>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.58343, -83.50822</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <topic>Azaleas</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Great Smoky Mountains Photographs - Thompson Brothers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Great Smoky Mountains Photograph Collection - Thompson Brothers</title>
+    </titleInfo>
+    <abstract>Jim Thompson (1881-1976) and his younger brother Robin Thompson (1895-1977) were business partners in Knoxville from 1920 to 1926 as Thompson Brothers. Both men, individually and in partnership, were successful commercial photographers. Both brothers loved to hike and were pioneers in documenting the beauty of the Great Smoky Mountains in photographs in the 1910s and 1920s, which were used to help promote the creation of the Great Smoky Mountains National Park.</abstract>
+    <location>
+      <url>http://cdm16311.contentdm.oclc.org/cdm/landingpage/collection/p15136coll2</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+    <recordChangeDate>2023-05-12-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/utkdigitalinitiatives/DLTN. Metadata originally created in a locally modified version of qualified Dublin Core using ContentDM (data dictionary available: https://wiki.lib.utk.edu/display/DPLA.)</recordOrigin>
+  </recordInfo>
+</mods>

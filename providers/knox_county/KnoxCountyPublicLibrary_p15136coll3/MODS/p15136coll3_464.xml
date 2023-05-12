@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Barber. Geo. F. Barber Co.</title>
+  </titleInfo>
+  <identifier>C 917.688</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll3/id/464</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll3/id/464</url>
+  </location>
+  <abstract>Geo. F. Barber Co. from Greater Knoxville Illustrated. Ca. 1910. Published by the American Illustrating Company, Nashville, Tennessee. P. 133 (partial). Pictures Geo. F. Barber, President, and J.H. Ryno, Vice-president and Treasurer.</abstract>
+  <name>
+    <namePart>Greater Knoxville Illustrated</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>ca. 1910</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>architects</topic>
+  </subject>
+  <physicalDescription>
+    <form>book</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

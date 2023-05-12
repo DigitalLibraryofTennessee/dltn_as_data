@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Swiss American Sketchbook, Auguste Burnand 014</title>
+  </titleInfo>
+  <identifier>MM-1975-005 scan 014</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/81</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/81</url>
+  </location>
+  <abstract>Swiss American Sketchbook, Auguste Burnand 014. The corn chocking in Tennessee, 1856. (corn shucking) From the Swiss American Sketchbook with drawings by French-Swiss traveling artist Auguste Burnand (ca. 1835-ca. 1860?). He lived in the Swiss American community near Knoxville, TN, from 1853-1860.</abstract>
+  <name>
+    <namePart>Auguste Burnand</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1856</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Drawings</topic>
+  </subject>
+  <subject>
+    <topic>Corn shocks</topic>
+  </subject>
+  <subject>
+    <topic>Corn husking</topic>
+  </subject>
+  <subject>
+    <topic>Corn</topic>
+  </subject>
+  <physicalDescription>
+    <form>drawing</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

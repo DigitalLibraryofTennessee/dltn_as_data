@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Plan of the City of Knoxville, 1855</title>
+  </titleInfo>
+  <identifier>Q 912.7688 1855 Lea Knoxville, TN (scan: knoxville_plan_1855_ret_300dpi)</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6552</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6552</url>
+  </location>
+  <abstract>Plan of the City of Knoxville, 1855. New York: Ferd. Mayer &amp; Co., Lith. [1855?]. 32 x 26 inches. “Surveyed and compiled under the direction of A. M. Lea.” (Albert Miller Lea (1808-1891)). The Holston River depicted on the map was later renamed the Tennessee River. Three railroad depots are shown on the map: East Tennessee-Georgia and East Tennessee-Virginia Railroad; East Tennessee &amp; Kentucky Railroad; and the Knoxville &amp; Charleston Railroad. 1 inch=300 feet .</abstract>
+  <name>
+    <namePart>A.M. Lea</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1855</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Plans</topic>
+  </subject>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <physicalDescription>
+    <form>map</form>
+  </physicalDescription>
+  <typeOfResource>cartographic</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

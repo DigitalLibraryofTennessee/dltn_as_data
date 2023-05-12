@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Memoirs of Barnett Allen Howard</title>
+  </titleInfo>
+  <identifier>MS Biography - Howard</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/6430</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/6430</url>
+  </location>
+  <abstract>The Memoirs of Barnett Allen Howard. Copied from the Original by Barbara A. McClung, 1955. A Biographical Sketch of Barnett Allen Howard, son of James Hunt Howard and Jackie Lawrence Bowden Howard. Typescript. 120 pp.</abstract>
+  <name>
+    <namePart>Barnett Allen Howard</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1955 transcription</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Biographies</topic>
+  </subject>
+  <subject>
+    <topic>Memoirs</topic>
+  </subject>
+  <physicalDescription>
+    <form>biography</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

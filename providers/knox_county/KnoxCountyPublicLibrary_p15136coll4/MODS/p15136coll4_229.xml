@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Postcard, Eleventh Ward, 1907</title>
+  </titleInfo>
+  <identifier>Postcard Collection - Knoxville - Events</identifier>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p15136coll4/id/229</url>
+    <url access="preview">http://cdm16311.contentdm.oclc.org/utils/getthumbnail/collection/p15136coll4/id/229</url>
+  </location>
+  <abstract>Unused postcard. "Scene in Eleventh ward, the polling place to right of picture. Scores of men are in line waiting their turn to vote. It required from one to two hours to vote and many did not get to vote at all. The drys scored more than four to one." Shows back of crowd with people wearing sashes in center of picture. JET logo (James E. Thomson, Photographer) at lower left. #54 at lower right. [Knoxville's Great Temperance Election of March 11, 1907.]</abstract>
+  <name>
+    <namePart>James E. Thompson, Photographer</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>[March 11, 1907]</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Postcards</topic>
+  </subject>
+  <subject>
+    <topic>Voting</topic>
+  </subject>
+  <subject>
+    <topic>Temperance</topic>
+  </subject>
+  <subject>
+    <topic>Women's suffrage</topic>
+  </subject>
+  <physicalDescription>
+    <form>postcard</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
