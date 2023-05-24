@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl206</identifier>
+  <identifier type="pid">tdh:6064</identifier>
+  <identifier type="oclc">51206272</identifier>
+  <titleInfo>
+    <title>1850, Feb.25, Russellville, [KY] [to] Mary House, Nashville, Tenn[essee] / J. P. Ewing</title>
+  </titleInfo>
+  <abstract>This is a letter dated February 25, 1850, from J. P. Ewing to Mary House in Nashville. Ewing mostly writes of the local news and personal announcements. He mentions the controversy over the newly proposed Kentucky constitution, in relation to the Democrats, Whigs, and the slavery debate.</abstract>
+  <name>
+    <namePart>Ewing, J. P.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1850-02-25</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85071973">
+    <topic>Kentucky--Politics and government</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Orr Collection IV-J-2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6064</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6064/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,96 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">garner:44</identifier>
+  <identifier type="original ID">Garner 101</identifier>
+  <identifier type="document ID">bcapp00175</identifier>
+  <titleInfo>
+    <title>Living room of Burger house</title>
+  </titleInfo>
+  <abstract>Pictured are W. O. Garner, Letitia Hastings Garner, Knox Burger, Joe Burger, Carl Burger, Caroline Cecelia Lord Follett, Helen M. Lord, Jane M. Simmons, Lizzie Knox Burger, Col. Haines, Mrs. Haines, Mrs. Bennet, and Karl Garner. The photograph shows a group of three men, eight women, and three boys sitting and standing in a living room. The women all have on long dresses and hats; the woman on the right is dressed in white and has an arm patch with a cross on it, denoting the American Red Cross. The men and boys are in suits and ties. There is a large patterned carpet on the floor as well as a smaller one beneath the boys who are sitting on the floor. There is a gas light fixture hanging from the ceiling. there is wall paper on the walls. The nurse is standing on the hearth of the fireplace which has decorative tiles around it and a wooden mantel with a mirror above it. The mantel has pitchers, framed pictures and other objects on it; there is a framed painting above it. There are screen prints on either side of window which has a decorative wood surround and above it architectural details and carving. There are other framed paintings on the left wall.</abstract>
+  <name>
+    <namePart>Garner, William Orland, 1858-1940</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1890</dateCreated>
+    <dateCreated encoding="edtf" point="end">1899</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005458">
+    <topic>Interiors</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007393">
+    <topic>Paintings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003620">
+    <topic>Entertaining</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+    <topic>Group portraits</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004130">
+    <topic>Floor coverings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001281">
+    <topic>Boys</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004459">
+    <topic>Gaslight fixtures</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004900">
+    <topic>Hats</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+    <topic>Clothing &amp; dress</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006039">
+    <topic>Living rooms</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006248">
+    <topic>Mantels</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011460">
+    <topic>Wallpapers</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007143">
+    <topic>Nurses</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n92038217"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2004098334"/>
+  <subject/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+    <geographic>Maryville (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Blount County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/garner%3A44</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/garner%3A44/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

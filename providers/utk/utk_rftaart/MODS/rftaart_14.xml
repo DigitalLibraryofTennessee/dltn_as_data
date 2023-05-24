@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">RFTA_Marshall_001</identifier>
+  <identifier type="pid">rftaart:14</identifier>
+  <titleInfo>
+    <title>The Chimney Tops 2 Fire</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
+  </originInfo>
+  <abstract>On Wednesday, November 23rd, 2016 at 5:30 P.M., the Chimney Tops 2 fire was reported in the Great Smokey Mountains National Park. The fire burned in remote terrain, with vertical cliffs and narrow rocky ridges. This is where the story begins.</abstract>
+  <name>
+    <namePart>Ramsey, Marshall</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004226">
+    <topic>Forests</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A14</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A14/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

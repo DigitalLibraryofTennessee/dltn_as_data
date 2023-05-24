@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>[Letter] 1849 March 27 [to] Alexander D. Coffee</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <topic>Coffee, Andrew Jackson; Coffee, Alexander D.</topic>
+  </subject>
+  <note>This document is a letter dated March 27, 1849 to Alexander D. Coffee from his brother Andrew Jackson Coffee. Andrew write his brother about various political appointments about to occur in Alabama, and that he was honored by the late President for his services in the Battle of Buena Vista.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0022_000067_000206_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14131</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14131/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14131</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14131/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

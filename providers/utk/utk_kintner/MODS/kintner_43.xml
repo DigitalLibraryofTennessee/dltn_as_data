@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">kintner_43</identifier>
+  <titleInfo>
+    <title>View from Spruce Mountain Tower</title>
+  </titleInfo>
+  <abstract>From Spruce Mtn tower looking to NW; LeConte, Porter Gap, Sequoyah, Chapman, Guyot - old Black.</abstract>
+  <abstract>Panorama taken looking Northeast from the Spruce Mountain Fire Tower with Laurel Top at left and Old Black at right. Spruce Mountain Fire Tower is no longer standing.</abstract>
+  <name>
+    <namePart>Kintner, Elgin P.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1975-09-09</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+    <topic>Photography, Panoramic</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4659605">
+    <geographic>Spruce Mountain</geographic>
+    <cartographics>
+      <coordinates>35.60009, -83.87601</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4635946">
+    <geographic>Mount Le Conte</geographic>
+    <cartographics>
+      <coordinates>35.65435, -83.43672</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4650939">
+    <geographic>Porters Gap</geographic>
+    <cartographics>
+      <coordinates>35.64593, -83.36016</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4469541">
+    <geographic>Mount Guyot</geographic>
+    <cartographics>
+      <coordinates>35.70532, -83.25746</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4656497">
+    <geographic>Mount Sequoyah</geographic>
+    <cartographics>
+      <coordinates>35.67482, -83.28876</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4612769">
+    <geographic>Mount Chapman</geographic>
+    <cartographics>
+      <coordinates>35.68676, -83.27099</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4483210">
+    <geographic>Old Black</geographic>
+    <cartographics>
+      <coordinates>35.71482, -83.25515</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A43</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A43/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+    </titleInfo>
+    <identifier>MS.3686</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Panoramic Images of Elgin P. Kintner</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

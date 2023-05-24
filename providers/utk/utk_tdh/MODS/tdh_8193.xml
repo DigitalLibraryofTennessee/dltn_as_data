@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl466</identifier>
+  <identifier type="pid">tdh:8193</identifier>
+  <titleInfo>
+    <title>1795 Oct. 2, Knoxville [Territory South of the Ohio River, to] D[avid] Henley / Wm. Richard</title>
+  </titleInfo>
+  <abstract>This is a letter from Captain Wm. Richard to Colonel David Henley, dated October 2, 1795. He is updating Henley presumably about happenings at Henley's office in Knoxville. Henley is an agent of the War Department. Richard mentions John Chisolm, a commissioner of Knoxville.</abstract>
+  <name>
+    <namePart>Richard, William</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1795-10-02</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85360561">
+    <topic>Territory of the United States, South of the River Ohio</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85198931">
+    <topic>Henley, David, 1749-1823</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/no97017629">
+    <topic>Military</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Henley Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8193</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8193/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

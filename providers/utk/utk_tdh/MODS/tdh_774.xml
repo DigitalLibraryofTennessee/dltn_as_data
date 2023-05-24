@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch012</identifier>
+  <identifier type="pid">tdh:774</identifier>
+  <identifier type="oclc">44759533</identifier>
+  <titleInfo>
+    <title>[Letter] 1831 Dec. 28, Washington [to] John Ross, Cherokee Nation / John Martin [and] John Ridge</title>
+  </titleInfo>
+  <abstract>This is a letter from John Martin and John Ridge, Cherokee leaders in Washington, to John Ross, Principal Chief of the Cherokee Nation, dated December 28, 1831. Martin and Ridge report to Ross on the progress of the Cherokee delegation in Washington and their decision to delay the delivery of the Cherokee Memorial to Congress. They indicate that they have news of atrocities against the Cherokees in Georgia. They further inform Ross that Elias Boudinot and John Ridge have met with Henry Clay who has pledged his support. They lament the hypocrisy with which they are met in dealing with the U.S. government. In addition, Martin and Ridge make reference to a delegation of Creek leaders also in Washington and comment on William Wirt's involvement in the Supreme Court case Worcester v. Georgia.</abstract>
+  <name>
+    <namePart>Ridge, John, 1803-1839</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Martin, John, 1784-1840</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1831-12-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A774</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A774/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

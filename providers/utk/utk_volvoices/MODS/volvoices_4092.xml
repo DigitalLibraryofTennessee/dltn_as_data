@@ -1,0 +1,85 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0117_000050_000246_0001</identifier>
+  <identifier type="filename">0117_000050_000246_0001.jp2</identifier>
+  <name>
+    <namePart>Whyte, Thomas R.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Drawing of mid-18th century Cherokee segmented domestic structure</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1967</dateCreated>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <abstract>This is a drawing of a Cherokee segmented domestic structure from the mid-18th century based on archaeological excavations by the University of Tennessee at Overhill Cherokee sites on the lower Little Tennessee River Valley. Excavations of Overhill Cherokee villages were conducted by the University of Tennessee between 1967 and 1983 as part of the Tellico Archaeological Project. Excavations continued until 1983, and laboratory studies and report preparation continued until 1987. The excavations were conducted in anticipation of the flooding of the lower Little Tennessee River Valley, in eastern Tennessee, by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA).</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4092</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4092/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Overhill Cherokee villages</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Native Americans</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Architecture</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037799">Monroe County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.45000N, 84.23333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 2 - Colonization and Settlement (1585-1763)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0117_000050_000246_0001</recordIdentifier>
+    <recordContentSource>Frank H. McClung Museum (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-04-22</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

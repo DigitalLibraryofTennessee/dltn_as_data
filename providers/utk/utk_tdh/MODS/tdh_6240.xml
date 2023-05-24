@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl164</identifier>
+  <identifier type="pid">tdh:6240</identifier>
+  <identifier type="oclc">51106637</identifier>
+  <titleInfo>
+    <title>[Household Inventory List] 1843 Apr. 7, Westwood, [TN] [to] James Woods, Nashville, [TN] / Sarah B. Woods</title>
+  </titleInfo>
+  <abstract>This is an inventory of household items made on April 1, 1843. It was made by Sarah B. Woods upon the death of Robert Woods, and sent to James Woods in Nashville who was the executor of the estate.</abstract>
+  <name>
+    <namePart>Woods, Sarah B.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1843-01-07</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85044938">
+    <topic>Estate planning</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Woods Family</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6240</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6240/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

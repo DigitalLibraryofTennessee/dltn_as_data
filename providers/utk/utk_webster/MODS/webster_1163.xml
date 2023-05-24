@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_002333_000381</identifier>
+  <identifier type="pid">webster:1163</identifier>
+  <identifier type="archival number">161</identifier>
+  <titleInfo>
+    <title>Unidentified Vista</title>
+  </titleInfo>
+  <abstract>Unidentified VistA</abstract>
+  <name>
+    <namePart>Webster, Herbert M., (Herbert Merideth), 1908-1994</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1926</dateCreated>
+    <dateCreated encoding="edtf" point="end">1955</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114487">
+    <topic>Roads</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Herbert M. Webster Photographs Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Herbert M. Webster Photographs Collection, 1926-1955</title>
+    </titleInfo>
+    <identifier>MS.3338</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/webster%3A1163</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/webster%3A1163/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,104 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Charly_McCoig_2_24_17_VN800040</identifier>
+  <identifier type="pid">rfta:124</identifier>
+  <titleInfo>
+    <title>Interview with Charly McCoig, 2017-02-24</title>
+  </titleInfo>
+  <abstract>Interview with Charly McCoig, resident of Seviereville, Tennessee. McCoig discusses the day of the fire and her direct attempts at fighting the fire. She also provides information about relief efforts and her time spent volunteering immediately after the fire as well as helping families to sift through ashes to find what personal items survived. This is a representative quote from the interview: "You can buy new clothes, you can buy new furniture, stuff like that, but it's the decades, the generations of memories that we have at places. . .that burned."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-24</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+    <topic>Disaster relief</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85048486">
+    <topic>Fire extinction</topic>
+  </subject>
+  <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+    <geographic>Sevierville</geographic>
+    <cartographics>
+      <coordinates>35.86815, -83.56184</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Charly McCoig, 2017-02-24</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"You can buy new clothes, you can buy new furniture, stuff like that, but it's the decades, the generations of memories that we have at places. . .that burned."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:10:15" partType="Interview Questions" startTime="00:09:12">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>What time did you leave?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:06:01" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Introduction</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Introduction chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:39:13" partType="Interview Questions" startTime="00:10:15">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Did the firefighters try to stop you?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:11:42" partType="Chapters" startTime="00:06:01">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Fighting the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Fighting the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:39:13" partType="Interview Questions" startTime="">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_Q3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle/>
+        <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:18:40" partType="Chapters" startTime="00:11:42">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Law Enforcement Arrives</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Law Enforcement Arrives chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:27:08" partType="Chapters" startTime="00:18:40">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Loss</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Loss chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:31:52" partType="Chapters" startTime="00:27:08">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Act of Nature</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Act of Nature chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:39:12" partType="Chapters" startTime="00:31:52">
+        <pbcore:pbcoreIdentifier source="local">Charly_McCoig_2_24_17_VN800040_C6</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>In the Community</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>In the Community chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/charly-mccoig-2017-02-24/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:124/datastream/TN/view</url>
+  </location>
+</mods>

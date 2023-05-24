@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch064</identifier>
+  <identifier type="pid">tdh:537</identifier>
+  <identifier type="oclc">44853943</identifier>
+  <titleInfo>
+    <title>Memorandum, 1838 Nov. 9, Headq[uarte]rs Eastern Division, Athens, Ten[nessee] / Winfield Scott</title>
+  </titleInfo>
+  <abstract>Copy of a memorandum dated November 9, 1838 from General Winfield Scott, commander of the Cherokee removal, concerning a possible discrepancy between the number of Cherokees on muster rolls and those actually removed. Scott was informed by the Cherokee authorities that 12,608 people in twelve detachments emigrated west by land, but only 11,721 were counted. He intends to make compensation if investigation proves this true.</abstract>
+  <name>
+    <namePart>Scott, Winfield, 1786-1866.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1838-11-09</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023090">
+    <topic>Trail of Tears, 1838</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A537</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A537/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

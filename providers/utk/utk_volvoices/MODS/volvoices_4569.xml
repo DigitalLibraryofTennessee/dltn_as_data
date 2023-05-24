@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>William G. Brownlow in Nashville to Mrs. Brownlow and family</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <geographic>United States -- History -- Civil War, 1861-1865.</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- History -- Civil War, 1861-1865.</geographic>
+  </subject>
+  <subject>
+    <topic>Brownlow, William Gannaway, 1805-1877.</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Civil and Human Rights.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <note>Letter from William G. Brownlow to his wife and family giving war news. Mentions the recruitment of fifteen deserters from Gen. Braxton Bragg`s army. Reports that many rank and file Confederate soldiers have applied for amnesty. States that Andrew Johnson and he had telegraphed Gen. Wool asking for the arrest of Gen. William H. Carroll. Mentions an assassination attempt made upon Dr. Peters at Brownlow`s boarding house. States that "200 rebels came in last night, deserters from Bragg."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000103_000209_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4569</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4569/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4569</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4569/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

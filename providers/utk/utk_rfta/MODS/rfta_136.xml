@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Ed_Dianne_Henson_6_6_2017_RNC044</identifier>
+  <identifier type="pid">rfta:136</identifier>
+  <titleInfo>
+    <title>Interview with Ed and Dianne Henson, 2017-06-06</title>
+  </titleInfo>
+  <abstract>Interview with Ed and Dianne Henson, residents of Gatlinburg. The Hensons recount the night of the fire in which they were trapped on a side road amidst the flames. They also discuss the tragedy of losing their house to the wildfire. This is a representative quote from the interview: "I looked up the mountain and I saw the house full of flames."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-06-06</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12218365">
+    <geographic>Cove Mountain Road</geographic>
+    <cartographics>
+      <coordinates>35.7399935, -83.524757</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Ed and Dianne Henson, 2017-06-06</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"I looked up the mountain and I saw the house full of flames."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:20:28" partType="Interview Questions" startTime="00:02:15">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Where is your home located?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:14:45" partType="geographic" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Cove Mountain Road</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Cove Mountain Road.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:08:00" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Emergency Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Emergency Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:32:00" partType="Interview Questions" startTime="00:20:28">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>What was your career, Diane?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:14:45" partType="Chapters" startTime="00:08:00">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>In the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>In the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:21:40" partType="Chapters" startTime="00:14:45">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rescue Party Arrives</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Rescue Party Arrives chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:32:00" partType="Chapters" startTime="00:21:40">
+        <pbcore:pbcoreIdentifier source="local">Ed_Dianne_Henson_6_6_2017_RNC044_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Afterthought</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Afterthought chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/ed-and-dianne-henson-2017-06-06/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:136/datastream/TN/view</url>
+  </location>
+</mods>

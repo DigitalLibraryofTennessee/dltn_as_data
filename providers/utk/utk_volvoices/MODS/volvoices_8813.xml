@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dorothy Dix Interesting Sketch of a Brilliant Newspaper Woman</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>newspaper</genre>
+  <subject>
+    <topic>Dix, Dorothy, 1861-1951 -- Tennessee -- Clarksville.</topic>
+  </subject>
+  <subject>
+    <geographic>MONTGOMERY COUNTY (TENN.) -- SOCIAL LIFE AND CUSTOMS</geographic>
+  </subject>
+  <subject>
+    <topic>Women's Suffrage and Tennessee's pivotal role in passage of 19th Amendment .</topic>
+  </subject>
+  <subject>
+    <topic>Women.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Montgomery County.</geographic>
+  </subject>
+  <subject>
+    <topic>Elizabeth Meriwether Gilmer.</topic>
+  </subject>
+  <note>Dorothy Dix who in private life is Mrs. Elizabeth M. Gilmer, whose brilliant articles on the editorial page of the New York Journal have attracted wide attention, is to be one of the prominent speakers at the meeting of the International Woman`s Suffrage Association in Washington on February 13 and 14. She will speak for the newspaper woman. She writes, "I was born and raised on a big racehorse farm in Montgomery County, Tennessee, where I grew up with thoroughbred colts and little Negroes, the two things I really understand best, and that I can never refrain from writing about long at a time."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0030_000051_000202_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8813</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8813/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8813</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8813/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

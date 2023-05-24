@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl612</identifier>
+  <identifier type="pid">tdh:7770</identifier>
+  <titleInfo>
+    <title>[Letter] 1831 Sep. 19, Nashville, Tennessee [to] W[illia]m Carroll / T.A. Durmest</title>
+  </titleInfo>
+  <abstract>This is a letter to Governor William Carroll dated September 19, 1831. It is from T.A. Durmest, an engineer. He is reporting on the natural obstructions in the Tennessee River. He also makes recommendations for overcoming them in order to improve travel on the river. He gives a list of the estimated costs of improvements.</abstract>
+  <name>
+    <namePart>Durmest, T. A.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1831-09-19</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85114246">
+    <topic>River surveying</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85114241">
+    <topic>River engineering</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor William Carroll Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7770</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7770/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

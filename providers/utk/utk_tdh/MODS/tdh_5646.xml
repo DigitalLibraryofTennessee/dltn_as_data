@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl339</identifier>
+  <identifier type="pid">tdh:5646</identifier>
+  <titleInfo>
+    <title>[Letter] 1848 Nov. 24, Gallatin, Tennessee [to] Masonic Lodge no. 14, Carthage, Tennessee / John G. Turner [et.al]</title>
+  </titleInfo>
+  <abstract>This is a letter to the Masonic lodge of Carthage Tennessee (no. 14) dated November 24, 1848. It has names of John G. Turner, James L. M'Koin, and Wm. Solomon stamped as the writers. It is asking for financial help for John Bell. He is a fellow Mason from Gallatin who's store has burned down.</abstract>
+  <name>
+    <namePart>Turner, John G.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1848-11-24</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008810">
+    <topic>Associations, institutions, etc</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fergusson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5646</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5646/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

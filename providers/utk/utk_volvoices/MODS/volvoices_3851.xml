@@ -1,0 +1,92 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0095_000050_000209_0001</identifier>
+  <identifier type="filename">0095_000050_000209_0001.jp2</identifier>
+  <name>
+    <namePart>Miles, Murray T.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>June Mazilee Miles standing on the sideboard of a Green Hill Farms milk delivery truck</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1931</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This photograph is titled, "June Mazilee Miles standing on the sideboard of a Green Hill Farms milk delivery truck". Written on the back of the photo: Green Hill Farms imported registered Jersey cattle from the island of Jersey and produced and bottled milk on the farm. The milk was delivered to homes in the Donelson and Nashville area in trucks such as these. In this 1931 photo is June Mazilee Miles, four-year-old daughter of Green Hill Farms manager, Murray T. Miles, Sr.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Tennessee Agricultural Museum</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Nashville</text>
+          <text>County: Davidson County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A3851</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A3851/datastream/TN/view</url>
+  </location>
+  <subject displayLabel="Broad Topics">
+    <topic>Farming and Agriculture</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Science and Technology</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Transportation and Internal Improvements</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n83226055">Mount Juliet (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.20000N, 86.51861W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81083036">Wilson County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.15000N, 86.28333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0095_000050_000209_0001</recordIdentifier>
+    <recordContentSource>Tennessee Agricultural Museum</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-02-13</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

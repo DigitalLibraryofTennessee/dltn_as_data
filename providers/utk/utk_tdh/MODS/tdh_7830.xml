@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl604</identifier>
+  <identifier type="pid">tdh:7830</identifier>
+  <titleInfo>
+    <title>1829 Sep. 21, Nashville, Ten[nessee] / W[illiam] Hall</title>
+  </titleInfo>
+  <abstract>This is a copy of a speech given by Governor William Hall to the Senate and House of Representatives, dated September 21, 1829. Hall talks about the need for a strong and wise judiciary. He also mentions the penitentiary system. Hall talks about the need for a standardized currency to a sound economy. He explains a dispute with Kentucky over an area of their shared border.</abstract>
+  <name>
+    <namePart>Hall, William, 1775-1856</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1829-09-21</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033571">
+    <topic>Courts</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99004848">
+    <topic>Law and legislation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor William Hall Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7830</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7830/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

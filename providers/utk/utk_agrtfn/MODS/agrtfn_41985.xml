@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004266_000494</identifier>
+  <identifier type="issn">2687-9875</identifier>
+  <identifier type="pid">agrtfn:41985</identifier>
+  <titleInfo>
+    <title>Tennessee farm news, January 12, 1931</title>
+  </titleInfo>
+  <abstract>Weekly press release from Knoxville, Tennessee, covering farming and home economics.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1931</dateCreated>
+    <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+  </originInfo>
+  <note>Digitized with support from a Project Ceres grant. Project Ceres is a collaboration between the United States Agricultural Information Network (USAIN), the Agriculture Network Information Collaborative (AgNIC) and the Center for Research Libraries (CRL) to support ongoing preservation and digitization of collections in the field of agriculture.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047223">
+    <topic>Farm management</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047223">
+    <topic>Farm management</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002427">
+    <topic>Agriculture--Economic aspects</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85034249">
+    <topic>Crops</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147552">
+    <topic>Women in agriculture</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+    <cartographics>
+      <coordinates>35.75035, -86.25027</coordinates>
+    </cartographics>
+  </subject>
+  <classification authority="lcc">S115 .T5</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Farm News</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrtfn%3A41985</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrtfn%3A41985/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

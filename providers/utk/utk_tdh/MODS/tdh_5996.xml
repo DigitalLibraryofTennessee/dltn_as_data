@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl220</identifier>
+  <identifier type="pid">tdh:5996</identifier>
+  <identifier type="oclc">51217206</identifier>
+  <titleInfo>
+    <title>1844 Jul 31, Nashville [TN] [to] Mary House, Louisville, Alabama / George House</title>
+  </titleInfo>
+  <abstract>This is a letter dated July 31, 1844 to Mary House from her husband, George House. He writes quite a bit about how much he misses her. He even stares out his window at night in the direction she lives. He gives the news of his friends, and their family. He also describes in detail a recent Whig rally and looks forward to their convention. He gives the news of their family, and the people that want her to write to them. He also advises her to take boneset tea if she gets another cough.</abstract>
+  <name>
+    <namePart>House, George W.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-07-31</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Orr Collection IV-J-2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5996</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5996/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

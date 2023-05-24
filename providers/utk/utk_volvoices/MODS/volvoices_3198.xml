@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0085_000050_000212_0001</identifier>
+  <identifier type="filename">0085_000050_000212_0001.jp2</identifier>
+  <name>
+    <namePart>Kelly and Green Company</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Columbian Paper Company in Bristol, Virginia</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1931</dateCreated>
+    <dateCreated encoding="edtf">1931</dateCreated>
+    <publisher>Kelly and Green Company</publisher>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <abstract>This is a postcard of the Columbian Paper Company located in Bristol, Virginia. At the beginning of the 20th century, the development of pulp and paper mills in the area of Bristol enabled the timber industry to make profits off the cutting of smaller trees.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Bristol Historical Association</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Bristol</text>
+          <text>County: Sullivan County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A3198</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A3198/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh">
+    <topic>Paper industry--Virginia--Bristol</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Trade, Business and Industry</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79145814">Sullivan County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.51667N, 82.53333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0085_000050_000212_0001</recordIdentifier>
+    <recordContentSource>Bristol Historical Association</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-10-03</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

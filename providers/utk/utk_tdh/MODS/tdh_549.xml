@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch061</identifier>
+  <identifier type="pid">tdh:549</identifier>
+  <identifier type="oclc">44853516</identifier>
+  <titleInfo>
+    <title>[Legal] agreement [between] Cherokee [officials and] Jos[eph] McMinn, 1823 May 23, / [signed by] Jno. [i.e., John] Ross ... [et al.]</title>
+  </titleInfo>
+  <abstract>Copy of a legal agreement dated May 23, 1823 between John Ross, Richard Taylor, Alexander McCoy, and Nathan Hicks, Cherokee officials acting on behalf of the Nation's treasurer, Charles R. Hicks, and Joseph McMinn, Cherokee Agent (and former Governor of Tennessee), concerning the 1823 Cherokee annuity payment.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1823-05-23</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023084">
+    <topic>Cherokee Indians--Legal status, laws, etc</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85064963">
+    <topic>Indian agents</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A549</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A549/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

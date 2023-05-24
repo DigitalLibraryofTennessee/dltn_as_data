@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001280_000200_0000</identifier>
+  <titleInfo>
+    <title>Letter, Samuel Andrew Baker in South Carrolton, Ky. to Joseph Warren Baker in Whitley County, Ind.</title>
+  </titleInfo>
+  <abstract>Samuel Andrew Baker wrote to his father, Joseph Warren Baker, on January 28, 1862. He mentioned having a boil on his forehead. He mentioned he had been looking for a letter from home for some time. He mentioned his Colonel was sick and on furlough and that they had another leader. He was a little homesick. He had not received any pay for a long time and didn't really expect to get any. He didn't have money for postage so had had not written home much. His company was expecting an attack from the rebels and had prepared for that. He mentioned a funny story about a raccoon scaring the troops. He mentioned the company was fired upon while on piquet guard.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-01-28</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Baker, Samuel Andrew, ca. 1844-1865</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Soldiiers -- United States -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Soldiers -- Kentucky -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Military maneuvers</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Kentucky-- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Baker, Samuel Andrew, ca. 1844-1865 -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Baker, Joseph Warren -- Correspondence</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A4308</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A4308/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Samuel Andrew Baker Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

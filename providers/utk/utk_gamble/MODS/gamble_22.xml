@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_003707_000022</identifier>
+  <name>
+    <namePart>Gamble, Ed</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>America's Military Vulnerable to Soviets?</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf">1980</dateCreated>
+    <publisher>Florida Times-Union</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <genre>United States--Politics and government--Caricatures and cartoons</genre>
+  <abstract>A woman reassures her husband that the Russians are not going to attack the United States after he has read a headline referring to the U.S. military's vulnerability. The wife states that the U.S. is as strong as the Russians because President Jimmy Carter said so. Her husband says, "That's what's worrying me!"</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A22</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A22/datastream/TN/view</url>
+  </location>
+  <subject/>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <subject>
+    <geographic>Soviet Union</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3763</identifier>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida Times-Union</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_003707_000022</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

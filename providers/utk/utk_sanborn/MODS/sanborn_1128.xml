@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sanborn_1128</identifier>
+  <identifier type="local">sanborn:1128</identifier>
+  <identifier type="local">sanborn_knoxville1903_0072</identifier>
+  <name>
+    <namePart>Sanborn Map &amp; Publishing Co.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Knoxville -- 1903</title>
+    <partName>Sheet 66</partName>
+  </titleInfo>
+  <part>
+    <detail>
+      <title>District-Ward 66</title>
+    </detail>
+  </part>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1903</dateCreated>
+    <publisher>Sanborn Map &amp; Publishing Co., Ltd</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1128</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/sanborn%3A1128/datastream/TN/view</url>
+  </location>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <temporal>1903</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Sanborn Fire Insurance Maps Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/sanbornmapcollection</url>
+    </location>
+    <abstract>The Sanborn Fire Insurance Maps are a large-scale representation of the growth and layout of American cities. The University of Tennessee Libraries' collection currently provides digital versions of the four earliest sets of Knoxville maps - 1884, 1890, 1903, and 1917.</abstract>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_sanborn_1128</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

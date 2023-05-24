@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0015_000053_000211_0001</identifier>
+  <identifier type="filename">0015_000053_000211_0001.jp2</identifier>
+  <name>
+    <namePart>Berlin, Irving, 1888-1989</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>When It's Night Time Down in Dixieland</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1914</dateCreated>
+    <publisher>Waterson, Berlin &amp; Snyder</publisher>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</genre>
+  <physicalDescription>
+    <form>illustrations</form>
+  </physicalDescription>
+  <abstract>Sheet music cover image with stereotypical scene of southern black family outside of a cabin, singing as two boys play the banjo and the fiddle.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Kenneth D. Rose Sheet Music Collection, M1630.2 .B48W57</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Nashville</text>
+          <text>County: Davidson County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A1999</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A1999/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088876">
+    <topic>Popular music--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh97006812">
+    <topic>Racism in popular culture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85011545">
+    <topic>Banjo</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/1431521">
+    <topic>Stereotypes (Social psychology)</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>Taxation and the narrowing of the franchise: "Jim Crow" laws and the poll tax</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>New South period and the industrialization of Tennessee</topic>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125633">Southern States</geographic>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0015_000053_000211_0001</recordIdentifier>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-01-10</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

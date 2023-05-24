@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch033</identifier>
+  <identifier type="pid">tdh:672</identifier>
+  <identifier type="oclc">44804927</identifier>
+  <titleInfo>
+    <title>Letter, 1839 July 13, Illinois Camp Ground to Brev[e]t Brig[adie]r Gen[era]l M[atthew] Arbuckle / George Lowrey ... [et al.]</title>
+  </titleInfo>
+  <abstract>Copy of a letter dated July 13, 1839 from members of the Cherokee Convention to General Matthew Arbuckle regarding Arbuckle's suspicions about the nature of the convention. Arbuckle is assured by the members of the convention that they were called to assemble by the Cherokee people and that there is no cause for concern among any group of Cherokees or others. The undersigned include George Lowrey, George Guess (Sequoyah), John Ross and many others.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1839-07-13</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A672</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A672/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0039_000055_000209_0001</identifier>
+  <identifier type="filename">0039_000055_000209_0001.jp2</identifier>
+  <titleInfo>
+    <title>Goldstein's Store</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="inferred">1930</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1965</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This is a photograph of Goldstein family's store at its location on the Murfreesboro downtown square. William Goldstein opened the store soon after he settled in Murfreesboro in 1886. He ran the store with his wife Dora until his death in 1930, when his son David took over. Upon David's death in 1942, the proprietorship transferred to David's brother Bernard, who ran the store until selling it to a national chain in 1965. Goldstein's Department Store finally closed its doors in 1982.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Albert Gore Research Center</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Weise Photo Collection, #070</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Murfreesboro</text>
+          <text>County: Rutherford County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2566</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2566/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85123568">
+    <topic>Small business</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85070281">
+    <topic>Jewish families</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023552">
+    <topic>Children of immigrants</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Trade, Business and Industry</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Family Life and Gender Relations</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Religion</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.84555N, 86.39027W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037722">Rutherford County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.85000N, 86.40000W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Licker-Goldstein-Weise Family Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0039_000055_000209_0001</recordIdentifier>
+    <recordContentSource>Albert Gore Research Center</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-08-30</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

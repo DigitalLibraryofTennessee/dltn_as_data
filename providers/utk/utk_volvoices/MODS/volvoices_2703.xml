@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0045_000050_000217_0001</identifier>
+  <identifier type="filename">0045_000050_000217_0001.jp2</identifier>
+  <name>
+    <namePart>Currier, Nathaniel, 1813-1888</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Grand Funeral Procession in Memory of Gen. Jackson</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1845-06-24</dateCreated>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <abstract>A hand colored lithograph that represents the funeral procession held in New York City on June 24, 1845 in memory of Andrew Jackson. In the foreground, a wagon carries a gold urn inscribed with the names of Washington, La Fayette, Harrison, and Jackson. An eagle is purchased on the wagon clutching a ribbon inscribed "Jackson" in his beak. Four white horses are pulling the wagon. The horses, wagon, and urn are all draped in black. Behind the wagon is a white riderless horse with a saddle and saddle blanket.. The horses are attented by three men wearing turbans, blue vests, and sashes. In the background there is a parade of soldiers wearing red, white, and blue uniforms, led by a mounted officer and a military band. Behind the soldiers an iron fence is visible that leads to a gate with two large stone gate posts. Crowds of people line the other side of the fence and gate watching the procession. A horse drawn carriage is also visible in the crowd. In the crowd, eight black draped banners represent various organizations. Three banners are legible and the represent the I.O.O.F., NY Fire Department, and the 2nd Division. A large two story Greek Revival building is visible in the right background, with all of its windows and porticoes lined with people. An American flag flies from the roof of the building. In the left hand background two trees are visible. Underneath the print is the following inscription in large bold black letters: GRAND FUNERAL PROCESSION IN MEMORY OF GEN. JACKSON as it started from the City Hall New York June 24th, 1845.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Hermitage</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>H1999.03.001</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Nashville</text>
+          <text>County: Davidson County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2703</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2703/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh">
+    <topic>Funeral Processions--New York (State)--New York</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077598">
+    <topic>Lithography</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Arts and Literature</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Popular Culture and Folklore</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Hermitage Historic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0045_000050_000217_0001</recordIdentifier>
+    <recordContentSource>Hermitage</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-05-31</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch077</identifier>
+  <identifier type="pid">tdh:432</identifier>
+  <identifier type="oclc">44864413</identifier>
+  <titleInfo>
+    <title>Order, 1836 Nov. 3, Headquarters, Fort Cass, [Tennessee] / Brig[adier] Gen[era]l John E. Wool</title>
+  </titleInfo>
+  <abstract>This document is a general order from Brigadier General John E. Wool, at army headquarters at Fort Cass, (Tennessee), dated November 3, 1836. The order contains directions from the President respecting the implementation of the Treaty of New Echota (signed 1835, ratified 1836), which provided for the removal of the Cherokee Indians to a territory west of the Mississippi River. Wool indicates that soldiers stationed in the Cherokee Nation are to prohibit any meetings of the Cherokee people for the purpose of opposing the removal treaty. In addition, it is stated that no delegation from the Cherokee Nation interested in renegotiating the terms of the treaty will be acknowledged.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1836-11-03</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001525">
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A432</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A432/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

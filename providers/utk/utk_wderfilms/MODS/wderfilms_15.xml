@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Foothills Farm</title>
+  </titleInfo>
+  <subject>
+    <topic>Mountain life</topic>
+  </subject>
+  <subject>
+    <topic>Mountain people</topic>
+  </subject>
+  <subject>
+    <topic>Farms</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture</topic>
+  </subject>
+  <note>Musical accompaniment is traditional folk song “The Arkansas Traveler,” recorded January 2015. The running time is 36 seconds.</note>
+  <identifier>wderfilms:15</identifier>
+  <location>
+    <physicalLocation>The University of Tennessee Libraries, Special Collections, Knoxville</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/wderfilms%3A15</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/wderfilms%3A15/datastream/TN/view</url>
+  </location>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>The William Derris Slide Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>William Derris Slide Collection</title>
+    </titleInfo>
+    <identifier>MS.2123</identifier>
+  </relatedItem>
+  <typeOfResource>moving image</typeOfResource>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

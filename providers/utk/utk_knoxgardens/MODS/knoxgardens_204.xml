@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000463_000310</identifier>
+  <identifier type="pid">knoxgardens:204</identifier>
+  <identifier type="slide number">Slide 97</identifier>
+  <identifier type="film number">Film 56</identifier>
+  <identifier type="spc">record_spc_4579</identifier>
+  <titleInfo>
+    <title>Arbor in Mrs. Williams's garden</title>
+  </titleInfo>
+  <abstract>Glass slide photo of garden arbor.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="inferred">1930</dateCreated>
+    <dateCreated encoding="edtf" point="end" qualifier="inferred">1939</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101348">
+    <topic>Photography of gardens</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85053123">
+    <topic>Gardens, American</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85103022">
+    <topic>Plants, Ornamental</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85137269">
+    <topic>Trellises</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh96007468">
+    <topic>Arbors</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <note>Mrs. A. C. Bruner donated this collection to the University of Tennessee. Creation dates were inferred from the dates associated with the archival collection and the activity dates of the Jim Thompson Company.</note>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Knoxville Garden Slides</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Knoxville Gardens Slides</title>
+    </titleInfo>
+    <identifier>MS.1324</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v88w3bgf</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/knoxgardens%3A204</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/knoxgardens%3A204/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000682</identifier>
+  <identifier type="pid">tenncities:582</identifier>
+  <identifier type="photograph number">0483</identifier>
+  <identifier type="spc">record_spc_4338</identifier>
+  <titleInfo>
+    <title>United States Pavilion</title>
+  </titleInfo>
+  <abstract>View of the exterior of the United States Pavilion at the World's Fair. The Knoxville International Energy Exposition (better known as the World's Fair) was held in Knoxville from May to October 1982 on a 67-acre area just west of the city's center. 19 nations in addition to the United States participated in the exposition which drew over 11 million visitors. While many of the buildings constructed for the event were eventually demolished, part of the site ultimately became a public park.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">May 1, 1982</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">Oct 31, 1982</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046347">
+    <topic>Exhibition buildings</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+    <topic>Architectural photography</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+    <topic>Knoxville (Tenn.)--History</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82114257"/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A582</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A582/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

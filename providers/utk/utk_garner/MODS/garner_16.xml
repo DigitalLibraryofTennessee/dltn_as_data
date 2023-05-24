@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">garner:16</identifier>
+  <identifier type="original ID">Garner 188A</identifier>
+  <identifier type="document ID">bcapp00112</identifier>
+  <titleInfo>
+    <title>African American family sitting on the front porch</title>
+  </titleInfo>
+  <abstract>Shows an African Americans man and two adult African American women sitting in chairs on a wooden porch; there is also a young African American girl leaning on the woman in the middle. The man is dressed in a shirt and pants with suspenders, and there is a hat resting on one of his knees. The two woman have on dresses and aprons; the one in the middle has a bandana wrapped around her head. The child has on a dress and is barefoot. There is a wooden shingle roof over the wooden building; there is also a window visible. There is a broom resting against the house wall; there are various objects hung on the wall including a cattle bell. There is dirt in the foreground.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1890</dateCreated>
+    <dateCreated encoding="edtf" point="end">1903</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+    <topic>African Americans</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008063">
+    <topic>Porches</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003823">
+    <topic>Families</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001355">
+    <topic>Brooms &amp; brushes</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011794">
+    <topic>Wooden buildings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001873">
+    <topic>Chairs</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+    <topic>Clothing &amp; dress</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001966">
+    <topic>Children</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+    <topic>Group portraits</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000955">
+    <topic>Bells</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009002">
+    <topic>Roofs</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+    <geographic>Maryville (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Blount County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/garner%3A16</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/garner%3A16/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

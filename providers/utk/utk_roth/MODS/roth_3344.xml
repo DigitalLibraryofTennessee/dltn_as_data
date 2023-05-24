@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">roth:3344</identifier>
+  <identifier type="local">0012_002328_003335</identifier>
+  <identifier>roth0512</identifier>
+  <titleInfo>
+    <title>Smoky Mountains Hiking Club picnic in our backyard</title>
+  </titleInfo>
+  <abstract>Photograph taken with a 3A Autographic Kodak folding camera.</abstract>
+  <name>
+    <namePart>Roth, Albert, 1890-1974</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1942-07-04</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+    <topic>People</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n86844817"/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Albert "Dutch" Roth Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. G. "Dutch" and Margaret Ann Roth Papers</title>
+    </titleInfo>
+    <identifier>MS.3334</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/roth%3A3344</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/roth%3A3344/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

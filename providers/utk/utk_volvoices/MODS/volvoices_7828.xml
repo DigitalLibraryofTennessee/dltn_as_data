@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Invitation to a ball in Murfreesboro, Tennessee, in honor of the anniversary of the Victory at New Orleans, 1828</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>invitations</genre>
+  <subject>
+    <geographic>United States -- History -- War of 1812.</geographic>
+  </subject>
+  <subject>
+    <topic>Jacksonian democracy and Tennessee's leadership role in the early republic .</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Popular Culture and Folklife.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <note>This invitation is for a ball at the Washington Hotel in Murfreesboro, Tennessee to take place on January 8, 1825. It is to honor the victory of the United States at the Battle of New Orleans on January 8, 1815. The managers of the ball are George A. Sublett, H.D. Jamison, Russell Dance and James Holmes.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0028_000050_000236_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7828</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7828/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7828</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7828/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

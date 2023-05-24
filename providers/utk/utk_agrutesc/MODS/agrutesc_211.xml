@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004268_000011</identifier>
+  <identifier type="issn">2687-7287</identifier>
+  <identifier type="circular">36</identifier>
+  <identifier type="pid">agrutesc:211</identifier>
+  <titleInfo>
+    <title>Training for leadership for officers and leaders in home demonstration and 4-H clubs</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>University of Tennessee Extension Circular 36</title>
+  </titleInfo>
+  <abstract>Circular presenting guidelines on the role of club presidents and leaders in properly conducting meetings, motions, and voting.</abstract>
+  <name>
+    <namePart>Moreland, Elizabeth F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1937-01</dateCreated>
+    <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+  </originInfo>
+  <note>Revised.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85000002">
+    <topic>4-H clubs</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99005418">
+    <topic>Leadership</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99005281">
+    <topic>Committees--Rules and practice</topic>
+  </subject>
+  <classification authority="lcc">S115. S3743</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Extension Special Circulars</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A211</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A211/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
+</mods>

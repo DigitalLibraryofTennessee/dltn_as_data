@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_003707_000062</identifier>
+  <name>
+    <namePart>Gamble, Ed</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Hello police...A gang of just ordinary looking citizens mugged me and my reindeer and made off with all my Cabbage Patch dolls!</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf">1983</dateCreated>
+    <publisher>Florida Times-Union</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <genre>Popular culture--United States--Caricatures and cartoons</genre>
+  <abstract>Santa Claus calls the police from a telephone booth. His sleigh is overturned with strewn wrapped packages. His reindeer are toppled over in the snow or on top of the upside-down sleigh.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>Inscribed notes on the side of cartoon.</note>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A62</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A62/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Cabbage Patch Kids dolls</topic>
+  </subject>
+  <subject>
+    <topic>Mugging</topic>
+  </subject>
+  <subject>
+    <topic>Christmas</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3763</identifier>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida Times-Union</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_003707_000062</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

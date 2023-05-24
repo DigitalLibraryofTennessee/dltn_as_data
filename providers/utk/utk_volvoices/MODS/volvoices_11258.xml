@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Song of the South, version 1</title>
+  </titleInfo>
+  <genre>notated music</genre>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">still image</genre>
+  <genre>sheet music</genre>
+  <subject>
+    <topic>Sheet Music.</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Huber Family.</topic>
+  </subject>
+  <subject>
+    <topic>Arts and Literature.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Davidson County.</geographic>
+  </subject>
+  <note>This is the sheet music of a Civil War era song written and published in the Confederate States of America. The song was composed and dedicated to the "Songs of the South". The cover image shows two flags. The flag on the left is "the flag as it is" and has seven stars representing the seven Southern states which had seceeded from the Union at that point in time. The second flag is "the flag as it will be," and has fifteen stars, each for a state the composer anticipated would join the Confederacy. Eventually, eleven states joined, not the fifteen Huber expected. A later version of this song has eleven stars on the "flag as it is," indicating that version was published after the attack on Fort Sumter, South Carolina. Additional publishers include Jas. A. McClure of Nashville and Memphis and Blackmar [amp] Bro. of Vicksburg and New Orleans. The back page is a report of the committee for the adoption of a CSA flag.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0015_000053_000224_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11258</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11258/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11258</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11258/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

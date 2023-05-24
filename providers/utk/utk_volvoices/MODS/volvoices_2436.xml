@@ -1,0 +1,89 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0031_000053_000205_0001</identifier>
+  <identifier type="filename">0031_000053_000205_0001.jp2</identifier>
+  <titleInfo>
+    <title>Group in front of the second Tabard Inn, Rugby, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="approximate">1880</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1890</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This is a photograph of a group of people in front of the second Tabard Inn in Rugby, Tennessee. The first Tabard Inn was destroyed by fire in the early 1880's. The inn was named after the hostelry in Chaucer's Canterbury Tales.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Angelo &amp; Jennette Volpe Library &amp; Media Center</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Cookeville</text>
+          <text>County: Putnam County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2436</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2436/datastream/TN/view</url>
+  </location>
+  <subject displayLabel="Broad Topics">
+    <topic>Architecture</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Immigrants and Immigration</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Social Reform</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/no2005033618">Rugby (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.36028N, 84.70084W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82084271">Fentress County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.38334N, 84.93333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <temporal>[1880..1890]~</temporal>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 6 - The Development of the Industrial United States (1870-1900)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Vertical Files</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0031_000053_000205_0001</recordIdentifier>
+    <recordContentSource>Angelo &amp; Jennette Volpe Library &amp; Media Center</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-01-18</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

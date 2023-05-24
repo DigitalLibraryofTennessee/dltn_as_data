@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pupil Distribution of Jackson County Map, Gainesboro, Tennessee</title>
+  </titleInfo>
+  <genre>cartographic</genre>
+  <genre>map</genre>
+  <subject>
+    <topic>Segregation -- United States.</topic>
+  </subject>
+  <subject>
+    <geographic>Jackson County (Tenn.) -- History</geographic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <topic>Children and Childhood.</topic>
+  </subject>
+  <subject>
+    <geographic>The Great Depression and World War II (1929-1945).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Jackson County.</geographic>
+  </subject>
+  <subject>
+    <topic>Livingston, Albert Roberts; Philpot, O.H.; Webb, J.B.; Sadler, W.Z.</topic>
+  </subject>
+  <note>A map of the pupil distribution of Jackson County, Tennessee, from 1935-1936. The left hand side has a list of county officers; the upper right hand corner provides details of area, population, percent white and colored, and assessed value of property, both real and personal. The map is divided into units, with the letter N besides a school denoting a "Negro school."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0099_000050_000212_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6238</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6238/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6238</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6238/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

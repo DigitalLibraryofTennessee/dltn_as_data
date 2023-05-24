@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">garner:78</identifier>
+  <identifier type="original ID">Garner 84</identifier>
+  <identifier type="document ID">bcapp00159</identifier>
+  <titleInfo>
+    <title>Admiral Farragut's birthplace on Big Tennessee River</title>
+  </titleInfo>
+  <abstract>Photograph of Admiral Farragut's birthplace. It shows the side of a wood frame house that has two open windows with shutters. There is a two story section that is hidden behind tree branches. There is a clothes line propped up with a pole with two shirts hanging on the line. In the middle is smaller tree and a shrub. On the right side are two large trees. In front there is a cut stone wall with a gate that is partially visible. In the foreground is grass. Behind the wall there is a large rock or monument.</abstract>
+  <name>
+    <namePart>Garner, William Orland, 1858-1940</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1890</dateCreated>
+    <dateCreated encoding="edtf" point="end">1903</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011461">
+    <topic>Walls</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005191">
+    <topic>Houses</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001055">
+    <topic>Birthplaces</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011794">
+    <topic>Wooden buildings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004705">
+    <topic>Grasses</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002188">
+    <topic>Clotheslines</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054">
+    <topic>Trees</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011716">
+    <topic>Windows</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009585">
+    <topic>Shutters</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003920">
+    <topic>Fences</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+    <topic>Buildings</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001990">
+    <topic>Chimneys</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50011924"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81102870">
+    <geographic>Knox County (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+    <geographic>Maryville (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Blount County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/garner%3A78</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/garner%3A78/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

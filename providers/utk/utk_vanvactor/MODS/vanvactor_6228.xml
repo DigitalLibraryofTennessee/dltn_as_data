@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003979_000317</identifier>
+  <identifier type="pid">vanvactor:6228</identifier>
+  <titleInfo>
+    <title>Sketches for Sarabande con variazione</title>
+  </titleInfo>
+  <abstract>Compilation of pencil and pen sketches.</abstract>
+  <note type="instrumentation">For 2 trumpets, 2 horns, 3 trombones, and tuba.</note>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015748">trumpet</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015342">horn</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015747">trombone</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015750">tuba</genre>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" qualifier="approximate">1965</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Van Vactor, David, 1906-1994</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85066772">
+    <topic>Instrumental ensembles</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85142181">
+    <topic>Variations (Horn, trombone, trumpets (2), tuba with instrumental ensemble)--Excerpts</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088803">
+    <topic>Music--Manuscripts</topic>
+  </subject>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026956">Musical sketches</genre>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014027071">Sarabandes (Music)</genre>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014027156">Variations (Music)</genre>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+  <relatedItem type="otherVersion">
+    <titleInfo>
+      <title>Sarabande con variazione</title>
+    </titleInfo>
+    <identifier type="catalog">M092</identifier>
+  </relatedItem>
+  <note type="handwritten">Camino Real 1st sketch. Wed. Mar. 12. 65 Mexico City</note>
+  <typeOfResource>notated music</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>David Van Vactor Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Van Vactor Papers</title>
+    </titleInfo>
+    <identifier>MS.1942</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8pz5703</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A6228</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A6228/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

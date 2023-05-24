@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0031_000051_000203_0001</identifier>
+  <identifier type="filename">0031_000051_000203_0001.jp2</identifier>
+  <name>
+    <namePart>Fentress Coal &amp; Coke Co.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Charles Alexander's pay receipt, January 15, 1928, Fentress Coal Company</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1928-01-15</dateCreated>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <abstract>A photograph of a pay receipt to Charles Alexander from Fentress Coal &amp; Coke Company for work ending Jan. 15,1928. Note that earnings are for 308 tons @ 49 ... more production, less pay for it.. .compare to 1924. County: Fentress</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Angelo &amp; Jennette Volpe Library &amp; Media Center</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Cookeville</text>
+          <text>County: Putnam County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2392</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2392/datastream/TN/view</url>
+  </location>
+  <subject displayLabel="Broad Topics">
+    <topic>Trade, Business and Industry</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82084271">Fentress County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.38334N, 84.93333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <temporal>1928-01-15</temporal>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Wilder Davidson Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0031_000051_000203_0001</recordIdentifier>
+    <recordContentSource>Angelo &amp; Jennette Volpe Library &amp; Media Center</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-01-16</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

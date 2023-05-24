@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000603_000407_0001</identifier>
+  <identifier type="local">derris_775</identifier>
+  <identifier type="local">derris:775</identifier>
+  <name>
+    <namePart>Derris, William</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Little River</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1957-12-10</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <note>Transcribed from slide mount: sinks</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/derris%3A775</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/derris%3A775/datastream/TN/view</url>
+  </location>
+  <subject>
+    <geographic authority="lcsh" valueURI="">Little River (Tenn.)</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>William Derris Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/derriscollection</url>
+    </location>
+    <abstract>William Derris, avid amateur photographer, videographer, and proprietor of the Derris Motel in Townsend, Tennessee, crisscrossed the Great Smoky Mountains by automobile, photographing and filming the iconic locales. His images document seasonal landscapes, flora, wildlife, and the mountain people in Cades Cove, Wears Valley, Clingmans Dome, Little Greenbrier, Fontana, Chimney Tops and other scenery in the Smokies from the mid-1940s to the late 1960s. Using these images, Derris created slide shows for the entertainment of his motelâs numerous guests...</abstract>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>William Derris Slide Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.2123</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_000603_000407_0001</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

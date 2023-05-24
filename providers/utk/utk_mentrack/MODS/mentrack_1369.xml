@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">vols-track_1987-04</identifier>
+  <titleInfo>
+    <title>Dogwood Relays program, April 1987</title>
+  </titleInfo>
+  <abstract>Program containing meet records, schedule, and heat and flight lists for the 21st annual Dogwood Relays. The meet was sponsored by Sea Ray.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1987-04</dateCreated>
+    <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002007683">
+    <topic>Track and field</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136442">
+    <topic>Track and field athletes</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+    <topic>College sports</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7700239"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2011044901"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Volunteers Track and Field Media Guides</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Lady Volunteers Track and Field Media Guides</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mentrack%3A1369</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mentrack%3A1369/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl171</identifier>
+  <identifier type="pid">tdh:6216</identifier>
+  <identifier type="oclc">51165161</identifier>
+  <titleInfo>
+    <title>[Letter] 1815 Feb. 19, Highwassee Garrison, [TN] [to] Colonel James Brown / Return J. Meigs</title>
+  </titleInfo>
+  <abstract>This is a letter dated February 19, 1815, from Cherokee Agent Return J. Meigs to James Brown, a son of Colonel Joseph Brown. Meigs is advising Brown that recovering his father's slaves from Cherokee chief Coteoyetohee is threatening a peace between the US and the Cherokee and is in violation of a treaty. Meigs reminds Brown that treaties are the highest law and that all are accountable to the law.</abstract>
+  <name>
+    <namePart>Meigs, Return Jonathan, 1740-1823</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1815-02-19</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123314">
+    <topic>Slavery</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Joseph Brown Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6216</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6216/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

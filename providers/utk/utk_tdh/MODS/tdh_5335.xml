@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl407</identifier>
+  <identifier type="pid">tdh:5335</identifier>
+  <titleInfo>
+    <title>[Letter] 1849 Oct. 19, Trenton, Tennessee [to] Isaac B Williams / James M Moore</title>
+  </titleInfo>
+  <abstract>This is a letter dated October 19, 1849 from James M. Moore to Isaac B. Williams. In the letter, Moore consoles Williams over his defeat in an election while verbally chastising the political system that facilitated his demise. Moore denounces the corrupt, and secretive methods of the power brokers who control elections, and favors giving power to the people through democracy.</abstract>
+  <name>
+    <namePart>Moore, James M</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1849-10-19</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85041557">
+    <topic>Elections</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fitzgerald - Williams - Greer Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5335</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5335/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

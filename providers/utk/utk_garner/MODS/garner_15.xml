@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">garner:15</identifier>
+  <identifier type="original ID">Garner 45</identifier>
+  <identifier type="document ID">bcapp00207</identifier>
+  <titleInfo>
+    <title>Miss Lelia M. Peine and Pete Hood at Moore's Spring on Bald Mountain</title>
+  </titleInfo>
+  <abstract>Shows a young woman standing on the left side with a camera held in both hands aimed at a man sitting on a large rock on the right side. The woman is wearing a blouse, a three-quarter-length skirt, a cap, and shoes with straps; her hair is in pigtails. The man is wearing a sweater, corduroy pants with suspenders, laced boots, and a hat; he has a moustache. The ground is covered with different sized rocks. There is a hillside in the background covered with grass and twigs; the lower part of tree trucks are visible.</abstract>
+  <name>
+    <namePart>Garner, William Orland, 1858-1940</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1897</dateCreated>
+    <dateCreated encoding="edtf" point="end">1899</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note>Miss Peine taught music at Maryville College from 1897 to 1899.</note>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001287">
+    <topic>Braids (Hairdressing)</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001571">
+    <topic>Cameras</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009535">
+    <topic>Shoes</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006939">
+    <topic>Mustaches</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+    <topic>Clothing &amp; dress</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008700">
+    <topic>Recreation</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008981">
+    <topic>Rocks</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004900">
+    <topic>Hats</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+    <geographic>Maryville (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Blount County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/garner%3A15</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/garner%3A15/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

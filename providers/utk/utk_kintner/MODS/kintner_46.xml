@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">kintner_46</identifier>
+  <titleInfo>
+    <title>View of Bryson City from Noland Divide</title>
+  </titleInfo>
+  <abstract>Bryson City area from Noland Divide / "On 6 Dec 1975 hiked Deep Creek &amp; Noland Divide."</abstract>
+  <name>
+    <namePart>Kintner, Elgin P.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1975-12-06</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+    <topic>Photography, Panoramic</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/7170708">
+    <geographic>Bryson City</geographic>
+    <cartographics>
+      <coordinates>35.42619, -83.44737</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4482214">
+    <geographic>Noland Divide</geographic>
+    <cartographics>
+      <coordinates>35.5673, -83.48148</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4463294">
+    <geographic>Deep Creek</geographic>
+    <cartographics>
+      <coordinates>35.41427, -82.99903</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A46</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A46/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+    </titleInfo>
+    <identifier>MS.3686</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Panoramic Images of Elgin P. Kintner</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

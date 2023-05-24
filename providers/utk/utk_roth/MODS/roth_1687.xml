@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_002328_001678</identifier>
+  <note displayLabel="Transcribed from Original Collection">694 - Sand Cave. Ewing Va. Cumberland Mts.</note>
+  <relatedItem displayLabel="Project" type="series">
+    <titleInfo>
+      <title>Series II: Margaret Ann Roth Photographs and Other Materials, 1947 March 11-2002 December 14 (bulk 1947 March 11-1955 March 20). Sub-Series B: Other Papers, 1947 September 10-2002 December 19</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. G. "Dutch" and Margaret Ann Roth Papers</title>
+    </titleInfo>
+    <identifier>MS.3334</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Albert "Dutch" Roth Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1687</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1687/datastream/TN/view</url>
+  </location>
+  <name>
+    <namePart>Roth, Albert, 1890-1974</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <titleInfo>
+    <title>Sand Cave in Cumberland Gap National Park</title>
+  </titleInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <abstract/>
+  <subject>
+    <geographic authority="" valueURI="">Sand Cave</geographic>
+  </subject>
+  <subject>
+    <geographic authority="" valueURI="">Cumberland Gap National Park</geographic>
+  </subject>
+  <subject/>
+  <subject>
+    <topic authority="" valueURI=""/>
+  </subject>
+</mods>

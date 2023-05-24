@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl487</identifier>
+  <identifier type="pid">tdh:8188</identifier>
+  <titleInfo>
+    <title>1817 Aug. 25, Cairo [Tennessee, to] Colonel H. Sherburne / J[ames] Winchester</title>
+  </titleInfo>
+  <abstract>This is a letter from General James Winchester to Colonel H. Sherburne, dated August 25, 1817. Winchester is writing about a town he laid off. He denies the accusation that he laid it before the area was surveyed. Winchester writes that he waited for the Chiefs to take part in the line running, but that they were so late he had to start without them. He mentions a treaty that was broken.</abstract>
+  <name>
+    <namePart>Winchester, James, 1752-1826</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1817-08-25</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n96115844">
+    <topic>Winchester, James, 1752-1826</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008475">
+    <topic>Chickasaw Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074312">
+    <topic>Land question</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>James Winchester Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8188</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8188/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,103 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Bill_Diana_Hale_2_8_17</identifier>
+  <identifier type="pid">rfta:121</identifier>
+  <titleInfo>
+    <title>Interview with Bill and Diana Hale, 2017-02-08</title>
+  </titleInfo>
+  <abstract>Interview with William and Diana Hale, residents of Gatlinburg. The Hales discuss the night of their evacuation and how close the fire got to their house. They also talk about the severity of the damage done to their neighborhood. This is a representative quote from the interview: "The fire had burned up so close that if you had picked the house up, you could've seen the outline in the fire."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-08</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/5839719">
+    <geographic>The Spur</geographic>
+    <cartographics>
+      <coordinates>35.744143, -83.520302</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Bill and Diana Hale, 2017-02-08</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"The fire had burned up so close that if you had picked the house up, you could've seen the outline in the fire."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:10:40" partType="Interview Questions" startTime="00:06:35">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>So you couldn't make it back to see your house?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:05:00" partType="geographic" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Spur</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses The Spur.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:05:56" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Night of the Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Night of the Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:13:56" partType="Interview Questions" startTime="00:10:40">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The insurance paid for clothes too?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:13:55" partType="Chapters" startTime="00:05:56">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Following Days and Damage Assessment</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Following Days and Damage Assessment chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:17:12" partType="Interview Questions" startTime="00:13:56">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_Q3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Was your road up above Westgate?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:21:41" partType="Chapters" startTime="00:13:55">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Filling in more Details</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Filling in more Details chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:25:22" partType="Interview Questions" startTime="00:17:12">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_Q4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Were the lights on in the tunnel?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:25:22" partType="Chapters" startTime="00:21:41">
+        <pbcore:pbcoreIdentifier source="local">Bill_Diana_Hale_2_8_17_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Final Thoughts</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Final Thoughts chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/bill-and-diana-hale-2017-02-08/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:121/datastream/TN/view</url>
+  </location>
+</mods>

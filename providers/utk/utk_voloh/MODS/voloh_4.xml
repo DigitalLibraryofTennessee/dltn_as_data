@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004308_000001</identifier>
+  <identifier type="pid">voloh:4</identifier>
+  <titleInfo>
+    <title>Ed White oral history, July 18, 2017</title>
+  </titleInfo>
+  <abstract>This oral history discusses Ed White's activism with the LGBT community in Knoxville, Tennessee in the 1980s and 1990s. White was especially active in HIV/AIDS care, worked as a biographer for Jan Lynch, and helped organize Knoxville Pride for several years. At the time of the interview Ed White was 55 years old, identified as a bisexual/other, European and resided in Knoxville, Tennessee.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-07-18</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2014000538">
+    <topic>Sexual minority community</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010011611">
+    <topic>HIV-positive persons--Care--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125661">
+    <topic>Southern States--Social conditions</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85129276">
+    <topic>Student movements</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93002510">
+    <topic>Bisexual men</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006075">
+    <geographic>Appalachian Region, Southern</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Voices Out Loud Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/voloh%3A4</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/voloh%3A4/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

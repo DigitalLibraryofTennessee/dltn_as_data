@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl479</identifier>
+  <identifier type="pid">tdh:8090</identifier>
+  <titleInfo>
+    <title>1808 Mar. Mar. 3, Georgetown [Virginia, to] Gabriel Duvall / David Henley</title>
+  </titleInfo>
+  <abstract>This is a letter from David Henley to U.S. Comptroller of the Treasury, Gabriel Duvall, dated March 3, 1808. Henley has apparently been accused of owing money from his time spent as an agent for the War Department in Tennessee (formerly the Territory Southwest of the Ohio River.) This letter is explaining in detail his time there. Henley mentions many of the people he worked with. He explains how hard he worked and how little his pay was, comparing his job and salary to other's. He defends his actions, pleads for justice, and promises to pay some of the money back.</abstract>
+  <name>
+    <namePart>Henley, David, 1749-1823</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1808-03-03</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85198931">
+    <topic>Henley, David, 1749-1823</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94004361">
+    <topic>Debt service</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Henley Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8090</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8090/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000060_000426_0000</identifier>
+  <titleInfo>
+    <title>Letter, W.A. Harrison in Harrodsburg, Ky., to J.G.M. Ramsey in Knoxville, Tenn. 1874 Nov. 12</title>
+  </titleInfo>
+  <abstract>Rev. W.A. Harrison wrote to J.G.M. Ramsey on Nov. 12, 1874. He told J.G.M. he was sorry about his injury resulting from a fall from his horse. He discussed politics, expressing happiness in the outcome of recent elections which he saw as a Southern victory. He saw Ramsey as a prophet, as well as a historian. He agreed with Ramsey that the South would rise again and save our country. He saw this as one of God's works. He bemoaned the atrocities that had happened to the South. He thought the North would come around to the South's way of thinking. He thought the South would attain Constitutional freedom through the recent elections. He realized toward the end of his letter which was meant to be a "get well expression," that it had turned into a political ranting and apologized to Ramsey. He knew Ramsey would understand because of his mutual views.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1874-11-12</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Harrison, W. A.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Religion and politics -- Southern States -- History -- 1865-1877</topic>
+  </subject>
+  <subject>
+    <topic>Elections -- Southern States -- History -- 1865-1877</topic>
+  </subject>
+  <subject>
+    <topic>Confederate States of America -- Politics and government</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Harrison, W. A. -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Correspondence</topic>
+  </subject>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ramseyfp%3A1300</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ramseyfp%3A1300/datastream/TN/view</url>
+  </location>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Ramsey Family Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ramsey Family Papers</title>
+    </titleInfo>
+    <identifier>MS.0253</identifier>
+  </relatedItem>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/" type="use and reproduction">No Copyright - United States</accessCondition>
+</mods>

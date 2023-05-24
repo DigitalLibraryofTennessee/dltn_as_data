@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl110</identifier>
+  <identifier type="pid">tdh:6477</identifier>
+  <identifier type="oclc">50499345</identifier>
+  <titleInfo>
+    <title>[Letter] 1838 August 1st, Clover Dale, [TN] [to] Ann Jane Bell, Cornplanter, Penn[sylvania] / C[aroline] D. Bell</title>
+  </titleInfo>
+  <abstract>This is a letter from Caroline Bell in Cloverdale, TN, to her sister Ann Jane Bell, in Cornplanter, PA, dated August 1, 1838. Caroline writes about the latest happenings in their Presbyterian church in Charlotte. She says that she took her first communion, and she comments on the preaching styles of the ministers. She writes that the weather has been too dry for the farms and that there are no peaches. She also writes that their mother will be expecting Jane to visit in about two weeks.</abstract>
+  <name>
+    <namePart>Bell, Caroline D.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1838-08-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112659">
+    <topic>Religious gatherings</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112609">
+    <topic>Religious awakening</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85034240">
+    <topic>Crop losses</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6477</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6477/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl360</identifier>
+  <identifier type="pid">tdh:5562</identifier>
+  <titleInfo>
+    <title>1836 Nov. 5, Nashville [Tennessee] [to] Finis Ewing, Lexington, M[issouri] / Ja[me]s Smith</title>
+  </titleInfo>
+  <abstract>This is a letter dated March 5, 1836. It is to Rev. Finis Ewing from Rev. James Smith. Smith writes that the Presbyterian camp meetings in Tennessee are going well. He mentions some conversions. Smith explains that he has not written to Ewing in a while because he has been very busy with work. Smith asks Ewing to contact Rev. Lowry for him. He has not heard from him in a while and is worried. Smith writes that Ewing's letters are highly prized by Smith and his congregation. He publishes them in the Revivalist, a periodical of the Cumberland Presbyterian Church.</abstract>
+  <name>
+    <namePart>Smith, James</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1836-03-05</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n81097533">
+    <topic>Cumberland Presbyterian Church</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112659">
+    <topic>Religious gatherings</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112668">
+    <topic>Religious life</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133884">
+    <geographic>Tennessee, Middle</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Finis Ewing Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5562</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5562/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

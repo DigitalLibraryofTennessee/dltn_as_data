@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Apportionment of Giles County School Fund, 1840</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>financial records</genre>
+  <subject>
+    <topic>Public schools.</topic>
+  </subject>
+  <subject>
+    <geographic>Giles County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Giles County.</geographic>
+  </subject>
+  <subject>
+    <topic>Currin, R.P.</topic>
+  </subject>
+  <note>Report that lists the local funding for Giles county schools from tippling tax, common school land tax, bonus from insurance companies, and Planters Bank as $14,590.46, as well as the annual appropriation by the state of $100,000. The report lists scholastic population by district and the distribution of money in this districts, with a total of $2244.58. Signed by R.P. Currin, Superintendent of Public Instruction.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0108_000051_000210_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14970</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14970/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14970</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14970/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,89 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0117_000050_000248_0001</identifier>
+  <identifier type="filename">0117_000050_000248_0001.jp2</identifier>
+  <name>
+    <namePart>Schroedl, Gerald F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Photograph of the Fort Marr Blockhouse in Benton, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This photograph is of the Fort Marr Blockhouse located at Benton in Polk County, Tennessee. Fort Marr, also known as 'The Old Fort,' was constructed around 1814 near Old Fort, Tennessee. The fort was positioned along the Old Federal Road and housed troops who were assigned to protect white travelers using the road and the Cherokees from Creek retaliation. The fort was also said to have been used to safeguard supplies and as a campsite for soldiers in transit during the Creek War of 1814-1815. The name Fort Marr was established when the fort was renovated into a stockade to use during the removal of the Cherokee people to the west. It is believed that the fort was named after George Washington Lent Marr, who served under Andrew Jackson during the War of 1812 and the campaign of 1813-1814. After being relocated several times since its construction, it was moved to its present location at Benton in 1965. In 1980, Fort Marr became the property of the Conservation Department of the state of Tennessee to be maintained and used as a historic site.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4094</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4094/datastream/TN/view</url>
+  </location>
+  <subject displayLabel="Broad Topics">
+    <topic>Frontier Settlement and Migration</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Native Americans</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Wars and Military</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81058538">Polk County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.13334N, 84.50027W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>Fort Marr (Oldfort, Tenn.)</geographic>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0117_000050_000248_0001</recordIdentifier>
+    <recordContentSource>Frank H. McClung Museum (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-04-23</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

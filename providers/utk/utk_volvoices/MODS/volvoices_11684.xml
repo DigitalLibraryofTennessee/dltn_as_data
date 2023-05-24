@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of Father Ryan Abram</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="dct">still image</genre>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>picture</genre>
+  <subject>
+    <topic>Photographs -- Tennessee.</topic>
+  </subject>
+  <subject>
+    <geographic>KNOXVILLE (TENN.) -- HISTORY -- CIVIL WAR, 1861-1865 -- Photographs</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Religion.</geographic>
+  </subject>
+  <subject>
+    <topic>Ryan, Abram Joseph, 1839-1886 .</topic>
+  </subject>
+  <subject>
+    <topic>Debate over slavery, the Secession Crisis, and the Civil War: Tennessee as a uniquely divided border state .</topic>
+  </subject>
+  <subject>
+    <topic>Religion.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <note>This is a portrait of Father Abram J. Ryan taken during 1862 while in Tennessee. Ryan was a priest at the Church of the Immaculate Conception from May 1865 until July 1867. He served as a chaplain in the Confederate Army during the Civil War.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0023_000051_000200_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11684</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11684/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11684</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A11684/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

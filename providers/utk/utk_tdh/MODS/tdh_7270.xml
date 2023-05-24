@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl017</identifier>
+  <identifier type="pid">tdh:7270</identifier>
+  <identifier type="oclc">47807896</identifier>
+  <titleInfo>
+    <title>[Letter] 1814 Feb.11, Rosses [i.e. Ross's] Lookout Mountain, [Tennessee], [to] R[eturn] J[onathon] Meigs / G[ideon] Morgan</title>
+  </titleInfo>
+  <abstract>This document is a letter written to Return J. Meigs, agent to the Cherokee, from Gideon Morgan, Colonel of Cherokee forces, on February 11, 1814. In the letter, Morgan asks Meigs for 200 blankets for the Cherokee because they are without warm clothing. Morgan says that the Cherokee will repay Meigs for the blankets. Morgan urges Meigs to send them before they leave for Fort Armstrong or else the blankets will be useless.</abstract>
+  <name>
+    <namePart>Morgan, Gideon</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1814-02-11</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7270</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7270/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

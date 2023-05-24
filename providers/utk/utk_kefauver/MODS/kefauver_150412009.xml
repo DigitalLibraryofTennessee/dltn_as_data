@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">KDP_1075</identifier>
+  <identifier type="filename">KDP_1075.jp2</identifier>
+  <name>
+    <namePart>Illinois Central Railroad Company. Department of Agriculture</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Estes Kefauver presented and Award by unidentified man with a cow</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="inferred">1925</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1967</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <note>Dates inferred from Archival Collection dates</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kefauver%3A150412009</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kefauver%3A150412009/datastream/TN/view</url>
+  </location>
+  <subject/>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Image Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/kefauvercollection</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Papers, 1925 - 1967</title>
+    </titleInfo>
+    <identifier type="local">MPA.144</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_KDP_1075</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordChangeDate encoding="edtf">2015-04-02</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

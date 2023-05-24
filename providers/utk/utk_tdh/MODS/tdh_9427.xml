@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc067</identifier>
+  <identifier type="pid">tdh:9427</identifier>
+  <identifier type="oclc">51317366</identifier>
+  <titleInfo>
+    <title>[Book] 1793, A Short Description of the Tennassee [Tennessee] Government</title>
+  </titleInfo>
+  <abstract>This document is a book titled "A Short Description of the Tennassee (Tennessee) Government" and was written in 1793. The term 'Government' can be understood to refer to the term 'state' or 'area'. The book discusses many aspects of Tennessee, including topics concerning the land and the livelihood of the inhabitants of the various areas of the state. The topics covered in the book that discuss the topography of the land include rivers, climate, plants, animals, and land and soil composition. The book also discusses how the inhabitants of Tennessee farmed their land, used the rivers to gain access to supplies, and related with the Indian tribes in the state.</abstract>
+  <name>
+    <namePart>Carey, Mathew, 1760-1839</namePart>
+    <role>
+      <roleTerm>Contributor Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1793</dateCreated>
+  </originInfo>
+  <genre authority="aat aat" valueURI="http://vocab.getty.edu/aat/300026690 http://vocab.getty.edu/aat/300028051">albums (books)books</genre>
+  <physicalDescription>
+    <form>albums (books)books</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133870">
+    <topic>Tennessee--Description and travel</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A Short Description of the Tennassee Government</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9427</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9427/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

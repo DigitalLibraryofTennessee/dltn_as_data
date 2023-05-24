@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl702</identifier>
+  <identifier type="pid">tdh:7588</identifier>
+  <titleInfo>
+    <title>[Letter] 1805 Dec. 17, Knoxville, Tennessee [to] Major Lovely, Cherokee Nation / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is a letter dated December 17, 1805 from governor John Sevier of Tennessee to Major Lovely of the Cherokee nation. The subject of the letter involves counterfeit money that is being passed by individuals named in the letter. The bills were first passed in Blount County, Tennessee, and the governor tells Major Lovely that he has reason to believe the men are on their way to the Cherokee Nation.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1805-12-17</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n83188533">
+    <topic>Tennessee. Governor, Office of the</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/no2007049443">
+    <topic>Cherokee Nation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr89016779">
+    <topic>Sevier, John, 1745-1815</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor John Sevier Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7588</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7588/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

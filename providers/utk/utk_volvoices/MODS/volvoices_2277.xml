@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0023_000051_000204_0001</identifier>
+  <identifier type="filename">0023_000051_000204_0001.jp2</identifier>
+  <titleInfo>
+    <title>Studio portrait of Harry T. Burn</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1922</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1935</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Studio portrait of Harry T. Burn. Burn cast the deciding vote in the state legislature of Tennessee to ratify the 19th Amendment in 1920 after being elected to Congress from Niota, Tennessee when he was only twenty-two years old.</abstract>
+  <genre>Portraits, Studio</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Knoxville-Knox County Public Library (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2277</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2277/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh">
+    <topic>Legislators--Tennessee</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>Women's Suffrage and Tennessee's pivotal role in passage of 19th Amendment</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Civil and Human Rights</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Women</topic>
+  </subject>
+  <subject/>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photo File</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0023_000051_000204_0001</recordIdentifier>
+    <recordContentSource>Knoxville-Knox County Public Library (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-03-06</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

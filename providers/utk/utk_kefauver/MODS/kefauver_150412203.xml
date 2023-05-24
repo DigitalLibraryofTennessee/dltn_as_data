@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">KDP_2326</identifier>
+  <identifier type="filename">KDP_2326.jp2</identifier>
+  <name>
+    <namePart>Bates, A. E. G., Mrs.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Estes Kefauver and father behind UT Law building</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1953</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <note>July or August 1953, Behind U of Tenn Law Bldg, Taken by Mrs AEG Bates, Chatham Lane, Oak Ridge, TN</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kefauver%3A150412203</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kefauver%3A150412203/datastream/TN/view</url>
+  </location>
+  <subject/>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96056N, 83.92083W</coordinates>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Image Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/kefauvercollection</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Papers, 1925 - 1967</title>
+    </titleInfo>
+    <identifier type="local">MPA.144</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_KDP_2326</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordChangeDate encoding="edtf">2015-04-02</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

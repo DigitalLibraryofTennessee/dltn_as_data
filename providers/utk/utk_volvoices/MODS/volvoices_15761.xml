@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Church Howe in Nashville, Tennessee to O.P. Temple in Knoxville, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Presidents -- United States -- Election -- 1884.</topic>
+  </subject>
+  <subject>
+    <topic>Republican Party (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Voting.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Politics And Government -- 19th Century.</geographic>
+  </subject>
+  <subject>
+    <topic>Temple, Oliver Perry, 1820-1907.</topic>
+  </subject>
+  <subject>
+    <topic>Republican Party (Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>The Development of the Industrial United States (1870-1900).</geographic>
+  </subject>
+  <subject>
+    <topic>Fundraising.</topic>
+  </subject>
+  <note>Howe asks for Temple`s help and advice in making Tennessee vote Republican. Howe specifically wants "active work and liberal support of and contributions to local committees and campaign organizations...to bring out the individual voter."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000070_000354_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15761</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15761/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15761</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15761/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

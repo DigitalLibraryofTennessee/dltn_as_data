@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc213</identifier>
+  <identifier type="pid">tdh:8931</identifier>
+  <titleInfo>
+    <title>[Invoice] 1795 Jul. 17, War Office [to] Samuel Hodgdon [Military Commissary, Philadelphia, Pennsylvania] / Timothy Pickering</title>
+  </titleInfo>
+  <abstract>This is an invoice to Samuel Hodgdon of the Commissary in Philadelphia from Timothy Pickering, dated July 17, 1795. Pickering is the Secretary of War. Pickering gives instructions for a shipment of goods from Philadelphia to Chickasaw Country.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1795-07-17</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79129088">
+    <topic>Pickering, Timothy, 1745-1829</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065278">
+    <topic>Indians of North America--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85067761">
+    <topic>Invoices</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79022911">
+    <geographic>Pennsylvania</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Timothy Pickering Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8931</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8931/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc075</identifier>
+  <identifier type="pid">tdh:9409</identifier>
+  <identifier type="oclc">51337440</identifier>
+  <titleInfo>
+    <title>[Legal license] 1841 Mar. 27 [to] Jacob Chriesman / Lemuel Bell McConnico</title>
+  </titleInfo>
+  <abstract>This document is a legal license issued to Jacob Chriesman by county court clerk Lemuel Bell McConnico on March 27, 1841. The legal license shows that Chriesman is allowed to keep a Stallion in the county and has paid the property taxes for the stallion.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1841-03-27</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85127284">
+    <topic>Stallions</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Jacob Chriesman</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9409</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9409/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,102 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">garner:21</identifier>
+  <identifier type="original ID">Garner 16</identifier>
+  <identifier type="document ID">bcapp00136</identifier>
+  <titleInfo>
+    <title>Mountain travelers near Bright Home along the Little Tennessee River</title>
+  </titleInfo>
+  <abstract>Shows a group of two men, two women, and two children with a covered wagon loaded with their possessions and drawn by two oxen. One woman, who is wearing a striped blouse with a checked skirt and a hat, is sitting in the wagon with one arm resting on the legs of an upside down chair that has a pail over one leg; she has on glasses. There is a small boy riding on one of the oxen; his hand is being held by a man dressed in a suit with a vest and an open shirt collar. Next to him is a man in a striped shirt, a vest and pants; this man has whiskers and is wearing a bowler hat. The other woman, wearing a floral blouse and a hat, is standing in front of the oxen holding a small child. Behind the group are fields of crops with knobs and a mountain in the background. In front is a split rail fence with several strings of barbed wire on the top and a gate. In front of the group, the back of a carriage with a covering is visible; a woman wearing a hat is sitting inside.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1858</dateCreated>
+    <dateCreated encoding="edtf" point="end">1903</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003862">
+    <topic>Farms</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003920">
+    <topic>Fences</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054">
+    <topic>Trees</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007355">
+    <topic>Ox teams</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000900">
+    <topic>Beards</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011658">
+    <topic>Wheels</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000795">
+    <topic>Barbed wire</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm012462">
+    <topic>Travelers</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003778">
+    <topic>Eyeglasses</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+    <topic>Women</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002668">
+    <topic>Covered wagons</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+    <topic>Men</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004471">
+    <topic>Gates</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001262">
+    <topic>Bowler hats</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001966">
+    <topic>Children</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002756">
+    <topic>Croplands</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+    <topic>Group portraits</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+    <topic>Clothing &amp; dress</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85087947">
+    <topic>Mountains--Tennessee</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001281">
+    <topic>Boys</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79022085">
+    <geographic>Maryville (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>W. O. Garner Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Blount County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/garner%3A21</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/garner%3A21/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Blount County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

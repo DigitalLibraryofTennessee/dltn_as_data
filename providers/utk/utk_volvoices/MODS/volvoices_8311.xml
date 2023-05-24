@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Booker T. Washington in Tuskegee, AL, to R. R. Church, Jr. in Memphis, TN</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <topic>African American.</topic>
+  </subject>
+  <subject>
+    <topic>Tuskegee Institute.</topic>
+  </subject>
+  <subject>
+    <topic>Civil rights.</topic>
+  </subject>
+  <subject>
+    <geographic>Memphis (Tenn.) -- Biography</geographic>
+  </subject>
+  <subject>
+    <topic>Washington, Booker T., 1856-1915.</topic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <topic>Civil and Human Rights.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <note>A letter from Booker T. Washington to R. R. Church, Jr. expressing his condolences for the death of his father, "a strong man." Mr. Washington goes on to say that he is encouraged that he will "reflect credit upon his [sic] father," and continue to advance the cause of African Americans.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0022_000050_000219_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8311</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8311/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8311</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8311/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

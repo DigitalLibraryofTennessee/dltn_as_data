@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl395</identifier>
+  <identifier type="pid">tdh:5377</identifier>
+  <titleInfo>
+    <title>1832 Nov. 12, Dover, T[ennessee] [to] E[lizabeth] Fitzgerald, Dresden, Tennessee / W[illiam] Fitzgerald</title>
+  </titleInfo>
+  <abstract>This is a letter from Congressman William Fitzgerald to his wife Elizabeth, dated November 12, 1832. William is trying to get Elizabeth to move the family to their farm. He reports that Cholera is spreading through the smaller towns. William asks her to take the children out of school if people start getting sick in her area.</abstract>
+  <name>
+    <namePart>Fitzgerald, William</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1832-11-12</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85320187">
+    <topic>Fitzgerald, William</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in the family</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85024645">
+    <topic>Cholera</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fitzgerald - Williams - Greer Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5377</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5377/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

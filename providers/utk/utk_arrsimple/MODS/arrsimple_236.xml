@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">arrsimple_236</identifier>
+  <identifier type="local">arm00000059001</identifier>
+  <titleInfo>
+    <title>Studio Assistants from the Arrowmont School of Arts and Crafts will give craft demonstrations Thursday, June 30, 7-9 pm, weather permitting, on the mall next to Gatlinburg's Arrowcraft Shop (July 1992)</title>
+  </titleInfo>
+  <abstract>Demonstratng clay sculpting to children.</abstract>
+  <name>
+    <namePart>Huff, Cynthia</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1992-07-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
+    <topic>Arts</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105729">
+    <topic>Pottery</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+    <topic>People</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99004941">
+    <topic>Children</topic>
+  </subject>
+  <subject authority="local"/>
+  <subject authority="local">
+    <temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520">
+    <geographic>Gatlinburg (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images: From Pi Beta Phi to Arrowmont</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/arrsimple%3A236</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/arrsimple%3A236/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">RFTA_Braddock_001</identifier>
+  <identifier type="pid">rftaart:1</identifier>
+  <titleInfo>
+    <title>The Home of Stacey Adam and Chris Szaton is Still Standing</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
+  </originInfo>
+  <abstract>Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone.</abstract>
+  <name>
+    <namePart>Braddock, Paige</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <subject/>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413">
+    <topic>Dwellings</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="references">
+    <location>
+      <url>https://rfta.lib.utk.edu/interviews/object/stacey-adam-and-chris-szaton-2017-04-24</url>
+    </location>
+    <identifier type="pid">rfta:163</identifier>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A1/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

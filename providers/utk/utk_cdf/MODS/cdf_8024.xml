@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000260</identifier>
+  <identifier type="pid">cdf:8024</identifier>
+  <identifier type="isbn">1881985253</identifier>
+  <titleInfo>
+    <title>All Over the Map: A Progress Report on the State Children's Health Insurance Program (CHIP)</title>
+  </titleInfo>
+  <abstract>This study looks at the impact of the State Children's Health Insurance Program (CHIP) and suggests ways for states to successfully provide healthcare coverage for children.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">2000</dateCreated>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <name>
+    <namePart>Children's Defense Fund (U.S.)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Edmunds, Margo</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Teitelbaum, Martha Ann</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Gleason, Cassy</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85066943">Health insurance--United States</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh2008100423">Children's rights--United States</topic>
+  </subject>
+  <subject/>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A8024</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A8024/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

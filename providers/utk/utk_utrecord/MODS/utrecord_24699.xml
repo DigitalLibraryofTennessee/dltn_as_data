@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">utrecord_24699</identifier>
+  <identifier type="local">ut-record_v60n04_1957-07</identifier>
+  <titleInfo>
+    <title>University of Tennessee record, volume 60, number 4</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1957-07</dateCreated>
+    <publisher>University of Tennessee</publisher>
+  </originInfo>
+  <abstract>This publication contains a history of the University of Tennessee during the administration of President Brown Ayres from 1904-1919. It includes history before 1904, reorganization, state support, growth of the medical and dental schools, and the summer school of the south.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+    <topic>State universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028315">
+    <topic>College Presidents</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+    <topic>Universities and colleges--Alumni and alumnae</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/names/no2019053687">
+    <topic>Ayres, Brown, 1856-1919</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003887"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5286.R3</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Record</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A24699</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A24699/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

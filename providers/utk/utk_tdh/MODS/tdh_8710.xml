@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um017</identifier>
+  <identifier type="pid">tdh:8710</identifier>
+  <identifier type="oclc">50199974</identifier>
+  <titleInfo>
+    <title>[Letter] 1850 Oct. 5 [to] Mr. Alex[ander] D. Coffee, Florence, Ala[bama] / Andrew J[ackson] Coffee</title>
+  </titleInfo>
+  <abstract>This document is a letter written from Andrew Jackson Coffee to his brother Alexander D. Coffee, dated October 5, 1850. In the letter, Andrew discusses an amount of money owed him by Robert and William Warren and about some "Bounty Land" coming to the family for his father's service in the Creek War of 1812 and with Britain in 1814 and 1815.</abstract>
+  <name>
+    <namePart>Coffee, Andrew Jackson</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1850-10-05</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033896">
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140436">
+    <topic>United States--Politics and government--1849-1853</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh00006381">
+    <topic>Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Andrew Jackson Coffee Family Papers 1833-1903 MS 27</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8710</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8710/datastream/TN/view</url>
+  </location>
+</mods>

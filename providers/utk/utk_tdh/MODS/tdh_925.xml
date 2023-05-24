@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mm035</identifier>
+  <identifier type="pid">tdh:925</identifier>
+  <identifier type="oclc">45090166</identifier>
+  <titleInfo>
+    <title>[Aerial photograph showing the former site of Chota and Tanasee, 18th century Cherokee villages] / [by Wayne D. Roberts]</title>
+  </titleInfo>
+  <abstract>This aerial photograph shows the former site of Chota and Tanasee, 18th century Overhill Cherokee villages in the Little Tennessee River Valley. Chota was recognized by Native Americans and European settlers as a powerful social and economic influence and was regarded as the capital of the Cherokee nation. The University of Tennessee conducted excavations of Overhill Cherokee villages between 1967 and 1983 as part of the Tellico Archaeological Project in anticipation of the flooding of the lower Little Tennessee River Valley by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA).</abstract>
+  <name>
+    <namePart>Roberts, Wayne D.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1967</dateCreated>
+    <dateCreated encoding="edtf" point="end">1983</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99001232">
+    <topic>Aerial photographs</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Antiquities</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85116926">
+    <topic>Salvage archaeology</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85061115">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh88003961">
+    <geographic>Chota Site (Tenn.)</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh88003962">
+    <geographic>Tanasee Site (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A925</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A925/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

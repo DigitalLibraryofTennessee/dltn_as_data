@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000580_000222_0001</identifier>
+  <identifier type="pid">adams_94</identifier>
+  <titleInfo>
+    <title>Signs beside LeConte Creek Trail erected by Paul J. Adams, summer of 1925</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1925</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Upper sign reads: "Permission of Custodian Must Be Secured Before Building a Fire on This Mountain Great Smoky Mountain Conservation Asso." Lower sign reads: "Save the Wild Flowers Plants &amp; Trees for the Other Fellow to Enjoy Knoxville Automobile Club".</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <note>"padams35" written in pencil on back of photo.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Series I, Box 1, Folder 4, Photo 9</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/adams%3A94</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/adams%3A94/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114487">
+    <topic>Roads</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136805">
+    <topic>Trails</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85102839">
+    <topic>Plants</topic>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86006260">LeConte, Mount (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.65426, -83.43683</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.58343, -83.50822</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <temporal>1925</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Paul J. Adams Photograph Collection</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/adamscollection</url>
+    </location>
+    <abstract>In the 1920s, Paul Jay Adams led several expeditions to the summit of Mount Le Conte, which is widely regarded as the "crown jewel" of the Great Smoky Mountains. From 1925 to 1926, Adams operated a camp on Mount Le Conte, near the site of the present day Le Conte Lodge. During those years, Adams was accompanied by a German shepherd named "Cumberland Jack." Adams and Cumberland Jack remained at the camp until May 10, 1926, when Jack Huff took over its management. The Ilene Jones Cornwell Papers, MS.2054, in the University of Tennessee Libraries Special Collections contain a number of photographs from Adams's expeditions during those years. These rare photos provide a unique glimpse into one of the earliest camps built on Mount Le Conte.</abstract>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ilene Jones Cornwell Papers</title>
+    </titleInfo>
+    <identifier type="local">MS.2054</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_000580_000222_0001</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2016.</note>
+</mods>

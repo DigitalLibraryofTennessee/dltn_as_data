@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003786_000373</identifier>
+  <titleInfo>
+    <title>River Chalet Highway 441 Pigeon Forge, Tennessee 37863</title>
+  </titleInfo>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A105541</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A105541/datastream/TN/view</url>
+  </location>
+  <abstract>Unused postcard.</abstract>
+  <abstract>Large modern rooms &amp; apartments. Air conditioned - television - playground - swimming pool - on the river fishing - 10 min. to Gatlinburg. Mr. &amp; Mrs. Henry Trupiano Mr. &amp; Mrs. Wm. R. Lynch, Owners Phone: 453-5686</abstract>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Postcards from the Great Smoky Mountains</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ridley Wills Postcard Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3781</identifier>
+  </relatedItem>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name>
+    <namePart>W. M. Cline Company</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n82273667">Pigeon Forge (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136255">Tourism</topic>
+  </subject>
+  <subject>
+    <geographic authority="dots">Pigeon Forge</geographic>
+  </subject>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1999</dateCreated>
+    <publisher>W. M. Cline Company</publisher>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

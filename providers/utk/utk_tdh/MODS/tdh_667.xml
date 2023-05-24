@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch034</identifier>
+  <identifier type="pid">tdh:667</identifier>
+  <identifier type="oclc">44805296</identifier>
+  <titleInfo>
+    <title>[Letter], 1837 Feb. 18, Cherokee Agency [to John Ross ?] / [Lewis Ross ?]</title>
+  </titleInfo>
+  <abstract>Letter dated February 18, 1837 from (Lewis Ross ?) to his brother (John Ross, Principal Chief of the Cherokee Nation ?) relating recent events in the Cherokee Nation. He informs his brother of an election that took place in New Echota concerning the distribution of annuity payments from the United States to the Cherokees. A large group of people crossed on ferry to take part in the election and chose George Lowrey, Cherokee leader, to receive the funds. (Lewis Ross ?) suspects that the true amount due the Nation is more than was reported and asks his brother to check on this. During the time of the election General John E. Wool gave a speech translated by Jesse Bushyhead, a Cherokee interpreter, explaining the terms of the recent treaty (Treaty of New Echota, 1835), advising the people to prepare to remove, and offering to supply certain provisions. (Ross ?) also reports that men who were accused of attacking an officer were whipped, and Bridge Maker and Tom Foreman were arrested for speaking out against the treaty. He says that emigrants have been passing through and there is much sickness.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-02-18</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023084">
+    <topic>Cherokee Indians--Legal status, laws, etc</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Social conditions</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Politics and government</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A667</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A667/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

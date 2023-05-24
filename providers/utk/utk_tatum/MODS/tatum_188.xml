@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003086_000207</identifier>
+  <titleInfo>
+    <title>Robert G. Tatum Photo Album, 1913 March 15 - 1917</title>
+  </titleInfo>
+  <abstract>Photograph album containing pictures of Alaska, Pennyslvania, travel, and Tatum's religious life.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1917-03-15</dateCreated>
+    <dateCreated encoding="edtf" point="end">1917-07-08</dateCreated>
+  </originInfo>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79058456"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n83191336">
+    <geographic>Nenana (Alaska)</geographic>
+  </subject>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tatum%3A188</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tatum%3A188/datastream/TN/view</url>
+  </location>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <name>
+    <namePart>Tatum, Robert G. (Robert George), 1891-1964</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Robert G. Tatum Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Robert G. Tatum Papers</title>
+    </titleInfo>
+    <identifier>MS.0774</identifier>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

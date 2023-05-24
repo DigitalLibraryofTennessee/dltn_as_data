@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004268_000059</identifier>
+  <identifier type="issn">2687-7325</identifier>
+  <identifier type="circular">87</identifier>
+  <identifier type="pid">agrutesc:2054</identifier>
+  <titleInfo>
+    <title>Facts about the electric fence</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>University of Tennessee Extension Special Circular 87</title>
+  </titleInfo>
+  <abstract>Special circular on the adoption of electric fences on farms and their proper use. It promotes the use of fence controllers to help animals and humans avoid injury or death from improperly manipulated electricity.</abstract>
+  <name>
+    <namePart>Kable, George W.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1938-07</dateCreated>
+    <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85042075">
+    <topic>Electricity in agriculture</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002450">
+    <topic>Agriculture--Safety measures</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008120266">
+    <topic>Farm management--United States</topic>
+  </subject>
+  <classification authority="lcc">S115. S3743</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Extension Special Circulars</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A2054</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A2054/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
+</mods>

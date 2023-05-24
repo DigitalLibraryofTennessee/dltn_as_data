@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000264</identifier>
+  <identifier type="pid">cdf:7416</identifier>
+  <titleInfo>
+    <title>EPSDT: Does It Spell Health Care for Poor Children?</title>
+  </titleInfo>
+  <abstract>This book is devoted to how agencies can provide primary health care services to all children and their families. It describes the elements of good health care programs and evaluates EPSDT to determine if this preventive and primary health care program measures up to CDF's standards.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1977</dateCreated>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <name>
+    <namePart>Children's Defense Fund (U.S.)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Lazarus, Wendy</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023425">Children--Health and hygiene</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+  </subject>
+  <subject/>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A7416</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A7416/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

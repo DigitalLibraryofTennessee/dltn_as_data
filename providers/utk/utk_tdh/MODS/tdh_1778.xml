@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">pav</identifier>
+  <identifier type="pid">tdh:1778</identifier>
+  <identifier type="oclc">45115992</identifier>
+  <titleInfo>
+    <title>Valuations under the treaty of 1828</title>
+  </titleInfo>
+  <abstract>This leather-bound book of Cherokee improvement valuations entitled Valuations under the Treaty of 1828 Emigrations 1833 and 1834 is 412 pages in length. It contains approximately 587 property valuations for 248 individuals who are listed in an alphabetical index at the end of the book. The evaluations were conducted from the fall of 1833 until the spring of 1834 in accordance with the Treaty of Washington, 1828, concluded between the United States and members of the Cherokee Nation. Under this treaty, the Cherokees were promised seven million acres of land in the Arkansas Territory and the U.S. government was to appoint suitable agents to evaluate all improvements that the Cherokees would relinquish. On September 1, 1831 Benjamin F. Currey was appointed superintendent of removal for the Cherokees, and he appointed agents to appraise the property of those Cherokees enrolled for removal. Most of the approximately 587 valuations consist of an enumeration and brief description of the property, an estimate of its worth, and a total owed to the former occupant of the estate.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1833</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001525">
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/no2007049443">
+    <topic>Cherokee Nation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140429">
+    <topic>United States--Politics and government--1825-1829</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1778</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1778/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

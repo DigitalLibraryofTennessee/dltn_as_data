@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch088</identifier>
+  <identifier type="pid">tdh:405</identifier>
+  <identifier type="oclc">44870465</identifier>
+  <titleInfo>
+    <title>Letter from the Secretary of War transmitting a list of persons entitled to reservations under the treaty with the Cherokees of the 27th February, 1819, [et c.], 1828, Washington</title>
+  </titleInfo>
+  <abstract>Congressional publication containing a letter dated January 23, 1828 from James Barbour, Secretary of War, to the Speaker of the House concerning Cherokee reservations provided for in the Treaty of Washington, 1819. Barbour transmits the communication from Thomas L. McKenney, a clerk in the Office of Indian Affairs, along with a list of reservees, indicating whether they are entitled to fee simple or life only reservations. One hundred and seven are life only reservations and 39 are fee simple. The 23 reservations that exist within the bounds of Georgia have been purchased for that state through a provision of Congress.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1828</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79023113">
+    <geographic>Georgia</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A405</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A405/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

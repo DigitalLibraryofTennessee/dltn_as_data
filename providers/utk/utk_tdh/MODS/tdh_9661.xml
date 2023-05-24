@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc004</identifier>
+  <identifier type="pid">tdh:9661</identifier>
+  <identifier type="oclc">49960927</identifier>
+  <titleInfo>
+    <title>[Lottery proposal] 1810 Jan. 03, Knoxville / East Tennessee College</title>
+  </titleInfo>
+  <abstract>This document is a lottery proposal written on January 3, 1810 to benefit East Tennessee College. The proposal specifies how much and in what manner the money will be given out to the winners and what percentage would be retained by the college. The funds gained through the lottery for the College will benefit the Seminary of Education. The document concludes by giving incentives to the public as to why they should participate in the lottery, such as the fact that it will benefit and education the students of the present, as well as the future.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1810-01-03</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9661</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9661/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

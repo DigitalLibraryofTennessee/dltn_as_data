@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">rftaart:88</identifier>
+  <titleInfo>
+    <title>No Children at Recess</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">2021</dateCreated>
+    <dateCreated encoding="edtf" point="end">2022</dateCreated>
+  </originInfo>
+  <abstract>Reporter Leslie Ackerson was by herself to do an 11:00 a.m. report from a neighborhood near the fires. She talked about how bad the air quality was and how the little kids had to stay inside during recess. At first, it was a small fire and people didn’t know the fire could be a problem. It was still far away. The wind, dust, and leaves created hazy darkness by late afternoon.</abstract>
+  <name>
+    <namePart>Braddock, Paige</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010471">
+    <topic>Swings</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>moving image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="references">
+    <location>
+      <url>https://rfta.lib.utk.edu/interviews/object/leslie-ackerson-2020-01-09</url>
+    </location>
+    <identifier type="pid">rfta:43</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="art" type="constituent">
+    <identifier type="pid">rftaart:5</identifier>
+    <identifier type="local">RFTA_Braddock_005</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="compilation video" type="constituent">
+    <identifier type="pid">rftaart:65</identifier>
+    <identifier type="local">LeslieAckerson_Braddock_005</identifier>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A88</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A88/datastream/TN/view</url>
+  </location>
+</mods>

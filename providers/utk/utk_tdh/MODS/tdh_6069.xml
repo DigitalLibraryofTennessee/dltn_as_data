@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl205</identifier>
+  <identifier type="pid">tdh:6069</identifier>
+  <identifier type="oclc">51206178</identifier>
+  <titleInfo>
+    <title>[Letter] 1844 Nov. 28 [to] Mrs. [Sally Bedinger] Hamilton / Jno [i.e., John] P Freeman</title>
+  </titleInfo>
+  <abstract>This is a letter from John P. Freeman to Sally Bedinger Hamilton dated November 28, 1844. Freeman writes how upset everyone is because Henry Clay lost his campaign for the presidency to Polk, but he is at least relieved that Logan County, KY voted for Clay. He also inquires about a possible land purchase from Hamilton.</abstract>
+  <name>
+    <namePart>Freeman, John P.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-11-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n50041909">
+    <topic>Clay, Henry, 1777-1852</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85071973">
+    <topic>Kentucky--Politics and government</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Orr Collection IV-J-2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6069</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6069/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

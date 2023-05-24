@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000064</identifier>
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>[portrait photograph of Virginia P. Moore wearing the dress, and lace worn by Queen Victoria at one time]</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A102</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A102/datastream/TN/view</url>
+  </location>
+  <abstract>Title from the back caption (handwritten in blue ink), "Virginia P. Moore wearing the dress, and lace worn by Queen Victoria at one time." A portrait of the elder Virginia P. Moore.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject/>
+  <subject/>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Portrait photographs</topic>
+  </subject>
+  <subject>
+    <topic>Lace</topic>
+  </subject>
+  <subject>
+    <topic>Clothing &amp; dress</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Lace and lace making</topic>
+  </subject>
+  <subject>
+    <topic>Home demonstration work -- History</topic>
+  </subject>
+  <subject>
+    <topic>Home economics extension workers</topic>
+  </subject>
+</mods>

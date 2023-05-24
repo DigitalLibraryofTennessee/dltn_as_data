@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Plan of Bristol</title>
+  </titleInfo>
+  <genre>cartographic</genre>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>land surveys</genre>
+  <subject>
+    <topic>City planning.</topic>
+  </subject>
+  <subject>
+    <geographic>Bristol (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Blountville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Frontier Settlement and Migration.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Sullivan County.</geographic>
+  </subject>
+  <subject>
+    <topic>Anderson, Henry; Anderson, J.R.</topic>
+  </subject>
+  <note>This map shows the survey made by Henry Anderson, C.S., in August of 1852 for J.R. Anderson of Blountville, Tennessee. The map includes information about the town of Bristol, TN and states that 1/4 and 1/2 acre lots are now for sale there.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0085_000050_000210_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15071</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15071/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15071</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15071/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

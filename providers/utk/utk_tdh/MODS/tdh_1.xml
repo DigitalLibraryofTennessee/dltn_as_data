@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mc062</identifier>
+  <identifier type="pid">tdh:1</identifier>
+  <titleInfo>
+    <title>[Letter] 1839 Dec. 28, Knoxville, Tennessee [to] Charles F. Welcker, Laurel Banks, Roane County / James M. Welcker</title>
+  </titleInfo>
+  <abstract>This document is a letter dated December 28, 1839 from James Monroe Welcker in Knoxville, Tennessee to his brother Charles Frederick Welcker in Roane County, Tennessee. James writes briefly about Christmas in Knoxville and his disappointment at not seeing their brother Lewis. He also talks quite extensively about livestock.</abstract>
+  <name>
+    <namePart>Welcker, James Monroe</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1839-12-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+    <topic>Livestock</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133881">
+    <geographic>Tennessee, East</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Welcker Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Knox County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

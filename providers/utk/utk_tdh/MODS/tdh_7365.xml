@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl754</identifier>
+  <identifier type="pid">tdh:7365</identifier>
+  <titleInfo>
+    <title>[Letter] 1800 Jul. 7, Knoxville, Tennessee [to] David Henl[e]y / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is a brief letter dated July 7, 1800 from governor John Sevier of Tennessee to David Henley, agent for the department of war. The purpose of the letter is a death allegedly caused by Indians in march of 1799. The governor requests any information Henley may have on the matter.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1800-07-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr89016778">
+    <topic>Tennessee. Governor (1796-1801 : Sevier)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr89016779">
+    <topic>Sevier, John, 1745-1815</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor John Sevier Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7365</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7365/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

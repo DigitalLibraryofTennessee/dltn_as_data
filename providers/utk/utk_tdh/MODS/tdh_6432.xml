@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl119</identifier>
+  <identifier type="pid">tdh:6432</identifier>
+  <identifier type="oclc">50504897</identifier>
+  <titleInfo>
+    <title>[Letter] 1840 March 9, Clover Dale, [TN] [to] Ann Jane Bell, Cornplanter, PA / M[argaret] V. Bell :</title>
+  </titleInfo>
+  <abstract>This is a letter from Margaret Bell to her sister Jane Bell dated March 9, 1840. Margaret writes about her grief over the death of their father, followed unexpectedly by the death of their mother. She includes notices of other people who have either died or are sick. She also mentions how favorable the weather has been for the crops and peaches. Their brother is giving a speech on temperance that Margaret wishes Jane could attend. She writes that it will be almost impossible for her to visit Jane , and that it is her wish for Jane and their brother Sam to come to Clover Dale for a visit.</abstract>
+  <name>
+    <namePart>Bell, Margaret</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1840-03-09</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85013296">
+    <topic>Bereavement</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133710">
+    <topic>Temperance and religion</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6432</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6432/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

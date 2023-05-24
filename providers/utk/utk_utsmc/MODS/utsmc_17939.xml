@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003259_000253</identifier>
+  <titleInfo>
+    <title>Oh poor Jimmy Polk: song and trio</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>The Lays of Ashland: Being eight patriotic Whig songs and trios</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1844</dateCreated>
+    <publisher>James L. Hewitt</publisher>
+  </originInfo>
+  <note type="first line">What has cas'd this great commotion</note>
+  <name>
+    <namePart>Eminent Professor</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041555">Political campaigns</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104482">Polkas</topic>
+  </subject>
+  <subject/>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>notated music</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <shelfLocator>M1659 .P605</shelfLocator>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17939</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17939/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

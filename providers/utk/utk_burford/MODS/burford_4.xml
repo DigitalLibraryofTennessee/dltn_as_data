@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000115_000283_0000</identifier>
+  <titleInfo>
+    <title>Letter, Winchester Neale to Joseph Allen, 1855 April 21</title>
+  </titleInfo>
+  <abstract>Letter informing Joseph Allen of his brother's death.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1855-04-21</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Winchester Neale</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Tennessee. Militia</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- War of 1812</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/burford%3A4</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/burford%3A4/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Burford Papers</title>
+    </titleInfo>
+    <identifier>MS.1027</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>David Burford Letters</title>
+    </titleInfo>
+  </relatedItem>
+</mods>

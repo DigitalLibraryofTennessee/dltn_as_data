@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003589_000310_0001</identifier>
+  <identifier type="local">0012_003589_000310_0002</identifier>
+  <identifier type="filename">gsmrc-post_48_01.jp2</identifier>
+  <identifier type="filename">gsmrc-post_48_02.jp2</identifier>
+  <name>
+    <namePart>Asheville Post Card Company (Asheville, N.C.)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Duck Hawk on the Side of Mount LeConte. Great Smoky Mountains National Park</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="inferred">1910</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end" qualifier="inferred">1955</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <abstract>.</abstract>
+  <abstract>Near the Alum Cave Bluff, on the south side of majestic Mt. LeConte, is the thin, leaning ridge with jagged points known as Duck Hawk Peaks. Under the over-hanging left side of the spectacular point a pair of duck hawks - a favorite falcon - has nested for many years. It takes a venturesome hiker or bird lover to scale the steep face of these peaks. Through these narrow ridges are holes or "windows."</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100248</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100248/datastream/TN/view</url>
+  </location>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.58343N, 83.50822W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>Peregrine Peak</geographic>
+    <cartographics>
+      <coordinates>35.64009N, 83.44488W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="dots">Peregrine Peak</geographic>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86006260">LeConte, Mount (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.65426N, 83.43683W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="dots">Mount Le Conte</geographic>
+  </subject>
+  <subject>
+    <geographic>Duck Hawk Peak</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Great Smoky Mountains Postcards</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/smokiespostcards</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Great Smoky Mountains Postcard Collection, 1910-1955</title>
+    </titleInfo>
+    <identifier type="local">MS.3745</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

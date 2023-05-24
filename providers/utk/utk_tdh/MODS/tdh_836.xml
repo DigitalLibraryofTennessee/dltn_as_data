@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mp001</identifier>
+  <identifier type="pid">tdh:836</identifier>
+  <identifier type="oclc">50333538</identifier>
+  <titleInfo>
+    <title>[Letter] 1792 Nov. 14, Natchez [to] [Governor] Manuel Gayoso de Lemos / Daniel Clark</title>
+  </titleInfo>
+  <abstract>The following document is a letter, dated November 14, 1792, from the representatives of Daniel Clark and Ebenezer Rees to Manuel Gayoso de Lemos, the Spanish governor of the district of Natchez and later governor of Louisiana. The two American traders wrote to inform Lemos of a debt that is owed to them by Thomas Wilkins.</abstract>
+  <name>
+    <namePart>Clark, Daniel, Jr., 1766-1813</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1792-11-14</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94004361">
+    <topic>Debt service</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n88093506">
+    <topic>Gayoso de Lemos, Manuel</topic>
+  </subject>
+  <subject>
+    <topic>Wilkins, Thomas</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Goodman Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Memphis Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A836</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A836/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Memphis Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

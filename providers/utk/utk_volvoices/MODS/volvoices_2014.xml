@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0015_000060_000213_0001</identifier>
+  <identifier type="filename">0015_000060_000213_0001.jp2</identifier>
+  <name>
+    <namePart>Medley, Warren</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>C.C.C. workers at Camp Cole Foster, Dyer, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1934</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Civilian Conservation Corps workers at Camp Cole Foster, Dyer, Tennessee</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2014</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2014/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Civilian Conservation Corps (U.S.)--Officials and employees--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Civilian Conservation Corps (U.S.)--Officials and employees--1930-1940</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>Tennessee Valley Authority and "grass roots democracy"</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Nature and the Environment</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Government and Politics</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126855">Dyer County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.05000N, 89.40000W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82063491">Gibson County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.00028N, 88.93333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0015_000060_000213_0001</recordIdentifier>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordChangeDate encoding="edtf">2015-03-28</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

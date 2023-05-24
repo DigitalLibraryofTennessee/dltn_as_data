@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_002328_001303</identifier>
+  <note displayLabel="Transcribed from Original Collection">650 - Reg. Trip. Mt. Sterling</note>
+  <relatedItem displayLabel="Project" type="series"/>
+  <relatedItem displayLabel="Collection" type="host">
+    <identifier>MS.3334</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host"/>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1312</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1312/datastream/TN/view</url>
+  </location>
+  <name>
+    <namePart>Roth, Albert, 1890-1974</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Hikers on the trail to Mount Sterling</title>
+  </titleInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <subject>
+    <geographic authority="geonames" valueURI="http://sws.geonames.org/4493414/about.rdf">Mount Sterling</geographic>
+  </subject>
+  <subject>
+    <geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
+  </subject>
+  <subject>
+    <topic authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005004">Hiking</topic>
+  </subject>
+  <mods:note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</mods:note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>

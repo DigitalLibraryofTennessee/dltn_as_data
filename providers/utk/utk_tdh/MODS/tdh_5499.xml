@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl373</identifier>
+  <identifier type="pid">tdh:5499</identifier>
+  <titleInfo>
+    <title>1845 Jun. 23, Hendersonville [Tennessee] [to] A[ndrew] J[ackson] Donelson, N[ew] Orleans, L[ouisian]a / Dan[ie]l S. Donelson</title>
+  </titleInfo>
+  <abstract>This is a letter dated June 23, 1845. It is to Andrew Jackson Donelson in the care of Major Thomas B. Eastland, from his brother Daniel S. Donelson. Andrew is returning from Texas where he has been conducting annexation negotiations. Daniel is considering a trip to Washington D.C. in relation to some land that he wants near the Rio Grande. He hopes to meet William Marcy, President Polk's Secretary of War. Daniel writes to Andrew that he wishes that Andrew could have made it to General Andrew Jackson's deathbed. Daniel expresses regret that General Houston did not make it either, until right after Jackson had died.</abstract>
+  <name>
+    <namePart>Donelson, Daniel S.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1845-06-23</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79088888">
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n82151189">
+    <topic>Houston, Sam, 1793-1863</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bettie Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5499</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5499/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

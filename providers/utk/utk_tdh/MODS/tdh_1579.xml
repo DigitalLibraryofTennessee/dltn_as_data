@@ -1,0 +1,46 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">pa0056</identifier>
+  <identifier type="pid">tdh:1579</identifier>
+  <titleInfo>
+    <title>[Claim under the Treaties of 1817 &amp; 1819] 1837 August 14, Cherokee County Georgia</title>
+  </titleInfo>
+  <abstract>This document is a claim, dated August 14, 1837 made by Eleanor Ragsdale, a Cherokee woman who possessed property in the state of Georgia. Ragsdale is requesting a valuation of her property and to be compensated under the Treaties of 1817 and 1819.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-08-14</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh00006381">
+    <topic>Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Penelope Johnson Allen Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1579</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1579/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

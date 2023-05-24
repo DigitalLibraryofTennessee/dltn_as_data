@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000248</identifier>
+  <identifier type="pid">cdf:5442</identifier>
+  <titleInfo>
+    <title>Making the Middle Grades Work</title>
+  </titleInfo>
+  <abstract>This report examines the needs of young adolescents and evaluates the quality of schools' responses, focusing on specific schools that have implemented effective programs. Findings of the Children's Defense Fund's survey of state policies at the middle-grades level also are included. Finally, this report recommends measures that the federal government and the states can take to help schools meet their critical mission.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1988</dateCreated>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <name>
+    <namePart>Children's Defense Fund (U.S.)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>August, Diane</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85041059">Education, Elementary</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85041082">Education, Secondary</topic>
+  </subject>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A5442</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A5442/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

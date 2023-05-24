@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter of surrender by John Park in Memphis, TN, to C.H. Davis in Memphis, TN</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <topic>United States History Civil War, 1861-1865 Surrenders.</topic>
+  </subject>
+  <subject>
+    <topic>Letters.</topic>
+  </subject>
+  <subject>
+    <topic>United States History Civil War, 1861-1865 Naval operations.</topic>
+  </subject>
+  <subject>
+    <geographic>Memphis (Tenn.) -- History -- Civil War, 1861-1865</geographic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Shelby County.</geographic>
+  </subject>
+  <subject>
+    <topic>Memphis surrender to the Union.</topic>
+  </subject>
+  <note>A response letter to the demand of the Union army in which the Mayor of Memphis, Tennessee, replies to a Union request to surrender the town. The Mayor, John Park, writes, "...as the Civil Authorities have no means of defense, by the force of circumstances the city is in your power." Park sent the letter to C.H. Davis, the Flag Officer Commander of the Union fleet which defeated Memphis in a naval battle. The Union army took control of Memphis following the battle and surrender.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0014_000053_000209_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13791</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13791/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13791</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13791/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

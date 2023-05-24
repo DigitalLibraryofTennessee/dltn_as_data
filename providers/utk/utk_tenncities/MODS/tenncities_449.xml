@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000549</identifier>
+  <identifier type="pid">tenncities:449</identifier>
+  <identifier type="photograph number">0350</identifier>
+  <identifier type="spc">record_spc_4205</identifier>
+  <titleInfo>
+    <title>Island Park in Bluff City</title>
+  </titleInfo>
+  <abstract>Bluff City, located on the Holston River between Bristol and Johnson City, was originally known as Choate's (also spelled Shoate's) Ford, named for Edward Choate, one of its first white settlers. It was often used as a river crossing as it lay on several popular overland routes. The town's name was changed to Middletown in 1793 and again to Union Depot (later shortened to Union) in 1859 when the East Tennessee and Virginia Railroad came through. The town was known as Zollicoffer (for the Confederate general of that name) during the Civil War, but reverted to Union at the war's end. It was finally named Bluff City in 1887 when incorporated.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1900</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1920</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh98001733">
+    <topic>Urban parks</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85015159">
+    <topic>Boats and boating</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85090290">
+    <topic>Nature photography</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n96044844">
+    <geographic>Bluff City (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.47427, -82.26097</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A449</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A449/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

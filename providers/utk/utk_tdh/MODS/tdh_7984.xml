@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl584</identifier>
+  <identifier type="pid">tdh:7984</identifier>
+  <titleInfo>
+    <title>[Letter] 1817 Aug. 7, Chickasaw Agency [to] James Winchester, Cairo, Tennessee / G.L. (?) Sherburne</title>
+  </titleInfo>
+  <abstract>This is a letter from G.L. Sherburne, agent for the Chickasaw Nation of Indians, dated August 7, 1817. The purpose of the letter concerns the surveying and laying off a town at the Chickasaw Bluffs.</abstract>
+  <name>
+    <namePart>Sherburne, Henry</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1817-08-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr2006010794">
+    <topic>Chickasaw Nation</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>James Winchester Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7984</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7984/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

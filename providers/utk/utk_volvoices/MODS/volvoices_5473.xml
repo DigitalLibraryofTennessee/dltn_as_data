@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Journal of John C. Robertson, Volume Two</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>diaries</genre>
+  <subject>
+    <topic>Race relations -- Tennessee.</topic>
+  </subject>
+  <subject>
+    <topic>Antislavery movements -- Tennessee -- History -- 19th century.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- History -- Civil War, 1861-1865 -- Personal narrative.</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Description And Travel -- 19th Century.</geographic>
+  </subject>
+  <subject>
+    <topic>Robertson, John Collier, B. 1846.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Transportation and Internal Improvements.</topic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Bradley County.</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Monroe County.</geographic>
+  </subject>
+  <subject>
+    <topic>Abolitionism.</topic>
+  </subject>
+  <subject>
+    <geographic>McMinn County (Tenn.)</geographic>
+  </subject>
+  <note>This is the second journal of three that Robertson wrote beginning in 1866. This journal covers the time period of September 1865 until June 1866. He describes travel on trains through Sweetwater, Athens, and Chattanooga. He also discusses his thoughts on abolitionism and describes fights at the train station in Chattanooga, giving insight into race relations at the time. Robertson devised a personal subject index located at the end of each journal.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0023_000057_000201_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A5473</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A5473/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A5473</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A5473/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

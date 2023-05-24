@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0117_000050_000257_0001</identifier>
+  <identifier type="filename">0117_000050_000257_0001.jp2</identifier>
+  <name>
+    <namePart>Schroedl, Gerald F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Photograph of a pit feature excavation at Fort Southwest Point in Kingston, Tennessee, taken circa 1980s</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1980</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This photograph is of a pit feature being excavated at Fort Southwest Point, located near the city of Kingston, in Roane County, Tennessee. Fort Southwest Point was established in 1792 as a blockhouse post for the territorial militia troops that were protecting white settlers from Indian acts of hostility. By 1797, the militia was replaced by Federal troops whose goals were to maintain peace with the Indians and protect their rights on the frontier. During the years between 1801-1807, the fort was established as the headquarters for the Cherokee Agency. In 1974, archaeological crews from the University of Tennessee unearthed portions of six fort building foundations, the remains of a massive stone wall, and many fort-period artifacts. A 1984 excavation of the site by the Department of Conservation and the City of Kingston located the sites of a total of thirteen buildings. These buildings include an officer's barracks, four blockhouses, and several buildings that are believed to have been barracks. A complementary excavation in 1986 revealed the location of two more buildings, bringing the total to fifteen buildings. The excavation also produced a more detailed examination of the palisade and stone wall enclosures, and uncovered several historic and prehistoric features. Additional excavations were conducted at Fort Southwest Point in the 1990s yielded new information as to the fort's original layout and functions, as well as the life ways of the people who occupied it.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4103</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4103/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009125236">
+    <topic>Excavations (Archaeology)--United States</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Native Americans</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Frontier Settlement and Migration</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Wars and Military</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n84112171">Kingston (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.88083N, 84.50861W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82226528">Roane County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.85000N, 84.53333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n85176153">Fort Southwest Point (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 3 -Revolution and the New Nation (1754-1820)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0117_000050_000257_0001</recordIdentifier>
+    <recordContentSource>Frank H. McClung Museum (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-04-23</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

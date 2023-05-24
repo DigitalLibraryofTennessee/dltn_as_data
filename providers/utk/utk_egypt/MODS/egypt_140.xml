@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000140</identifier>
+  <identifier type="legacy">egypt724</identifier>
+  <identifier type="acquisition">1995.3.2</identifier>
+  <titleInfo>
+    <title>Abydos: temple de Seti I. 2me Salle: Bas Relief</title>
+  </titleInfo>
+  <abstract>Wall relief, Seti I before Gods Horus and Osiris, Temple of Seti I at Abydos (New Kingdom Dynasty XIX); mummified Seti I wears white crown and false beard, holds crook, flail, and was scepter in both hands as Horus and Osiris prepare the deceased for the Afterlife; a depiction of Horus as a falcon frames with upper left corner of hieroglyphs along the top and right side; "789 Abydos: Temple of Seti I. 2me Salle: Bas Relief J.P. Sebah" in white along bottom of print."Setho. I. offering Incense &amp; water of Life from 3 jars falling on to Osiris Lotus flowers", in pencil, back of print. (Number on object is 2/697)</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1860/1890</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Sébah, Jean Pascal 1872-1947</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91004865">Abydos (Egypt : Extinct city)</geographic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133744">Temples--Egypt</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041341">Inscriptions, Egyptian</topic>
+  </subject>
+  <subject>
+    <topic>Horus (Egyptian deity)</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91004866">Temple of Seti I (Abydos, Egypt)</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A140</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A140/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of the Friends of Egyptology, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

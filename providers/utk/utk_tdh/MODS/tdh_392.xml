@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch096</identifier>
+  <identifier type="pid">tdh:392</identifier>
+  <identifier type="oclc">44908960</identifier>
+  <titleInfo>
+    <title>Civilization of the Cherokees : [Excerpt] from an address of Honorable Edward Everett, representative in Congress from Massachusetts, delivered in the House of Representatives, 1830 May 19</title>
+  </titleInfo>
+  <abstract>This document is a typed excerpt from a speech delivered by Edward Everett, a Senator from Massachusetts, on the floor of the U.S. House of Representatives on May 19, 1830. The speech was printed in the Congressional Debates, Vol. VI, pt. 2, and pertains to the proposed removal of the Southeastern Indians to a territory west of the Mississippi River. The typed excerpt presented here is from a portion of Everett's speech in which he describes the current conditions of the Cherokee people by enumerating statistics relative to population and property. This excerpt contains several minor variations from Everett's original wording.</abstract>
+  <name>
+    <namePart>Everett, Edward, 1794-1865</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1830-05-19</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Population</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001525">
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A392</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A392/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

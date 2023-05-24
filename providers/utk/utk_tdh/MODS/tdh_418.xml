@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch082</identifier>
+  <identifier type="pid">tdh:418</identifier>
+  <identifier type="oclc">44869503</identifier>
+  <titleInfo>
+    <title>Notice, 1838 Jan. 20, [to] the Cherokees / Nat[haniel] Smith</title>
+  </titleInfo>
+  <abstract>This is a notice from General Nathaniel Smith, Superintendent of Cherokee emigration, to the Cherokee people, dated January 20, 1838. Smith informs the Cherokees that steam boats will be available for their transportation to a territory west of the Mississippi River, but emigrants may choose the overland route as well. He reminds the Cherokees of the sentiments of the President on the removal issue and warns them to remove early or face military force.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1838-01-20</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023090">
+    <topic>Trail of Tears, 1838</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001525">
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A418</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A418/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

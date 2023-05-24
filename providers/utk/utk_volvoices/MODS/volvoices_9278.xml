@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ought this man be judge?</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>broadsides</genre>
+  <subject>
+    <geographic>Kingsport (Tenn.) -- Politics And Government</geographic>
+  </subject>
+  <subject>
+    <topic>Newspapers.</topic>
+  </subject>
+  <subject>
+    <topic>Corruption.</topic>
+  </subject>
+  <subject>
+    <topic>Libel [amp] slander.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>Postwar United States (1945-1970).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Sullivan County.</geographic>
+  </subject>
+  <subject>
+    <topic>Judges; Sessions Court judges; alcoholics; legal affidavits.</topic>
+  </subject>
+  <subject>
+    <topic>Gilbreath, S. B.</topic>
+  </subject>
+  <note>This political broadside advocates against the re-election of Judge S. G. Gilbreath, Jr. Created by a group calling itself "A Group of Citizens Interested In Just and Equal Law Enforcement", the broadside accuses Gilbreath of mistreating citizens and being a raging alcoholic. The group claims to have all statements backed by signed legal affidavits stored "in a safe deposit box at a Kingsport bank."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0058_000062_000200_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9278</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9278/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9278</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9278/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

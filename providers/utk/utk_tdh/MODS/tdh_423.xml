@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch080</identifier>
+  <identifier type="pid">tdh:423</identifier>
+  <identifier type="oclc">44536002</identifier>
+  <titleInfo>
+    <title>[Letter], 1857 Nov. 11, Washington City [to the] Secretary of the Treasury / W[illia]m H. Thomas</title>
+  </titleInfo>
+  <abstract>This document is a letter from William H. Thomas, legal representative of the North Carolina Cherokees, dated November 11, 1857 to the acting Secretary of the Treasury regarding a number of treaties, acts, and resolutions specific to the payment of annuities to the eastern Cherokees. Thomas quotes from several of these legal documents in arguing for the appropriate payments due the North Carolina Cherokees and pointing out obvious discrepancies in the federal policies. This document was originally bound (as wtp080) with the following documents in the Southeastern Native American Documents Database: wtp081, wtp082, wtp083, wtp084.</abstract>
+  <name>
+    <namePart>Wool, John Ellis, 1784-1869</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1857-11-11</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023084">
+    <topic>Cherokee Indians--Legal status, laws, etc</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n90612409">
+    <topic>Thomas, William Holland, 1805-1893</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79007042">
+    <geographic>North Carolina</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n83230994">University of Georgia Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A423</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A423/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n83230994">University of Georgia Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

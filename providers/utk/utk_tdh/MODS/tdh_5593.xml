@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl353</identifier>
+  <identifier type="pid">tdh:5593</identifier>
+  <titleInfo>
+    <title>1826 Feb. 14, Princeton, Kentucky [to] Finis Ewing, Boonville, Missouri / F[ranceway]. R. Cossitt</title>
+  </titleInfo>
+  <abstract>This is a letter to Rev. Finis Ewing dated February 14, 1826. It is signed by Franceway R. Cossitt, David Lowry, John Barnett, John W. Ogden. They represent the Cumberland Presbyterian College, which this letter is about. Cossitt describes the school, its land and buildings. He writes at length about the need for funding, asking Ewing if he will solicit donations for the Institution. Cossitt mentions that there are rival sectaries who are eager for the school to fail in order to improve their own positions.</abstract>
+  <name>
+    <namePart>Cossitt, Franceway R.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1826-02-14</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+    <topic>Kentucky</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n81097533">
+    <topic>Cumberland Presbyterian Church</topic>
+  </subject>
+  <subject>
+    <topic>Religious study and teaching</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Finis Ewing Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5593</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5593/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

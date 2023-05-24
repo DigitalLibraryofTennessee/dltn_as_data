@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">scopes_170</identifier>
+  <identifier type="local">0012_000128_000288</identifier>
+  <identifier>record_spc_4460</identifier>
+  <titleInfo>
+    <title>Men With Book</title>
+  </titleInfo>
+  <abstract>Scopes Trial Photographs, circa 1925, A-42 (21A), Men With Book, (left to right), Tom Stewart;, William Jennings Bryan, Jr.;, William Jennings Bryan</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1925</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001302">
+    <topic>Trials, litigation, etc</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79041823"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871"/>
+  <subject/>
+  <subject/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>W.C. Robinson Collection of Scopes Trial Photographs</title>
+    </titleInfo>
+    <identifier>MS.1091</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/scopes%3A170</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/scopes%3A170/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

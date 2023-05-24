@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004268_000042</identifier>
+  <identifier type="issn">2687-7325</identifier>
+  <identifier type="circular">70</identifier>
+  <identifier type="pid">agrutesc:2206</identifier>
+  <titleInfo>
+    <title>Extending extension information through: the printed word, the spoken word, the picture word</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>University of Tennessee Extension Special Circular 70</title>
+  </titleInfo>
+  <abstract>Special circular sharing an outline of the news and discussion course given as a part of the extension methods short course for county farm and home agents that took place at the University of Tennessee from July 21 to August 10, 1937.</abstract>
+  <name>
+    <namePart>Darrow, Wayne H.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1937-08</dateCreated>
+    <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002320">
+    <topic>Agricultural extension work</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114114">
+    <topic>Agricultural education--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh96008049">
+    <topic>Information resources</topic>
+  </subject>
+  <classification authority="lcc">S115. S3743</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Extension Special Circulars</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A2206</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A2206/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
+</mods>

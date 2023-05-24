@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">csboyd_0053</identifier>
+  <titleInfo>
+    <title>Interior of Dr. Boyd's dental office</title>
+  </titleInfo>
+  <name>
+    <namePart>Browder, Boyd</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1900</dateCreated>
+    <dateCreated encoding="edtf" point="end">1910</dateCreated>
+  </originInfo>
+  <abstract>Interior of Dr. Boyd's dental office. Signature of Boyd Browder underneath photograph.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005458">
+    <topic>Interiors</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002990">
+    <topic>Dental offices</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/boydcs%3A43</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/boydcs%3A43/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Dr. Charles S. Boyd Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Dr. Charles S. Boyd Photograph Collection</title>
+    </titleInfo>
+    <identifier>MS-2129</identifier>
+  </relatedItem>
+</mods>

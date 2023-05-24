@@ -1,0 +1,108 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Jane_Young_2_1_17_VN800023</identifier>
+  <identifier type="pid">rfta:140</identifier>
+  <titleInfo>
+    <title>Interview with Jane Young, 2017-02-01</title>
+  </titleInfo>
+  <abstract>Interview with Jayne Young, resident of Gatlinburg. Young recounts the day of the fire and being forced to initially evacuate on foot from her home. She discusses the services offered at Rocky Top Sports World when it was serving as the disaster relief center and the mental and emotional toll she experienced from the wildfire. This is a representative quote from the interview: "Then a little farther down the fire was in the road, in the road itdelf. We all looked at each other and we go, 'We have no choice, if we go through, we go through.'"</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-01</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+    <topic>Disaster relief</topic>
+  </subject>
+  <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12123564">
+    <geographic>Ely's Mill</geographic>
+    <cartographics>
+      <coordinates>35.7161077, -83.4881917</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12128430">
+    <geographic>Rocky Top Sports World</geographic>
+    <cartographics>
+      <coordinates>35.7330294, -83.447498</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Jane Young, 2017-02-01</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"Then a little farther down the fire was in the road, in the road itdelf. We all looked at each other and we go, 'We have no choice, if we go through, we go through.'"</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:06:40" partType="geographic" startTime="00:01:30">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Ely's Mill</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Ely's Mill.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:06:40" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:18:58" partType="geographic" startTime="00:12:53">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_G2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rocky Top Sports World</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Rocky Top Sports World.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:53" partType="Chapters" startTime="00:06:40">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:18:58" partType="Chapters" startTime="00:12:53">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Rocky Top chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:27:00" partType="Chapters" startTime="00:18:58">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Returning Home</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Returning Home chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:34:05" partType="Chapters" startTime="00:27:00">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Damages from the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Damages from the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:43:58" partType="Chapters" startTime="00:34:05">
+        <pbcore:pbcoreIdentifier source="local">Jane_Young_2_1_17_VN800023_C6</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Praise for Emergency Responders</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Praise for Emergency Responders chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jane-young-2017-02-01/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:140/datastream/TN/view</url>
+  </location>
+</mods>

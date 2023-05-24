@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">kintner_36</identifier>
+  <titleInfo>
+    <title>View of the Appalachian Trail</title>
+  </titleInfo>
+  <abstract>A view of the AT to the east from Jumpoff.</abstract>
+  <abstract>View looking East from the Jump-Off on Mount Kephart looking at Porters Mountain on left and Richland Mountain on right.</abstract>
+  <name>
+    <namePart>Kintner, Elgin P.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1975-07-23</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+    <topic>Photography, Panoramic</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4602931">
+    <geographic>Appalachian Trail</geographic>
+    <cartographics>
+      <coordinates>35.54175, -83.79156</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4633964">
+    <geographic>The Jump-off</geographic>
+    <cartographics>
+      <coordinates>35.63426, -83.38905</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4474212">
+    <geographic>Mount Kephart</geographic>
+    <cartographics>
+      <coordinates>35.63089, -83.38977</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4650944">
+    <geographic>Porters Mountain</geographic>
+    <cartographics>
+      <coordinates>35.65371, -83.36627</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4487934">
+    <geographic>Richland Mountain</geographic>
+    <cartographics>
+      <coordinates>35.63285, -83.36385</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A36</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A36/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+    </titleInfo>
+    <identifier>MS.3686</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Panoramic Images of Elgin P. Kintner</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

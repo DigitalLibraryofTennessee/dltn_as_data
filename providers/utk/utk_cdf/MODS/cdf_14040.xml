@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000360</identifier>
+  <titleInfo>
+    <title>The Health of America's Children: Maternal and Child Health Data Book</title>
+  </titleInfo>
+  <identifier type="isbn">938008692</identifier>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A14040</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A14040/datastream/TN/view</url>
+  </location>
+  <abstract>This report traces prenatal care utilization and other key maternal and child health indicators over time and assesses the nation's failure to ensure adequate care to its most vulnerable citizens. The book examines national, state, and large city infant mortality rates; compares U.S. infant mortality rates with those of other coutries; and assesses American children's and pregnant women's access to health care, patterns of childbearing among teenagers and unmarried women, private insurance coverage for children and pregnant women, and the surgeon general's 1990 Objectives on seven key health indicators.</abstract>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <originInfo>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <name>
+    <namePart>Hughes, Dana</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Johnson, Kay</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Rosenbaum, Sara</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Butler, Elizabeth</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Simons, Janet</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85082102">Maternal health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85082098">Maternal and infant welfare</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85066037">Infants--Mortality</topic>
+  </subject>
+  <note>Adolescent Pregnancy Prevention Prenatal Care Program and CDF</note>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>

@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Program of art exhibit</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>programs</genre>
+  <subject>
+    <topic>Art -- Study and teaching -- Tennessee.</topic>
+  </subject>
+  <subject>
+    <topic>Women art students -- education -- Tennessee.</topic>
+  </subject>
+  <subject>
+    <topic>Art Exhibition.</topic>
+  </subject>
+  <subject>
+    <temporal>19th century.</temporal>
+  </subject>
+  <subject>
+    <geographic>Cleveland (Tenn.) -- Education</geographic>
+  </subject>
+  <subject>
+    <topic>Centenary College (Cleveland, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <topic>Women.</topic>
+  </subject>
+  <subject>
+    <topic>Arts and Literature.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Bradley County.</geographic>
+  </subject>
+  <note>This program, entitled "Art Levee" lists the exhibits displayed at an art show in 1893 by the Centenary Female College in Cleveland, Tennessee. Centenary offered an exceptional education to female students in the late 19th and early 20th century in a six-year program.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0016_000050_000212_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7426</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7426/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7426</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7426/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

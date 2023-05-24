@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">arrsimple_154</identifier>
+  <identifier type="local">aai0155</identifier>
+  <titleInfo>
+    <title>The One-Room Schoolhouse on Baskins Creek</title>
+  </titleInfo>
+  <abstract>The One-Room Schoolhouse on Baskins Creek in Gatlinburg. Charlie Ogle's general store is visible on the right, and the White Oak Flats Baptist Church can be seen on the left.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1925</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
+    <topic>School buildings</topic>
+  </subject>
+  <subject authority="local"/>
+  <subject authority="local">
+    <temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520">
+    <geographic>Gatlinburg (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images: From Pi Beta Phi to Arrowmont</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/arrsimple%3A154</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/arrsimple%3A154/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

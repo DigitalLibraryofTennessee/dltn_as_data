@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Eddie_Rupart_5_26_2017_VN800063</identifier>
+  <identifier type="pid">rfta:129</identifier>
+  <titleInfo>
+    <title>Interview with Eddie Rupart, 2017-05-26</title>
+  </titleInfo>
+  <abstract>Interview with Eddie Rupard, resident of Gatlinburg. Rupard discusses the day of the fire and the revelation of finding the fire had already spread to immediate proximity of his house. After evacuating, he recounts the following weeks of staying with family before officials opened the city back up. This is a representative quote from the interview: "The fire was burning downhill because everything was so dry."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-05-26</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Eddie Rupart, 2017-05-26</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"The fire was burning downhill because everything was so dry."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:08:30" partType="Interview Questions" startTime="00:07:50">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Did the fire ever reach your house?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:05:00" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:33:00" partType="Interview Questions" startTime="00:08:30">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Did you hose down your house?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:15" partType="Chapters" startTime="00:05:00">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation and Return</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation and Return chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:19:34" partType="Chapters" startTime="00:12:15">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>More Evacuation Details</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>More Evacuation Details chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:26:35" partType="Chapters" startTime="00:19:34">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Thoughts on the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Thoughts on the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:33:00" partType="Chapters" startTime="00:26:35">
+        <pbcore:pbcoreIdentifier source="local">Eddie_Rupart_5_26_2017_VN800063_C5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Afterwards</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Afterwards chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/eddie-rupart-2017-05-26/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:129/datastream/TN/view</url>
+  </location>
+</mods>

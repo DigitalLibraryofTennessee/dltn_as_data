@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000345</identifier>
+  <titleInfo>
+    <title>Decade of Indifference: Maternal and Child Health Trends 1980-1990</title>
+  </titleInfo>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A11396</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A11396/datastream/TN/view</url>
+  </location>
+  <abstract>This report assesses the progress made by the US between 1980 and 1990 in reaching maternal and child health objectives set by the US Surgeon General in 1978. The report concludes that the US failed dismally to reach these key goals. As a result, many American babies needlessly died or became disabled. The report states that the health of pregnant women and infants in the US got worse as a result of the failure of seven of eight key indicators.</abstract>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <originInfo>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <name>
+    <namePart>Children's Defense Fund (U.S.)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85082102">Maternal health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85047558">Federal aid to child health services</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85066037">Infants--Mortality</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>

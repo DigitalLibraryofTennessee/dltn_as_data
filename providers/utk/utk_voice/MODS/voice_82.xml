@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">vocational_vol1-no2</identifier>
+  <identifier type="pid">voice:82</identifier>
+  <titleInfo>
+    <title>The vocational voice, volume 1, number 2</title>
+  </titleInfo>
+  <abstract>Periodical published twice a month by the disabled ex-service men in training at the University of Tennessee</abstract>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated encoding="edtf">1922-07-15</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009123449">
+    <topic>Disabled veterans-Vocational rehabilitation-United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008113196">
+    <topic>Veterans-Education-United States</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Vocational Voice</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/voice%3A82</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/voice%3A82/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

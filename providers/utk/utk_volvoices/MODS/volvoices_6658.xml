@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hannah and Her Children vs. Patrick McClung and James Houston</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>legal case and case notes</genre>
+  <subject>
+    <topic>Slavery.</topic>
+  </subject>
+  <subject>
+    <topic>Wills.</topic>
+  </subject>
+  <subject>
+    <geographic>Blount County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Law and Legal Documents.</topic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <topic>Children and Childhood.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Blount County.</geographic>
+  </subject>
+  <subject>
+    <topic>McClung, Patrick; McClung, William; Houston, James.</topic>
+  </subject>
+  <note>A complaint by a slave named Hannah against Patrick McClung and James Houston. Hannah and her children, Elias, Charles, Mary, Martha and Rhoda, were slaves of William McClung, deceased. In his will, McClung freed his slaves to go to Africa. Hannah accuses the executors if the will, Patrick McClung and James Houston, of refusing to comply with its conditions.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0075_000050_000207_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6658</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6658/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6658</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6658/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch003</identifier>
+  <identifier type="pid">tdh:792</identifier>
+  <identifier type="oclc">44749987</identifier>
+  <titleInfo>
+    <title>[Letter] 1826 Nov. 15, Valley Towns, [North Carolina to] James Barbour, Sec[retar]y of War / Evan Jones</title>
+  </titleInfo>
+  <abstract>This document is a letter from Evan Jones, a Baptist missionary at the Valley Towns (North Carolina) of the Cherokee Nation, to James Barbour, Secretary of War (1825-1828), dated November 15, 1826. Jones communicates information to Barbour relative to the progress of various industries in the Cherokee Nation, most notably the establishment of several mills. The improvements have been made under the direction of the Board of managers of the Baptist General Convention and also include a well attended school. Jones also remarks on the general "progress" of the Cherokees with respect to Christianity and the "civilized arts."</abstract>
+  <name>
+    <namePart>Jones, Evan, 1788-1873</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1826-11-15</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Economic conditions--19th century</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85011744">
+    <topic>Baptists--Missions</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A792</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A792/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

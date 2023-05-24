@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl281</identifier>
+  <identifier type="pid">tdh:5846</identifier>
+  <titleInfo>
+    <title>1846 Dec. 9, Clifton [to] A. J. Donelson, Berlin, Prussia / J. G. Martin, Jr.</title>
+  </titleInfo>
+  <abstract>This is a letter, dated December 9, 1846, from J. G. Martin, Jr. to Andrew Jackson Donelson, who was acting as ambassador to Prussia at the time. Included is another letter from Martin to his sister. Martin writes Donelson about his land in Arkansas. Martin updates Donelson on the tax situation and says that no one wants to buy any of Donelson's land, just yet. Mr. Duncan has told Martin emigrants may want some land when they arrive in January. Martin updates Donelson on his farm: cotton, corn, hogs, sheep, and cattle. He expects cotton prices to rise by March. Martin also mentions that a slave, John Fulton wishes he had accompanied Donelson to Berlin. The second letter is to Martin's sister. Martin informs her of how the family is doing and how much they miss her. He also mentions local politics. He predicts that Henry Clay will be the next president.</abstract>
+  <name>
+    <namePart>Martin, J. G., Jr.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1846-12-09</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111739">
+    <topic>Real property</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033302">
+    <topic>Cotton</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123347">
+    <topic>Slaves</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. J. Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5846</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5846/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

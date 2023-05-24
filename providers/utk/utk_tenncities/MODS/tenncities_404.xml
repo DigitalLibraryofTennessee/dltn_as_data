@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000504</identifier>
+  <identifier type="pid">tenncities:404</identifier>
+  <identifier type="photograph number">0305</identifier>
+  <identifier type="spc">record_spc_4160</identifier>
+  <titleInfo>
+    <title>Tennessee River from Paint Rock</title>
+  </titleInfo>
+  <abstract>View of the Tennessee River from Paint Rock. "Paint Rock" likely refers to the Paint Rock River, which is a small tributary that joins the Tennessee River near the Tennessee/Alabama border.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1900</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1920</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+    <topic>Architectural photography</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133887">
+    <geographic>Tennessee River</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n94062292"/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A404</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A404/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

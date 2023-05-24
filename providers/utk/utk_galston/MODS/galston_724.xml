@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="catalog">II.C.15</identifier>
+  <titleInfo>
+    <title>Studio portrait of Sandra Droucker by Eduard Wasow</title>
+  </titleInfo>
+  <abstract>Photograph of Sandra Droucker, a pianist and Galston's first wife. Galston and Droucker married in 1905 and divorced in 1918. A handwritten note on this photograph dates it to approximately 1918.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <name>
+    <namePart>Wasow, Eduard</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" qualifier="approximate">circa 1918</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681">
+    <topic>Portraits</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027">
+    <topic>Musicians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147655">
+    <topic>Women musicians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147187">
+    <topic>Wives</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"/>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/2867714">
+    <geographic>Munich</geographic>
+    <cartographics>
+      <coordinates>48.13743, 11.57549</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Gottfried Galston Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+    </titleInfo>
+    <identifier>MS-1072</identifier>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/galston%3A724</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/galston%3A724/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>

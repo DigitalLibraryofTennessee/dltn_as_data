@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl070</identifier>
+  <identifier type="pid">tdh:6626</identifier>
+  <identifier type="oclc">50092071</identifier>
+  <titleInfo>
+    <title>[Legal document] 1826 Aug. 23, Rhea County, Tennessee [Order for personal possessions of James Coulter to be sold and the money paid to Roberts &amp; McCallie]</title>
+  </titleInfo>
+  <abstract>This is a legal document dated August 23, 1826. The document orders any lawful officer to collect and sell the goods and chattel of a James Coulter, and to give the value of $12.00 from the sale of these goods to merchants Roberts &amp; McCallie in payment of a debt. It also orders that 25 cents be paid for court costs accrued in the suit brought against James Coulter.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1826-08-23</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thomas McCallie Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6626</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6626/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

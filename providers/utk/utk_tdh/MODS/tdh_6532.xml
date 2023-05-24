@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl095</identifier>
+  <identifier type="pid">tdh:6532</identifier>
+  <identifier type="oclc">50488009</identifier>
+  <titleInfo>
+    <title>[Letter] 1839 February 23, Greeneville [i.e., Greenville], Ten[nessee] [to] Thomas E. Abernathy, [Giles County, TN] / M.S. Temple</title>
+  </titleInfo>
+  <abstract>This is a letter from M.S. Temple to Thomas E. Abernathy dated February 23, 1839. Temple comments on how nice the weather has been and how blessed he is that all his family and friends are doing well. He writes about the trial of James McCaw, who was found guilty of murdering Jonas Bowers and the great excitement that surrounded the trial. Temple also writes that if the man, Mr. Loveless, who takes care of their land does not do more work, that Abernathy should discharge him.</abstract>
+  <name>
+    <namePart>Temple, M. S.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1839-02-23</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85137369">
+    <topic>Trials (Murder)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject>
+    <topic>McCaw, James</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Abernathy Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6532</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6532/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

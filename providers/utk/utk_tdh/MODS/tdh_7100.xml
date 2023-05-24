@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl036</identifier>
+  <identifier type="pid">tdh:7100</identifier>
+  <identifier type="oclc">47828088</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Mar. 5, Knoxville, [Tennessee, to] John Watts and other chiefs of the Cherokee Nation / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is a letter, dated March 5, 1797, written by Governor John Sevier (1796-1801, 1803-1809) and addressed to John Watts and other chiefs of the Cherokee Nation. The letter was written in response to a letter by the Cherokee chiefs regarding earlier communications sent by Sevier. In this letter, Sevier negated the claims of Watts and others that the Cherokees have not caused damage to the persons or properties of white settlers. Sevier cited instances in which white settlers were killed in retaliation for the murders of Chief Red Bird and his attendant. Sevier also criticized the Cherokee Nation for not making an official complaint regarding those murders. Furthermore, he denied Watts' claim that his preceding communications were threatening in nature, as he stated that he was merely hoping to convince the Cherokees of the dangers of going to war. Sevier contended that he wished to establish and promote a peace between the United States and the Cherokee Nation.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-03-05</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Claims against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7100</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7100/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

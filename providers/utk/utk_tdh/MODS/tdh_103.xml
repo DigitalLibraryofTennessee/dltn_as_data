@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mc036</identifier>
+  <identifier type="pid">tdh:103</identifier>
+  <identifier type="oclc">50474645</identifier>
+  <titleInfo>
+    <title>[Letter] 1846 Jul. 21 [to] Mrs. William Caswell / William Caswell</title>
+  </titleInfo>
+  <abstract>This document is a letter dated July 21, 1846 from Captain William R. Caswell to his wife in Jefferson County, Tennessee. Captain Caswell writes that he is awaiting passage by steamship to New Orleans where he will then go to Mexico to serve in the Mexican-American War.</abstract>
+  <name>
+    <namePart>Caswell, William Richard</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1846-07-21</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140201">
+    <topic>Mexican War, 1846-1848</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n81013960">
+    <geographic>Mexico</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>William R. Caswell Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Knox County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A103</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A103/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

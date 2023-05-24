@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000074</identifier>
+  <titleInfo>
+    <title>[Photograph of a home demonstration agent sitting behind the wheel with six girls in an automobile.]</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A131</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A131/datastream/TN/view</url>
+  </location>
+  <abstract>Photograph of a woman, possibly a home demonstration agent, behind the wheel of an automobile with six young girls accompanying her in a country setting. The number 14481 is shown on the car's front grill. No front caption. Crease in photograph right bottom corner. Back caption, "4. Tenn. (Unnumbered)." Devised title.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Tennessee</geographic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Home economics extension workers</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Societies and clubs</topic>
+  </subject>
+</mods>

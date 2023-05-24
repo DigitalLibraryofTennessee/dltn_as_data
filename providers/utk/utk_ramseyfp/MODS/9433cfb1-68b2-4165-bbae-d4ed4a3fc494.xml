@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000060_000528_0000</identifier>
+  <titleInfo>
+    <title>Letter, W.G.E. Cunnyngham in Nashville, Tenn., to M.B.C. Ramsey in Knoxville, Tenn. 1884 May 13</title>
+  </titleInfo>
+  <abstract>1884 May 13 W.G.E. Cunnyngham, D.D., editor of the Sunday School Dept. of the Southern Methodist Publishing House, Nashville, Tenn., to M.B.C. Ramsey, Knoxville, Tenn. Expression of sympathy in J.G.M. 's death. Praises Dr. Ramsey 's life of Christian goodness and usefulness.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1884-05-13</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Cunnyngham, W. G. E. (William George Etler)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Bereavement -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Bereavement -- Social aspects</topic>
+  </subject>
+  <subject>
+    <topic>Knoxville (Tenn.) -- History -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- History -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Death and burial</topic>
+  </subject>
+  <subject>
+    <topic>Ramsey, J. G. M. (James Gettys McGready), 1797-1884 -- Appreciation</topic>
+  </subject>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ramseyfp%3A1015</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ramseyfp%3A1015/datastream/TN/view</url>
+  </location>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem type="host" displayLabel="Project">
+    <titleInfo>
+      <title>Ramsey Family Letters</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+    <titleInfo>
+      <title>Ramsey Family Papers</title>
+    </titleInfo>
+    <identifier>MS.0253</identifier>
+  </relatedItem>
+  <accessCondition xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/" type="use and reproduction">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,98 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0028_000051_000202_0001</identifier>
+  <identifier type="filename">0028_000051_000202_0001.jp2</identifier>
+  <name>
+    <namePart>Morrissey, Ralph G., 1903-1956</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Aerial view of Nashville</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1948</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Aerial photograph of Nashville, Tennessee. The State Capital Building is in the top left of the photograph and the Colored Y.M.C.A. is in the lower right.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Tennessee Historical Society</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>VI-B-3v, Box 2, Folder 11.4</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Nashville</text>
+          <text>County: Davidson County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2345</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2345/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Black-and-white photography</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>Civil Rights movement in Tennessee</topic>
+  </subject>
+  <subject displayLabel="Volunteer Voices Curriculum Topics">
+    <topic>Modern times in Tennessee</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Nature and the Environment</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>African-Americans</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Government and Politics</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.16583N, 86.78445W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ralph G. Morrissey Photograph Collection, c. 1883-1956</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0028_000051_000202_0001</recordIdentifier>
+    <recordContentSource>Tennessee Historical Society</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-06-15</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

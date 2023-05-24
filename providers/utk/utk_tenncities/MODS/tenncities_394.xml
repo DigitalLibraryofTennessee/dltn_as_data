@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000494</identifier>
+  <identifier type="pid">tenncities:394</identifier>
+  <identifier type="photograph number">0295</identifier>
+  <identifier type="spc">record_spc_4150</identifier>
+  <titleInfo>
+    <title>Southern Railway Station</title>
+  </titleInfo>
+  <abstract>Southern Railway Station was built in Knoxville in 1903-1904. It prospered until passenger traffic began to decline in the 1960s. The last passenger train to pass through the station was the "Birmingham Special," which departed on August 12, 1970. The station was renovated in the early 1990s for use by Knoxville architectural firm Bullock, Smith, and Partners, Inc.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">Apr 12, 1910</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87002049">
+    <topic>Railroads--Tennessee</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+    <topic>Architectural photography</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n94062292"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n84038980"/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A394</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A394/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

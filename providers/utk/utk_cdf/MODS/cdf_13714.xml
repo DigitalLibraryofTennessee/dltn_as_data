@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000364</identifier>
+  <titleInfo>
+    <title>Summary of the New Welfare Legislation (Public Law 104-193)</title>
+  </titleInfo>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A13714</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A13714/datastream/TN/view</url>
+  </location>
+  <abstract>This report is a summary of the New Welfare Legislation {P.L. 104-193, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996}, which was passed by Congress and signed into law by President Bill Clinton on Aug. 22, 1996. This new law slashed help for children and families in a broad range of safety net programs. Cuts in federal funds for these programs totaled $54 billion over six years. The New Federal Welfare Law limited welfare to a maximum of five years, restricted food stamp distribution, cut assistance to as many as 300,000 children with disabilities, made it possible to track parents who owed child support payments, and outlined what health benefits children and families could receive.</abstract>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <originInfo>
+    <publisher>Children's Defense Fund (U.S.)</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85108846">Public welfare</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396 ">Child welfare</topic>
+  </subject>
+  <subject/>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>

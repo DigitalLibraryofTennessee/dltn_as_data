@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001365_000203</identifier>
+  <identifier type="pid">utsmc:17450</identifier>
+  <titleInfo>
+    <title>Collection: The love lane galop, The rippling stream waltz, The ocean bird schottisch, prima donna waltz, Liebe Augustine</title>
+  </titleInfo>
+  <originInfo>
+    <publisher>Wm. Hall &amp; Son</publisher>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Brown, Francis H. (Francis Henry), 1818-1891</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Jullien, Louis Antoine, 1812-1860 </namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Reddie, Joseph F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85144994">Waltzes</topic>
+  </subject>
+  <typeOfResource>notated music</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17450</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17450/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

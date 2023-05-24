@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc058</identifier>
+  <identifier type="pid">tdh:9481</identifier>
+  <identifier type="oclc">51302043</identifier>
+  <titleInfo>
+    <title>[Letter] 1844 Apr. 20, Nashville, Tenn[essee] [to] Maj[or] W. J. Whitthorne, Shelbyville, Tenn[essee] / S[amuel] H. Laughlin</title>
+  </titleInfo>
+  <abstract>The following document is a letter, dated April 20, 1844, from Samuel Laughlin to Major W. J. Whitthorne in Shelbyville, Tennessee. In the letter, Laughlin discusses both national and state politics. He updates Whitthorne on election results from around the country, and he warns that a fierce battle must be fought to prevail against the Whigs in upcoming elections. Laughlin, an ardent supporter of James K. Polk, was also one of the "Immortal Thirteen" who, fearing the election of a Whig, refused to meet with the Tennessee House to elect a representative to the U.S. Senate, leaving Tennessee unrepresented in the Senate for 1841-1843.</abstract>
+  <name>
+    <namePart>Laughlin, Samuel H. (Samuel Hervey), 1796-1850</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-04-20</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140432">
+    <topic>United States--Politics and government--1841-1845</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Samuel H. Laughlin</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9481</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9481/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

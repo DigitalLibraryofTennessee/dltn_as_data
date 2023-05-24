@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003589_000214_0001</identifier>
+  <identifier type="local">0012_003589_000214_0002</identifier>
+  <identifier type="filename">gsmrc-post_19_01.jp2</identifier>
+  <identifier type="filename">gsmrc-post_19_02.jp2</identifier>
+  <name>
+    <namePart>Standard News Agency (Knoxville, Tenn.)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Campbell, Carlos C. (Carlos Clinton), 1892-</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Chimney Tops from Newfound Gap Highway. Great Smoky Mountains National Park</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1944-03-08</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <abstract>.</abstract>
+  <abstract>Postcard with handwritten note sent from Knoxville, Tenn. to Mrs. C.J. Bogart, Loudon, Tenn. on March 8, 1944 for a postage of 1 cent.</abstract>
+  <abstract>.</abstract>
+  <abstract>The Chimney Tops rise like cathedral spires above the spectacular Tennessee side of the Newfound Gap Highway and the Little Pigeon Gorge through which that highway runs. This rugged, twin-topped peak is a popular destination for hikers who really like to rough it.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100219</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100219/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85010201">
+    <topic>Automobiles</topic>
+  </subject>
+  <subject authority="dots">
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.58343N, 83.50822W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>Newfound Gap Road1</geographic>
+  </subject>
+  <subject>
+    <geographic authority="dots">Newfound Gap Road/U.S. 44</geographic>
+  </subject>
+  <subject>
+    <geographic>U.S. 441</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Great Smoky Mountains Postcards</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/smokiespostcards</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bogart Family Great Smoky Mountains Postcard Collection, 1917-1946</title>
+    </titleInfo>
+    <identifier type="local">MS.3709</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

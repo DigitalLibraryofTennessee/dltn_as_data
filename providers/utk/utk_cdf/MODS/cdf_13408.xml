@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000369</identifier>
+  <titleInfo>
+    <title>A Nation and Century Defining Time: Where Is America Going? How You Can Make a Difference: An Action Guide</title>
+  </titleInfo>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A13408</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A13408/datastream/TN/view</url>
+  </location>
+  <abstract>This guide seeks to inform the public about the needs of children and families and how the budget and tax choices and policies in our nation affect them. Included are personal stories of millions of children and families and the choices we have as a people to build a more just nation and world. The CDF Action Council's longer term policy vision incorporated in the comprehensive Dodd-Miller Act to Leave No Child Behindis shared. State-buy-state tables on child poverty, child health coverge, state spending per public school pupil and per prisoner are also included.</abstract>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <name>
+    <namePart>Children's Defense Fund (U.S.). Action Council</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85047060">Family policy</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396 ">Child welfare</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic>
+  </subject>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Confederate Account of the Battle of Bull Run</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>telegrams</genre>
+  <subject>
+    <topic>United States History Civil War, 1861-1865 Correspondence.</topic>
+  </subject>
+  <subject>
+    <topic>Telegrams.</topic>
+  </subject>
+  <subject>
+    <topic>United States History Civil War, 1861-1865.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Shelby County.</geographic>
+  </subject>
+  <subject>
+    <topic>Battle of Bull Run.</topic>
+  </subject>
+  <note>A telegram sent from Richmond, Virginia to Memphis, Tennessee, which includes a first hand account of the Battle of Bull Run, the first major land battle of the Civil War. The Confederacy suffered losses of 387, Union of 460, with the Union army retreating, despite early gains in the battle. The telegram was sent by the South-Western Telegraph Company, and includes in the header the policies of the company, authorized by N. Green, the president in Louisville, Kentucky. It is assumed that the telegram was sent on an older page because the Battle of Bull Run took place on June 21, 1861.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0014_000053_000210_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13789</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13789/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13789</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13789/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl071</identifier>
+  <identifier type="pid">tdh:6623</identifier>
+  <identifier type="oclc">50132752</identifier>
+  <titleInfo>
+    <title>[Legal document] 1821 May 1 [to] Sheriff of Rhea County, Tennessee / [witnessed by] Daniel Rawlings</title>
+  </titleInfo>
+  <abstract>This document is a legal summons witnessed by Daniel Rawlings to the Sheriff of Rhea County, Tennessee on May 1, 1821. The summons orders the sheriff to appear at the court house on May 8, 1821 in Rhea County to testify in a case between the state of Tennessee and a man named Laban Stuart.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1821-05-01</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thomas McCallie Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6623</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6623/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

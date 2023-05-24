@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch060</identifier>
+  <identifier type="pid">tdh:554</identifier>
+  <identifier type="oclc">44847140</identifier>
+  <titleInfo>
+    <title>Proceedings of [the Cherokee] Council [including a talk from Jos[eph] McMinn, Governor of Tennessee], 1818 May, Cherokee Agency / [signed by] Jos[eph] McMinn</title>
+  </titleInfo>
+  <abstract>Cherokee Council minutes which include a talk from Joseph McMinn, Governor of Tennessee dated May 1818. McMinn presents the Treaty of the Cherokee Agency, July 8, 1817, before the Cherokee and Arkansas, and he discusses the federal government's plan for the removal of Indian Nations east of the Mississippi and the "civilization" of these people. The council minutes following McMinn's address appear to be in a different hand, but seem connected contextually.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1818-05-20</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065367">
+    <topic>Indians of North America--Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A554</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A554/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl286</identifier>
+  <identifier type="pid">tdh:5828</identifier>
+  <titleInfo>
+    <title>[Letter] 1848 Oct. 12, Rome, [Italy] [to Mr. and Mrs. Andrew Jackson Donelson] / Mary [Emily Donelson Wilcox]</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Mary Emily Wilcox to her parents Mr. and Mrs. Andrew Jackson Donelson, dated October 12, 1848. Donelson was serving as minister to Germany at the time, and Mary writes her letter to him from Italy, where she, her brother, and sister have been travelling. Mary relates some of the experiences of their trip, discusses cities and sites they have visited, and comments on the atmosphere in Italy and her overall fondness of the place. This visit is during a year of nationalist insurgencies throughout the Italian peninsula, and she remarks on this as well.</abstract>
+  <name>
+    <namePart>Wilcox, Mary Emily Donelson, 1829-1905</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1848-10-12</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79021783">
+    <geographic>Italy</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. J. Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5828</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5828/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

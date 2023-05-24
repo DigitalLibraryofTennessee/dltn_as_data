@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl615</identifier>
+  <identifier type="pid">tdh:7909</identifier>
+  <titleInfo>
+    <title>[Letter] 1845 Apr. 22, Nashville, Tennessee [to] Washington County Sheriff / James Jones</title>
+  </titleInfo>
+  <abstract>This document is a letter dated April 22, 1845 from the governor of Tennessee, James Jones to the sheriff of Washington County, located in Northeast Tennessee. The purpose of the letter is to urge the sheriff to fulfill his duty, and obligation by carrying out the warrant issued for the arrest of William Bales, Nathaniel Brown, John Block, and Arless Collins, charged with highway robbery in North Carolina. In the letter, the governor says he is aware of a strong "feeling and excitement" created in Washington county by the case, however, it is not up to him, or the sheriff to pass judgement.</abstract>
+  <name>
+    <namePart>Jones, James C. (James Chamberlain), 1809-1859</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1845-04-22</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr90007868">
+    <topic>Tennessee. Governor (1841-1845 : Jones)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor James Jones Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7909</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7909/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

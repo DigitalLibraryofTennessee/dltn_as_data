@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0023_000060_000359</identifier>
+  <identifier type="pid">thompson:299</identifier>
+  <identifier type="photograph number">ThGSM 016</identifier>
+  <titleInfo>
+    <title>Azaleas on Gregory Bald</title>
+  </titleInfo>
+  <abstract>While the top of the bald is grass clad, the edges of Gregory supports the finest known native stands of the exquisite flame azaleas. The colors range from a pure white, through the yellows, to a deep scarlet. These mountain-top meadows are not a result of "timber line", since higher peaks nearby are tree clad to their very tip tops. Scientists are not ageed on the cause of these balds, but all agree that they are not caused by timber lines. Many people fear that, since grazing has been stoppped, the balds may grow up in briars then revert to forest. This photograph is hand tinted.</abstract>
+  <name>
+    <namePart>Thompsons, Inc. Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1936-06</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note>To use photographs or to order reproductions which belong to the McClung Historical Collection, contact DigitalCollections@knoxlib.org or phone 865 215-8814. Please share the following identifier (ThGSM 016) and provide a brief description of the photograph.</note>
+  <note>See metadata for corresponding image in the McClung Historical Collection here: http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/15/rec/7</note>
+  <subject>
+    <topic>Grassy balds</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85113765">
+    <topic>Rhododendrons</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4626502">
+    <geographic>Gregory Bald</geographic>
+    <cartographics>
+      <coordinates>35.52067, -83.86553</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="original">
+    <location>
+      <url>http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/15/rec/7</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A299</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A299/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003644_000204</identifier>
+  <titleInfo>
+    <title>Catalogue of Walden University, 1911-1912</title>
+  </titleInfo>
+  <abstract>Outlines courses of study and rules at a historically black college in Nashville. Includes pictures of the buildings and important figures. Information on the Law department and Meharry Medical, Dental, and Pharmaceutical Colleges is also present.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1912</dateCreated>
+    <publisher>Press of Marshall and Bruce Company</publisher>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001919">
+    <topic>African American universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001949">
+    <topic>African Americans--Education (Higher)</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2002012107">
+    <topic>Universities and colleges--Curricula--Catalogs</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008102770">
+    <topic>Education, Higher--Curricula--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85025586">
+    <topic>Christian universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001980">
+    <topic>African Americans--Religion</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n83193369"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003088843"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80021644"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095801">
+    <geographic>Nashville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.16589, -86.78444</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="https://sws.geonames.org/12173186">
+    <geographic>Walden University (historical)</geographic>
+    <cartographics>
+      <coordinates>36.15255, -86.76736</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5721.W567 A3</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Annual Catalogues of Walden University</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/walden%3A70</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/walden%3A70/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

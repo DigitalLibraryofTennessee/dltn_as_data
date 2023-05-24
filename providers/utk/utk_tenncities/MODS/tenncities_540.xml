@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000640</identifier>
+  <identifier type="pid">tenncities:540</identifier>
+  <identifier type="photograph number">0441</identifier>
+  <identifier type="spc">record_spc_4296</identifier>
+  <titleInfo>
+    <title>Street Market</title>
+  </titleInfo>
+  <abstract>View of a street market, likely on Market Street near the Market House. Knoxville's original Market House was built in 1816. During the Civil War, the Union Army used the Market House to store ammunition and business was conducted outside. A new Market House was built in 1897 and merchants offered a wide variety of items, including baked goods, fresh meats, and homegrown fruits and vegetables from permanent stalls and wagons parked outside. After being partially destroyed by fire, this structure was demolished to make way for the Market Street Mall in 1960.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85081355">
+    <topic>Markets</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2017003810">
+    <topic>Photography of markets</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+    <topic>Knoxville (Tenn.)--History</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A540</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A540/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

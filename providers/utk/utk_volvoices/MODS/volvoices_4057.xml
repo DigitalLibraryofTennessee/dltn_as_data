@@ -1,0 +1,94 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0117_000050_000211_0001</identifier>
+  <identifier type="filename">0117_000050_000211_0001.jp2</identifier>
+  <titleInfo>
+    <title>Map of Overhill Cherokee sites, 18th century</title>
+  </titleInfo>
+  <typeOfResource>cartographic</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="questionable">1982</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1992</dateCreated>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <abstract>This is a photograph of a map of the Overhill Cherokee sites that were occupied during the 18th century. The map is based on Henry Timberlake's 1762 map of the area as well as archaeological investigations made in 1967 through 1982, by The University of Tennessee as part of the Tellico Archaeological Project in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). These well- known Overhill settlements of Mialoquo, Tuskeegee, Toqua, Chota, Citico, Tallassee, and Chilhowee are now all under water. The Cherokees who were located in north Georgia, northwest South Carolina, and Western North Carolina had to travel over the mountains from South Carolina to reach their brethren who lived in the lower Tennessee and Hiawasee River Valleys and thus they were referred to as the Overhill Cherokees.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4057</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4057/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133636">
+    <topic>Tellico Dam (Tenn.)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Mialoquo</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Toqua</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/1008726">
+    <topic>Maps</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/957846">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Native Americans</topic>
+  </subject>
+  <subject>
+    <geographic>Tellico Lake Region (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95010015">Little River Valley (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037799">Monroe County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.45000N, 84.23333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 2 - Colonization and Settlement (1585-1763)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0117_000050_000211_0001</recordIdentifier>
+    <recordContentSource>Frank H. McClung Museum (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-04-24</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

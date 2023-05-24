@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Charlton, C.W. in Knoxville, Tennessee to Ramsey, J.G.M. in Salisbury, North Carolina</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <geographic>Knoxville (Tenn.) -- Newspapers</geographic>
+  </subject>
+  <subject>
+    <topic>Ramsey, J. G. M. (James Gettys Mcgready), 1797-1884</topic>
+  </subject>
+  <subject>
+    <topic>Popular Culture and Folklife.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Knox County.</geographic>
+  </subject>
+  <subject>
+    <topic>Knoxville Whig.</topic>
+  </subject>
+  <note>Praises Dr. Ramsey and expresses his bereavement since Crozier`s death. States that the Whig will, in the future, defend Rebels rather than attack them. Says that he would welcome articles by Dr. Ramsey.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000060_000494_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4894</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4894/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4894</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4894/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

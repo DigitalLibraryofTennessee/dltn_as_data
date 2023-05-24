@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Rev. A.D. Mayo in Nashville, TN to Hon. John Eaton in Washington, D.C.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Education -- Southern States.</topic>
+  </subject>
+  <subject>
+    <topic>Education -- Tennessee.</topic>
+  </subject>
+  <subject>
+    <topic>Education, Higher -- Southern States.</topic>
+  </subject>
+  <subject>
+    <geographic>Louisiana .</geographic>
+  </subject>
+  <subject>
+    <geographic>Mississippi.</geographic>
+  </subject>
+  <subject>
+    <topic>Central Tennessee College (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <geographic>The Development of the Industrial United States (1870-1900).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Davidson County.</geographic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <note>Rev. Mayo reports of his work in Tennessee at Central Tennessee College and tells of a projected trip through Mississippi and Louisiana.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000053_000243_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A12449</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A12449/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A12449</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A12449/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

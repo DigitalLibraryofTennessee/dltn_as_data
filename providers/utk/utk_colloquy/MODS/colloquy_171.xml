@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">colloquy.2.2</identifier>
+  <titleInfo>
+    <title>Great Smoky Mountains Colloquy: Volume 2, Number 2</title>
+  </titleInfo>
+  <titleInfo displayLabel="Also known as" type="alternative">
+    <title>Colloquy</title>
+  </titleInfo>
+  <part>
+    <detail type="volume and issue">
+      <number>Volume 2, Number 2</number>
+    </detail>
+  </part>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">2001-08-01</dateCreated>
+  </originInfo>
+  <abstract>This issue includes articles about mountaineer Paul Adams' camp on Mount Le Conte; news about new manuscript additions; new books; and an upcoming documentary on photographer George Masa.</abstract>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Special Collections.</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/colloquy%3A171</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/colloquy%3A171/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <location>
+      <url>https://digital.lib.utk.edu/collections/colloquy</url>
+    </location>
+    <titleInfo>
+      <title>Great Smoky Mountains Colloquy</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Wise, Ken</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Bridges, Anne</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clement, Russ</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
+    <cartographics>
+      <coordinates>35.58343, -83.50822</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="geonames" valueURI="http://sws.geonames.org/4635946/about.rdf">Mount Le Conte</geographic>
+    <cartographics>
+      <coordinates>35.65435, -83.43672</coordinates>
+    </cartographics>
+  </subject>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+</mods>

@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl396</identifier>
+  <identifier type="pid">tdh:5373</identifier>
+  <titleInfo>
+    <title>[Letter] 1832 Dec. 20, Washington [D.C.] [to Elizabeth Fitzgerald] / W[illiam] Fitzgerald</title>
+  </titleInfo>
+  <abstract>This is a letter from William Fitzgerald to his wife Elizabeth, dated December 20, 1832. William reports on the boarding accommodations for him and his fellow Congressmen. He writes of President Jackson's determination to keep the Union intact.</abstract>
+  <name>
+    <namePart>Fitzgerald, William</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1832-12-20</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79088888">
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85320187">
+    <topic>Fitzgerald, William</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in the family</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018774">
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fitzgerald - Williams - Greer Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5373</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5373/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

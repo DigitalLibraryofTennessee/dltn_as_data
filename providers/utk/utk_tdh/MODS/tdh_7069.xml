@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl043</identifier>
+  <identifier type="pid">tdh:7069</identifier>
+  <identifier type="oclc">47832213</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 June 8, Knoxville, [Tennessee, to] warriors cheifs [sic] of the Cherokee Nation / J[ohn] Sevier</title>
+  </titleInfo>
+  <abstract>This document is a letter written on June 8, 1797, to the warriors and chiefs of the Cherokee Nation by John Sevier, governor of Tennessee from 1796-1801 and 1803-1809. In the letter, Sevier explains that there has been talk of a war between the United States and England. He says that England will try to get the Cherokee warriors to fight against the Americans, and warns the chiefs not to let their young men and warriors listen to this talk and remain loyal to the United States.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-06-08</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140415">
+    <topic>United States--Politics and government--1783-1809</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh2007100124">
+    <topic>United States--Foreign relations--Great Britain</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh2007100252">
+    <topic>Great Britain--Foreign relations--United States</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7069</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7069/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

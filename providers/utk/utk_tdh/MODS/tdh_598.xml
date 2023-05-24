@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch051</identifier>
+  <identifier type="pid">tdh:598</identifier>
+  <identifier type="oclc">44846202</identifier>
+  <titleInfo>
+    <title>Survey report containing Path Killer's plat and certificate, 1820 Aug. 15, Tennessee / [signed by] David Taylor ... [et al.]</title>
+  </titleInfo>
+  <abstract>Survey report of the Cherokee leader Path Killer's plat and certificate of 640 acres dated August 15, 1820. The surveyors and commissioners mark the property boundary according to the Treaty of the Cherokee Agency, 1817 and the Treaty of Washington, 1819. Path Killer had filed a claim at the Cherokee Agency on April 14, 1819.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1820-08-15</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023083">
+    <topic>Cherokee Indians--Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016091">
+    <topic>Boundaries</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A598</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A598/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003786_001209</identifier>
+  <titleInfo>
+    <title>Wiley Oakley, "The Roaming Man of the Mountains" Gatlinburg, Tenn. A Scene on the Appalachian Trail, in Great Smoky Mountains National Park (N-476)</title>
+  </titleInfo>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A108049</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A108049/datastream/TN/view</url>
+  </location>
+  <abstract>Unused postcard.</abstract>
+  <abstract>For nearly 40 years Wiley Oakley has been guiding hunters and tourists through the Smokies - among these being such noted persons as Henry Ford, John D. Rockefeller, Jr., and Kate Smith, the singer. He has appeared on the radio and recently has written a book entitled "Roaming with the Roaming Man of the Mountains", which tells some of his expereinces. A natural woodsman, he is never happier than when out among the trees, birds, and wild animals, and he is a familiar and well-loved sight to the visitors to this section</abstract>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Postcards from the Great Smoky Mountains</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ridley Wills Postcard Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3781</identifier>
+  </relatedItem>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name>
+    <namePart>Asheville Post Card Co.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/subjects/sh85006076">Appalachian Trail</geographic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136255">Tourism</topic>
+  </subject>
+  <subject>
+    <geographic authority="dots">Appalachian Trail</geographic>
+  </subject>
+  <subject/>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1999</dateCreated>
+    <publisher>Asheville Post Card Co.</publisher>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

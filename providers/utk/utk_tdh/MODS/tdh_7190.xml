@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl024</identifier>
+  <identifier type="pid">tdh:7190</identifier>
+  <identifier type="oclc">48060881</identifier>
+  <titleInfo>
+    <title>[Letter] 1788 Aug. 3, Nashville, [to] Honorable Alexander McGillivray / James Robertson. [Explanation of a letter] 1859, "Opposition of McGillivray the Great Chief of the Creeks" / A.W. Putnam</title>
+  </titleInfo>
+  <abstract>This document, entitled "Opposition of McGillivray the Great Chief of the Creeks" is comprised of two parts. The first is a letter written by Colonel James Robertson to Creek chief Alexander McGillivray on August 3, 1788. In that letter, Robertson discussed episodes of violence between the Creeks and/or Cherokees and American settlers and troops. Robertson also offered McGillivray a gun and some land in the Cumberland region. The second part of the document is a detailed explanation of Robertson's letter written by A.W. Putnam in 1859. Putnam provided an analysis of the historical context of the letter as well as his own opinions of the situations at hand at the time the letter was written. Putnam described the hostilities that existed between the Creeks and the American frontier settlers. He painted a portrait of the Creeks and the other tribes of the region as "treacherous and wily and cruel savages" who were working with foreign governments, particularly the Spanish, to undermine American aims. Putnam analyzed the connotation of Robertson's words to McGillivray, by stating that it was both threatening and complementing at the same time. Putnam also related details of the state of the American government at the time, particularly the shift from the initial loose confederacy of states to the current federalist form of government. He discussed how the initial instability, particularly in the South, of the newly formed United States, desires to settle West, and ongoing conflicts with the Spanish complicated relations with the Native American tribes, specifically the Creeks. Putnam also reported his analysis of McGillivray's character. McGillivray is presented as a cunning, influential man who was after his own interests and who was working with the Spanish to thwart American settlement. To Putnam, Robertson's letter presented McGillivray with a compromise--that his financial and political success would be guaranteed as long as he used his influence to encourage American aims in the frontier. As Putnam noted, two years after Robertson's 1788 letter, a treaty was concluded which established secure Indian land boundaries, ceded a large territory of land to the US, and gave McGillivray the rank of Brigadier General and a salary from the government. Thus, the US government was able to allay the Creek Nation.</abstract>
+  <name>
+    <namePart>Robertson, James, 1742-1814</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Putnam, A. W. (Albigence Waldo)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1788-08-03</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Creek Indians--Warfare</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85072878">
+    <topic>McGillivray, Alexander</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033892">
+    <topic>Creek Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008476">
+    <topic>Creek Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7190</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7190/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

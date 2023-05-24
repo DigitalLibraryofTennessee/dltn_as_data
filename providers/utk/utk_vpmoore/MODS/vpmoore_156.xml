@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000071</identifier>
+  <titleInfo>
+    <title>[Photograph of one man standing outdoors posting for photograph with four young women in their canning club uniforms]</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Sauer</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A156</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A156/datastream/TN/view</url>
+  </location>
+  <abstract>Photograph of a man in a suit and a tie with four young women in their canning club uniforms. Location unknown. Stamp in lower right corner, "Photo by Sauer." Left upper and lower corners missing. Photo verso has advertisement and stamp of the Sauer Studio, Paris, Tenn.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Tennessee</geographic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Clubs</topic>
+  </subject>
+  <subject>
+    <topic>Uniforms</topic>
+  </subject>
+  <subject>
+    <topic>Canning and preserving</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Societies and clubs</topic>
+  </subject>
+</mods>

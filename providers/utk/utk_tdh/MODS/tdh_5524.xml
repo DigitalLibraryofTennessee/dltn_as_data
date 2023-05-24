@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl368</identifier>
+  <identifier type="pid">tdh:5524</identifier>
+  <titleInfo>
+    <title>[Letter] 1818 Sep. 20, Hendersonville, T[ennessee] [to] Andrew J[ackson] Donelson, West Point, New York / Daniel S. Donelson</title>
+  </titleInfo>
+  <abstract>This document is a letter, dated September 20, 1818, from Daniel Donelson to his brother Andrew Jackson Donelson at West Point academy. Daniel writes about the death of their grandfather, and he discusses how proud the family is of Andrew's performance in school. Daniel also updates his brother on other family news, included the illness of their uncle Severn Jackson, and an upcoming Indian treaty involving another uncle, Andrew Jackson.</abstract>
+  <name>
+    <namePart>Donelson, Daniel S.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1818-09-20</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076819">
+    <topic>Stressful life events</topic>
+  </subject>
+  <subject>
+    <topic>School and continuing education</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133884">
+    <geographic>Tennessee, Middle</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bettie M. Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5524</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5524/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

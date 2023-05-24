@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl006</identifier>
+  <identifier type="pid">tdh:7163</identifier>
+  <identifier type="oclc">47798740</identifier>
+  <titleInfo>
+    <title>[Letter] 1815 Nov. 11, [to] gentlemen of the Senate House of Representatives, [Washington, D.C.] / McMinn, Joseph, Governor of Tennessee</title>
+  </titleInfo>
+  <abstract>This document is a letter, dated November 11, 1815, written by Joseph McMinn, Governor of the state of Tennessee (1815-1821) addressed to the Senate and House of Representatives in Washington DC. In his letter, Governor McMinn informed the House and Senate that he had enclosed for their consideration a copy of an agreement between the United States (by Agent William Cocke) and the Chickasaw Nation concerning the opening of a road from Reynoldsberg. Governor McMinn wrote that the United States would not bear any of the expenses of opening the road. Governor McMinn stressed that the road would not only be of importance to the citizens of Tennessee, but also to those of Kentucky and Ohio.</abstract>
+  <name>
+    <namePart>McMinn, Joseph, 1758-1824</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1815-11-11</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023285">
+    <topic>Chickasaw Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85114491">
+    <topic>Roads--Design and construction</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79006865">
+    <topic>United States. Congress</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79049197">
+    <geographic>Ohio</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+    <geographic>Kentucky</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7163</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7163/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

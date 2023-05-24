@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001011_000286</identifier>
+  <identifier type="pid">thompson:87</identifier>
+  <titleInfo>
+    <title>Alum Cave</title>
+  </titleInfo>
+  <abstract>About half way up the south side of Mt. Le Conte is a huge over-hanging cliff, which has long been known as Alum Cave. During the Civil war, salt peter was mined, on a small scale, under the bluff, and the natives confused this salt-peter with alum, thence the name "Alum Cave". This spectacular spot is on the foot trail from Newfound Gap highway to the top of Mt. Le Conte, and is about two and half miles from "Grassy Patch" where the cars should be parked when taking this hike. It is a favorite destination for naturalist and is extremely interesting to park visitors.</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4635946">
+    <geographic>Mount Le Conte</geographic>
+    <cartographics>
+      <coordinates>35.65435, -83.43672</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12123289">
+    <geographic>Alum Cave Bluff</geographic>
+    <cartographics>
+      <coordinates>35.63888, -83.44603</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+    <identifier>MS-3719</identifier>
+    <location/>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A87</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A87/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

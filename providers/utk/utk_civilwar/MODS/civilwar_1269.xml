@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000075_000200_0000</identifier>
+  <titleInfo>
+    <title>Letter, William A. Huddard in Knoxville, Tenn. to his father in Ohio, 1863 December 13</title>
+  </titleInfo>
+  <abstract>In this letter, dated December 13, 1863, William A. Huddard in Knoxville, Tenn., writes to his father in Ohio, discussing their march from Chattanooga to Knoxville. He also describes Knoxville as being "at one time a splendid place, but now it is pretty well run down." In addition, he informs his father of the pro-Union disposition of many of the East Tennesseeans: "In some counties we passed through you could not find a single rebel; all were for the Union."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1863-12-13</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Huddard, William A.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Soldiers -- Ohio -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Food conservation -- Tennessee -- Knoxville -- History -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Huddard, William A. -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Ohio Infantry Regiment, 1st (1861-1864). Company D</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1269</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1269/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The William A. Huddard Papers, 1863</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

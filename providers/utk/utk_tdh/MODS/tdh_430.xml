@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch078</identifier>
+  <identifier type="pid">tdh:430</identifier>
+  <titleInfo>
+    <title>[Address] 1837 Mar. 22, Headquarters, New Echota, G[eorgi]a / Br[i]g[adier] Gen[era]l John E. Wool</title>
+  </titleInfo>
+  <abstract>This document is an address from Brigadier General John E. Wool, at army headquarters in New Echota, to the Cherokees, dated March 22, 1837. Wool informs the Cherokees that they have until May 25, 1838 to remove to a territory west of the Mississippi according to the provisions of the New Echota Treaty (signed in 1835) or else be forced to remove by U.S. soldiers. Wool threatens them with despicable treatment and tells them their fate will be even worse than the Creeks if they do not cooperate and remove voluntarily.</abstract>
+  <name>
+    <namePart>Wool, John Ellis, 1784-1869.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-03-22</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023090">
+    <topic>Trail of Tears, 1838</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001525">
+    <topic>Cherokee Indians--Relocation</topic>
+  </subject>
+  <subject>
+    <topic>Creek Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A430</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A430/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

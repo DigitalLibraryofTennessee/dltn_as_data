@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl053</identifier>
+  <identifier type="pid">tdh:6684</identifier>
+  <identifier type="oclc">50030646</identifier>
+  <titleInfo>
+    <title>[Speeches, Addresses, etc.] 1813 Feb. 27, Washington / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is an address written by John Sevier on February 27, 1813. Sevier discusses the topics and events that have taken place in Washington during the last government session. In the address, Sevier states that more money and manpower will be given to the army and navy in order to fight the British. The navy at this time is strong, while the army's land battles have not been very successful. In fighting the British, many American soldiers have been taken as prisoners in Canada. Sevier worries that with the southern soldiers joining the northern troops near the Canadian border, that the Cherokee and whites remaining in the south will be at war over land and rights. Sevier states that Congress has reported using $21 million in expenditures and proposes a further $20 million be used for merchant bonds. Congress also rejected a bill requiring a 25 cent per gallon tax on the sale of whiskey. Sevier concludes the address by mentioning events and disputes in Europe between England, Spain, France, and Russia.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1813-02-27</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140419">
+    <topic>United States--Politics and government--1789-1815</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85126460">
+    <topic>Speeches, addresses, etc</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6684</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6684/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

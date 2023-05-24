@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl437</identifier>
+  <identifier type="pid">tdh:8254</identifier>
+  <titleInfo>
+    <title>1818 Nov. 25, Franklin, Tennessee [to] John Overton, Nashville, Tennessee / R. McGavock</title>
+  </titleInfo>
+  <abstract>This is a letter to John Overton from R. McGavock, dated November 25, 1818. McGavock has just found a place in the territory on the Missouri River in which to settle. He describes in great detail how good the alluvial land is for growing crops. McGavock describes the local wild foliage. McGavock writes that it is also perfect for livestock as there are many grassy meadows. He believes that the area will have a greater population than Tennessee because the farm land is so fertile. McGavock offers to act as agent to Overton and any others who want to invest in land in the territory.</abstract>
+  <name>
+    <namePart>McGavock, Randall</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1818-11-25</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85086237">
+    <topic>Missouri River</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85003731">
+    <topic>Alluvial plains</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85002415">
+    <topic>Agriculture</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Overton Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8254</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8254/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

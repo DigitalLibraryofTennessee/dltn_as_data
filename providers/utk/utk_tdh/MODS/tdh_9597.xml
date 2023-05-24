@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc021</identifier>
+  <identifier type="pid">tdh:9597</identifier>
+  <identifier type="oclc">50031284</identifier>
+  <titleInfo>
+    <title>Manifest of the whole Cargo on board of the Sloop Charming Sally, 1797 Nov. 11</title>
+  </titleInfo>
+  <abstract>This document is an inventory of the cargo aboard a ship entitled the Charming Sally. The ship traveled on November 11, 1797, from Murfreesboro, North Carolina to New York. The document was attested to by LA Murfree.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-11-11</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85020268">
+    <topic>Cargo ships</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n2004079167">
+    <topic>Charming Sally</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9597</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9597/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

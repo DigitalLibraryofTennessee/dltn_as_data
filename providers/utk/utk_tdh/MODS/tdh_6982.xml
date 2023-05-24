@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl207</identifier>
+  <identifier type="pid">tdh:6982</identifier>
+  <identifier type="oclc">49932166</identifier>
+  <titleInfo>
+    <title>[Letter] 1827 Oct. 9, Blountville, [Tennessee] [to] Samuel Houston, Nashville, Tennessee / Tho[ma]s White</title>
+  </titleInfo>
+  <abstract>The following document is a letter, dated October 9, 1827, written to Governor Sam Houston (1827-1829) from Thomas White, sheriff of Sullivan County. White writes in regards to a man by the name of James Havron who had recently escaped from Blountville Jail. He encloses a description of Havron and encourages the governor to offer a reward for the fugitive's capture.</abstract>
+  <name>
+    <namePart>White, Thomas</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1827-10-09</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n82151189">
+    <topic>Houston, Sam, 1793-1863</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85052244">
+    <topic>Fugitives from justice</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor Sam Houston Correspondence</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6982</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6982/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

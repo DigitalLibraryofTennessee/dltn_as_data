@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_004268_000146</identifier>
+  <identifier type="issn">2687-7325</identifier>
+  <identifier type="circular">255</identifier>
+  <identifier type="pid">agrutesc:1112</identifier>
+  <titleInfo>
+    <title>Report on studies of mold and the fruit gnat attacking the wild blackberry during the season</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>University of Tennessee Extension Special Circular 255</title>
+  </titleInfo>
+  <abstract>Special circular on research regarding the management of insect pests and mold harming wild blackberry growing in 1945.</abstract>
+  <name>
+    <namePart>Tennessee Valley Authority</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>University of Tennessee (Knoxville campus)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1946-02</dateCreated>
+    <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
+  </originInfo>
+  <note>This report is the result of cooperative efforts of the Tennessee Valley Authority and the University of Tennessee. The following men took part: Tennessee Valley Authority, Commerce Department, Irvin T. Olsen and E. C. Grubbs; Industry, W. E. Booker; University of Tennessee, Department of Bacteriology, D. F. Holtman; College of Agriculture, L. L. Davis; Agricultural Extension Service, Harry Carlton and T. R. Gilmore; and Agricultural Experiment Station, W. W. Stanley. -- Footnote on page one.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85002320">
+    <topic>Agricultural extension work</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85014646">
+    <topic>Blackberries</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100295">
+    <topic>Pests--Control</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85086566">
+    <topic>Molds (Fungi)</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <classification authority="lcc">S115. S3743</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Extension Special Circulars</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A1112</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrutesc%3A1112/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</accessCondition>
+</mods>

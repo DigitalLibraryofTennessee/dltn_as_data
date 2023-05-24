@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000083_000200_0000</identifier>
+  <titleInfo>
+    <title>Letter, Howard Hopkins in LaGrange, Tenn. to Abbie Watson in Clyde, Wayne County, N.Y., 1864 January 17</title>
+  </titleInfo>
+  <abstract>In this letter, dated January 17, 1864 at LaGrange, Tenn., Howard Hopkins of the 3rd Regiment Michigan Calvary writes to his cousin Abbie Watson in Clyde, Wayne County, N.Y. He discusses general news, hopes for returning home, a possible move with his Division to Texas and whether he will re-enlist or not. He says, "...untill those men in the North does do sompthing I shall not enlist again."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1864-01-17</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Hopkins, Howard</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Soldiers -- Tennessee -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, East -- History -- Civil War, 1861-1865 -- Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865 -- Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Hopkins, Howard -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>United States. Michigan Cavalry Regiment, 3rd (1861-1865)</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1226</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1226/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Howard Hopkins Letter, 1864</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

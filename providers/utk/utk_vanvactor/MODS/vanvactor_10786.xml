@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003979_000425</identifier>
+  <identifier type="pid">vanvactor:10786</identifier>
+  <titleInfo>
+    <title>24 etudes for flute</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Twenty-four etudes for flute</title>
+  </titleInfo>
+  <abstract>Publication layout of etude book.</abstract>
+  <tableOfContents>Allegro molto - Allegretto - Moderato - Vivace scherzando - Allegro moderato e grazioso - Allegretto. - Adagio, ma non tanto - Allegro, piu vivo - Vivace - Allegretto, quasi lento - Andante expressivo - Presto - Andante - Vivacissimo - Allegro molto - Allegretto moderato - Maestoso - Lento, expressivo, con movemiento - Vivace - Andantino - Allegro - Allegro, Tempo di marcia - Allegretto - Allegro commodo</tableOfContents>
+  <note type="instrumentation">For flute.</note>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015268">flute</genre>
+  <originInfo>
+    <dateCreated encoding="edtf">1983</dateCreated>
+    <publisher>Roger Rhodes Music</publisher>
+  </originInfo>
+  <name>
+    <namePart>Van Vactor, David, 1906-1994</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85049456">
+    <topic>Flute--Studies and exercises</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001795">
+    <topic>Music</topic>
+  </subject>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014027115">Studies (Music)</genre>
+  <relatedItem type="otherVersion">
+    <titleInfo>
+      <title>Twenty-four etudes for flute</title>
+    </titleInfo>
+    <identifier type="catalog">M124</identifier>
+  </relatedItem>
+  <typeOfResource>notated music</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>David Van Vactor Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Van Vactor Papers</title>
+    </titleInfo>
+    <identifier>MS.1942</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8pz5703</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A10786</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A10786/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um052</identifier>
+  <identifier type="pid">tdh:8570</identifier>
+  <identifier type="oclc">50295653</identifier>
+  <titleInfo>
+    <title>[Letter] 1846 May 2, Memphis [Tennessee] [to] Mary C. Porter</title>
+  </titleInfo>
+  <abstract>This document is a letter, whose author is unidentified, addressed to Mary C. Porter on May 2, 1846. The author is most likely someone from Mary's immediate family, as the letter discusses social and family events such as Mary's brother Edward's illness, Mary joining a church, his school, and a new boat called the 'Gray Eagle'.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1846-05-02</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85147140">
+    <topic>Wit and social status</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letter MS 154 (Letters 1846-1849)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8570</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8570/datastream/TN/view</url>
+  </location>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0023_000060_000279</identifier>
+  <identifier type="pid">thompson:225</identifier>
+  <identifier type="photograph number">ThGSM 088</identifier>
+  <titleInfo>
+    <title>Close-Up, Chimney Tops</title>
+  </titleInfo>
+  <abstract>There are few, if any, more thrilling climbs in the Great Smoky Mountains National Park than the short but extremely rough ascent of the Chimney Tops, seen here. These jagged peaks rise precipitously above the west prong of Little Little Pigeon River and the Newfound Gap Highway. For about five miles along this spectacular motor road the motorist is looking up to these peaks. Then, just before reaching the Tennessee-North Carolina state line at Newfound Gap, he may look down upon them. There is no graded trail or road up the Chimney Tops, this being one of the peaks left for the enjoyment of the increasing numbers of hikers who like to "rough it."</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note>To use photographs or to order reproductions which belong to the McClung Historical Collection, contact DigitalCollections@knoxlib.org or phone 865 215-8814. Please share the following identifier (ThGSM 088) and provide a brief description of the photograph.</note>
+  <note>See metadata for corresponding image in the McClung Historical Collection here: http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/271/rec/4</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4613357">
+    <geographic>Chimney Tops</geographic>
+    <cartographics>
+      <coordinates>35.62999, -83.47803</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="original">
+    <location>
+      <url>http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/271/rec/4</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A225</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A225/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

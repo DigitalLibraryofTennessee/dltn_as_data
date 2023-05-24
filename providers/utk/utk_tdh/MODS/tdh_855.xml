@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mm074</identifier>
+  <identifier type="pid">tdh:855</identifier>
+  <identifier type="oclc">48039752</identifier>
+  <titleInfo>
+    <title>[Photograph of pipe fragments from the Chattooga site, taken in 1993] / [by Gerald F. Schroedl] : a machine-readable transcription</title>
+  </titleInfo>
+  <abstract>This is a photograph of pipe fragments collected at the Chattooga site. Chattooga is a Cherokee archaeological site that was formerly called 'Cherokee Town.' Cherokee Town was an 18th century village associated with the Lower town Cherokee communities of northern Georgia and western South Carolina. The site is thought to have been occupied for only 160 years and was abandoned by the Cherokees in the 1740s. This site is given special attention because it retained early 18th century Cherokee material culture. This material culture is difficult to find and distinguish on other Cherokee sites of the same time period. The University of Tennessee (UT) and the Francis Marion National Forest conducted archaeological excavations at Chattooga during 1989-1994. The focus of these excavations was to develop a better understanding of the nature of the historical Cherokee occupation at the site and compare these findings with those found on other 18th century Cherokee sites. As a result of these excavations, archaeologists were able to identify and partially excavate the remains of five superimposed council houses. In addition, the excavations of two winter structures and one summer domestic structure were conducted. Through the use of surface collection, test pit excavations, and remote sensing equipment, vast amounts of artifacts and the location of additional buildings and features were found with minimal disturbance to the site. The excavation of Chattooga is still an active research project with additional findings in the process of being documented.</abstract>
+  <name>
+    <namePart>Schroedl, Gerald F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1993</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85101195">
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Antiquities</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85135743">
+    <topic>Tobacco pipes</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85061115">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79022914">
+    <geographic>South Carolina</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79023113">
+    <geographic>Georgia</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A855</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A855/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>

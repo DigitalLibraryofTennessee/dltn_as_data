@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mm044</identifier>
+  <identifier type="pid">tdh:907</identifier>
+  <identifier type="oclc">45096132</identifier>
+  <titleInfo>
+    <title>[Aerial photograph of Fort Loudoun during archaeological excavations, taken in 1976] / [by Karl Kutruff]</title>
+  </titleInfo>
+  <abstract>This is an aerial photograph of Fort Loudoun during archaeological excavations by the University of Tennessee in 1976. Fort Loudoun was a British colonial military post on the lower Little Tennessee River that was occupied from 1756-1760. It was built in Overhill Cherokee territory in what is presently Monroe County and named for John Campbell, the Earl of Loudoun, who was commander-in-chief of British forces in the colonies. William G. De Brahm designed the fort, but abandoned the project because of disagreements he had with Capt. Demerre who commanded the militia troops and British regulars stationed at the post. Survival of this frontier outpost was dependent upon good relations with the Cherokees who supplied food for trade goods. During the French and Indian War, tensions began to mount between the Cherokees and the colonists. In March 1760 the Cherokees laid siege to the fort, cutting off supplies and forcing its surrender. Excavations of Fort Loudoun were conducted by the University of Tennessee from 1975-1977 in anticipation of the flooding of the lower Little Tennessee River by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator and Field Director, Carl Kutruff.</abstract>
+  <name>
+    <namePart>Kutruff, Karl</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1976</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99001232">
+    <topic>Aerial photographs</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85116926">
+    <topic>Salvage archaeology</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85061115">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh92000853">
+    <geographic>Fort Loudoun Lake (Tenn.)</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A907</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A907/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

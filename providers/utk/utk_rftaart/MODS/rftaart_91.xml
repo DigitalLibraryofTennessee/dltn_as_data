@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">rftaart:91</identifier>
+  <titleInfo>
+    <title>Russell Biven Reports the Local Disaster</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">2022</dateCreated>
+  </originInfo>
+  <abstract>Local reporters found themselves covering an international story. WBIRS' Russell Biven, who had covered the area for 20 years, worked hard not to pass along rumors and to get out ways for the viewers to help. But it was emotional work. Although he had covered Katrina, this was different. This was home. And the world was watching. At one point over 1,000,000 viewers were watching on Facebook. Biven refused to stay in a hotel. He didn't want to take a bed from an evacuee. "I drove home every night to hug my family." When it was over, Biven was tired but comforted knowing that when something bad happens in East Tennessee someone will have your back.</abstract>
+  <name>
+    <namePart>Ramsey, Marshall</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010656">
+    <topic>Television news anchors</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>moving image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="references">
+    <location>
+      <url>https://rfta.lib.utk.edu/interviews/object/russell-biven-2020-02-21</url>
+    </location>
+    <identifier type="pid">rfta:63</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="art" type="constituent">
+    <identifier type="pid">rftaart:21</identifier>
+    <identifier type="local">RFTA_Marshall_008</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="compilation video" type="constituent">
+    <identifier type="pid">rftaart:68</identifier>
+    <identifier type="local">RussellBiven_Marshall_008</identifier>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A91</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A91/datastream/TN/view</url>
+  </location>
+</mods>

@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>H. Pomeroy in Chattanooga, TN to General John Eaton in Washington, D.C.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Public opinion -- United States.</topic>
+  </subject>
+  <subject>
+    <topic>Reconstruction (U.S. History, 1865-1877) -- Tennessee</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Race Relations.</geographic>
+  </subject>
+  <subject>
+    <topic>Ku-Klux Klan (1866-1869) -- Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Civil and Human Rights.</topic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Hamilton County.</geographic>
+  </subject>
+  <note>Pomeroy describes the letter he sent to the Chicago Republican.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000053_000230_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4142</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4142/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4142</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4142/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

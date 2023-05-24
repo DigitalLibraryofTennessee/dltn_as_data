@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000108</identifier>
+  <identifier type="legacy">egypt692</identifier>
+  <identifier type="acquisition">1992.2.17</identifier>
+  <titleInfo>
+    <title>(Karnak) Propylone du Nord.</title>
+  </titleInfo>
+  <abstract>Gateway of Ptolemy III, Euergetes I at Karnak, East Thebes (Ptolemaic Period); free standing gateway topped tih a winged sun disk on the lintel, rows of deities and kings inscribed onto pillars, two Egyptian men and two boys stand on either side of entrance with stone fragment in shadows; ruins, desert, and vegetation (background); "(karnak) Propylone du Nord. 1082 Photogr. Art. G. Lekegian. &amp; Co." in white along bottom of print. (Number on object is 17/655).</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1865/1895</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>G. Lékégian &amp; Cie. ca.1865-ca. 1895</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80105072">Karnak (Egypt)</geographic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85135940">Tombs--Egypt</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2003005546">Khonsu (Egyptian deity)</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A108</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A108/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of Marcia S. Young, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

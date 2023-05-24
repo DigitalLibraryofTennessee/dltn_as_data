@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_002976_000212_0000</identifier>
+  <titleInfo>
+    <title>Record, Question Sheet for the 12th United States House of Representatives, 1812 April 9</title>
+  </titleInfo>
+  <abstract>This tally sheet records the vote on an unknown question posed to the 12th United States House of Representatives on April 9, 1812. It lists all the members of the House and gives a final count of 69 Yea, 36 Nay.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1812-04-09</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>United States -- Politics and government -- 1809-1817</topic>
+  </subject>
+  <subject>
+    <topic>United States. Congress -- History -- 19th century</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79107874"/>
+  <subject>
+    <topic>Voting</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/revwar%3A5</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/revwar%3A5/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+    </titleInfo>
+    <identifier>MS.3518</identifier>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

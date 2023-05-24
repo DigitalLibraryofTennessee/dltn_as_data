@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um042</identifier>
+  <identifier type="pid">tdh:8611</identifier>
+  <identifier type="oclc">50281238</identifier>
+  <titleInfo>
+    <title>[Letter] 1835 Apr. 27, Moor[e]field, Hardy C[oun]ty, V[irgini]a [to] Leroy B. Gaston Esq[uire] / A. Anderson</title>
+  </titleInfo>
+  <abstract>This document is a letter written to Leroy B. Gaston from A. Anderson on April 27, 1835. In the letter, Anderson discusses the political climate in Virginia, financial matters, and social events, including the Winchester Presbytery that is in town.</abstract>
+  <name>
+    <namePart>Anderson, A.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1835-04-27</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85143775">
+    <topic>Virginia--Politics and government--1775-1865</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letters MS154 (letters1830-1839)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8611</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8611/datastream/TN/view</url>
+  </location>
+</mods>

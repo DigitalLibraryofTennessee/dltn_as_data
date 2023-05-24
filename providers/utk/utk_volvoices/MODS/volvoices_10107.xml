@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Central Star, February 1930</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>newsletters</genre>
+  <subject>
+    <topic>Student newspapers and periodicals.</topic>
+  </subject>
+  <subject>
+    <topic>Poverty.</topic>
+  </subject>
+  <subject>
+    <geographic>Dickson County (Tenn.) -- Newspapers</geographic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <topic>Arts and Literature.</topic>
+  </subject>
+  <subject>
+    <geographic>The Great Depression and World War II (1929-1945).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Dickson County.</geographic>
+  </subject>
+  <note>This is a student paper published by the students of Dickson Central High School, called the Central Star. Included are two distinct essays. "In 1950" is a projection into the future, in which the author believes there will be robots, flying cars and boats, instantaneous mail delivery, etc. "On poverty" is an essay which discusses the nature of poverty, and suggests that wealth can mean different things to different people depending on their circumstances. Pages include advertisements at bottom.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0080_000051_000202_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10107</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10107/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10107</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10107/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">RFTA_Braddock_008</identifier>
+  <identifier type="pid">rftaart:8</identifier>
+  <titleInfo>
+    <title>A Family Embraces Their Well-Being</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
+  </originInfo>
+  <abstract>This work illustrates a comment heard in many of the Rising from the Ashes interviews. People escaped with small things that they thought they cherished, and for those that lost so much, there was ultimately a realization that what really mattered most was the safety of loved ones . . . family and friends.</abstract>
+  <name>
+    <namePart>Braddock, Paige</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm012404">
+    <topic>Family members</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A8</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A8/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

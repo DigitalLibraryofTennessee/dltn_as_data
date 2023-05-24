@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_003707_000087</identifier>
+  <name>
+    <namePart>Gamble, Ed</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>We save up for a trip of a lifetime and then spend it walking around scared of our shadows!</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf">1986</dateCreated>
+    <publisher>Florida Times-Union</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <genre>International relations--Caricatures and cartoons</genre>
+  <abstract>While walking through an international airport, an irate woman complains about laying low during her overseas trip. Her nervous husband tries to quiet her down. Both are wearing t-shirts reading "I am not an American."</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>Inscribed notes on the side of cartoon.</note>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A87</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A87/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>International relations</topic>
+  </subject>
+  <subject>
+    <topic>International travel</topic>
+  </subject>
+  <subject>
+    <topic>Tourism</topic>
+  </subject>
+  <subject>
+    <geographic>United States</geographic>
+  </subject>
+  <subject>
+    <geographic>Europe</geographic>
+  </subject>
+  <subject>
+    <geographic>Africa</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3763</identifier>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida Times-Union</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_003707_000087</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The March of Freedom</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>speeches</genre>
+  <subject>
+    <topic>Freedom of speech.</topic>
+  </subject>
+  <subject>
+    <topic>World War II.</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Gore, Albert, 1907-1998.</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <geographic>The Great Depression and World War II (1929-1945).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Davidson County.</geographic>
+  </subject>
+  <note>In a speech prepared for the Tennessee Press Association in Nashville, Congressman Albert Gore argues that the United States must "win the [the second world] war swiftly and decisively," and "lead the nations of the world in a cooperative post-war structure dedicated to peace, mutual helpfulness, civilization, law, and order." He also believes that Americans have a responsibility to "make sure that the common man`s march of freedom here...survives this setback and moves relentlessly forward to a more equitable sharing." Gore argues that a strong, healthy freedom of press is indispensable to the accomplishment of those aspirations.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0039_000059_000205_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8551</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8551/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8551</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8551/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000016</identifier>
+  <identifier type="legacy">egypt600</identifier>
+  <identifier type="acquisition">1996.10.3</identifier>
+  <titleInfo>
+    <title>Saqqarah, Tombeau de Ti.</title>
+  </titleInfo>
+  <abstract>Mastaba Tomb of Ti at Sakkara (Old Kingdom Dynasty V); hieroglyphs inscribed broken columns within a sunken brick enclosure, six Egyptian men stand in ruins; one man crouches in sands (background); "No 137 Saqqarah, Tombeau de Ti. H. Bechard." in white along bottom of print.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1869/1889</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Béchard, Henri 1869-late 1880s</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81124915">?aqq?rah (Egypt)</geographic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85135940">Tombs--Egypt</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A16</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A16/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of the Friends of Egyptology, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

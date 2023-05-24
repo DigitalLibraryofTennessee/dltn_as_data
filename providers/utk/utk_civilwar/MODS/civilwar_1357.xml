@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000074_000202_0000</identifier>
+  <titleInfo>
+    <title>Letter, John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, 1863 December 15</title>
+  </titleInfo>
+  <abstract>In this letter, dated December 15, 1863, from John Watkins in Knoxville, Tenn. to John Probert in Pittsfield, Ohio, Watkins describes the Confederate siege of Knoxville and the assault on Fort Sanders, which he refers to as "the fort on the west side of town." The death of General William P. Sanders is mentioned: "Gen'l Sanders was mortally wounded while leading a charge on the rebel rifle pits, died the next night."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1863-12-15</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Watkins, John</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1357</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1357/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The John Watkins Papers, 1863</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

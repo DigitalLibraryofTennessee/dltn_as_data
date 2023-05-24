@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl014</identifier>
+  <identifier type="pid">tdh:7293</identifier>
+  <identifier type="oclc">47800969</identifier>
+  <titleInfo>
+    <title>Map of U.S. states and territories to the edge of the Louisiana Territory showing Native American distribution, 1778</title>
+  </titleInfo>
+  <abstract>This is a map of the States in 1778. State boundaries, rivers, and Indian tribes living in the area at the time appear.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1778</dateCreated>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065184">
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140139">
+    <topic>United States--History--Revolution, 1775-1783</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>cartographic</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7293</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7293/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Burning of Ell Person at Memphis</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>reports</genre>
+  <subject>
+    <topic>Criminal investigation.</topic>
+  </subject>
+  <subject>
+    <geographic>Memphis (Tenn.) -- Police</geographic>
+  </subject>
+  <subject>
+    <topic>Johnson, James Weldon, 1871-1938.</topic>
+  </subject>
+  <subject>
+    <topic>Law and Legal Documents.</topic>
+  </subject>
+  <subject>
+    <topic>African-Americans.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <note>Subtitled "A Report made for the National Association for the Advancement of Colored People." The author, James Weldon Johnson, was the Field Secretary for the NAACP. The report details the investigation of a murder that occurred in Memphis on April 30, 1919 of a 16 year old girl named Antoinette Rappal. Several allegations were made against both black and white men. The report brings together articles from the Memphis Press.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0022_000050_000224_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8288</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8288/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8288</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8288/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0116_000050_000372</identifier>
+  <titleInfo>
+    <title>New Partnerships: Education's Stake in the Family Support Act of 1988</title>
+  </titleInfo>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A14690</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/cdf%3A14690/datastream/TN/view</url>
+  </location>
+  <abstract>This document highlights the aspects of the Family Support Act (FSA) that are relevantr to both the education and the public welfare communities, describes the opportunities that FSA oiffers for both systems to meet their own and shared goals for populations at risk, and emphasizes the importance and benefits of collaborative among education and the human services in implementing FSA.</abstract>
+  <relatedItem displayLabel="Digital Collection" type="host">
+    <titleInfo>
+      <title>Children's Defense Fund</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <subject>
+    <geographic valueURI="http://id.loc.gov/authorities/names/n78095330">United States</geographic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85146031">Welfare recipients</topic>
+  </subject>
+  <subject>
+    <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023355">Child care services</topic>
+  </subject>
+  <subject/>
+  <note>A Statement of: American Public Welfare Association, Center for Law and Social Policy, Center for Study of Social Policy, CDF, Council of Chief State School Officers, Institute for Educational Leadership, National Alliance of Business, National Assoc. of State Boards of Educ., and National Governors' Association</note>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</recordContentSource>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC-NC/1.0/">In Copyright - Non-Commercial Use Permitted</accessCondition>
+</mods>

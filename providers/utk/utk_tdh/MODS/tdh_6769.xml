@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl032</identifier>
+  <identifier type="pid">tdh:6769</identifier>
+  <identifier type="oclc">50021698</identifier>
+  <titleInfo>
+    <title>[Legal agreement] 1819 Dec. 13 [between Jesse Maxwell and John R. Dunn, et.al.]</title>
+  </titleInfo>
+  <abstract>This document is a legal agreement between Jesse Maxwell and John R. Dunn, et.al., the trustees of a school. The agreement states that Maxwell has given an acre of his property to the school in order to build a brick schoolhouse. The agreement also states that the trustees paid Maxwell $1.00 for the use of a water spring and a pathway used by the teachers and students of the school to access the spring. It is stated that both Maxwell and the school are to have equal access to the spring.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1819-12-13</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118362">
+    <topic>School management and organization</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee Historical Society</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6769</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6769/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

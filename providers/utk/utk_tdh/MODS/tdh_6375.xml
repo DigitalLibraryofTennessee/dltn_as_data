@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl131</identifier>
+  <identifier type="pid">tdh:6375</identifier>
+  <identifier type="oclc">50541556</identifier>
+  <titleInfo>
+    <title>[Legal Inventory of Estate] 1840, June 5 and 1841, Jan. 29, Dickson County, Tennessee [of] Walter Bell / [signed by] A. Caldwell, Gilford Mills, and W.T. Reynolds</title>
+  </titleInfo>
+  <abstract>These are two documents. One is a list of the perishable items of Walter Bell's estate, dated June 5, 1840. The other is a statement giving the value of his real estate, dated Jan. 29, 1841. The total value of the Bell estate, including perishable items, is set at $3,063.55.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1840-06-05</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111739">
+    <topic>Real property</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85044938">
+    <topic>Estate planning</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6375</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6375/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

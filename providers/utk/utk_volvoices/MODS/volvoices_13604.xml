@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Affidavit of William Barrett</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>manuscripts</genre>
+  <subject>
+    <geographic>United States -- History -- Civil War, 1861-1865 -- Claims.</geographic>
+  </subject>
+  <subject>
+    <topic>Affidavits.</topic>
+  </subject>
+  <subject>
+    <geographic>Charleston (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Bradley County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Sherman, William T. (William Tecumseh), 1820-1891</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Law and Legal Documents.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Bradley County.</geographic>
+  </subject>
+  <note>Affidavit of William Barrett of Charleston, Tennessee regarding the property of James P. Bates, who lost a great deal of property during the Civil War to Federal troops. Other documents include itemized account of lost property and the compensation that Bates is to be paid. Includes losses caused by the troops of Gen. Sherman, Col. Goode, Col Scott, Col Dibrell, Col Rucker, and Maj. Gen. Wheeler.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0016_000050_000244_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13604</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13604/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13604</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A13604/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

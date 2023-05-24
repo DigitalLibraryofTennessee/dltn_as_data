@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um091</identifier>
+  <identifier type="pid">tdh:8391</identifier>
+  <identifier type="oclc">50323681</identifier>
+  <titleInfo>
+    <title>[Letter] 1844 Jun. 25, Jackson, Tenn[essee] [to] Col[onel] Robert J. Chester, Jonesboro, East Tennessee / M[ary] J[ane] Chester</title>
+  </titleInfo>
+  <abstract>This document is a letter, dated June 25, 1844, from Mary Jane Chester in Jackson, TN, to her father Colonel Robert J. Chester. Colonel Chester was visiting his family in Jonesboro, and Mary Jane writes this letter to update her father on the news of Jackson and the condition of all the children. Among the items she discusses are the formation of a voluntary military company to send to Texas during the Mexican-American War and the upcoming plans of Jackson's Democratic Party.</abstract>
+  <name>
+    <namePart>Chester, Mary Jane</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-06-25</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140201">
+    <topic>Mexican War, 1846-1848</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Chester Family Papers MS-25 (1844-1873)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8391</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8391/datastream/TN/view</url>
+  </location>
+</mods>

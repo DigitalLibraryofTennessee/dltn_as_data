@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>White County vs. David England</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>civil court records</genre>
+  <subject>
+    <topic>Illegitimate children.</topic>
+  </subject>
+  <subject>
+    <geographic>White County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Law and Legal Documents.</topic>
+  </subject>
+  <subject>
+    <topic>Women.</topic>
+  </subject>
+  <subject>
+    <topic>Children and Childhood.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- White County.</geographic>
+  </subject>
+  <subject>
+    <topic>England, David; Lackens, Mary Jane; Sullivan, Jesse M.; Brown, Daniel.</topic>
+  </subject>
+  <note>Records of a case brought against David England by Mary Jane Lackens. A warrant from Jesse M. Sullivan, Justice of the Peace, orders the sheriff to bring England in on the charge of bastardy for fathering an illegitimate child with Lackens. England paid $90 to Lackens for support of the child and asserted that the child would not become a county charge. Lackens attested that England paid the $90 for support and signed it with her mark.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0077_000050_000200_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6619</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6619/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6619</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6619/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

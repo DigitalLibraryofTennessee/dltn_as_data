@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003979_000019</identifier>
+  <identifier type="pid">vanvactor:11465</identifier>
+  <titleInfo>
+    <title>Ascension day collect: SATB + organ</title>
+  </titleInfo>
+  <abstract>Published score.</abstract>
+  <note type="instrumentation">For soprano, alto, tenor, bass, and organ.</note>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015666">soprano voice</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015017">alto voice</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015725">tenor voice</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015071">bass voice</genre>
+  <genre authority="lcmpt" valueURI="http://id.loc.gov/authorities/performanceMediums/mp2013015519">organ</genre>
+  <originInfo>
+    <dateCreated encoding="edtf">2007</dateCreated>
+    <publisher>Roger Rhodes Music</publisher>
+  </originInfo>
+  <note type="First line">Almighty God whose blessed Son our Savior Jesus Christ ascended far above all heavens.</note>
+  <name>
+    <namePart>Van Vactor, David, 1906-1994</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85024801">
+    <topic>Choruses, Sacred (Mixed voices, 4 parts) with organ</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008532">
+    <topic>Ascension Day music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001795">
+    <topic>Music</topic>
+  </subject>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026635">Anthems</genre>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/subjects/sh99001779">Scores</genre>
+  <relatedItem type="otherVersion">
+    <titleInfo>
+      <title>Ascension day collect</title>
+    </titleInfo>
+    <identifier type="catalog">M008</identifier>
+  </relatedItem>
+  <typeOfResource>notated music</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>David Van Vactor Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Van Vactor Papers</title>
+    </titleInfo>
+    <identifier>MS.1942</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8pz5703</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A11465</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vanvactor%3A11465/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

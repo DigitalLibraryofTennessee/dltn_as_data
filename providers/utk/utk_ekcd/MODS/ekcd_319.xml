@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000104_000243</identifier>
+  <identifier type="pid">ekcd_319</identifier>
+  <titleInfo>
+    <title>Excerpts of Remarks By Estes Kefauver to the Tennessee Law Enforcement Officer's Association</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+  <name>
+    <namePart>Kefauver, Estes, 1903-1963</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1959-08-29</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Papers</title>
+    </titleInfo>
+    <identifier>MPA.0144</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Kefauver, Estes 1903-1963</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ekcd%3A319</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ekcd%3A319/datastream/TN/view</url>
+  </location>
+  <abstract>Excerpts of remarks the Senator gave in front of the Tennessee Law Enforcement Officer's Association at Knoxville's Andrew Johnson Hotel. The remarks concern the menace of crime in general and a bill to increase the amount of compensation law enforcement officers receive if hurt or killed on the job.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Kefauver Crime Documents</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79144615"/>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85104183">
+    <topic>Police</topic>
+  </subject>
+</mods>

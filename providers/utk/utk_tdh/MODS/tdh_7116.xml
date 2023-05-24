@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl012</identifier>
+  <identifier type="pid">tdh:7116</identifier>
+  <identifier type="oclc">47800552</identifier>
+  <titleInfo>
+    <title>Thrilling narrative: How the judgement of Heaven fell on the Indians who wounded Rev'd Joseph Brown in 1794, / Rev[erend] Joseph Brown</title>
+  </titleInfo>
+  <abstract>This document, entitled "Thrilling Narrative. How The Judgement of Heaven fell on the Indians who wounded Rev'd Joseph Brown in 1794," was written to Colonel A. W. Putman on March 30, 1858 by Reverend Joseph Brown. In this narrative Brown details the events surrounding his return trip from Knoxville to Nashville. It appears that he was informed by a Cherokee trader that there was a large body of Indians waiting to do harm on the direct route, so he was advised to return through Kentucky. Accepting this advice, Brown and travel partners, William Hayes, a Negro woman, Ross, Friley, and others set out only to be ambushed along the way by Indians. During the attack Brown was wounded in the shoulder although they escaped. He stayed with a Dutch man for two nights and then with a brother-in-law, who was a doctor, of Ross's for six weeks, until he healed well enough to travel home. Later, Brown was informed by another trader that the same party of Indians had rode into East Tennessee to take prisoners of women and children and if Brown and others wanted to free the prisoners he would show them where they were. Brown set out with a group of white men to seek revenge on the Indians. When they located them they noticed that the Indians were wearing white men's clothing and, satisfied that these were the guilty Indians, they decided to lay in wait to ambush them in the morning fearing that the prisoners would be killed if they acted too quickly. The Indians were all killed the next day and the white men found a little girl who had hid for three days. Brown submitted this account with the intent that it would be published or returned. It was, in fact, published in the "Banner of Peace" August 5, 1858.</abstract>
+  <name>
+    <namePart>Brown, Joseph</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1858-03-30</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Writings</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065229">
+    <topic>Indians of North America--Claims against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/demographicTerms/dg2015060165">
+    <topic>Prisoners</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016911">
+    <topic>Brigands and robbers</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7116</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7116/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

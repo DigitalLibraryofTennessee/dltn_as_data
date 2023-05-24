@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003113_000201_0000</identifier>
+  <titleInfo>
+    <title>William Walker Ward Diary, 1864 March-1865 April</title>
+  </titleInfo>
+  <abstract/>
+  <name>
+    <namePart>Ward, William Walker</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865 -- Diaries</topic>
+  </subject>
+  <subject>
+    <topic>Confederate General John Hunt Morgan</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee State House of Representatives</topic>
+  </subject>
+  <subject>
+    <topic>Colonel William W. Ward, Field Officer 9th Tennessee Cavalry Regiment</topic>
+  </subject>
+  <subject>
+    <topic>Smith County, Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Fort Delaware P.O.W. Camp</topic>
+  </subject>
+  <subject>
+    <topic>Pea Island, Delaware</topic>
+  </subject>
+  <subject>
+    <topic>Civil War Diaries</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5396</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5396/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ward, William Walker. Diary, March 1864-April 1865.</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

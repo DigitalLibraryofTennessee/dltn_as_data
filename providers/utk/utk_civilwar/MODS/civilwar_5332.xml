@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000192_000205_0000</identifier>
+  <titleInfo>
+    <title>Letter, Watson B. Smith in Blains Cross Road to his father 1863 Dec. 21</title>
+  </titleInfo>
+  <abstract>Watson B. Smith wrote to his father on Dec. 21, 1863 while serving in the Civil War. He was at Blains Cross Roads. He told his father he was well, but very busy, and would write more as soon as possible. He would get the letter out the next morning. He wrote to tell his father he had received a package and was pleased with its contents. He sent his love to his family.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1863-12-21</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Smith, Watson B., d. 1881</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Soldiers -- Michigan -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Military life</topic>
+  </subject>
+  <subject>
+    <topic>Gifts</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Smith, Watson B., d. 1881 -- Correspondence</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5332</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5332/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Watson B. Smith Letter</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

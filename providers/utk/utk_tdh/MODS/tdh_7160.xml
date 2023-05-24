@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl028</identifier>
+  <identifier type="pid">tdh:7160</identifier>
+  <identifier type="oclc">47826553</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Jan. 13, Knoxville, [Tennessee to] Silas Dinsmore / John Sevier, Governor of the state of Tennessee</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Governor John Sevier of Tennessee (1796-1801) to Cherokee Agent Silas Dinsmore, dated January 13, 1797. Sevier wrote the letter to inform Dinsmore that a man by the name of Abraham Martin reported that, while on his way to Cumberland, he lost a horse. Martin had reason to believe the horse was stolen by some Cherokees, and Sevier urged Dinsmore to inquire about the matter within the Cherokee nation and return the horse if possible.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-01-13</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Claims against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85062137">
+    <topic>Horse stealing</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7160</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7160/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

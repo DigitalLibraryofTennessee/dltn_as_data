@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">pa0005</identifier>
+  <identifier type="pid">tdh:1757</identifier>
+  <identifier type="oclc">44889252</identifier>
+  <titleInfo>
+    <title>[Financial statement for funds] received in behalf of the Cherokee Nation as full compensation for time and expenses attending and completing the survey of the boundary lines, 1808 Nov. 1, Highwassee [i.e., Hiwassee, Tennessee]</title>
+  </titleInfo>
+  <abstract>This is a financial statement and receipt for money received on behalf of the Cherokee Nation for expenses related to the survey of boundary lines conformable to a convention entered into with the United States at Washington on the January 7, 1806, and approved September 11, 1807. The statement indicates that the Cherokees were to receive 2,000 dollars from U.S. agent Return J. Meigs for their service in completing the survey. This document also details property losses and compensation amounts for area inhabitants who were alleged victims of Cherokee theft. Dated at Hiwassee, Tennessee, November 1, 1808.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1808-11-01</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111810">
+    <topic>Receipts (Acknowledgments)</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Claims against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016091">
+    <topic>Boundaries</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Penelope Johnson Allen</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1757</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1757/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,95 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0022_000058_000212_0001</identifier>
+  <identifier type="filename">0022_000058_000212_0001.jp2</identifier>
+  <titleInfo>
+    <title>Cotton pickers</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="questionable">1934</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1945</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>A photograph of two sharecroppers. On the back of the photograph they are identified as Jesse Taylor, Avalon Miss, picks 300 lbs cotton per day and Mose Wright has picked 18 bales on 25 acres. It is not clear which name belongs to which person.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Memphis. Special Collections</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Manuscript Number 5</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Memphis</text>
+          <text>County: Shelby County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2198</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2198/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033339">
+    <topic>Cotton picking</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/1115254">
+    <topic>Sharecroppers</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/800949">
+    <topic>Agricultural laborers</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Farming and Agriculture</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>African-Americans</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79138969">Mississippi</geographic>
+    <cartographics>
+      <coordinates>32.75028N, 89.75027W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133885">Tennessee, West</geographic>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Southern Tenant Farmers Union Ephemera 1934-84</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0022_000058_000212_0001</recordIdentifier>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-07-05</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

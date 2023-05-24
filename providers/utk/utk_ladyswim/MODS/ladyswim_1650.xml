@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">lady-vols-swimming-and-diving_1981</identifier>
+  <titleInfo>
+    <title>University of Tennessee Lady Volunteers swimming and diving media guide, 1981-1982</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1981</dateCreated>
+    <publisher>University of Tennessee, Knoxville. Department of Athletics</publisher>
+  </originInfo>
+  <abstract>Lady Volunteers swimming and diving program published in 1981. The team was led by coach Terry Carlisle during this athletic season.</abstract>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2001008973">
+    <topic>Swimming</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2004010434">
+    <topic>College sports for women</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+    <topic>College sports</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh98008005">
+    <topic>Women swimmers</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/childrensSubjects/sj2021051759">
+    <topic>Diving</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147519">
+    <topic>Women divers</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038575">
+    <topic>Divers</topic>
+  </subject>
+  <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109379538"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <subject authority="wikidata" valueURI="http://www.wikidata.org/entity/Q109289589"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Lady Volunteers Swimming and Diving Media Guides</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ladyswim%3A1650</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ladyswim%3A1650/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright â United States</accessCondition>
+</mods>

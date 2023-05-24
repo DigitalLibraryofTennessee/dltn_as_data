@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000109</identifier>
+  <identifier type="legacy">egypt693</identifier>
+  <identifier type="acquisition">1992.2.6</identifier>
+  <titleInfo>
+    <title>Dendereh</title>
+  </titleInfo>
+  <abstract>Gateway to Temple of Hathor Precinct at Dendereh (Roman Period); ruined gateway to the Temple of Hathor, two Egyptian boys sit on stepped stones (left foreground); brick wall runs parallel down pathway to main Temple (middle and background); "1101 Dendereh Phot. Art. G. Lekegian &amp; Co" in white along bottom of print. (Number on object is 6/655).</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1865/1895</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>G. Lékégian &amp; Cie. ca.1865-ca. 1895</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n86137704">Dandara (Egypt)</geographic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133744">Temples--Egypt</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91005379">Temple of Hathor (Dandara, Egypt)</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A109</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A109/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of Marcia S. Young, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000092_000204_0000</identifier>
+  <titleInfo>
+    <title>Letter, Southgate Cregmile in Nashville, Tenn. to Mother, 1862, December 8</title>
+  </titleInfo>
+  <abstract>1862 December 6 Southgate Cregmile in Nashville, Tenn., to his Mother (Eleanor Griffin). Greets his mother with the fact that presently everyone there is well and hopes she is the same. Very excited that they were just paid for four months service and will be paid the remainder owed them in January. Tells her about two military officers visiting their camp and about nine new recruits.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-12-08</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Cregmile, Southgate, 1843-1865</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Soldiers -- Tennessee -- Nashville -- 19th century -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Nashville (Tenn.) -- History -- Civil War, 1861-1865 -- Personal narratives</topic>
+  </subject>
+  <subject>
+    <topic>Cregmile, Southgate, 1843-1865 -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Griffin, Eleanor, 1819- -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Military camps</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1049</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1049/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The Southgate Cregmile Letters, 1862-1865</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl019</identifier>
+  <identifier type="pid">tdh:7254</identifier>
+  <identifier type="oclc">47809160</identifier>
+  <titleInfo>
+    <title>Account of a battle axe taken from an Indian at the Battle of Long Island Flats in 1776 / Alfred H. White</title>
+  </titleInfo>
+  <abstract>This document, entitled "Account of a Battle Axe Taken from an Indian at the Battle of Long Island Flats in 1776," is the description of a Tomahawk rendered to the Historical Society of Tennessee by Alfred H. White. According to White's story, which was related to him by Mr. George W. Netherland, the Tomahawk was believed to have belonged to a Cherokee known as "Big Indian" on account of his stature and status. During this East Tennessee Revolutionary battle, an American soldier by the name of Moore came in contact with "Big Indian" during a charge. The two engaged in a one-on-one conflict, which eventually resulted in Moore defeating and killing the Cherokee. The referred to Tomahawk was found near where the action took place and was further believed to have belonged to the "Big Indian" because of its large size. The document was received by the Historical Society of Tennessee on January 6, 1860.</abstract>
+  <name>
+    <namePart>White, Alfred H.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1776</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Writings</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Warfare</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85135913">
+    <topic>Tomahawks</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133874">
+    <topic>Tennessee--History--Revolution, 1775-1783</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85289573">
+    <topic>Tennessee Historical Society</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7254</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7254/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

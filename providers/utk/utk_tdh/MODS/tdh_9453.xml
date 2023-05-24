@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc065</identifier>
+  <identifier type="pid">tdh:9453</identifier>
+  <identifier type="oclc">51317182</identifier>
+  <titleInfo>
+    <title>[Letter] 1844 Jan. 7 Clarksville, Tenn [essee], [to] Annie Haven / Charles E. Haven</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Charles E. Haven to his wife Annie on January 7, 1844. In the letter, Charles discusses his travels and the conditions under which he is travelling on his way through Tennessee back to Pennsylvania. Charles mentions in his letter that he witnessed an auction in which black slaves and freemen were being sold or bought in the marketplace, and he expresses the opinion that this is one of the worst features about slavery.</abstract>
+  <name>
+    <namePart>Haven, Charles E.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-01-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123314">
+    <topic>Slavery</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133870">
+    <topic>Tennessee--Description and travel</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Charles E. Haven</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9453</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9453/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

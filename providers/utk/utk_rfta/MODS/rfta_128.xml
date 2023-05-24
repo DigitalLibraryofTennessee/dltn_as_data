@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Dick_McHugh_2_7_17_VN800025</identifier>
+  <identifier type="pid">rfta:128</identifier>
+  <titleInfo>
+    <title>Interview with Dick McHugh, 2017-02-07</title>
+  </titleInfo>
+  <abstract>Interview with Richard McHugh, resident of Gatlinburg. McHugh discusses the night of the fire and opening his home to his wife's family as well as two rescued cats. He also recounts the effects of the fire on the city afterwards in regards to the loss of local businesses. This is a representative quote from the interview: "I'm very proud of the way our people handled this at the community center, at Rocky Top, and everywhere else."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-07</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Dick_McHugh_2_7_17_VN800025</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Dick McHugh, 2017-02-07</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"I'm very proud of the way our people handled this at the community center, at Rocky Top, and everywhere else."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:07:25" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Dick_McHugh_2_7_17_VN800025_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Unlikely Rescues</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Unlikely Rescues chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:04" partType="Chapters" startTime="00:07:25">
+        <pbcore:pbcoreIdentifier source="local">Dick_McHugh_2_7_17_VN800025_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Bobbi and Sterling</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Bobbi and Sterling chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:17:35" partType="Chapters" startTime="00:12:04">
+        <pbcore:pbcoreIdentifier source="local">Dick_McHugh_2_7_17_VN800025_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Community Loss</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Community Loss chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/dick-mchugh-2017-02-07/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:128/datastream/TN/view</url>
+  </location>
+</mods>

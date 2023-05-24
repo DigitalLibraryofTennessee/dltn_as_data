@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl722</identifier>
+  <identifier type="pid">tdh:7446</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Jul. 6 [to] Senate of the United States / Sam[uel] A. Otis</title>
+  </titleInfo>
+  <abstract>This is a letter to a Senate select committee from the secretary of the U.S. Senate, Samuel Otis dated July 6, 1797. Otis includes a copy of a letter written by William Blount to James Carey, an interpreter to the Cherokee Nation, dated April 21, 1797. This is a copy of the the letter that causes Blount's expulsion from the U.S. Senate. Blount is conspiring with a Captain Chesholm, the Creeks, Cherokees, and the British minister to take West Florida and Louisiana away from Spain to give to Great Britain.</abstract>
+  <name>
+    <namePart>Otis, Samuel Allyne, 1740-1814</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-07-06</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n84136128">
+    <topic>Blount, William, 1749-1800</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n92050415">
+    <topic>Otis, Samuel Allyne, 1740-1814</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99004848">
+    <topic>Law and legislation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor John Sevier Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7446</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7446/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

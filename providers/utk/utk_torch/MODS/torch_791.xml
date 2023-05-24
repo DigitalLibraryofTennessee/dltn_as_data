@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="issn">2641-4775</identifier>
+  <identifier type="filename">torch_vol24-no1</identifier>
+  <identifier type="pid">torch:791</identifier>
+  <titleInfo>
+    <title>The Torchbearer, volume 24, number 1</title>
+  </titleInfo>
+  <abstract>Torchbearer is a magazine for alumni, faculty, staff, and friends of the University of Tennessee, Knoxville. It reports on the accomplishments of students and graduates, research conducted at the university, and sporting achievements.</abstract>
+  <name>
+    <namePart>University of Tennessee, Knoxville</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1985-01</dateCreated>
+    <publisher>University of Tennessee (System). National Alumni Association</publisher>
+    <publisher>University of Tennessee, Knoxville. Development Council</publisher>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <note>Published under auspices of The University of Tennessee Development Council in cooperation with General Alumni Association.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141147">
+    <topic>Universities and colleges--Periodicals</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh89003052">
+    <topic>College students--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+    <topic>Universities and colleges--Alumni and alumnae</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+    <topic>College sports</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5291.8 .T67 1985</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Torchbearer</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/torch%3A791</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/torch%3A791/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

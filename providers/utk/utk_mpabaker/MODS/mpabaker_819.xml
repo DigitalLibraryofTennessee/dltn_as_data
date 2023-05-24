@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mpabaker_819</identifier>
+  <identifier type="local">mpabaker:819</identifier>
+  <identifier type="local">0012_003587_000296</identifier>
+  <titleInfo>
+    <title>Howard Baker in Military Uniform Headshot</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" qualifier="inferred">1966</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <note>Dates inferred from bulk dates of archival collection.</note>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/mpabaker%3A819</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/mpabaker%3A819/datastream/TN/view</url>
+  </location>
+  <subject/>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Photographs from the Life and Career of Howard Baker</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/bakercollection</url>
+    </location>
+    <abstract>Howard Baker, Jr., was a U.S. Senator from East Tennessee. Perhaps more than any other United States senator, he is known for his civility and non-partisanship in American politics. A Republican, Baker rose to national fame by investigating Richard Nixon during the televised Watergate hearings. He went on to become minority and majority leader of the Senate and one of Ronald Reagan</abstract>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Howard H. Baker Jr. Addendum</title>
+    </titleInfo>
+    <identifier type="local">MPA.101.001</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_mpabaker_819</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

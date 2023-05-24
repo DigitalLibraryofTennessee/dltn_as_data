@@ -1,0 +1,128 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Ann_Phillips_1_26_17_RNC007</identifier>
+  <identifier type="pid">rfta:119</identifier>
+  <titleInfo>
+    <title>Interview with Ann Phillips, 2017-01-27</title>
+  </titleInfo>
+  <abstract>Interview with Ann Phillips, resident of Windy Oaks in Gatlinburg. Phillips reads a prepared account of her experiences and those of friends. After, she goes into greater depth about the events that friends Sally and Mike West went through. The audio cuts out before the interview concludes. This is a representative quote from the interview: "From now on my life in Gatlinburg will be before the fire and after the fire."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-01-27</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12225053">
+    <geographic>Windy Oaks Condominium</geographic>
+    <cartographics>
+      <coordinates>35.7052167, -83.5129965</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4612619">
+    <geographic>Chalet Village</geographic>
+    <cartographics>
+      <coordinates>35.7232049, -83.5277175</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Ann Phillips, 2017-01-27</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"From now on my life in Gatlinburg will be before the fire and after the fire."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:05:42" partType="Interview Questions" startTime="00:04:36">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>This is the wife of the person who couldn't find his wife?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:04:05" partType="geographic" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Windy Oaks Condominium</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Windy Oaks Condominium.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:04:05" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Introduction and Attempted Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Introduction and Attempted Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:06:15" partType="Interview Questions" startTime="00:05:42">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Did your son's house burn?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:59" partType="geographic" startTime="00:04:05">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_G2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Chalet Village</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Chalet Village.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:11:43" partType="Chapters" startTime="00:04:05">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Reflections and The Wests</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Reflections and The Wests chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:08:20" partType="Interview Questions" startTime="00:06:15">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Sally West was the one who was burned?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:59" partType="Chapters" startTime="00:11:43">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Phillips' Son's Experience</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Phillips' Son's Experience chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:09:21" partType="Interview Questions" startTime="00:08:20">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>You were talking about the Wests, can you tell their story?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:11:40" partType="Interview Questions" startTime="00:09:21">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Now Mike was separated from his wife Sally?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:11" partType="Interview Questions" startTime="00:11:40">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q6</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Did you know anything was going on at Rocky Top?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:09:55" partType="Interview Questions" startTime="00:12:11">
+        <pbcore:pbcoreIdentifier source="local">Ann_Phillips_1_26_17_RNC007_Q7</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Your son was driving through flames?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/ann-phillips-2017-01-27/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:119/datastream/TN/view</url>
+  </location>
+</mods>

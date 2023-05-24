@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch046</identifier>
+  <identifier type="pid">tdh:628</identifier>
+  <identifier type="oclc">44844536</identifier>
+  <titleInfo>
+    <title>[Letter], 1831 June 7, Haweis [Mission, Cherokee Nation] to George R. Gilmer, Governor of Georgia / Elizur Butler</title>
+  </titleInfo>
+  <abstract>Letter dated June 7, 1831 from Elizur Butler, Christian missionary living in the Cherokee Nation, to Georgia Governor George R. Gilmer in response to a letter Butler received from Gilmer. Butler explains his purposes in living within the Cherokee Nation. He says that he arrived ten years ago to assist the United States in its policy to "civilize" and Christianize the Cherokees, and his only concern is the spiritual growth of the Cherokees and not political issues. He indicates that he cannot in good conscience take the oath of Georgia since it would imply that the state has jurisdiction over the Cherokee Nation.</abstract>
+  <name>
+    <namePart>Butler, Elizur, 1794-1857</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1831-06-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh2002011470">
+    <topic>Missions</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85054229">
+    <topic>Georgia--Politics and government--1775-1865</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A628</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A628/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

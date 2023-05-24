@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">pa0209</identifier>
+  <identifier type="pid">tdh:1532</identifier>
+  <identifier type="oclc">45830990</identifier>
+  <titleInfo>
+    <title>[Letter] 1812 Mar. 28, Maury County, Tennessee [to] Elias Earle / James Holland</title>
+  </titleInfo>
+  <abstract>This is a copy of a letter from Major James Holland to Elias Earle dated March 28, 1812. Holland discusses the establishment of an iron works factory in the Cherokee Nation and briefly outlines the grounds on which the land for the factory was to be obtained by Earle.</abstract>
+  <name>
+    <namePart>Holland, James, 1754-1823</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1812-03-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023083">
+    <topic>Cherokee Indians--Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85068240">
+    <topic>Iron-works</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85046823">
+    <topic>Factories</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr2002003293">
+    <topic>Holland, James S., 1754-1823</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Penelope Johnson Allen Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1532</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1532/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

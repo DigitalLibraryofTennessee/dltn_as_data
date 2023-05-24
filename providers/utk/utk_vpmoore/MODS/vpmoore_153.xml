@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000035</identifier>
+  <titleInfo>
+    <title>[Grace Waters standing in garden plot]</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1910-01-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A153</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A153/datastream/TN/view</url>
+  </location>
+  <abstract>Devised title. Handwritten caption in pencil on back of photograph reads "Grace Waters Knox Co. Return to Virginia Moore." Additional captions handwritten in ink read "Early work in Tennessee"; "Return to: Virginia P. Moore Ext. Dept. F. S. C. W. Tallahassee, Fla."; and "Virginia P. Moore State Agent Tenn. 1911-1919."</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Knox County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Gardening</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Societies and clubs</topic>
+  </subject>
+  <subject>
+    <topic>Agricultural education -- Societies, etc.</topic>
+  </subject>
+</mods>

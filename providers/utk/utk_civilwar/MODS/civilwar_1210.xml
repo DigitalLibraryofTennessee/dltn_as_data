@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000084_000206_0000</identifier>
+  <titleInfo>
+    <title>Letter, P. S. Lincoln in Cincinnati, Ohio to W. J. Stevens in Nashville, Tenn., 1865 May 13</title>
+  </titleInfo>
+  <abstract>In this letter, dated May 13, 1865, from P. S. Lincoln in Cincinnati, Ohio, to W. J. Stevens in Nashville, Tenn., Lincoln informs him that McCallum's Bridge Company has gone out of business, but that he can use their machines to make rails for 55 cents each. He explains that the price has been increased as the machine will be run for only this purpose and because the price of lumber has been increased. The letter also includes notes from W. J. Stevens and N.E. Van Sickle about the correct distances between the holes in the rails.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1865-05-13</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Lincoln, P.S.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Railroad bridges -- Tennessee -- Loudon County -- Design and construction</topic>
+  </subject>
+  <subject>
+    <topic>Railroad bridges -- Tennessee -- Loudon County -- Equipment and supplies</topic>
+  </subject>
+  <subject>
+    <topic>Lumber trade -- United States</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, East -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1210</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1210/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Loudon Bridge/Civil War Collection, 1865</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

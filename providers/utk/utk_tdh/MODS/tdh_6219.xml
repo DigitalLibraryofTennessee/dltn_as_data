@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl170</identifier>
+  <identifier type="pid">tdh:6219</identifier>
+  <identifier type="oclc">51159456</identifier>
+  <titleInfo>
+    <title>[Legal Quits of Claim and Registration Certification] 1814 -1816 [for] James Hamilton of Davidson County, Tennessee and William Anderson of Lexington County Ky</title>
+  </titleInfo>
+  <abstract>These are three different documents. The first one is dated Dec. 15, 1814, and is written by James Hamilton. It is a quit of claim of the Cherokee/African slaves that his brother in law, Joseph Brown took back from the Cherokee Chief Cotetoy. The slaves were descendents of a slave named Sue that was owned by Hamilton's father in law (Joseph Brown's father), James Brown, and stolen by Cotetoy. The second paper is the registration certification for said quit, written by Joseph Porter in May 1816. The third paper is dated Dec. 15, 1814. It is a quit of claim to two slaves, Jinney and Suey, and offspring, by William Anderson. He also states that Joseph Brown has payed him $150 for the portion of James Brown's estate that Anderson inherited.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1814-12-15</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123314">
+    <topic>Slavery</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+    <geographic>Kentucky</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Joseph Brown Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6219</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6219/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

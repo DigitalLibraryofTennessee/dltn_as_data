@@ -1,0 +1,46 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl619</identifier>
+  <identifier type="pid">tdh:7881</identifier>
+  <titleInfo>
+    <title>[Legislative documents] 1842 Apr. 8, Albany, New York [to] James Jones, Nashville, Tennessee / William H. Seward</title>
+  </titleInfo>
+  <abstract>These are legislative documents sent to James C. Jones, Governor of Tennessee, by New York's Governor William H. Seward. They are resolutions adopted by the New York state legislature dated April 8, 1842. The resolutions concern regulations of the United States Postal Service. See also sl620.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1842-04-08</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr90007868">
+    <topic>Tennessee. Governor (1841-1845 : Jones)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n80013137">
+    <topic>United States Postal Service</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor James Jones Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7881</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7881/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

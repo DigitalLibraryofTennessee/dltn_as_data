@@ -1,0 +1,46 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">pa0050</identifier>
+  <identifier type="pid">tdh:1598</identifier>
+  <titleInfo>
+    <title>[Certification of noncitizenship to the Cherokee Nation, 1834]</title>
+  </titleInfo>
+  <abstract>This document was a statement given by Nathaniel Peak on April 2, 1834, regarding James Hanson, a white man who had enrolled as a Cherokee to be removed to Arkansas. Peak and other Cherokee certified that Hanson nor his family were citizens of the Cherokee Nation.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1834-04-02</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Tribal citizenship</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh00007604">
+    <topic>Relocation</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Penelope Johnson Allen Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1598</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1598/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

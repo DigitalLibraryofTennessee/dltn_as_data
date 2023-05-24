@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0023_000060_000236</identifier>
+  <identifier type="pid">thompson:183</identifier>
+  <identifier type="photograph number">ThGSM 060</identifier>
+  <titleInfo>
+    <title>Col. David C. Chapman and Group on Summit of Mt. Chapman</title>
+  </titleInfo>
+  <abstract>In the foreground is Col. David C. Chapman, dynamic leader in the movement that brought about establishment of the Great Smoky Mountains National Park. Others in the picture, from left to right, are Harvey B. Boome, Mrs. Charles W. Myers, Miss Mildred Query and Jas. E. Thompson, all members of the Great Smoky Mountains Conservation Association, of which Col. Chapman is President, and which organization started the movement for the Park's establishment. Col. Chapman is one of very few living men to have a major mountain peak named for him. It is still more unusual for the honoree to climb the peak after it was named for him.</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note>To use photographs or to order reproductions which belong to the McClung Historical Collection, contact DigitalCollections@knoxlib.org or phone 865 215-8814. Please share the following identifier (ThGSM 060) and provide a brief description of the photograph.</note>
+  <note>See metadata for corresponding image in the McClung Historical Collection here: http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/249/rec/1</note>
+  <subject/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2018109601"/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="original">
+    <location>
+      <url>http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/249/rec/1</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A183</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A183/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch059</identifier>
+  <identifier type="pid">tdh:577</identifier>
+  <identifier type="oclc">44846963</identifier>
+  <titleInfo>
+    <title>Cherokee Council minutes, 1818 May 20 [to] 27, Cherokee Agency</title>
+  </titleInfo>
+  <abstract>Cherokee Council minutes from May 20 to May 27, 1818 wherein several issues related to a recent treaty (Treaty of the Cherokee Agency, July 8, 1817) are discussed. The Cherokees request provisions such as guns, blankets, and kettles that were promised to them in the treaty, and there is a discussion about the census that is planned for June. An address made by the president to General Talentisky (Talohtiske ?) and others of the Arkansas Delegation to Washington concerning Cherokee removal and land in Arkansas is read to the Council. Also, a question and answer session regarding the recent treaty and specifically concerning reservations is held, wherein Cherokee leaders Walter Adair and Thomas Foreman raise issues.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1818-05-20</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Census</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A577</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A577/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

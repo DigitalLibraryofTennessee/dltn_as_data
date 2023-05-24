@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl266</identifier>
+  <identifier type="pid">tdh:5908</identifier>
+  <identifier type="oclc">51237649</identifier>
+  <titleInfo>
+    <title>1800 Jul. 17, Greenville [to] Joseph Hamilton, Russellville, K[entuck]y / Joshua L.Wilson</title>
+  </titleInfo>
+  <abstract>This is a letter from Joshua L. Wilson to Joseph Hamilton, dated July 17, 1800. Wilson laments his money troubles. He just lost some court cases that caused him to lose some of his land. Wilson asks Hamilton if he would be willing to trade land for horses. Wilson writes about the upcoming election. He is concerned for the reputation of Hamilton's area if an undesirable candidate, whom Wilson calls the King of Beasts, is elected. Apparently this man came to office by nefarious means, and it is proving difficult to remove him.</abstract>
+  <name>
+    <namePart>Wilson, Joshua L.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1800-07-17</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111739">
+    <topic>Real property</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85062140">
+    <topic>Horse trading</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Orr Collection IV-J-2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5908</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5908/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

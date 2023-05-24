@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl725</identifier>
+  <identifier type="pid">tdh:7423</identifier>
+  <titleInfo>
+    <title>[Legal] 1794 Oct. 12, Knoxville, United States Territory South of the Ohio River [to] David Moore / William Blount</title>
+  </titleInfo>
+  <abstract>This is an agreement between William Blount and David Moore dated October 12, 1794. Moore is agreeing to transport goods given to the Chickasaw and the Choctaw Nations by the United States government. The document describes the water route to be taken and stipulates that Moore will protect the cargo from attacks by any Cherokees or Creeks. Moore will also be transporting Chief Opoia Mingo, who will be directing them to their destination.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1794-10-12</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85360561">
+    <topic>Territory of the United States, South of the River Ohio</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n84136128">
+    <topic>Blount, William, 1749-1800</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023285">
+    <topic>Chickasaw Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85024610">
+    <topic>Choctaw Indians--Government relations</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Governor William Blount Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7423</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7423/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

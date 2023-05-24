@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="issn">2642-9861</identifier>
+  <identifier type="local">0012_004267_000092</identifier>
+  <identifier type="pid">agrtfhs:3877</identifier>
+  <titleInfo>
+    <title>Tennessee farm and home science, progress report 112, October - December 1979</title>
+  </titleInfo>
+  <abstract>Quarterly newsletter from Knoxville, Tennessee, covering farming and home economics.</abstract>
+  <tableOfContents>Implants for beef steers - Appoint a vice president - Seedbeds for beans and peas - Flammability of fabrics - Locating industrial plants - Metabolism in grazing cows - Field days in 1980 - Induced pauses in layers - Slaughter hog futures - Soybean leaf fertilizers - Gifts &amp; grants - Metabolism and obesity - Soybeans and potassium - Asparagus fertilization - Pinching mums chemically - Kinds of hunters - Juniper economics - Eggplant varieties - A vice president retires - Stockpiled fescue nutrition</tableOfContents>
+  <originInfo>
+    <dateCreated encoding="edtf">1979-12</dateCreated>
+    <publisher>University of Tennessee, Knoxville. Agricultural Extension Service</publisher>
+  </originInfo>
+  <note>Digitized with support from a Project Ceres grant. Project Ceres is a collaboration between the United States Agricultural Information Network (USAIN), the Agriculture Network Information Collaborative (AgNIC) and the Center for Research Libraries (CRL) to support ongoing preservation and digitization of collections in the field of agriculture.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114481">
+    <topic>Agriculture--Tennessee</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047223">
+    <topic>Farm management</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009934">
+    <topic>Clothing and dress--United States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+    <topic>Livestock</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85075872">
+    <topic>Legumes</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+    <cartographics>
+      <coordinates>35.75035, -86.25027</coordinates>
+    </cartographics>
+  </subject>
+  <classification authority="lcc">S1 .T43</classification>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Farm and Home Science</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/agrtfhs%3A3877</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/agrtfhs%3A3877/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

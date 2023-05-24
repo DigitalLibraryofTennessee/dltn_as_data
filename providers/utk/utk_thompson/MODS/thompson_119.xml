@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001494_000200_0031</identifier>
+  <identifier type="pid">thompson:119</identifier>
+  <titleInfo>
+    <title>Rainbow Falls</title>
+  </titleInfo>
+  <abstract>Rainbow Falls, halfway up the side of Mt. LeConte This is one of the beauty spots in the Smoky Mountains. The trail passes behind the water on these falls and again crosses the stream at the top of the falls. Photograph includes copyright "Thompson Bros".</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1927</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145720">
+    <topic>Waterfalls</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4651952">
+    <geographic>Rainbow Falls</geographic>
+    <cartographics>
+      <coordinates>35.66233, -83.4641</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4635946">
+    <geographic>Mount Le Conte</geographic>
+    <cartographics>
+      <coordinates>35.65435, -83.43672</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+    <identifier>MS-3719</identifier>
+    <location/>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A119</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A119/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

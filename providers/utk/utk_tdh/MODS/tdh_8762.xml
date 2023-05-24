@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um002</identifier>
+  <identifier type="pid">tdh:8762</identifier>
+  <identifier type="oclc">50192906</identifier>
+  <titleInfo>
+    <title>[Military Order] 1827 May 19, [to] Gen[era]l John Coffee / Andrew Jackson</title>
+  </titleInfo>
+  <abstract>This document is a military order from Andrew Jackson allowing General John Coffee to deliver to Edmund Winston a bond due by Colonel Anthony Winston for the sum one thousand, sixty six dollars and two third cents.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1827-05-19</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Andrew Jackson 1804-1844, MS28</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8762</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8762/datastream/TN/view</url>
+  </location>
+</mods>

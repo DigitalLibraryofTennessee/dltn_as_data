@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000217</identifier>
+  <identifier type="legacy">egypt801</identifier>
+  <identifier type="acquisition">1996.9.3</identifier>
+  <titleInfo>
+    <title>Bas-relief de Rameses II trouvé à Sakkara. Egypte.</title>
+  </titleInfo>
+  <abstract>Relief of God Heh (Old Kingdom), plaster copy at the Gizeh Museum; the God Heh in traditional crouching stance in three quarter view holding palm stems in both hands wearing palm frond headdress in niche on relief; stylized cartouches of Rameses II (?) (top left and right corners of niche); framed by rows of uraei (top and bottom); "Bonfils 203 Bas-relief de Rameses II trouve a Sakkara-Egypt" in white along bottom of print; "L. KUHN, editeur 20. Rue de Rivoli. PARIS" impressed onto print, bottom right corner.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1867/1928</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Bonfils family 19th-20th centuries</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041341">Inscriptions, Egyptian</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A217</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A217/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of the Friends of Egyptology, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

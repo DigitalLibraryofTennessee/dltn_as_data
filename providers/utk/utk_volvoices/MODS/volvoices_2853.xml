@@ -1,0 +1,101 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0058_000050_000200_0001</identifier>
+  <identifier type="filename">0058_000050_000200_0001.jp2</identifier>
+  <name>
+    <namePart>Crockett, Gib</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Politcal cartoon of Thomas C. Clark and John L. Lewis</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1948</dateCreated>
+    <dateCreated encoding="edtf">1948</dateCreated>
+    <publisher>Washington Star</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <abstract>This cartoon depicts Federal Judge Alan T. Goldsborough speaking from the bench to Clark and Lewis appearing before him. The caption reads "Hasn't This Man Been Here Before?" The inscription at the bottom reads "With warm regards to H. Graham Morison, Gib Crockett." H. Graham Morrison served as U.S. Assistant Attorney General from 1948 through 1952. Thomas Campbell Clark served as the Attorney General of the United States from 1945 through 1949 when he was appointed to the United States Supreme Court. He was known for his work against labor unions. John L. Lewis founded the Congress of Industrial Industries and was president from 1936-1940 and had been a long-time union leader, beginning with working in the United Mining Workers of America.</abstract>
+  <genre>Political cartoons</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Archives of the City of Kingsport</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Manuscript Number KCMC 224</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Kingsport</text>
+          <text>County: Sullivan County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2853</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2853/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140410">
+    <topic>United States--Politics and government</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/1082763">
+    <topic>Public officers</topic>
+  </subject>
+  <subject authority="fast" valueURI="http://id.worldcat.org/fast/990260">
+    <topic>Labor unions</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Government and Politics</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Trade, Business and Industry</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</geographic>
+    <cartographics>
+      <coordinates>38.91694N, 77.00000W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Gib Crockett Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0058_000050_000200_0001</recordIdentifier>
+    <recordContentSource>Archives of the City of Kingsport</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2007-07-06</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

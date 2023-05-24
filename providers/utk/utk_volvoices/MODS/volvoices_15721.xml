@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Samuel M. Arnell in Washington, D.C. to O.P. Temple in Knoxville, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Presidents -- United States -- Election.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee, East -- History.</geographic>
+  </subject>
+  <subject>
+    <topic>Temple, Oliver Perry, 1820-1907.</topic>
+  </subject>
+  <subject>
+    <topic>Lincoln, Abraham, 1809-1865.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>The Development of the Industrial United States (1870-1900).</geographic>
+  </subject>
+  <subject>
+    <topic>Arnell, Samuel M.</topic>
+  </subject>
+  <note>Arnell urges Temple to write a proposed sketch of the presidential campaign of 1860 in East Tennessee. Arnell is of the opinion that Lincoln`s election resulted in a "magnificent uprising of East Tennessee."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000070_000367_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15721</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15721/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15721</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15721/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

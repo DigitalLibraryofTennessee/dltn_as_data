@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl041</identifier>
+  <identifier type="pid">tdh:7077</identifier>
+  <identifier type="oclc">47832132</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Apr. 24, Knoxville, [Tennessee, to] the Hon[ora]ble the Sec[retar]y of the Department of War [James McHenry] / J[ohn] S[evier]</title>
+  </titleInfo>
+  <abstract>This document is a letter written to James McHenry, Secretary of War, from Governor John Sevier (1796-1801, 1803-1809) on April 24, 1797. The letter is mainly in reference to the arrival of two men by the names of Hawkins and Pickens in Tennessee in order to determine the Indian boundary line. Sevier explained that the drawing of the line had caused much uneasiness among Tennessee settlers who feared that their residences might fall within Indian boundaries. Sevier suggested that the drawing of the line be postponed in the case of conflict with the European powers, for he also warned the the Creeks, Cherokees, Choctaws, and Chickasaws were all in friendly alliances with the Spanish government. Sevier feared that drawing the line would only spark tensions between these tribes and the American citizens.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-04-24</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033892">
+    <topic>Creek Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85024610">
+    <topic>Choctaw Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023285">
+    <topic>Chickasaw Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7077</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7077/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

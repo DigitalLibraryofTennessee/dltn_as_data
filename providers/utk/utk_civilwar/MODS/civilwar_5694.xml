@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000068_000213_0000</identifier>
+  <titleInfo>
+    <title>Letter, Jeannie Lockhart Shrady in New York, N.Y., to John Shrady, 1862 July 18</title>
+  </titleInfo>
+  <abstract>In this letter, dated July 18, 1862 to John Shrady, his wife Jeannie writes of news back home in New York City, informing him that most of their boarders have moved away, despite saying they would be permanent. She also describes her activities on the Fourth of July. She reports that postage stamps, rather than &amp;quot%3BSpecie,&amp;quot%3B are circulating as currency and that it is &amp;quot%3Balmost imposible to get a bit of change.&amp;quot%3B</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-07-18</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Jeannie Lockhart Shrady</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Shrady, Jeannie Lockhart</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5694</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A5694/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>John Shrady Letters, 1862</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

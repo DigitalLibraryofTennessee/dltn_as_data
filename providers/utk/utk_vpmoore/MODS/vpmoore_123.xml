@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000092</identifier>
+  <titleInfo>
+    <title>Rural School. Cloak Room of New School. After. Sideview Sumner Co.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A123</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A123/datastream/TN/view</url>
+  </location>
+  <abstract>Front caption title. Back caption handwritten in (faded) ink, "Miss Salice[?] Chenault. Gallatin, Route 6\ Tenn."</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Sumner County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Boys</topic>
+  </subject>
+  <subject>
+    <topic>School children</topic>
+  </subject>
+  <subject>
+    <topic>Teachers</topic>
+  </subject>
+  <subject>
+    <topic>Rooms &amp; spaces</topic>
+  </subject>
+  <subject>
+    <topic>Rural schools</topic>
+  </subject>
+  <subject>
+    <topic>Rural schools</topic>
+  </subject>
+</mods>

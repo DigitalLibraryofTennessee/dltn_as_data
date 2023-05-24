@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_003707_000021</identifier>
+  <name>
+    <namePart>Gamble, Ed</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Jimmy Carter hears the outcome of a survey about the Southwestern United States heat wave and drought</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf">1980</dateCreated>
+    <publisher>Florida Times-Union</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <genre>United States--Politics and government--Caricatures and cartoons</genre>
+  <abstract>President Jimmy Carter listens to a poll taker who reads him the results of a survey: 72 per cent said the president was the cause of the Southwestern U.S. heat wave and drought, 21 per cent said he was not responsible, and 7 per cent said they didn't care.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A21</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A21/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Survey findings</topic>
+  </subject>
+  <subject>
+    <topic>Heat waves (Meteorology)</topic>
+  </subject>
+  <subject>
+    <topic>Drought and water crises</topic>
+  </subject>
+  <subject>
+    <topic>Public opinion</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic>Washington (D.C.)</geographic>
+  </subject>
+  <subject>
+    <geographic>White House (Washington, D.C.)</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3763</identifier>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida Times-Union</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_003707_000021</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

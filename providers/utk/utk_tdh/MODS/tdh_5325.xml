@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl409</identifier>
+  <identifier type="pid">tdh:5325</identifier>
+  <titleInfo>
+    <title>1846 Sep. 25, Monterey, Mexico [to] A.P. Greer, Paris, Tenn[essee] / E. Greer</title>
+  </titleInfo>
+  <abstract>This is a letter from E. Greer to his brother A.P. Greer, dated September 25, 1826. Greer's Texas military unit has just taken over the Mexican town of Monterey. E. apologizes for not writing in a while, but explains that it is very difficult to obtain the necessary materials. E. writes about how fortified a town Monterey is, and that it is very beautiful. Greer describes the approach and attack on Monterey and mentions some Generals involved including Taylor and Worth. He also mentions the Mexican General Armpudia and his surrender to Taylor.</abstract>
+  <name>
+    <namePart>Greer, E.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1846-09-25</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140202">
+    <topic>Mexican War, 1846-1848--Campaigns</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085207">
+    <topic>Military history</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79067878">
+    <geographic>Monterey, Mexico</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fitzgerald - Williams - Greer Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5325</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5325/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

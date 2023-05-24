@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">colloquy.5.1</identifier>
+  <titleInfo>
+    <title>Great Smoky Mountains Colloquy: Volume 5, Number 1</title>
+  </titleInfo>
+  <titleInfo displayLabel="Also known as" type="alternative">
+    <title>Colloquy</title>
+  </titleInfo>
+  <part>
+    <detail type="volume and issue">
+      <number>Volume 5, Number 1</number>
+    </detail>
+  </part>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">2004-21</dateCreated>
+  </originInfo>
+  <abstract>This issue includes articles about the dialect spoken in the Smokies' region; a new partnership with the Arrowmont School of Arts and Crafts; gift from the Aslan Foundation; a review of Carson Brewer's "A Wonderment of Mountains: The Great Smokies"; upcoming digital collection of William Cox Cochran photographs.</abstract>
+  <note>Volume 4, Number 2 does not exist. Volume 5, Number 1 follows Volume 4, Number 1 in the series.</note>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Special Collections.</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/colloquy%3A175</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/colloquy%3A175/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <location>
+      <url>https://digital.lib.utk.edu/collections/colloquy</url>
+    </location>
+    <titleInfo>
+      <title>Great Smoky Mountains Colloquy</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Wise, Ken</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Bridges, Anne</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clement, Russ</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Montgomery, Michael, 1950-</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <subject>
+    <geographic authority="geonames" valueURI="http://sws.geonames.org/4626066/about.rdf">Great Smoky Mountains</geographic>
+    <cartographics>
+      <coordinates>35.58343, -83.50822</coordinates>
+    </cartographics>
+  </subject>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+</mods>

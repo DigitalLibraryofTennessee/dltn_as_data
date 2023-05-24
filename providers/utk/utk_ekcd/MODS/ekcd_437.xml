@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000104_000225</identifier>
+  <identifier type="pid">ekcd_437</identifier>
+  <titleInfo>
+    <title>"Crime's Frightening Upswing"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+  <name>
+    <namePart>Kefauver, Estes, 1903-1963</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1954</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Estes Kefauver Papers</title>
+    </titleInfo>
+    <identifier>MPA.0144</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Kefauver, Estes 1903-1963</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ekcd%3A437</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ekcd%3A437/datastream/TN/view</url>
+  </location>
+  <abstract>Senator Estes Kefauver discusses recommendations of the Crime committee, including the establishment of a National Crime Commission, whose role would include rehabilitation.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Kefauver Crime Documents</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50081249"/>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85095528">
+    <topic>Organized crime</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112411">
+    <topic>Criminals--Rehabilitation</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85033017">
+    <topic>Correctional institutions</topic>
+  </subject>
+</mods>

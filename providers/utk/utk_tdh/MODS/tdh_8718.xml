@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um015</identifier>
+  <identifier type="pid">tdh:8718</identifier>
+  <identifier type="oclc">50199754</identifier>
+  <titleInfo>
+    <title>[Letter] 1849 Jun. 9 [to] Alexander D. Coffee / Andrew J. Coffee</title>
+  </titleInfo>
+  <abstract>This document is a letter to Alexander Coffee, dated June 9, 1849 from his brother Andrew Jackson Coffee regarding the sale of slaves in New Orleans and the death of General Gaines.</abstract>
+  <name>
+    <namePart>Coffee, Andrew Jackson</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1849-06-09</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123347">
+    <topic>Slaves</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79138970">
+    <geographic>Louisiana</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Andrew Jackson Coffee Family Papers, MS27</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8718</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8718/datastream/TN/view</url>
+  </location>
+</mods>

@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl166</identifier>
+  <identifier type="pid">tdh:6234</identifier>
+  <identifier type="oclc">51110060</identifier>
+  <titleInfo>
+    <title>[Military Commission] 1813 Sep. 10, Nashville, Tennessee, [for] Joseph Brown</title>
+  </titleInfo>
+  <abstract>This is the military commission dated Sept. 10, 1813 granting Joseph Brown the powers of Lieutenant Colonel Commandant of the 27th militia regiment of Tennessee. It is signed by Gov. Willie Blount.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1813-09-10</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh00006471">
+    <topic>Militia</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr2001036002">
+    <topic>Brown, Joseph</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Joseph Brown Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6234</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6234/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

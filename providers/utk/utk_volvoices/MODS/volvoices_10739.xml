@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Beautiful Venice</title>
+  </titleInfo>
+  <genre>notated music</genre>
+  <genre>sheet music</genre>
+  <subject>
+    <topic>Music and Performing Arts.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <topic>Tennessee History.</topic>
+  </subject>
+  <note>A composition for the piano included in a bound volume of sheet music once owned by Tennessee resident Miss Nora Gardner. No publication date is listed. However, this piece was published during the span of 1850 through 1851, which has been inferred from the years during which the publisher operated under the specified name and location, as listed in the Handbook of Early American Sheet Music 1768-1889 by Harry Dichter and Elliott Shapiro (Dover, 1977).</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0018_000054_000324_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10739</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10739/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10739</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10739/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

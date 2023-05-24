@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch098</identifier>
+  <identifier type="pid">tdh:388</identifier>
+  <identifier type="oclc">44909301</identifier>
+  <titleInfo>
+    <title>[Excerpt from the Memoirs] of Lieut[enant] General Scott, 1864 / written by himself</title>
+  </titleInfo>
+  <abstract>This document is a typed excerpt from vol.1 of the Memoirs of Lieut.- General Scott, published in 1864. Scott was one of the primary officials involved in the military operations related to the removal of the Cherokees (1838-39) to a territory west of the Mississippi River. Scott's autobiography contains observations on the relations between the Cherokees and the white settlers in the surrounding states, primarily Georgia, North Carolina, and Tennessee. This excerpt contains several minor typographical variations from Scott's memoirs.</abstract>
+  <name>
+    <namePart>Scott, Winfield, 1786-1866.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1864</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Social conditions</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A388</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A388/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

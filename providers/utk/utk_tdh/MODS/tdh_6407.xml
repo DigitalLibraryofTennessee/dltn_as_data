@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl124</identifier>
+  <identifier type="pid">tdh:6407</identifier>
+  <identifier type="oclc">50591409</identifier>
+  <titleInfo>
+    <title>[Letter] 1839 Aug. 7, Clover Dale, TN [to] Mrs. Ann Jane Bell, Cornplanter, PA / Sarah B. Bell</title>
+  </titleInfo>
+  <abstract>This is a letter from Sarah Bell to her sister Ann Jane Bell, dated August 7, 1839. Jane's infant has died and Sarah offers her condolences. She explains that though she wants to visit Jane, she cannot due to their father's illness. She mentions a local election, the books the family has been reading, and the state of their horses. She writes about the illness of their brother William, and other illnesses and deaths in the community.</abstract>
+  <name>
+    <namePart>Bell, Sarah</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1839-08-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94001587">
+    <topic>Comfort letters</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85013296">
+    <topic>Bereavement</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6407</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6407/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

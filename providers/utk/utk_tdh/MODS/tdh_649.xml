@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch039</identifier>
+  <identifier type="pid">tdh:649</identifier>
+  <identifier type="oclc">44837807</identifier>
+  <titleInfo>
+    <title>Letter, 1818 July 15, Department of War to Jer[emia]h Evarts [and] Rev. Elias Cornelius / John C. Calhoun, Secretary of War</title>
+  </titleInfo>
+  <abstract>Copy of a letter wherein John C. Calhoun writes to Jeremiah Evarts and Reverend Elias Cornelius to inform them that Congress is in control of the public land that was once Indian territory and will dictate where the missionary schools may be established after the extinguishment of the Indian title. He informs them that the four youths, which accompany them on their way to a school in Connecticut, will be allowed a sum of one hundred dollars per year for four years, July 15, 1818.</abstract>
+  <name>
+    <namePart>Calhoun, John C.(John Caldwell), 1782-1850</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1818-07-15</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023083">
+    <topic>Cherokee Indians--Land tenure</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Education</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n78095330">
+    <geographic>United States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A649</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A649/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

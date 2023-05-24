@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um038</identifier>
+  <identifier type="pid">tdh:8627</identifier>
+  <identifier type="oclc">50280996</identifier>
+  <titleInfo>
+    <title>[Letter] 1846 Aug. 1, Salem, Miss[issippi] [to] Mr [Howell] Taylor, near Summerville, Tenn[essee] / John D. Alexander</title>
+  </titleInfo>
+  <abstract>This document is a letter written by John D. Alexander to Howell Taylor on August 1, 1846. In the letter, Alexander informs Taylor that the Female Academy has a new principal by the name of Mr. C. A. Sprague, who plans to invite a Miss Goode to fill the position of director of the Department of Music.</abstract>
+  <name>
+    <namePart>Alexander, John D.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1846-08-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85028378">
+    <topic>College teachers</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79138969">
+    <geographic>Mississippi</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Taylor Family of Fayette Co. TN Letters MS 384 (corr. 1836-1847)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8627</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8627/datastream/TN/view</url>
+  </location>
+</mods>

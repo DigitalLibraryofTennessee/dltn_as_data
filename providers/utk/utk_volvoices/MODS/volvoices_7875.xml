@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Circular letter to the public in regards to the affray with General Andrew Jackson in Nashville</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>circular letter</genre>
+  <subject>
+    <topic>Circular Letter -- Tennessee -- Franklin.</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Benton, Thomas Hart, 1782-1858.</topic>
+  </subject>
+  <subject>
+    <topic>Jackson, Andrew, 1767-1845.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <note>Thomas Hart Benton published this circular letter to present his side of the story in regards to his public fight with Andrew Jackson. He enumerates the order in which the fight occurred after he and his brother, Jesse Benton, arrived in Nashville. He states that Jackson sought him out, and with the aid of Colonel Coffee, Alexander Donelson, Captain Hammond and Stokely Hays, preceded to attack the brothers at the house of Judge Searcy. Andrew Jackson was shot during this encounter.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0028_000050_000208_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7875</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7875/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7875</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7875/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

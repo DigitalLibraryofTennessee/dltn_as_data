@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mm001</identifier>
+  <identifier type="pid">tdh:989</identifier>
+  <identifier type="oclc">44394278</identifier>
+  <titleInfo>
+    <title>[Photograph of pit with remains of dog, Chota, ca. 18th century, taken in 1969] / [by Richard R. Polhemus]</title>
+  </titleInfo>
+  <abstract>This photograph is of an Overhill Cherokee pit containing the skeletal remains of a dog. Chota or Echota was an Overhill Cherokee village located in what is today Monroe County, Tennessee. In the mid-18th century, Chota was recognized by Europeans as well as other Indians for its powerful socio-economic influence and was regarded as the capital of the Cherokee Nation. Chota, as with all the Overhill Cherokee sites, is now inundated by the Tellico Reservoir. Excavations of Overhill Cherokee villages were conducted by the University of Tennessee between 1967 and 1983 as part of the Tellico Archaeological Project. Excavations continued until 1983, and laboratory studies and report preparation continued until 1987. The excavations were conducted in anticipation of the flooding of the Lower Little Tennessee River Valley, in eastern Tennessee, by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal Investigator, Alfred K. Guthe. Field Director, J. Worth Greene.</abstract>
+  <name>
+    <namePart>Polhemus, Richard R.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1969</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject>
+    <topic>Cherokee Indians--Domestic animals</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/childrensSubjects/sj96005301">
+    <topic>Dogs</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85005230">
+    <topic>Animal remains (Archaeology)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85116926">
+    <topic>Salvage archaeology</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85061115">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85101195">
+    <topic>Photographs</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A989</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A989/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

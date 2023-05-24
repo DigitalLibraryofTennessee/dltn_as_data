@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl470</identifier>
+  <identifier type="pid">tdh:8162</identifier>
+  <titleInfo>
+    <title>1795 Dec. 10, Nashville [Territory South of the Ohio River, to] David Henley / J.W. Overton</title>
+  </titleInfo>
+  <abstract>This is a letter from John Overton to David Henley, dated December 10, 1795. Overton reports that persons named Allison and Evans are broke, and consequently have stopped making payments on their debts. The debts are owed to Mr. Tait. Overton blames Governor William Blount, who also owes money to Tait, as the prime cause of everyone's financial problems.</abstract>
+  <name>
+    <namePart>Overton, John, 1766-1833</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1795-12-10</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85360561">
+    <topic>Territory of the United States, South of the River Ohio</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85198931">
+    <topic>Henley, David, 1749-1823</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n89613198">
+    <topic>Overton, John, 1766-1833</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh94004361">
+    <topic>Debt service</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Henley Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8162</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8162/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

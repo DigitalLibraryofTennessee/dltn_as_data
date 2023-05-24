@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch065</identifier>
+  <identifier type="pid">tdh:534</identifier>
+  <identifier type="oclc">44854118</identifier>
+  <titleInfo>
+    <title>Cherokee Council's decision of the conflicting claims of Mrs. E. Pack [and] Jno. [i.e., John] H. Jeffrey, 1820 Apr. 22, Council House near Hicks' Mill / [signed by] John Ross</title>
+  </titleInfo>
+  <abstract>Copy of a legal decision of the Cherokee Council dated April 22, 1820 concerning a property dispute between Mrs. E. Pack, who purchased property from Charles Hicks, and John H. Jeffrey, who claims right due to his marriage to a Cherokee woman. The council decides in favor of Pack. Elijah Hicks created this copy.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1820-04-22</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A534</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A534/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

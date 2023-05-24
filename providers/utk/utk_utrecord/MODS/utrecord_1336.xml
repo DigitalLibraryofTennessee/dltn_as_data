@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">utrecord_1336</identifier>
+  <identifier type="local">ut-record_v03n14_1900</identifier>
+  <titleInfo>
+    <title>University of Tennessee record, volume 3, number 14</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1900</dateCreated>
+    <publisher>University of Tennessee Press</publisher>
+  </originInfo>
+  <abstract>This publication contains the register from 1899-1900 and announcements for 1900-1901 for the University of Tennessee. It includes the Board of Trustees members, general information about admission, faculty members, the curriculum, session calendar, catalog of students, and index.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <note>Number value is assumed.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+    <topic>State universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141103">
+    <topic>Universities and colleges--Curricula</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85141093">
+    <topic>Universities and colleges--Alumni and alumnae</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028378">
+    <topic>College teachers</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003887"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5286.R3</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Record</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A1336</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A1336/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

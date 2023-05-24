@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Haunted Spring</title>
+  </titleInfo>
+  <genre>notated music</genre>
+  <genre>sheet music</genre>
+  <subject>
+    <topic>Ireland -- Songs and music.</topic>
+  </subject>
+  <subject>
+    <topic>Music and Performing Arts.</topic>
+  </subject>
+  <subject>
+    <topic>Popular Culture and Folklife.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <note>This piece of sheet music is included in a bound volume that belonged to Tennessee resident, Miss Nora Gardner. This piece is "from the Songs of the Legends and Traditions of Ireland" and is arranged for the Guitar. It seems like an Irish variation on popular fairy tales involving mythical ladies luring unsuspecting people to their deaths. The creation date of 1838 is questionable. This piece was published during the span of 1840 through 1855, which has been inferred from the years during which the publisher operated under the specified name and location, as listed in the Handbook of Early American Sheet Music 1768-1889 by Harry Dichter and Elliott Shapiro (Dover, 1977).</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0018_000054_000212_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10300</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10300/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10300</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A10300/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

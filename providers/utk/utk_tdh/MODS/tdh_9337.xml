@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc093</identifier>
+  <identifier type="pid">tdh:9337</identifier>
+  <titleInfo>
+    <title>[Journal of Tennessee Cavalry, 2nd Regiment] 1847 Apr. 9 - May 4</title>
+  </titleInfo>
+  <abstract>This document is the journal kept by William Richard Caswell, Captain of the Tennessee Cavalry, 2nd Regiment, during the period of April 9-May 4, 1847. Caswell was Captain of these volunteer soldiers during the Mexican-American War (1846-1848). The journal documents the battles, travels, and personal experiences of the Tennessee soldiers, as well as other companies they encountered in Mexico. Also included is the master roll of soldiers that are in Caswell's company, including their name, rank, and condition.</abstract>
+  <name>
+    <namePart>Caswell, William Richard</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1847-04-09</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/genreForms/gf2014026085">
+    <topic>Diaries</topic>
+  </subject>
+  <subject>
+    <topic>Caswell, William Richard, 1809-1862</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140201">
+    <topic>Mexican War, 1846-1848</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee Calvary, 2nd Regiment</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9337</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9337/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

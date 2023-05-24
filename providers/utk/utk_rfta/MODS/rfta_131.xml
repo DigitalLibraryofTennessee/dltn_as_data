@@ -1,0 +1,107 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Flo_Liz_Puhala_2_18_17_VN800045</identifier>
+  <identifier type="pid">rfta:131</identifier>
+  <titleInfo>
+    <title>Interview with Flo and Liz Puhala, 2017-02-18</title>
+  </titleInfo>
+  <abstract>Interview with Florian and Liz Puhala, business owners in Gatlinburg. The Puhalas discuss the days before the fire and their evacuation hours before their home burned. They also recount the generosity found in the community during the months following the disaster. This is a representative quote from the interview: "Your mind just can't conceive that this is the last time your gonna see [your home]."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-18</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject displayLabel="Narrator Class">
+    <topic>Business owners and staff</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+    <topic>Disaster relief</topic>
+  </subject>
+  <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12218371">
+    <geographic>Gatlinburg Convention Center</geographic>
+    <cartographics>
+      <coordinates>35.7091335, -83.5188339</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12225050">
+    <geographic>Turkey Nest Road</geographic>
+    <cartographics>
+      <coordinates>35.7036363, -83.5101206</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Flo and Liz Puhala, 2017-02-18</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"Your mind just can't conceive that this is the last time your gonna see [your home]."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:05:00" partType="geographic" startTime="00:03:42">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Gatlinburg Convention Center</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Gatlinburg Convention Center.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:07:00" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Leading up to the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Leading up to the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:07:45" partType="geographic" startTime="00:05:00">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_G2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Turkey Nest Road</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Turkey Nest Road.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:30" partType="Chapters" startTime="00:07:00">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation and Loss</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation and Loss chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:19:17" partType="Chapters" startTime="00:12:30">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>After the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>After the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:24:19" partType="Chapters" startTime="00:19:17">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Community Effort</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Community Effort chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:33:16" partType="Chapters" startTime="00:24:19">
+        <pbcore:pbcoreIdentifier source="local">Flo_Liz_Puhala_2_18_17_VN800045_C5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Further Details</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Further Details chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/flo-and-liz-puhala-2017-02-18/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:131/datastream/TN/view</url>
+  </location>
+</mods>

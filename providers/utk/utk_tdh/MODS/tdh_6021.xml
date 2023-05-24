@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl215</identifier>
+  <identifier type="pid">tdh:6021</identifier>
+  <identifier type="oclc">51212932</identifier>
+  <titleInfo>
+    <title>1849 Feb. 4, Clinton [MS] [to] Joseph D. Hamilton, Nashville, Tennessee / Mary [Hamilton]</title>
+  </titleInfo>
+  <abstract>This is a letter to Joseph D. Hamilton from his sister Mary, dated Feb. 4, 1849. She informs him that her Dr. Hamilton has bought a plantation but that they have not yet built a house on it. She has been boarding in a tavern. She writes that many people have gone out to California for the gold rush. She wants to go for the weather, not the gold. She hopes that Joseph does not want to go as it is very dangerous.</abstract>
+  <name>
+    <namePart>Hamilton, Mary</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1849-02-04</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85055733">
+    <topic>Gold mines and mining</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79041717">
+    <geographic>California</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Orr Collection IV-J-2</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6021</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6021/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">kintner_37</identifier>
+  <titleInfo>
+    <title>View from Richland Mountain, Annotated</title>
+  </titleInfo>
+  <abstract>From Richland Mtn to the east, Guyot in distance.</abstract>
+  <abstract>View looking Northeast from Richland Mountains with The Sawteeth on left and Pecks Corner on right.</abstract>
+  <name>
+    <namePart>Kintner, Elgin P.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1975-07-23</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101295">
+    <topic>Photography, Panoramic</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85054004">
+    <topic>Geography--Terminology</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4487934">
+    <geographic>Richland Mountain</geographic>
+    <cartographics>
+      <coordinates>35.63285, -83.36385</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4469541">
+    <geographic>Mount Guyot</geographic>
+    <cartographics>
+      <coordinates>35.70532, -83.25746</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4050810">
+    <geographic>The Sawteeth</geographic>
+    <cartographics>
+      <coordinates>35.64342, -83.36237</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4484433">
+    <geographic>Pecks Corner</geographic>
+    <cartographics>
+      <coordinates>35.65537, -83.30932</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A37</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/kintner%3A37/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Elgin P. Kintner, M.D. Smoky Mountains Collection</title>
+    </titleInfo>
+    <identifier>MS.3686</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Panoramic Images of Elgin P. Kintner</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

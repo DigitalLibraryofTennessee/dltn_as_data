@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000070_000236_0000</identifier>
+  <titleInfo>
+    <title>Letter, William L. Scruggs in Chattanooga, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 January 11</title>
+  </titleInfo>
+  <abstract>In this letter, dated January 11, 1862, William L. Scruggs in Chattanooga, Tenn. writes to O.P. Temple in Knoxville, Tenn., asking for Temple's influence with Colonel Baxter. Scruggs wishes to "build up" a newspaper in Knoxville, which he sees as a "favorable" location. He states that "Chattanooga will never be able to sustain a first class Daily Press."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-01-11</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Scruggs, William L.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Newspaper editors -- Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Newspapers -- Ownership -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>American newspapers -- Political aspects -- Tennessee -- Knoxville -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Knoxville (Tenn.) -- Politics and government -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Scruggs, William L. -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Temple, Oliver Perry, 1820-1907 -- Correspondence</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1447</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1447/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The O.P. Temple Papers, 1862</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

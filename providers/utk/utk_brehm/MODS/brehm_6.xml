@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">brehm_14</identifier>
+  <titleInfo>
+    <title>Special Committee of U.T. Board in Segregation and Negro Case, A. L. Jackson, April 9, 1953</title>
+  </titleInfo>
+  <abstract>Letter outlining the admission requirements for African Americans.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1953-04-09</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Waters, E. A.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <note/>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029">
+    <topic>African Americans--Education--Southern States</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306">
+    <topic>College integration</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>University of Tennessee Office of the President Records 1948-1959</title>
+    </titleInfo>
+    <identifier>AR.0006</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8416v6b</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/brehm%3A6</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/brehm%3A6/datastream/TN/view</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

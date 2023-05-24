@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Horace Maynard, Washington, D.C.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <geographic>United States -- History-- Civil War, 1861-1865.</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- History -- Civil War, 1861-1865.</geographic>
+  </subject>
+  <subject>
+    <topic>Brownlow, William Gannaway, 1805-1877 -- Correspondence.</topic>
+  </subject>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Debate over slavery, the Secession Crisis, and the Civil War: Tennessee as a uniquely divided border state .</topic>
+  </subject>
+  <subject>
+    <topic>Wars and Military.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <topic>Knoxville.</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <note>Horace Maynard in Washington writes his regrets that he could not go with Brownlow to Pottsville, but he did not feel that he could be absent from Congress. Mentions Everson Etheridge. Mentions news from Edward Maynard that 8,000 "rebels" are in Knoxville and that John M. Thornburgh, Learned(?) Johnson, Squin Gailbraith (?), O.P. Temple, and John Baxter have been arrested, sent to Tuscaloosa, and are either dead or dying, which confirms Brownlow`s "intelligence." Mentions Trigg.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000103_000217_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4540</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4540/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4540</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4540/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

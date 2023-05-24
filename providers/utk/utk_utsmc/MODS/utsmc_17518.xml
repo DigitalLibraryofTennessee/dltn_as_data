@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000497_000744</identifier>
+  <titleInfo>
+    <title>The magic kiss</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1920</dateCreated>
+    <publisher>Shapiro, Bernstein &amp; Co.</publisher>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>The University of Tennessee Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Hanley, James F</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Cort, Harry L.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Stoddard, George E.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>notated music</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sheet Music Collection</title>
+    </titleInfo>
+    <identifier>MS.1575</identifier>
+    <location>
+      <url>http://n2t.net/ark:/87290/v8c24tkm</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <shelfLocator>MS.1575, Box 6, Folder 60</shelfLocator>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17518</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17518/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

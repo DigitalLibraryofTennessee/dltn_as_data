@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc045</identifier>
+  <identifier type="pid">tdh:9523</identifier>
+  <identifier type="oclc">50407027</identifier>
+  <titleInfo>
+    <title>[Letter] 1845 Feb. 28, Hermitage [to] Major W[illia]m B Lewis / Andrew Jackson</title>
+  </titleInfo>
+  <abstract>This document is letter from Andrew Jackson (US president, 1829-1837) to Major William B. Lewis dated February 28, 1845. In the letter, Andrew Jackson states to Major Lewis his opinions about who he believes to be the best men for the Tennessee State Department administration. Jackson approves Mr. Clay for the Secretary of State position and Mr. Buchanan into the Department of State. He approves of Colonel Polk obtaining a position in the administration, but says that Mr. Tyler's succession to the administration would split the democracy apart and damage Polk's administration. Jackson concludes this letter by informing Major Lewis of his failing health. He consequently dies several months later.</abstract>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1845-02-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79088888">
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr94018756">
+    <topic>Clay, Henry, 1811-1847</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9523</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9523/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

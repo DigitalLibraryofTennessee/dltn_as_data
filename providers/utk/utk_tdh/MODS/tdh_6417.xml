@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl122</identifier>
+  <identifier type="pid">tdh:6417</identifier>
+  <identifier type="oclc">50590815</identifier>
+  <titleInfo>
+    <title>[Letter] 1837, Dec 1, Clover Dale, TN [to] Mrs. Ann Jane Bell, Oil Creek, Venango Co., PA / Sarah B. Bell</title>
+  </titleInfo>
+  <abstract>This is a letter from Sarah Bell to her sister Mrs. Ann Jane Bell, dated Dec. 1, 1837. Sarah describes the reactions of family and friends to the news of Anne Jane's recent and unexpected marriage. She also writes that the Cumberland Presbyterians have formed a church in Charlotte, and she comments on who has converted or professed religion. She thanks Jane for the many presents the family has just received from her. Sarah further writes a bit about the farm and the neighbors.</abstract>
+  <name>
+    <namePart>Bell, Sarah</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-12-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh00006595">
+    <topic>Marriage</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh97004247">
+    <topic>Religious facilities</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6417</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6417/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

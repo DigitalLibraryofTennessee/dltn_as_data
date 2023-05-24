@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000067_000269</identifier>
+  <identifier type="pid">tenncities:169</identifier>
+  <identifier type="photograph number">0070</identifier>
+  <identifier type="spc">record_spc_3925</identifier>
+  <titleInfo>
+    <title>Oakwood Mansion</title>
+  </titleInfo>
+  <abstract>Charles J. McClung built Oakwood Mansion for his son, Matthew McClung, in 1870. The house changed hands in 1873 when it became home to Matthew's sister Lucy and her husband Jacob Lytton Thomas. The home was then located at the outskirts of town, allowing Thomas to farm and raise livestock. Railroad contractor Henry H. Thrasher purchased the house in about 1905 and remodeled it completely, adding porches, columns, and the brick exterior. He sold it in the late 1920s to a group of physicians who renamed it the Howard-Henderson Hospital. It was briefly known as Acuff Clinic before becoming Kingston Pike Motel in the late 1950s. When that enterprise failed, the structure was remodeled and reopened as Kingston Pike Nursing Home. It continued in this capacity until the early 1990s. It was home to a number of businesses, including a beauty parlor and a restaurant, before Sam Furrow purchased it in 1999.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1905</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86003042">
+    <topic>Mansions</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040261">
+    <topic>Dwellings--Tennessee</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+    <topic>Architectural photography</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+    <topic>Knoxville (Tenn.)--History</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <subject/>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Images of East Tennessee</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Photographs of Tennessee Cities Collection</title>
+    </titleInfo>
+    <identifier>MS.0951</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8kd1w2w</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A169</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tenncities%3A169/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

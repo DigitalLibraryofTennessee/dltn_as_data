@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">utrecord_37216</identifier>
+  <identifier type="local">ut-record_v73n04_1970-07</identifier>
+  <titleInfo>
+    <title>University of Tennessee record, volume 73, number 4</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1970-07</dateCreated>
+    <publisher>University of Tennessee, Knoxville</publisher>
+  </originInfo>
+  <abstract>Record from 1970 promoting the campuses of the University of Tennessee system. It shares information on fields of study, activities, and buildings for each of the campuses - Knoxville, Center for the Health Services, Martin, and Chattanooga - as well as other centers and programs. It concludes with a Q&amp;A for prospective students.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <note>Published in January, March, May, July, September, November, and December by the University of Tennessee.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+    <topic>State universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2015001526">
+    <topic>College branch campuses</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041065">
+    <topic>Education, Higher</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003891"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003888"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003885"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n93800403"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5286.R3</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Record</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A37216</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A37216/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

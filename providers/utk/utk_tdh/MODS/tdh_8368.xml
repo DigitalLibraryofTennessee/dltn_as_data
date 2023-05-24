@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl441</identifier>
+  <identifier type="pid">tdh:8368</identifier>
+  <titleInfo>
+    <title>1844 Jan. 17, Nashville, Tennessee / Thos. Pritcher [et al]</title>
+  </titleInfo>
+  <abstract>This is a letter from the Central State Corresponding Committee dated January 17, 1844. It is to an unknown recipient. The committee represents the Democratic Convention of Tennessee. They express outrage over the fact that Martin Van Buren did not win the presidential election of 1840, and that he is a favorite for the current nomination. The committee writes that they want James K. Polk to run for Vice-President. A copy of the address stating this decision is included.</abstract>
+  <name>
+    <namePart>Pritcher, Thos.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1844-01-17</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Tennessee--Campaigns</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n80057180">
+    <topic>Van Buren, Martin, 1782-1862</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n80145740">
+    <topic>Polk, James K. (James Knox), 1795-1849</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85106460">
+    <topic>Presidential elections</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Laughlin Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8368</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8368/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

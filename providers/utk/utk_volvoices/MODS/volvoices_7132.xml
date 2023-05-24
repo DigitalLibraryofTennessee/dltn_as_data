@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Brooks, J.M., Knoxville, Tennessee to Frazier, J.B., Washington, D.C.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <topic>Frazier, James Beriah -- 1858-1937.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Politics and Government -- 1901-1909.</geographic>
+  </subject>
+  <subject>
+    <topic>Tennessee Valley Authority and "grass roots democracy" .</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <topic>Trade, Business, and Industry.</topic>
+  </subject>
+  <subject>
+    <topic>Science and Technology.</topic>
+  </subject>
+  <subject>
+    <geographic>The Emergence of Modern America (1890-1930).</geographic>
+  </subject>
+  <note>Letter dated December 8, 1908 to James B. Frazier in Washington D.C. from John M. Brooks, Mayor of Knoxville Tennessee asking Senator Frazier to use his influence "in securing the permission of the Government" to finish a dam project "for the purpose of producing and transmitting electrical currents for the use of our people." No specific name was given to the dam in question, but may refer to Douglas Dam.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000144_000232_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7132</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7132/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7132</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A7132/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

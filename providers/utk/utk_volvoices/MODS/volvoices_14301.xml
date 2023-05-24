@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>1836 Mar. 16, Columbus [Ohio], [to] Doct[or] A. King [amp] Co [mpany]</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <geographic>Clarksville (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Montgomery County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Health and Medicine.</topic>
+  </subject>
+  <subject>
+    <topic>Trade, Business, and Industry.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Montgomery County.</geographic>
+  </subject>
+  <subject>
+    <topic>Herbal medicines.</topic>
+  </subject>
+  <subject>
+    <geographic>Columbus (OH)</geographic>
+  </subject>
+  <subject>
+    <topic>Ferris, D.; Dr. A King [amp] Company; J. Pike [amp] Company.</topic>
+  </subject>
+  <note>This document is a letter written from J. Pike [amp] Company to Doctor A. King [amp] Company dated March 16, 1836. The letter shows a listing of medicines ordered by Doctor A. King [amp] Company from J. Pike [amp] Company. The medicines are arriving late because of delays due to a canal being closed. Some of the medicines listed are herbs and seasonings used to create medicines. The letter is concluded by giving a recipe for wine bitter using some of the medicines named in the letter.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0023_000069_000201_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14301</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14301/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14301</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14301/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

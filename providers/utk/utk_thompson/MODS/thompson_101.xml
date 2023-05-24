@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001011_000300</identifier>
+  <identifier type="pid">thompson:101</identifier>
+  <titleInfo>
+    <title>Appalachian Trail</title>
+  </titleInfo>
+  <abstract>Perhaps the most dramatic or spectacular spot in the Great Smokies is Charlies Bunion. It is on the Main crest of the Smokies, four miles northeast of Newfound Gap, and is reached only by the Appalachian Trail. This jagged point is no more rugged than other near-by peaks along the Sawtooth section of the Great Smokies. Its extreme ruggedness, however, was exposed to view when that spot was swept by fire in 1925. Dense forests give an apparent smoothness to equally precipitious points near this picturesquely named feature. Mt. Le Conte is seen in the right background.</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4460240">
+    <geographic>Charlies Bunion</geographic>
+    <cartographics>
+      <coordinates>35.63898, -83.3721</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85006076">
+    <geographic>Appalachian Trail</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+    <identifier>MS-3719</identifier>
+    <location/>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A101</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A101/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

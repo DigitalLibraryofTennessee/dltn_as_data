@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Edward Joynes in Columbia, South Carolina to O.P. Temple in Knoxville, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>personal correspondence</genre>
+  <subject>
+    <topic>American newspapers -- Tennessee -- Knoxville.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee, East -- History, Local.</geographic>
+  </subject>
+  <subject>
+    <topic>Sevier, John, 1745-1815.</topic>
+  </subject>
+  <subject>
+    <topic>Temple, Oliver Perry, 1820-1907.</topic>
+  </subject>
+  <subject>
+    <geographic>The Development of the Industrial United States (1870-1900).</geographic>
+  </subject>
+  <subject>
+    <topic>Joynes, Edward.</topic>
+  </subject>
+  <note>After complimenting Temple on his articles about John Sevier, Joynes suggests that Temple write a history of East Tennessee. In a following postcard Joynes replies that he hopes Temple can carry out his intended plans for writing and comments that it is a "defect in our Southern people that they will not write their own history."</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000070_000365_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15732</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15732/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15732</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A15732/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

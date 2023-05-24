@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl375</identifier>
+  <identifier type="pid">tdh:5478</identifier>
+  <titleInfo>
+    <title>Dec. 22, 1779, Fort Patrick Henry, Holston River / John Donelson</title>
+  </titleInfo>
+  <abstract>This is the Journal kept by John Donelson on his trip from Fort Patrick Henry to French Salt Springs which he also refers to as the Big Salt Lick. He travels down the Holston, French Broad, Clinch, Tennessee, and Cumberland Rivers. The trip starts on December 22, 1779 and is completed on April 24, 1780. Donelson's boat is joined early in the voyage by several others going along the same route. Donelson writes about an accident they have on the French Broad river in February. One of the other vessels sinks. A slave dies on the Clinch river in March from severe frost bite. Later that month the travellers have trouble with the Chickamaugas, who have villages down the south side of the Tennessee River. Captain Blackemore's boat, which had been quarantined from the others due to small pox, is attacked by these natives, and many people are killed or captured. Donelson writes about the flotilla trying to navigate the Whirl, a particularly dangerous place on the Tennessee River near Chattanooga. There, they are attacked again by the Chickamaugas. One family named Jennings is left behind when their boat becomes trapped in the Whirl, but they are able to eventually catch up to the others. Donelson writes about trouble they have going through the Muscle Shoals in mid-March. On the Cumberland River they begin to have food shortages and are forced to hunt buffalo to survive. When they arrive in Big Salt Lick, they meet Captain Robertson and company. The group decides to stay temporarily in some log cabins they find.</abstract>
+  <name>
+    <namePart>Donelson, John, approximately 1718-approximately 1780</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1779-12-22</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/genreForms/gf2014026085">
+    <topic>Diaries</topic>
+  </subject>
+  <subject>
+    <topic>Cumberland River (Ky. and Tenn.)--Navigation.</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076819">
+    <topic>Stressful life events</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133887">
+    <geographic>Tennessee River</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bettie M. Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5478</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5478/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

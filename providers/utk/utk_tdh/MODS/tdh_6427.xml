@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl120</identifier>
+  <identifier type="pid">tdh:6427</identifier>
+  <identifier type="oclc">50505075</identifier>
+  <titleInfo>
+    <title>[Letter] 1837, April 17th, Clover Dale, TN [to] Miss Ann Jane Bell, Philadelphia, [PA] / Sarah B. Bell and M[argaret] V. Bell</title>
+  </titleInfo>
+  <abstract>These are two letters written together to Ann Jane Bell dated April 17, 1837. They are from her sisters, Sarah B. Bell and Margaret V. Bell. Sarah has had a cold this week. She writes of where some people are going to school. James Gould has bought them some gifts that he has been unable to send them. She mentions how well liked a preacher named Mr. Pope is. She also says that the weather has been good for the fruit trees. Margaret writes of the muster they recently hosted. Their mother wanted to listen to a Mr. Allen's speech. Apparently the ladies were not allowed to actually attend it. They sat on the porch and had Mr. Allen speak very loudly. She also summarizes the happenings in the neighbors.</abstract>
+  <name>
+    <namePart>Bell, Margaret</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-04-17</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6427</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6427/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

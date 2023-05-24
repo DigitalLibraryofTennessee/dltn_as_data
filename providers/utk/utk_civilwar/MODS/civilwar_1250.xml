@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000078_000200_0000</identifier>
+  <titleInfo>
+    <title>Letter, John McNickle Laird in Knoxville, Tenn., to Mrs. Julia Laird in New Bloomfield, Penn., 1863 December 8</title>
+  </titleInfo>
+  <abstract>In this letter, dated December 8th, 1863 John M. Laird, near Knoxville, Tenn. writes to his mother in New Bloomfield, Penn. concerning the war and how the soldiers took chickens, sheep, cattle, flour and more from those who had seceded. In his letter, he refers to these traitors as "Secesh." His unit had marched 130 to 140 miles in ten days in order to arrive within two miles of Knoxville, Tenn.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-08-07</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Laird, John McNickle</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Railroad bridges -- Tennessee -- Loudon County</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, East -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1250</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1250/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>John McNickle Laird Collection, 1863</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

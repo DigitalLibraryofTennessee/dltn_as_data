@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>John B. Brownlow in Washington, D.C. to O.P. Temple in Knoxville, Tennessee</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letter</genre>
+  <subject>
+    <topic>Unionism.</topic>
+  </subject>
+  <subject>
+    <topic>Democratic Party.</topic>
+  </subject>
+  <subject>
+    <topic>Netherland, John, 1808-1887.</topic>
+  </subject>
+  <subject>
+    <topic>Taylor, A. A. (Alfred Alexander), 1848-1931</topic>
+  </subject>
+  <subject>
+    <topic>Government and Politics.</topic>
+  </subject>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <topic>Farragut, David Glasgow.</topic>
+  </subject>
+  <note>Brownlow gives Temple the address of the Pennsylvania hotel used by Andrew Johnson as boarding house and discusses the location at length. Discusses the arbitrary and unwarrented eulogism encountered within the United States Congress. Expresses frustration with the ommission of Temple`s name as a top leader in East Tennessee Unionism. Mentions Temple`s book. Urges Temple to apply to the Sons of the American Revolution.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0012_000070_000382_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4665</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4665/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4665</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4665/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

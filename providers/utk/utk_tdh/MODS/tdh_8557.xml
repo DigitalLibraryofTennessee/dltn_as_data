@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um055</identifier>
+  <identifier type="pid">tdh:8557</identifier>
+  <identifier type="oclc">50296019</identifier>
+  <titleInfo>
+    <title>[Letter] 1848 Oct. 2, South Hanover College, I[ndian]a [to] E[thel] H[enry] Porter / E[dward] E. Porter</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Edward E. Porter to his father, Ethel Henry Porter, on October 2, 1848. In the letter, Edward discusses seeing his father on a boat, the 'Palo Alto' as he passed by, events going on at college, trips he has recently taken, and the need for Ethel to send some of his belongings to him at school.</abstract>
+  <name>
+    <namePart>Porter, Edward E.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1848-10-02</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125637">
+    <topic>Southern States--Description and travel</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79022925">
+    <geographic>Indiana</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Porter-Rice Family Letters MS 154 (Letters 1846-1849)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8557</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8557/datastream/TN/view</url>
+  </location>
+</mods>

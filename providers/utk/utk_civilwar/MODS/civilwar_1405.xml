@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000071_000204_0000</identifier>
+  <titleInfo>
+    <title>Letter, Henry Cherry in Knoxville, Tenn. to Amos Gould in Owosso, Mich., 1865 April 11</title>
+  </titleInfo>
+  <abstract>In this letter, dated April 11, 1865, from Henry Cherry in Knoxville, Tenn. to Amos Gould, Cherry notes the arrival of the news of Lee's surrender, saying "from every Fort around Knoxville demonstrations of joy were given in the firing of cannon." Expresses displeasure with Grant, arguing that he should now have "offered any other than unconditional surrender and then let Government show such mercy &amp; leniency as might be wise &amp; proper." Also speaks of the beauty of the area and the opportunities available for lawyers.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1865-04-11</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Cherry, Henry</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Knoxville (Tenn.) -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>United States. Army. Michigan Cavalry Regiment, 10th (1861-1865)</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1405</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1405/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The Henry Cherry Letters, 1865</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

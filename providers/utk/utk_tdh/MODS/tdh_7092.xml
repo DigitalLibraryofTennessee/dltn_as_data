@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl038</identifier>
+  <identifier type="pid">tdh:7092</identifier>
+  <identifier type="oclc">47828218</identifier>
+  <titleInfo>
+    <title>[Order] 1797 Mar. 19, State of Tennessee, [to] the sherriff [sic] of Hawkins County / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is an order issued by John Sevier, Governor of Tennessee from 1796-1801, to the sheriff of Hawkins County. Sevier stated that he had been informed by the governor of Kentucky of the murders of two Cherokees committed by Edward Mitchell and John Levingston, both citizens of the state of Tennessee and inhabitants of Hawkins County. In compliance with the demand of Governor Garrard of Kentucky, Sevier commanded the sheriff to apprehend Mitchell and/or Levingston and have them taken to the public jail of Kentucky. He also ordered that all civil and military officers aid the sheriff in the capture and transport of Mitchell and Levingston. This document was signed and sealed on March 19th, 1797.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-03-19</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/genreForms/gf2011026234">
+    <topic>Executive orders</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n81107058">
+    <topic>Hawkins County (Tenn.)</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+    <geographic>Kentucky</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n81107058">
+    <geographic>Hawkins County (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7092</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7092/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

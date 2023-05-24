@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl139</identifier>
+  <identifier type="pid">tdh:6348</identifier>
+  <identifier type="oclc">50555389</identifier>
+  <titleInfo>
+    <title>[Letter] 1813 Nov. 7, Camp near Turkey Town [to] Major Gen[era]l John Cocke / James White</title>
+  </titleInfo>
+  <abstract>The following document consists of two letters sent to Major General John Cocke from James White. The first is a letter White writes from a military camp near Turkey Town, dated November 7, 1813. White discusses General Andrew Jackson's advancements at the present stage of the War of 1812. The second letter is a copy of a letter written from General Jackson to White, four days earlier on November 4. In that letter, Jackson describes his army's advancement to Ten Island, as well as a very brief description of a battle between General Coffee and Native Americans, in which all of the Native Amer. men were killed and the women and children taken prisoner.</abstract>
+  <name>
+    <namePart>White, James</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1813-11-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085299">
+    <topic>Military supplies</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140194">
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh89006719">
+    <topic>Creek Indians--Wars</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>John Cocke Papers V-J-3</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6348</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6348/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

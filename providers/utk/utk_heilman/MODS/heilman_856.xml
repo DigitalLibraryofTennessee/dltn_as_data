@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Nelumbo_0714</identifier>
+  <name>
+    <namePart>Heilman, Alan S.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Nelumbo, species indeterminate, 0714</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1997-09-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Lotus</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/heilman%3A856</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/heilman%3A856/datastream/TN/view</url>
+  </location>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078460">
+    <topic>Lotus</topic>
+  </subject>
+  <subject>
+    <topic>Nelumbo sp.</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85052105">
+    <topic>Fruit</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85102884">
+    <topic>Plants, Cultivated</topic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Botanical Photography of Alan S. Heilman</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Botany Department Photographs</title>
+    </titleInfo>
+    <identifier type="local">AR.0488</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/3.0/">Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)</accessCondition>
+  <note displayLabel="Attribution">Photograph © Alan S. Heilman; Digital Image © 2011 The University of Tennessee Libraries. Creative Commons License Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) with attribution as follows: [Photograph title and item number], The Botanical Photography of Alan S. Heilman, © Alan S. Heilman, © The University of Tennessee Libraries, 2011.</note>
+  <recordInfo>
+    <recordIdentifier>record_Nelumbo_0714</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

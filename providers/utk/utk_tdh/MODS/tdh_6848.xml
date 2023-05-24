@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl010</identifier>
+  <identifier type="pid">tdh:6848</identifier>
+  <identifier type="oclc">50008362</identifier>
+  <titleInfo>
+    <title>[Letter] 1840 Jul. 28, Hermitage [to] Fr. P. Blair Esq[ui]re / Andrew Jackson</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Andrew Jackson to Fr. P. Blair on July 28, 1840. In the letter, Jackson defends Blair and General Jessup against allegations made by General Scott. General Scott alleged that Blair and General Jessup recalled him from military duty in Florida, when in fact it was Jackson. General Scott had been ordered to Florida to look for Indian warriors and to prevent a war with the Creeks. Instead of following orders to go directly to Florida, taking eight days worth of supplies on the soldiers' backs, Scott took three weeks waiting for wagons to take the supplies to Florida. Several of the soldiers were killed in an attack while waiting for the wagons, and Scott became ill. General Jessup was sent to fight the now explosive war with the Creeks and Scott went to where Jessup's soldiers were and attempted to take command of them. Because of this action, as well as not arming his troops for six weeks on the frontier, Jackson recalled General Scott from his command duties. Jackson also mentions political events in the letter, such as the pass of the Independent Treasury bill and the next Presidential election.</abstract>
+  <name>
+    <namePart>Jackson, Andrew, 1767-1845</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1840-07-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033896">
+    <topic>Creek War, 1813-1814</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140425">
+    <topic>United States--Politics and government--1809-1817</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085299">
+    <topic>Military supplies</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sir Emil Hurja Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6848</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6848/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

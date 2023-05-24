@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc005</identifier>
+  <identifier type="pid">tdh:9656</identifier>
+  <identifier type="oclc">49961017</identifier>
+  <titleInfo>
+    <title>[Letter] 1837 Dec. 11 [to] Jesse Abernathy Esq[ui]r[e], Pulaski, Tennessee / W[illia]m R Brown</title>
+  </titleInfo>
+  <abstract>This document is a letter dated December 11, 1837, to Jesse Abernathy in Pulaski, TN, from William R. Brown. In the letter, Brown expressed concern regarding the influence of the Whigs in the state of Tennessee, particularly in Giles County, where Whigs had obtained control of the press. He stated that Henry Clay would be the presidential candidate of the Whigs to rival current president Andrew Jackson. Brown further stated that he had relinquished his political aspirations and had no plans to run for office. He also discussed the issues of banks and a pending bill in the Tennessee legislature that would funnel bond money into the creation of a state bank in Middle Tennessee. Another bill proposing to charter a bank was earlier rejected by the Tennessee senate.</abstract>
+  <name>
+    <namePart>Brown, William R.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1837-12-11</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/names/n98112523">
+    <topic>Brown, William R.</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133877">
+    <topic>Tennessee--Politics and government--To 1865</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr94018756">
+    <topic>Clay, Henry, 1811-1847</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79088888">
+    <topic>Jackson, Andrew, 1767-1845</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9656</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9656/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

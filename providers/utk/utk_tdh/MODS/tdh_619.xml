@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch048</identifier>
+  <identifier type="pid">tdh:619</identifier>
+  <identifier type="oclc">44845150</identifier>
+  <titleInfo>
+    <title>Extract of a letter of Mr. [John] Thompson containing an account of his second arrest, 1831 July 1</title>
+  </titleInfo>
+  <abstract>Extract from a letter dated July 1, 1831 wherein John Thompson, Christian missionary living in the Cherokee Nation, gives an account of his second arrest. Thompson is arrested and marched for many miles to Camp Gilmer, Murray County, Georgia where he is briefly detained. He has a short conversation with Colonel Sanford and is told he is free to go.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1831-07-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/demographicTerms/dg2016060300">
+    <topic>Missionaries</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n82030806">
+    <geographic>Murray County (Ga.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A619</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A619/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

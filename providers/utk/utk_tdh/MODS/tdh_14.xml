@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mc058</identifier>
+  <identifier type="pid">tdh:14</identifier>
+  <titleInfo>
+    <title>[Letter] 1839 June 15, Murfreesboro [to] Mr. Charles Welcker, Kingston, Tennessee / H. Yoakum</title>
+  </titleInfo>
+  <abstract>This document is a letter dated June 15, 1839, from H. Yoakum in Murfreesboro, Tennessee to Charles Welcker in Kingston. Yoakum writes that he has been expecting Welcker's sister and niece to arrive in Murfreesboro for school, and he briefly mentions upcoming examinations. He also briefly mentions the political atmosphere and the democratic party.</abstract>
+  <name>
+    <namePart>Yoakum, H. (Henderson King), 1810-1856</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1839-06-15</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh97001171">
+    <topic>Boarding school students</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133881">
+    <geographic>Tennessee, East</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Welcker Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Knox County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A14</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A14/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

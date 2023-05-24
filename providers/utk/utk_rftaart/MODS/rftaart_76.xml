@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">rftaart:76</identifier>
+  <titleInfo>
+    <title>A Dog Left Behind</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">2021</dateCreated>
+    <dateCreated encoding="edtf" point="end">2022</dateCreated>
+  </originInfo>
+  <abstract>Becky Jackson talked about how she had found out about the fire while at work. She left to try and get to her house but the police stopped her. She couldn’t get to her house and she couldn’t get her husband to leave. Finally, she convinced him to leave and just bring her pets. Once he was down the mountain the authorities wouldn’t let him go back. Their house was destroyed by the fire. Pets were mentioned in many interviews. Some people were able to evacuate with their pets. Some people left their pets behind thinking the fire wouldn’t get close or because they were unable to take them along.</abstract>
+  <name>
+    <namePart>Braddock, Paige</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202">
+    <topic>Dogs</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>moving image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="references">
+    <location>
+      <url>https://rfta.lib.utk.edu/interviews/object/becky-jackson-2019-11-09</url>
+    </location>
+    <identifier type="pid">rfta:32</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="art" type="constituent">
+    <identifier type="pid">rftaart:3</identifier>
+    <identifier type="local">RFTA_Braddock_003</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="compilation video" type="constituent">
+    <identifier type="pid">rftaart:53</identifier>
+    <identifier type="local">BeckyJackson_Braddock_003</identifier>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A76</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A76/datastream/TN/view</url>
+  </location>
+</mods>

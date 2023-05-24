@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003259_000228</identifier>
+  <titleInfo>
+    <title>Just try to picture me down home in Tennessee</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1915</dateCreated>
+    <publisher>Waterson Berlin &amp; Snyder Co.</publisher>
+  </originInfo>
+  <note type="first line">I'm so happy, oh, so happy</note>
+  <name>
+    <namePart>Donaldson, Walter, 1893-1947</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Jerome, William, 1865-1932</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125211">Songs with piano</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088865">Popular music</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061737">Homesickness</topic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965">Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>notated music</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <shelfLocator>MS.3254</shelfLocator>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17763</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utsmc%3A17763/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

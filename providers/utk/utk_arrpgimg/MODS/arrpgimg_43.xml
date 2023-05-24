@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">arrpgimg:43</identifier>
+  <identifier type="filename">arrs0003_0022_0002</identifier>
+  <titleInfo>
+    <title>Evelyn Bishop Scrapbook, page 22</title>
+  </titleInfo>
+  <name>
+    <namePart>Bishop, Evelyn</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end">1925</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011583">
+    <topic>Waterfalls</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002162">
+    <topic>Cliffs</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009782">
+    <topic>Snow</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005257">
+    <topic>Ice</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82218811">
+    <geographic>Sevier County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Laurel Falls</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="otherVersion">
+    <titleInfo>
+      <title>Evelyn Bishop Scrapbook</title>
+    </titleInfo>
+    <location>
+      <url>https://digital.lib.utk.edu/collections/islandora/object/arrowmont%3A236</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Project Part" type="host">
+    <titleInfo>
+      <title>Arrowmont Simple Images from Scrapbooks</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/arrpgimg%3A43</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/arrpgimg%3A43/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

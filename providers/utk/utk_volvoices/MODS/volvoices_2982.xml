@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0070_000051_000206_0001</identifier>
+  <identifier type="filename">0070_000051_000206_0001.jp2</identifier>
+  <name>
+    <namePart>Clanton, Earl</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Members of the U.S.A. National Team from the Tigerbelles of Tennessee A &amp; I State University</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>Members of the Tigerbelles track team of Tennessee A &amp; I State University pose in their U.S. Olympic track suits with Coach Edward S. Temple. Pictured are Isabelle Daniels, Barbara Jones, Lucinda Williams and Wilma Rudolph. Coach Temple is wearing his 1959 Pan-American Games jacket and holding an 1956 United States Olympic Book.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Tennessee State University. Special Collections and Archives</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <shelfLocator>Manuscript Number 0018</shelfLocator>
+      </copyInformation>
+    </holdingSimple>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Nashville</text>
+          <text>County: Davidson County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2982</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A2982/datastream/TN/view</url>
+  </location>
+  <subject displayLabel="Broad Topics">
+    <topic>African-Americans</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Women</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Sports and Recreation</topic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>36.16583N, 86.78445W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>David Crockett State Park (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <temporal>1960</temporal>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Walter S. Davis Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0070_000051_000206_0001</recordIdentifier>
+    <recordContentSource>Tennessee State University. Special Collections and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-01-22</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

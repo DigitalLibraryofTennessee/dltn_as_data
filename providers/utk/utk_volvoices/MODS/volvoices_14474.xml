@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter to John S. Williams, Sr.</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <topic>Letters.</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee, East History.</topic>
+  </subject>
+  <subject>
+    <topic>Popular Culture and Folklife.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Knox County.</geographic>
+  </subject>
+  <subject>
+    <geographic>Greeneville, Tennessee.</geographic>
+  </subject>
+  <subject>
+    <topic>Coffin, Charles.</topic>
+  </subject>
+  <note>A letter written by Charles Coffin on September 17, 1835 in Greeneville, Tennessee to John S. Williams Sr. The writer discusses the coming railroad in East Tennessee, which will benefit the region as well as the entire country. The writer lists the abundant natural resources in the area, including timber, iron, and marble. He also mentions whiskey, ginseng, dried fruit, and livestock being transported by the railroad. The second page of this letter is not in this collection, and the first page (presented here) is in fragments. The letter may be from Charles Coffin, but this is not certain.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0023_000063_000203_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14474</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14474/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14474</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14474/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

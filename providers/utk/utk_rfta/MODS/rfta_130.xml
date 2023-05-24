@@ -1,0 +1,107 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Emily_Collett_1_27_17_VN800021_22</identifier>
+  <identifier type="pid">rfta:130</identifier>
+  <titleInfo>
+    <title>Interview with Emily Collett, 2017-01-27</title>
+  </titleInfo>
+  <abstract>Interview with Emily Collett, resident of Gatlinburg. Collett discusses the initial warning she received on the day of the fire and her evacuation to a friend's house. Subsequently she was forced to evacuate from there before finding shelter at Rocky Top Sports Park. This is a representative quote from the interview: "I hear the biggest crack. It sounded like a whole building fell down. Well it wasn't a building, but after I blink, of course because of the crack, I see on top of my car, a huge limb."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-01-27</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+    <topic>Disaster relief</topic>
+  </subject>
+  <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/5839719">
+    <geographic>The Spur</geographic>
+    <cartographics>
+      <coordinates>35.744143, -83.520302</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12128430">
+    <geographic>Rocky Top Sports World</geographic>
+    <cartographics>
+      <coordinates>35.7330294, -83.447498</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Emily Collett, 2017-01-27</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"I hear the biggest crack. It sounded like a whole building fell down. Well it wasn't a building, but after I blink, of course because of the crack, I see on top of my car, a huge limb."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:16:50" partType="geographic" startTime="00:14:11">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Spur</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses The Spur.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:05:46" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Preface</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Preface chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:17:43" partType="geographic" startTime="00:16:50">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_G2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rocky Top Sports World</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Rocky Top Sports World.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:11:42" partType="Chapters" startTime="00:05:46">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>First Warning</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>First Warning chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:16:50" partType="Chapters" startTime="00:11:42">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Second Warning</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Second Warning chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:24:00" partType="Chapters" startTime="00:16:50">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>After the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>After the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:32:47" partType="Chapters" startTime="00:24:00">
+        <pbcore:pbcoreIdentifier source="local">Emily_Collett_1_27_17_VN800021_22_C5</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Reflections</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Reflections chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/emily-collett-2017-01-27/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:130/datastream/TN/view</url>
+  </location>
+</mods>

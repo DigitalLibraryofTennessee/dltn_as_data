@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl039</identifier>
+  <identifier type="pid">tdh:7087</identifier>
+  <identifier type="oclc">47828272</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Mar. 28, Knoxville, [Tennessee, to] the warriors chiefs of the Cherokee Nation / John Sevier</title>
+  </titleInfo>
+  <abstract>This document is a letter addressed to the warriors and chiefs of the Cherokee Nation, written by Tennessee Governor John Sevier (1796-1801, 1803-1809 ) on March 28, 1797. Sevier reported that he had been requested by the Governor of Kentucky to have the two Tennessee citizens who murdered Red Bird and another Cherokee apprehended and sent to Kentucky to be tried for their crime. Sevier stated that he had sent forth orders in compliance with this request, and he was now urging the Cherokee leaders to capture those from amongst their people who were responsible for the murders of several white citizens. Sevier warned the Cherokees of the dangers of bringing about a war, which could be the consequence of further acts of aggression between the citizens of the United States and those of the Cherokee Nation.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-03-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79018583">
+    <geographic>Kentucky</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7087</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7087/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

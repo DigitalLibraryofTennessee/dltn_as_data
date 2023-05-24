@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">RFTA_Marshall_004</identifier>
+  <identifier type="pid">rftaart:17</identifier>
+  <titleInfo>
+    <title>Relentless Flames Take Over Gatlinburg</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
+  </originInfo>
+  <abstract>By 8 P.M., there was a mandatory evacuation called for Gatlinburg. The flames were flanking downtown. Since noon, there were over 3,500 boots on the ground from 225 agencies. But the high winds were relentless. Flames rapidly advanced.Even long-time residents hesitated to leave their homes. City manager Cindy Cameron Ogle's husband, Bud, did not initially evacuate. Finally his grand-daughter convinced him to leave. He went to check on his mother Stella (she and her husband Coot were tourism pioneers. But told her, "Our town is getting ready to burn down." She left with Bud. Bud and Cindy, like so many, lost everything.</abstract>
+  <name>
+    <namePart>Ramsey, Marshall</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject/>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002088">
+    <topic>Cities &amp; towns</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="references">
+    <location>
+      <url>https://rfta.lib.utk.edu/interviews/object/cindy-ogle-2020-02-20</url>
+    </location>
+    <identifier type="pid">rtfa:59</identifier>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A17</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A17/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

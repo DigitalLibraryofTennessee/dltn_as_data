@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000296_000278</identifier>
+  <identifier type="pid">ruskin:179</identifier>
+  <identifier type="spc">record_spc_4786</identifier>
+  <titleInfo>
+    <title>Group of people</title>
+  </titleInfo>
+  <abstract>Mae (Hardy) Miller, Glenn Hardy, T.H. Hardy, Gladys (Hardy) Rader, and Fred Hardy in Chespeake, Missouri, just after the death of Mrs. Hardy in September 1952. All in this picture lived in Ruskin. Fred &amp; Gladys were born in Ruskin. All have passed away except Mae and Gladys.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1952</dateCreated>
+  </originInfo>
+  <note>Dates inferred from dates of archival collection.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028258">
+    <topic>Collective settlements</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/nr93003802"/>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4381064/about.rdf">
+    <geographic>Chesapeake</geographic>
+    <cartographics>
+      <coordinates>37.117, -93.68159</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82076225">
+    <geographic>Lawrence County (Mo.)</geographic>
+    <cartographics>
+      <coordinates>37.10635, -93.83294</coordinates>
+    </cartographics>
+  </subject>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Photographs of the Ruskin Cooperative Association</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ruskin Cave College Collection</title>
+    </titleInfo>
+    <identifier>MS.0335</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v8wq01zq</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/ruskin%3A179</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/ruskin%3A179/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

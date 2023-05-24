@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mm055</identifier>
+  <identifier type="pid">tdh:893</identifier>
+  <identifier type="oclc">47997318</identifier>
+  <titleInfo>
+    <title>[Photograph of the Fort Marr Blockhouse in Benton, Tennessee] / [by Gerald F. Schroedl]</title>
+  </titleInfo>
+  <abstract>This photograph is of the Fort Marr Blockhouse located at Benton in Polk County, Tennessee. Fort Marr, also known as 'The Old Fort,' was constructed around 1814 near Old Fort, Tennessee. The fort was positioned along the Old Federal Road and housed troops who were assigned to protect white travelers using the road and the Cherokees from Creek retaliation. The fort was also said to have been used to safeguard supplies and as a campsite for soldiers in transit during the Creek War of 1814-1815. The name Fort Marr was established when the fort was renovated into a stockade to use during the removal of the Cherokee people to the west. It is believed that the fort was named after George Washington Lent Marr, who served under Andrew Jackson during the War of 1812 and the campaign of 1813-1814. After being relocated times since its construction, it was moved to its present location at Benton in 1965. In 1980, Fort Marr became the property of the Conservation Department of the state of Tennessee to be maintained and used as a historic site.</abstract>
+  <name>
+    <namePart>Schroedl, Gerald F.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1980</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85101195">
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Antiquities</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85050919">
+    <topic>Fortification</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85061115">
+    <topic>Historic sites</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <subject>
+    <geographic>Fort Marr (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H.McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n85388691">Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A893</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A893/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mc005</identifier>
+  <identifier type="pid">tdh:218</identifier>
+  <identifier type="oclc">50436637</identifier>
+  <titleInfo>
+    <title>[Letter] 1835 May 18, Kingston, Roane C[oun]ty, E[ast] Tenn[essee] [to] Charles F Welcker / Henry J Welcker</title>
+  </titleInfo>
+  <abstract>The following document is a letter dated May 18, 1835, written to Charles F. Welcker from his brother Henry J. Welcker in Kingston, TN. Henry updates his brother on the affairs of the family, including the current status of their father's property and their brothers' whereabouts and circumstances.</abstract>
+  <name>
+    <namePart>Welcker, Henry Inman</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1834-05-18</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111739">
+    <topic>Real property</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh99001768">
+    <topic>Surveys</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85110936">
+    <topic>Railroads--Design and construction</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Welcker Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Knox County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A218</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A218/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

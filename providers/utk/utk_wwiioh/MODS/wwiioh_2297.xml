@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">wwiioh:2297</identifier>
+  <titleInfo>
+    <title>Springer, M.E.: WWII Oral History - Part 2</title>
+  </titleInfo>
+  <abstract>Interview with M. E. Springer on Apr 3, 2001.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">2001-04-03</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79063202"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2015133624"/>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045631">
+    <geographic>Europe</geographic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85095238">
+    <topic>Oral history</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010119828">
+    <topic>World War, 1939-1945--Veterans--United States--Biography</topic>
+  </subject>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>World War II Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/wwiioh%3A2297</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/wwiioh%3A2297/datastream/TN/view</url>
+  </location>
+</mods>

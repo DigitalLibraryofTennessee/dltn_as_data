@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl027</identifier>
+  <identifier type="pid">tdh:7166</identifier>
+  <identifier type="oclc">47826412</identifier>
+  <titleInfo>
+    <title>[Letter] 1797 Jan. 12, Knoxville, [Tennessee to] warriors and Chiefs of the Cherokee Nation/ John Sevier, Governor of the state of Tennessee</title>
+  </titleInfo>
+  <abstract>This document is a letter addressed to the warriors and chiefs of the Cherokee Nation, written by Governor John Sevier of Tennessee (1796-1801) and dated January 12, 1797. The letter was given to Cherokee agent Silas Dinsmore to be read aloud to the Cherokee. In his letter, Sevier accused some Cherokees of stealing horses and plundering wagons that had passed through the Cumberland road. Sevier laid the blame on "foolish young people" within the Cherokee Nation but hoped the chiefs and warriors were not encouraging such acts. Sevier urged the Cherokee leaders to work with Dinsmore in getting the stolen property returned. Sevier also expressed condolences for the murder of an Indian and stated that he doubted any of his people would do such a thing. The letter was initially ended on a note of warning to the Cherokee, as Sevier insinuated that if they continued their aggressive behavior, war would be option. However, the last two sections of the original letter were deleted from the final text.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1797-01-12</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Claims against</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians--Violence against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <topic>Tennessee</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7166</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7166/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

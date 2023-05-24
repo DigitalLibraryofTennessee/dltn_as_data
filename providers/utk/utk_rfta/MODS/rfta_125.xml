@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Cody_Weaver_2_23_2017_VN800038</identifier>
+  <identifier type="pid">rfta:125</identifier>
+  <titleInfo>
+    <title>Interview with Coty Weaver, 2017-02-23</title>
+  </titleInfo>
+  <abstract>Interview with Coty Weaver, business owner in Gatlinburg. Weaver recounts the day leading up to the fire and his experiences during it. He discusses the community's feelings and general atmoshpere during the time period following the fire. This is a representative quote from the interview: "You gotta be a light. People are gonna be looking at you, those who lost everything, if you can be happy about it and help others, that's gonna spread."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-23</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject displayLabel="Narrator Class">
+    <topic>Business owners and staff</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Cody_Weaver_2_23_2017_VN800038</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Coty Weaver, 2017-02-23</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"You gotta be a light. People are gonna be looking at you, those who lost everything, if you can be happy about it and help others, that's gonna spread."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:05:23" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Cody_Weaver_2_23_2017_VN800038_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Introduction</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Introduction chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:13:00" partType="Chapters" startTime="00:05:23">
+        <pbcore:pbcoreIdentifier source="local">Cody_Weaver_2_23_2017_VN800038_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation and Return</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation and Return chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:19:30" partType="Chapters" startTime="00:13:00">
+        <pbcore:pbcoreIdentifier source="local">Cody_Weaver_2_23_2017_VN800038_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Community Efforts</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Community Efforts chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/coty-weaver-2017-02-23/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:125/datastream/TN/view</url>
+  </location>
+</mods>

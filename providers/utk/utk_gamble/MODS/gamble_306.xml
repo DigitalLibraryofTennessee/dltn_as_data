@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_003707_000306</identifier>
+  <name>
+    <namePart>Gamble, Ed</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>By the way...before I forget...here are the keys to your house!</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf">2004</dateCreated>
+    <publisher>Florida Times-Union</publisher>
+  </originInfo>
+  <genre authority="" valueURI=""/>
+  <physicalDescription>
+    <form/>
+  </physicalDescription>
+  <genre>War--Caricatures and cartoons</genre>
+  <abstract>Bullets fly as President George W. Bush hands an Iraqi citizen keys to the citizen's house. A U.S. soldier shoots a rifle through a nearby window while holding an announcement that the U.S. will give Iraq sovereignty.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A306</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/gamble%3A306/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>US military forces</topic>
+  </subject>
+  <subject>
+    <topic>Iraq War, 2003-2011</topic>
+  </subject>
+  <subject>
+    <topic>War on Terrorism, 2001-2009</topic>
+  </subject>
+  <subject>
+    <topic>International relations and terrorism</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic>Iraq</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Ed Gamble Cartoon Collection</title>
+    </titleInfo>
+    <identifier type="local">MS.3763</identifier>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Florida Times-Union</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0012_003707_000306</recordIdentifier>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc033</identifier>
+  <identifier type="pid">tdh:9559</identifier>
+  <identifier type="oclc">50395530</identifier>
+  <titleInfo>
+    <title>Biographical Album of Tennessee Governors [John Sevier-1796-1801; 1803-1809] / J. S. Jones</title>
+  </titleInfo>
+  <abstract>The Biographical Album of Tennessee Governors, dated 1904, contains 31 plates, each featuring a Tennessee Governor's photo on the front and biographical information on the back. This plate features John Sevier, Tennessee's first Statehood Governor.</abstract>
+  <name>
+    <namePart>Jones, J. S.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1904</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr89016779">
+    <topic>Sevier, John, 1745-1815</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9559</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9559/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

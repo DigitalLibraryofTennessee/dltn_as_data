@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Forney Ridge and Stopping at Gulf Station</title>
+  </titleInfo>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Gas station</topic>
+  </subject>
+  <subject>
+    <topic>Clingmans Dome parking lot</topic>
+  </subject>
+  <subject>
+    <topic>Mountain people</topic>
+  </subject>
+  <note>Musical accompaniment is traditional folk song “Cripple Creek, Old Joe Clark, Cluck Old Hen,” recorded January 2015. The running time is 3 minutes, 20 seconds.</note>
+  <identifier>wderfilms:28</identifier>
+  <location>
+    <physicalLocation>The University of Tennessee Libraries, Special Collections, Knoxville</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/wderfilms%3A28</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/wderfilms%3A28/datastream/TN/view</url>
+  </location>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>The William Derris Slide Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>William Derris Slide Collection</title>
+    </titleInfo>
+    <identifier>MS.2123</identifier>
+  </relatedItem>
+  <typeOfResource>moving image</typeOfResource>
+  <subject>
+    <geographic>Forney Ridge</geographic>
+  </subject>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

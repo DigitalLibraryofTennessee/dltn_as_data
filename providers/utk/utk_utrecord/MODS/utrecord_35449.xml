@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">utrecord_35449</identifier>
+  <identifier type="local">ut-record_v76n08_1973-12</identifier>
+  <titleInfo>
+    <title>University of Tennessee record, volume 76, number 8</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="edtf">1973-12</dateCreated>
+    <publisher>University of Tennessee, Knoxville</publisher>
+  </originInfo>
+  <abstract>Record from 1973 communicating the changing emphasis from enrollment to enhancing instruction, research, and public service. The issue contains reports from the chancellors of the five UT campuses - Knoxville, Center for the Health Services, Martin, Chattanooga, and Nashville. Developments from the Division of Continuing Education, Institute of Agriculture, and Institute for Public Service are also included.</abstract>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</genre>
+  <physicalDescription>
+    <form>periodicals</form>
+  </physicalDescription>
+  <note>Published monthly except February, April, June, and August</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85127518">
+    <topic>State universities and colleges</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85048256">
+    <topic>Finance</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017602">
+    <topic>Budget</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2015001526">
+    <topic>College branch campuses</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003891"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003888"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003885"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003886"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003890"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060965-781">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <classification authority="lcc">LD5286.R3</classification>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Record</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A35449</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/utrecord%3A35449/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

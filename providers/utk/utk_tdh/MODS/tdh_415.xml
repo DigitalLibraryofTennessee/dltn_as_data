@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch086</identifier>
+  <identifier type="pid">tdh:415</identifier>
+  <identifier type="oclc">44869737</identifier>
+  <titleInfo>
+    <title>[Letter], 1834 Apr. 3, Aquohee Dist[rict], Cherokee Nation to the gentlemen of the [Cherokee ?] Delegation / Sam[ue]l Dick</title>
+  </titleInfo>
+  <abstract>Letter dated April 3, 1834 from Samuel Dick to the (Cherokee ?) Delegation asking them to assist him with a property dispute. Dick claims that he was turned off the land to which he has the rightful title by David Ross and Thomas Berry. He has submitted his case to the Enrolling Agent, Major Benjamin F. Currey and also to Colonel Montgomery, but has received no satisfaction.</abstract>
+  <name>
+    <namePart>Dick, Samuel</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1834-04-03</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023083">
+    <topic>Cherokee Indians--Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79023113">
+    <geographic>Georgia</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A415</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A415/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

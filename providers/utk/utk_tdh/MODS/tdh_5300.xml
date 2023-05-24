@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl415</identifier>
+  <identifier type="pid">tdh:5300</identifier>
+  <titleInfo>
+    <title>1831, Apr. 6, Carthage [Tennessee] [to unknown recipient] / [Adam Fergusson]</title>
+  </titleInfo>
+  <abstract>This is a letter to an unknown person dated April 6, 1831. The author is probably Adam Fergusson. Fergusson is writing about what he sees as the growing corruption in government and particularly politicians. Fergusson believes that elected officials are misusing their power against people whose opinions differ from their own. He writes that many people are outraged by a recently passed law. Fergusson believes that all Congressmen should take oaths of loyalty to the U.S. constitution and the Tennessee constitution. He mentions the Alen family that has gained control over many local offices of trust. Fergusson believes that this monopoly is harmful to the other citizens of the county. Fergusson gives some new information pertaining to a recent scandal involving defalcation, Colonel Parrish, a Mr. Cooper and the State Bank.</abstract>
+  <name>
+    <namePart>Fergusson, Adam</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1831-04-06</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033057">
+    <topic>Political corruption</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85011609">
+    <topic>Banks and banking</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Fergusson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5300</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5300/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

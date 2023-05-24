@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003587_000421</identifier>
+  <titleInfo>
+    <title>Oshkosh</title>
+  </titleInfo>
+  <abstract>Transcript of a statement by Howard H. Baker, Jr. discussing legislative and governmental policy. There is a Q and A after the statement discussing issues of election financing, Watergate, and the bombing of Cambodia.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="approximate">1973-03</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end" qualifier="approximate">1973-08</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140471">
+    <topic>United States--Politics and government--1969-1974</topic>
+  </subject>
+  <name>
+    <namePart>Baker, Howard H., Jr. (Howard Henry), 1925-2014</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Senator Howard Baker Speeches and Remarks, 1966-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Howard H. Baker Jr. Papers</title>
+    </titleInfo>
+    <identifier>MPA.101.001</identifier>
+    <location>
+      <url>https://n2t.net/ark:/87290/v85b00mh</url>
+    </location>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/hbs%3A2490</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/hbs%3A2490/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

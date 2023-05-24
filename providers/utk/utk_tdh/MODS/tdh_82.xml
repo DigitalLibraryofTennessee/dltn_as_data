@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mc041</identifier>
+  <identifier type="pid">tdh:82</identifier>
+  <titleInfo>
+    <title>[Letter] 1836 Dec. 21, Mouth of Poplar Creek [to] Charles F. Welcker / Catharine F. Welcker</title>
+  </titleInfo>
+  <abstract>The following document is a correspondence amongst the Welcker family, a prominent landholding family of Roane County. The letter, dated December 21, 1836, is from Catharine F. Welcker to her brother Charles F. Welcker. Catharine gives her brother news of the mill he owns, which was situated on the mouth of Poplar Creek. She also relays business advice and proposals from their father, Henry Welcker, and talks of their brother Monroe going to school in Knoxville, most likely to East Tennessee College.</abstract>
+  <name>
+    <namePart>Welcker, Catharine F.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1836-12-21</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85029101">
+    <topic>Communication in families</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048263">
+    <topic>Finance, personal</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133881">
+    <geographic>Tennessee, East</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Welcker Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Knox County Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A82</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A82/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Knox County Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

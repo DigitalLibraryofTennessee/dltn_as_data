@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0117_000050_000243_0001</identifier>
+  <identifier type="filename">0117_000050_000243_0001.jp2</identifier>
+  <name>
+    <namePart>Polhemus, Richard R.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Photograph of Tellico Blockhouse, American Federal period trading and military post from 1794-1807, Lower Little Tennessee River</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1972</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <abstract>This is a photograph of the Tellico Blockhouse excavations. The Tellico Blockhouse was constructed in 1794-95 adjacent to the earlier Fort Loudoun at the confluence of the Tellico and Little Tennessee Rivers in what is presently Monroe County as a federal outpost. In 1805 federal officials and Overhill Cherokees negotiated a treaty at the Tellico Blockhouse which moved the federal agency south to the mouth of the Hiawassee. By 1807 the federal government abandoned Tellico and moved the rest of its agency to the Hiawassee River post, the new center of the Overhill Cherokee settlement. Excavations of the Tellico Blockhouse were conducted by the University of Tennessee from 1972-1974 in anticipation of the flooding of the lower Little Tennessee River by the Tellico Dam Reservoir. Excavations of the Blockhouse were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Director, Richard R. Polhemus.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>Frank H. McClung Museum (Knoxville, Tenn.)</physicalLocation>
+    <holdingExternal>
+      <holding xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+        <physicalAddress>
+          <text>City: Knoxville</text>
+          <text>County: Knox County</text>
+          <text>State: Tennessee</text>
+        </physicalAddress>
+      </holding>
+    </holdingExternal>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4089</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A4089/datastream/TN/view</url>
+  </location>
+  <subject>
+    <topic>Blockhouse (Tellico, Tenn.)</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Wars and Military</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Frontier Settlement and Migration</topic>
+  </subject>
+  <subject displayLabel="Broad Topics">
+    <topic>Trade, Business and Industry</topic>
+  </subject>
+  <subject/>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037799">Monroe County (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.45000N, 84.23333W</coordinates>
+    </cartographics>
+  </subject>
+  <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+    <temporal>Era 3 -Revolution and the New Nation (1754-1820)</temporal>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Volunteer Voices</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/collections/volvoices</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Frank H. McClung Museum Photographic Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <recordInfo>
+    <recordIdentifier>record_0117_000050_000243_0001</recordIdentifier>
+    <recordContentSource>Frank H. McClung Museum (Knoxville, Tenn.)</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+    <recordCreationDate encoding="edtf">2008-04-22</recordCreationDate>
+    <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+    <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
+  </recordInfo>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

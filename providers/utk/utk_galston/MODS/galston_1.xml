@@ -1,0 +1,111 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">galston_1</identifier>
+  <identifier>II.D.1</identifier>
+  <titleInfo>
+    <title>Programme zum Zyklus von vierzig Konzerten</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Programs for a cycle of forty concerts</title>
+  </titleInfo>
+  <abstract>Bound volume containing individual programs from Gottfried Galston's cycle of 40 historical recitals in Munich, Germany, between 1919 and 1921. Concerts occurred Sundays, typically at 4PM (the final concert was at 7:30PM). The programs assert that the concerts share the entirety of significant piano literature from the beginning to the present.</abstract>
+  <tableOfContents>Programm des ersten Vortrages (1. Zyklus ): Sonntag, 12. Oktober 1919 -- Programm des zweiten Vortrages (Zyklus I): Sonntag, 19. Oktober 1919 -- Programm des dritten Vortrages (Zyklus I): Sonntag, 26. Oktober 1919 -- Programm des vierten Vortrages (Zyklus I) -- Programm des fünften Vortrages (Zyklus I): Sonntag, 9. November 1919 -- Programm des sechsten Vortrages (Zyklus I): Sonntag, 16. November 1919 -- Programm des siebenten Vortrages (Zyklus I): Sonntag, 23. November 1919 -- Programm des achten Vortrages (Zyklus I): Sonntag, 30. November 1919 -- Programm des neunten Vortrages (Zyklus I): Sonntag, 7. December 1919 -- Programm des zehnten Vortrages (Zyklus I): Sonntag, 14. December 1919 -- Programm des ersten Vortrages (Zyklus II): Sonntag, 4. Januar 1920 -- Programm des zweiten Vortrages (Zyklus II): Sonntag, 11. Januar 1920 -- Programm des dritten Vortrages (Zyklus II): Sonntag, 18. Januar 1920 -- Programm des vierten Vortrages (Zyklus II): Sonntag, 25. Januar 1920 -- Programm des fünften Vortrages (Zyklus II): Sonntag, 1. Februar 1920 -- Programm des sechsten Vortrages (Zyklus II): Sonntag, 8. Februar 1920 -- Programm des siebenten Vortrages (Zyklus II): Sonntag, 15. Februar 1920 -- Programm des achten Vortrages (Zyklus II): Sonntag, 22. Februar 1920 -- Programm des neunten Vortrages (Zyklus II): Sonntag, 29. Februar 1920 -- Programm des zehnten Vortrages (Zyklus II): Sonntag, 7. Marz 1920 -- Programm des ersten Vortrages (Zyklus III): Sonntag, 14. Marz 1920 -- Programm des zweiten Vortrages (Zyklus III): Sonntag, 21. Marz 1920 -- Programm des dritten Vortrages (Zyklus III): Sonntag, 28. Marz 1920 -- Programm des vierten Vortrages (Zyklus III): Sonntag, 4. April 1920 -- Programm des fünften Vortrages (Zyklus III): Sonntag, 11. April 1920 -- Programm des sechsten Vortrages (Zyklus III): Sonntag, 18. April 1920 -- Programm des siebenten Vortrages (Zyklus III): Sonntag, 25. April 1920 -- Programm des achten Vortrages (Zyklus III): Sonntag, 2. Mai 1920 -- Programm des neunten Vortrages (Zyklus III): Sonntag, 9. Mai 1920 -- Programm des zehnten (letzten) Vortrages (Zyklus III): Sonntag, 16. Mai 1920 -- Programm des ersten Vortrages (Zyklus IV) (31. Konzert): Sonntag, 12. September 1920 -- Programm des zweiten Vortrages (Zyklus IV) (32. Konzert): Sonntag, 26. September 1920 -- Programm des dritten Vortrages (Zyklus IV) (33. Konzert): Sonntag, 10. Oktober 1920 -- Programm des fünften Vortrages (Zyklus IV) (35. Konzert): Sonntag, 21. November 1920 -- Programm des sechsten Vortrages (Zyklus IV) (36. Konzert): Sonntag, 5. Dezember 1920 -- Programm des siebenten Vortrages (Zyklus IV) (37. Konzert): Sonntag, 16. Januar 1921 -- Programm des achten Vortrages (Zyklus IV) (38. Konzert): Sonntag, 30. Januar 1921 -- Programm des neunten Vortrages (Zyklus IV) (39. Konzert): Sonntag, 13. Februar 1921 -- Programm des 40 (Letzen) Konzerts: Sonntag, 20. Februar 1921, 7 1/2 Uhr pünktlich</tableOfContents>
+  <originInfo>
+    <dateCreated encoding="edtf">1919-10-12</dateCreated>
+    <dateCreated encoding="edtf">1921-02-20</dateCreated>
+  </originInfo>
+  <genre authority="aat aat" valueURI="http://vocab.getty.edu/aat/300026690 http://vocab.getty.edu/aat/300028051">albums (books)books</genre>
+  <physicalDescription>
+    <form>albums (books)books</form>
+  </physicalDescription>
+  <note>Includes Gottfried Galston's bookplate on front inside cover.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+    <topic>Music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030622">
+    <topic>Concert programs</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85019644">
+    <topic>Musical canon</topic>
+  </subject>
+  <subject/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79107741"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80022788"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79091193"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79139515"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79110317"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000565"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79127769"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79079048"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79077221"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79130762"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79130762"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50006539"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108397"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79116217"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81014122"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82043266"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81097856"/>
+  <subject/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82116359"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81133929"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79145903"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79074233"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80008104"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81015265"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81028127"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79139212"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80145027"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82099809"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000562"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81140100"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000571"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79070071"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000561"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81003169"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79132137"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80145026"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79072979"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80086161"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50041167"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108398"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80032780"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008177635"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109330"/>
+  <subject/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82012130"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n86143580"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82044526"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n84123365"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108396"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n83017365"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81139110"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80034061"/>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">German</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Galston Studienbuch</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+    </titleInfo>
+    <identifier>MS-1072</identifier>
+  </relatedItem>
+  <location xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775">
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/galston%3A1</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/galston%3A1/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>

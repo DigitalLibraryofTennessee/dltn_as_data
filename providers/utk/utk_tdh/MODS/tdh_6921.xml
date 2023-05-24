@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl217</identifier>
+  <identifier type="pid">tdh:6921</identifier>
+  <identifier type="oclc">49961787</identifier>
+  <titleInfo>
+    <title>Constitution of the Cherokee Nation, 1827 Jul. 24, New Town Echota</title>
+  </titleInfo>
+  <abstract>The following document is the constitution drafted on July 24, 1827 that sparked the beginning of the modern Cherokee Nation. The document was a product of a Constitutional Convention of 1827, headed by John Ross, who was elected the first Chief of the Cherokee Nation when the constitution was put into effect the following year. In the constitution, which was largely patterned after the United States', the Cherokees referred to themselves as a sovereign entity and outlined three branches of government. Although the Constitution of the Cherokee Nation was largely developed in order to prevent the forced removal of the Cherokee, it was only ten years after its adoption that the Cherokee were ultimately displaced.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1827-07-24</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Politics and government</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023084">
+    <topic>Cherokee Indians--Legal status, laws, etc</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125696">
+    <topic>Sovereignty</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Constitution of the Cherokee Nation</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6921</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6921/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

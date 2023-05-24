@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">ch057</identifier>
+  <identifier type="pid">tdh:590</identifier>
+  <identifier type="oclc">44846823</identifier>
+  <titleInfo>
+    <title>An address to the Cherokees who are arming to co-operate [sic] with the American troops against the hostile Creeks, 1813 Oct. 29, Highwassee [i.e., Hiwassee] Garrison / Return J. Meigs</title>
+  </titleInfo>
+  <abstract>On October 29, 1813 Return J. Meigs, United States Agent to the Cherokee Nation, addresses the Cherokee troops organized to fight against the Red Stick Creeks. Meigs begins by charging the Red Stick Creeks with barbarity and ingratitude. He then explains to the Cherokees the part that they will have in the war, including their duty as soldiers and the expectations others will have of them. He specifically discusses supplies and provisions, the muster roll, conduct, and rank.</abstract>
+  <name>
+    <namePart>Meigs, Return Jonathan, 1740-1823</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1813-10-29</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Warfare</topic>
+  </subject>
+  <subject>
+    <topic>Creek Indians--Warfare</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79023113">
+    <geographic>Georgia</geographic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>State Library Cherokee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A590</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A590/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

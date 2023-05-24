@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000214</identifier>
+  <identifier type="legacy">egypt798</identifier>
+  <identifier type="acquisition">1997.5.26.1</identifier>
+  <identifier type="acquisition">1997.5.26.2</identifier>
+  <titleInfo>
+    <title>Mount Horeb Sinai</title>
+  </titleInfo>
+  <abstract>Mount Horeb, peak of Mount Sinai; rocky area of Sinai Peninsula with camel and figure (foreground); Mount Sinai or Mount Horeb, where Moses supposedly witnessed the burning bush and received the Commandments (background); "Frith 185" in black on print at bottom right corner; "MOUNT HOREB, SINAI." in black below print on mat; accompanying print with information on the mythological history of Mount Horeb. (Original number unknown, print given 1997.5.26.1 &amp; .2 based on information in the accession record, M.K., M.R.J., 2/8/2013).</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1856/1859</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>Francis Frith &amp; Co. 1859-1971</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87001590">Sinai, Mount (Egypt)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A214</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A214/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of the Friends of Egyptology, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

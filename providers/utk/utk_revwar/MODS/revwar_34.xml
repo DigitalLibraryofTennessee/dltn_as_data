@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_002976_000205_0000</identifier>
+  <titleInfo>
+    <title>Letter, George Washington in Williamsburg to Colonel Anthony Walton White, 1781 September 17</title>
+  </titleInfo>
+  <abstract>George Washington wrote this letter to Anthony Walton White on September 17, 1781 regarding expected officers and horses. Washington also mentions that the new officer should report himself and a set of instructions to the Marquis de Lafayette.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1781-09-17</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Washington, George</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject valueURI="http://id.loc.gov/authorities/names/n85271870">
+    <topic>White, Anthony Walton, 1750-1803</topic>
+  </subject>
+  <subject>
+    <topic>Presidents -- United States -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>United States -- History -- Revolution, 1775-1783</topic>
+  </subject>
+  <subject>
+    <topic>Washington, George, 1732-1799</topic>
+  </subject>
+  <subject>
+    <topic>Revolutionary War Letters</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/revwar%3A34</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/revwar%3A34/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Greer and Vinsinger Family Collection of American Revolutionary War Documents</title>
+    </titleInfo>
+    <identifier>MS.3518</identifier>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

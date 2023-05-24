@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc117</identifier>
+  <identifier type="pid">tdh:9258</identifier>
+  <titleInfo>
+    <title>[Legislative Bill] 1826 Nov. 22, to ascertain at what age a man becomes a bachelor / Tennessee General Assembly</title>
+  </titleInfo>
+  <abstract>This document is a Bill proposed by the Tennessee General Assembly on November 22, 1826 to determine what age a man should be considered a bachelor. The proposed age was thirty years old and at that time if the "bachelor" was unmarried he would have to pay a twenty-five percent tax on his total worth. This tax was to be divided annually between all unmarried woman over twenty-five. The Bill passed the House of Representatives but was set aside by the Senate for thirty years.</abstract>
+  <name>
+    <namePart>Tennessee. General Assembly</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1826-11-22</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/genreForms/gf2011026360">
+    <topic>Legislative bills</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85111757">
+    <topic>Real property taxation</topic>
+  </subject>
+  <subject>
+    <topic>Single men--History--19th century</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Tennessee General Assembly</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9258</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9258/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

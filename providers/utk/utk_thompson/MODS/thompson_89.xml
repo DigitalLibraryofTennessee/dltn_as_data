@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_001011_000288</identifier>
+  <identifier type="pid">thompson:89</identifier>
+  <titleInfo>
+    <title>Primitive Grist, or Tub Mill, Le Conte Creek</title>
+  </titleInfo>
+  <abstract>When the Great Smoky Mountains National Park was established, there were a score of Mill Creeks within the park's boundaries. The name "Mill" was applied to these streams because grist mills had been built on those streams in the pioneer days. In the foothills most of the mills used the picturesque over-shot water wheels. But, back up nearer the headwaters of the streams the mills were smaller and were powered by the home-made vertical turbines. In these, fan-like blades were carved from the same piece of wood that was used for the vertical shaft. The capacity of such mills was quite small; about a bushel, or a tub full. Hence, the name "tub" mill. Note the man carrying his "turn" of corn, just left of the tiny mills.</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh94007572">
+    <topic>Gristmills</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4635943">
+    <geographic>Le Conte Creek</geographic>
+    <cartographics>
+      <coordinates>35.70954, -83.52266</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+    <identifier>MS-3719</identifier>
+    <location/>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A89</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A89/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

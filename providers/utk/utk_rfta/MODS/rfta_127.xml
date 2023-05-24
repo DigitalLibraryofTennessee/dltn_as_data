@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Daniel_Rickleff_2_13_17_VN800032</identifier>
+  <identifier type="pid">rfta:127</identifier>
+  <titleInfo>
+    <title>Interview with Daniel Rickleff, 2017-02-13</title>
+  </titleInfo>
+  <abstract>Interview with Daniel Rickleff, resident of Gatlinburg. Rickleff had recently returned after the holiday weekend and had no knowledge of the fire. He recounts the ordeal of getting out of his mountain subdivision and to safely evacuate Gatlinburg. This is a representative quote from the interview: "I just remember the heat. It was so hot that my clothes and my skin felt restricting on my body."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-13</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Daniel Rickleff, 2017-02-13</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"I just remember the heat. It was so hot that my clothes and my skin felt restricting on my body."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:16:06" partType="Interview Questions" startTime="00:08:19">
+        <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032_Q1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Was there any fire when you were evacuating?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:05:44" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Introduction</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Introduction chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:18:54" partType="Interview Questions" startTime="00:16:06">
+        <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032_Q2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>What do you think spared your house?</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:12:07" partType="Chapters" startTime="00:05:44">
+        <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Coming Down to Gatlinburg</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Coming Down to Gatlinburg chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:18:53" partType="Chapters" startTime="00:12:07">
+        <pbcore:pbcoreIdentifier source="local">Daniel_Rickleff_2_13_17_VN800032_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Leaving the City and Returning</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Leaving the City and Returning chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/daniel-rickleff-2017-02-13/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:127/datastream/TN/view</url>
+  </location>
+</mods>

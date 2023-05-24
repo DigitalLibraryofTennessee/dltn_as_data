@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_002328_001361</identifier>
+  <note displayLabel="Transcribed from Original Collection">660 - Mt. Mitchell</note>
+  <relatedItem displayLabel="Project" type="series">
+    <titleInfo>
+      <title>Series I: A. G. Dutch Roth Photographs and Other Materials, circa 1880s-1985 (bulk circa 1880s-1960). Sub-Series B: Papers Regarding the Great Smoky Mountains, 1924-circa 1990s (bulk 1924-1959)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. G. "Dutch" and Margaret Ann Roth Papers</title>
+    </titleInfo>
+    <identifier>MS.3334</identifier>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Albert "Dutch" Roth Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1370</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/roth%3A1370/datastream/TN/view</url>
+  </location>
+  <name>
+    <namePart>Roth, Albert, 1890-1974</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <titleInfo>
+    <title>View of Grandfather Mountain</title>
+  </titleInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+  </language>
+  <abstract/>
+  <subject>
+    <geographic authority="" valueURI="">Grandfather Mountain</geographic>
+  </subject>
+  <subject/>
+  <subject>
+    <topic authority="" valueURI=""/>
+  </subject>
+</mods>

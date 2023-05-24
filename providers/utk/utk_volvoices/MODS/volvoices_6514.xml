@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Copy of Land Indenture Agreement between John Love and Moses Fisk</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>indentures</genre>
+  <subject>
+    <geographic>Jackson County (Tenn.) -- History</geographic>
+  </subject>
+  <subject>
+    <geographic>Overton County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Fisk, Moses, 1759-1843.</topic>
+  </subject>
+  <subject>
+    <topic>Law and Legal Documents.</topic>
+  </subject>
+  <subject>
+    <topic>Farming and Agriculture.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Jackson County.</geographic>
+  </subject>
+  <subject>
+    <geographic>Tennessee -- Overton County.</geographic>
+  </subject>
+  <subject>
+    <geographic>Greene County (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <topic>Love, John; Patterson, Andrew; Gipson, John M.; Donelson, Stockely.</topic>
+  </subject>
+  <note>This indenture agreement details the sale of 60,400 acres by John Love of Greene County, Tennessee to Moses Fisk of Overton County, Tennessee. The land was originally purchased by Love from Stockely Donelson in 1795. The indenture describes the land tracts involved in the sale. The document was registered and examined in Greene County, Tennessee on March 4, 1833 and in Jackson County on April 2, 1833. John M. Gipson, the Register of Jackson County, Tennessee, officially registered the document on March 8, 1855.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0103_000050_000202_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6514</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6514/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6514</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A6514/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

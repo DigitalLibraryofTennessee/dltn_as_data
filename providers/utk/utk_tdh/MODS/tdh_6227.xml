@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl168</identifier>
+  <identifier type="pid">tdh:6227</identifier>
+  <identifier type="oclc">51159015</identifier>
+  <titleInfo>
+    <title>[Speech] 1814 Jan. 11, Fort Hampton, [to Chief] Cutteoty [i.e., Cotetoy] and others of the Cherokee Nation / Joseph Brown</title>
+  </titleInfo>
+  <abstract>This is a transcription of a speech given by Joseph Brown to Chief Cotetoy and other Cherokee on Jan. 11, 1814. Brown has taken eight Cherokee from Cotetoy because they are descended from an African slave woman that Cotetoy stole from Brown's father. Brown says that he forgives Cotetoy for killing members of his family, and that he wants them to live in peace and friendship.</abstract>
+  <name>
+    <namePart>Brown, Joseph</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1814-01-11</dateCreated>
+  </originInfo>
+  <subject>
+    <topic>Cherokee Indians--Claims against</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123314">
+    <topic>Slavery</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Joseph Brown Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6227</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6227/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

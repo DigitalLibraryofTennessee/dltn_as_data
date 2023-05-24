@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl475</identifier>
+  <identifier type="pid">tdh:8126</identifier>
+  <titleInfo>
+    <title>1796 Oct. 29, Knox[ville, Tennessee, to] John Chisholm / D[avid] Henley</title>
+  </titleInfo>
+  <abstract>This is a letter to John Chisholm from David Henley, dated October 29, 1796. Henley, an agent for the War Department, is giving instructions on the transportation of several native peoples to Philadelphia. The natives are members of the Cherokee, Choctaw, Creek, and Chickasaw Nations. The purpose of the trip may be to gain U. S. citizenship for them. Chisholm is instructed to take great care with them, keep them fed and healthy, and to limit their drinking.</abstract>
+  <name>
+    <namePart>Henley, David, 1749-1823</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1796-10-29</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject>
+    <topic>Indians of North America -- Government policy</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85137149">
+    <topic>Travel</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/no97017629">
+    <topic>Military</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>David Henley Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8126</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8126/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

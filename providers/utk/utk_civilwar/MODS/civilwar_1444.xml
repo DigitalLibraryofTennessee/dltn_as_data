@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_000070_000237_0000</identifier>
+  <titleInfo>
+    <title>Letter, H.C. Smith in Midway, Tenn. to O.P. Temple in Knoxville, Tenn., 1862 February 9</title>
+  </titleInfo>
+  <abstract>In this letter, dated February 9, 1862, H.C. Smith in Midway, Tenn. writes to O.P. Temple in Knoxville, Tenn., inquiring about the "the prisoners that was convicted," his father among them. He wants to know if they have left Knoxville and, if so, what their present location is.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1862-02-09</dateCreated>
+  </originInfo>
+  <name>
+    <namePart>Smith, H.C.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Prisoners -- Tennessee -- Knoxville -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Prisoners' families -- Tennessee, East -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Children of prisoners -- Tennessee, East -- History -- Civil War, 1861-1865</topic>
+  </subject>
+  <subject>
+    <topic>Knoxville (Tenn.) -- Politics and government -- 19th century</topic>
+  </subject>
+  <subject>
+    <topic>Smith, H. C. -- Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Temple, Oliver Perry, 1820-1907 -- Correspondence</topic>
+  </subject>
+  <location>
+    <physicalLocation>University of Tennessee Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1444</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/civilwar%3A1444/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>The O.P. Temple Papers, 1862</title>
+    </titleInfo>
+  </relatedItem>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+    <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>American Civil War Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

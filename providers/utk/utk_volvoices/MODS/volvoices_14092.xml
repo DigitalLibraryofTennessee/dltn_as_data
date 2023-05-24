@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>[Letter] 1840 Sept. 29, Jackson, Tennessee [to] Mary Jane Chester, Columbia, Ten[nessee]</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>letters (correspondence)</genre>
+  <subject>
+    <topic>Letters.</topic>
+  </subject>
+  <subject>
+    <topic>Boarding school students.</topic>
+  </subject>
+  <subject>
+    <geographic>Tennessee.</geographic>
+  </subject>
+  <subject>
+    <topic>Family Life and Gender Relations.</topic>
+  </subject>
+  <subject>
+    <topic>Education.</topic>
+  </subject>
+  <subject>
+    <topic>Women.</topic>
+  </subject>
+  <subject>
+    <geographic>Expansion and Reform (1801-1861).</geographic>
+  </subject>
+  <subject>
+    <geographic>um022.</geographic>
+  </subject>
+  <note>This document is a letter containing two parts, both written to Mary Jane Chester, on September 29, 1840. The first part of the letter is written by Mary Jane`s younger sister Martha, who discusses events going on at home. The second part is written by her father, Robert, and discusses family events and her health. Robert writes that if she is still ill by their next correspondence, he is going to send for her to come home from school.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0022_000069_000202_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14092</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14092/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14092</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A14092/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

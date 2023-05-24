@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Bill_May_2_20_17_VN800037</identifier>
+  <identifier type="pid">rfta:122</identifier>
+  <titleInfo>
+    <title>Interview with Bill May, 2017-02-20</title>
+  </titleInfo>
+  <abstract>Interview with William (Bill) May, executive director of Arrowmont School of Arts and Crafts. May describes his actions the day the fires reached the school. May also discusses the aftermath and the extent of damages to Arrowmont. This is a representative quote from the interview: "Ultimately I ended up not taking anything, because where do you start with a thousand object collection, historical works, and a library filled with 10,000 volumes. Where do you start?"</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-20</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Business owners and staff</topic>
+  </subject>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+    <geographic>Arrowmont School of Arts and Crafts</geographic>
+    <cartographics>
+      <coordinates>35.712925, -83.5104784</coordinates>
+    </cartographics>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2001080757"/>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Bill_May_2_20_17_VN800037</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Bill May, 2017-02-20</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"Ultimately I ended up not taking anything, because where do you start with a thousand object collection, historical works, and a library filled with 10,000 volumes. Where do you start?"</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:07:28" partType="geographic" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Bill_May_2_20_17_VN800037_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Arrowmont School of Arts and Crafts</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Arrowmont School of Arts and Crafts.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:07:28" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Bill_May_2_20_17_VN800037_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The School's Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The School's Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:13:39" partType="Chapters" startTime="00:07:28">
+        <pbcore:pbcoreIdentifier source="local">Bill_May_2_20_17_VN800037_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Home Evacuation and Return</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Home Evacuation and Return chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/bill-may-2017-02-20/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:122/datastream/TN/view</url>
+  </location>
+</mods>

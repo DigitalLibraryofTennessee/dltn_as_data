@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">um087</identifier>
+  <identifier type="pid">tdh:8409</identifier>
+  <identifier type="oclc">50323438</identifier>
+  <titleInfo>
+    <title>[Letter] 1843 Feb. 17, Columbia, Tennessee [to] Miss Martha B. Chester, Jackson, Tenn[essee] / Mary J[ane] Chester</title>
+  </titleInfo>
+  <abstract>The following document is a letter addressed to Martha B. Chester from her sister Mary Jane Chester, dated February 17, 1843. Mary Jane updates her sister on her past examination and her current endeavors at the Female Institute in Columbia, TN. Mary Jane also encloses a letter to her brother John, in which she scolds him for not writing to her more frequently.</abstract>
+  <name>
+    <namePart>Chester, Mary Jane</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1843-02-17</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh97001171">
+    <topic>Boarding school students</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85133873">
+    <topic>Tennessee--History</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Chester Family Papers MS-25 (Jan-June 1843)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>University of Memphis. Special Collections</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8409</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A8409/datastream/TN/view</url>
+  </location>
+</mods>

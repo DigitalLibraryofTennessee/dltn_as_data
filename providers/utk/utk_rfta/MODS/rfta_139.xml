@@ -1,0 +1,101 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Jane_Morris_3_29_17_VN800051</identifier>
+  <identifier type="pid">rfta:139</identifier>
+  <titleInfo>
+    <title>Interview with Jane Morris, 2017-03-29</title>
+  </titleInfo>
+  <abstract>Interview with Jane Morris, resident of Gatlinburg. Morris recounts the day of the fire and the sudden evacuation of her home. She discusses the pains of losing her home and the struggles that accompany deciding to rebuild and being president of a condominium association. This is a representative quote from the interview: "You kept waiting to hear the evacuation sirens that I had grown up hearing here."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-03-29</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals/families suffering losses</topic>
+  </subject>
+  <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030784">
+    <topic>Condominium associations</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12225051">
+    <geographic>Village Drive</geographic>
+    <cartographics>
+      <coordinates>35.723808, -83.496662</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12218366">
+    <geographic>Crystelle Creek Restaurant</geographic>
+    <cartographics>
+      <coordinates>35.7282198, -83.4562689</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Jane Morris, 2017-03-29</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"You kept waiting to hear the evacuation sirens that I had grown up hearing here."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:14:30" partType="geographic" startTime="00:03:25">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Village Drive</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Village Drive.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:07:26" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:17:58" partType="geographic" startTime="00:15:35">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_G2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Crystelle Creek Restaurant</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Crystelle Creek Restaurant.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:15:51" partType="Chapters" startTime="00:07:26">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:21:30" partType="Chapters" startTime="00:15:51">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Night of the Fire and After</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Night of the Fire and After chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:27:50" partType="Chapters" startTime="00:21:30">
+        <pbcore:pbcoreIdentifier source="local">Jane_Morris_3_29_17_VN800051_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Lasting Damage</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Lasting Damage chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/jane-morris-2017-03-29/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:139/datastream/TN/view</url>
+  </location>
+</mods>

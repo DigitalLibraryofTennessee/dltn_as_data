@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tl056</identifier>
+  <identifier type="pid">tdh:7031</identifier>
+  <identifier type="oclc">47832996</identifier>
+  <titleInfo>
+    <title>Letter] 1804 Apr. 1, Knoxville, [Tennessee], to the Inhabitants and people said to be Settled on the Indian Lands / [John Sevier]</title>
+  </titleInfo>
+  <abstract>This document is a letter written by Tennessee Governor John Sevier (1796-1801, 1803-1809) on April 1, 1804, and addressed to the white inhabitants residing on lands reserved by the US government for the Cherokee Indians. In the letter, Sevier informed the settlers that by encroaching upon the Cherokee's lands, they were violating the laws of the United States and the treaty between the US and the Cherokee Nation, and he warned them that if they continue there, they would be forcibly removed from the land. Sevier also announced that he was hopeful that the Cherokee claims to lands in northern Tennessee would soon be extinguished and that, furthermore, it would be possible to acquire from the Cherokee lands to the east of the Mississippi River in exchange for land west. Sevier also encouraged the settlers to venture out onto the great expanse of land newly acquired from France instead of maintaining ideas of remaining on Cherokee lands.</abstract>
+  <name>
+    <namePart>Sevier, John, 1745-1815</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1804-04-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh93008233">
+    <topic>Cherokee Indians--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023083">
+    <topic>Cherokee Indians--Land tenure</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85137308">
+    <topic>Trespass</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023082">
+    <topic>Cherokee Indians--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7031</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A7031/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

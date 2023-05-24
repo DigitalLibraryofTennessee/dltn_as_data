@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">tm001</identifier>
+  <identifier type="pid">tdh:6901</identifier>
+  <identifier type="oclc">48165535</identifier>
+  <titleInfo>
+    <title>A Bill : Appropriating a certain sum of money to defray the expense of holding a treaty with the Indians claiming lands in the State to Tennessee, 1798 Jan. 26</title>
+  </titleInfo>
+  <abstract>This document is a bill enacted by the Senate and the House of Representatives of the United States of America on January 26, 1798. In the bill, Congress allocates no more than 25,880.00 to be used to pay all costs of any treaty or treaties held with the Indians that claim land in the state of Tennessee. The bill also states that the 25,880.00 will be paid out of money in the Treasury of the United States that is not appropriated elsewhere.</abstract>
+  <name>
+    <namePart>United States. Congress</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1798-01-26</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065228">
+    <topic>Indians of North America--Claims</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065278">
+    <topic>Indians of North America--Government relations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85065399">
+    <topic>Indians of North America--Treaties</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79033084">
+    <topic>United States. Congress. House. Committee on Appropriations</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n84011386">Tennessee State Museum</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6901</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6901/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n84011386">Tennessee State Museum</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

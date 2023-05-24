@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">gc020</identifier>
+  <identifier type="pid">tdh:1149</identifier>
+  <titleInfo>
+    <title>[Letter] 1833 Mar. 5 [to] J.M. King, Murfreesboro, Tennessee / Thomas O. Moore, Alexandria, Louisiana</title>
+  </titleInfo>
+  <abstract>Letter dated March 5, 1833 from Thomas O. Moore to his cousin J.M. King. Moore offers condolences for the loss of his son, and the many dead caused by Cholera spread on the Mississippi river.</abstract>
+  <name>
+    <namePart>Moore, Thomas Overton, 1804-1876</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1833-03-05</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85024645">
+    <topic>Cholera</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023513">
+    <topic>Death and children</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>James Moore King Papers Correspondence 1833</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Middle Tennessee State University. Albert Gore Research Center</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1149</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A1149/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Middle Tennessee State University. Albert Gore Research Center</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

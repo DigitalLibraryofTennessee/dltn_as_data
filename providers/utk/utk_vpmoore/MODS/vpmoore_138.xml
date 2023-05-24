@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000042</identifier>
+  <titleInfo>
+    <title>First meeting of County Canning Club Agents at Uni[versity of] Tennessee</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1914-01-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <name>
+    <namePart>Thompson</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A138</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A138/datastream/TN/view</url>
+  </location>
+  <abstract>Virginia P. Moore stands first on the left in the front row. Handwritten back caption reads "First meeting of County Canning Club Agents at Uni. Tennessee 1914- or 15-." Also handwritten in pen on the back of the photograph is "Early work in Tennessee. Virginia P. Moore State Agent Tennessee 1911-1919. Return to - Virginia P. Moore Extension Dept., F. S. C. W., Tallahassee, Fla." Imprinted on the front of the photograph in the lower righthand corner is "Thompson Photographer Knoxville."</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <subject/>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Canning &amp; preserving</topic>
+  </subject>
+  <subject>
+    <topic>Meetings</topic>
+  </subject>
+  <subject>
+    <topic>Canning and preserving -- Congresses.</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Societies and clubs.</topic>
+  </subject>
+  <subject>
+    <topic>Agricultural education -- Societies, etc.</topic>
+  </subject>
+</mods>

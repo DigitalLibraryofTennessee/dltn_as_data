@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl116</identifier>
+  <identifier type="pid">tdh:6447</identifier>
+  <identifier type="oclc">50504228</identifier>
+  <titleInfo>
+    <title>[Letter] 1838 March 28, Clover Dale, TN [to] Mrs. Ann Jane Bell, Cornplanter, Venango Co., PA / Margaret V. Bell</title>
+  </titleInfo>
+  <abstract>This is a letter from Margaret V. Bell to her sister Ann Jane Bell dated March 28, 1838. Margaret writes that many of the weddings mentioned in her last letter did not happen. Mr. Lee has stopped preaching because people have stopped going to hear him. Apparently he did something the community did not approve of. He is still running the school, now with his new wife, Elizabeth Roberts. Margaret thanks Jane for the gifts she sent, especially some monogram thimbles and shields. The family's candidate for circuit court clerk, John C. Collier won the election. The family has been reading Young's Night Thoughts and greatly enjoying it. She writes of improvements to the farm and domestic chores. The family is well except their father who is weak and feeble. She also mentions a girl named Elennora as the belle of Nashville.</abstract>
+  <name>
+    <namePart>Bell, Margaret</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1838-03-28</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85112742">
+    <topic>Religious thought--19th century</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bell Collection IV-H-1</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6447</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6447/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

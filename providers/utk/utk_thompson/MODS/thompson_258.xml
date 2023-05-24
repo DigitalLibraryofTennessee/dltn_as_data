@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0023_000060_000314</identifier>
+  <identifier type="pid">thompson:258</identifier>
+  <identifier type="photograph number">ThGSM 127</identifier>
+  <titleInfo>
+    <title>Swimming at Abrams Falls Pool</title>
+  </titleInfo>
+  <abstract>Abrams Falls, on Abrams Creek, is in the western part of the Great Smoky Mountains National Park, three miles down the creek from Cades Cove. The Falls are reached by a trail that starts at Oliver's in the Cove, and follows approximately along Abrams Creek. Another approach is to follow the old Cooper Road, which leaves the Cove just north of Oliver's, for some three miles or to the radio aerial, then turn abruptly left and follow the trail about a mile and a half to the falls. The pool at the bottom of Abrams Falls provides the best swimming in or near the Great Smoky Mountains National Park. Expert divers are unable to reach bottom just below the falls. The pool then tapers up gradually until it is from ankle-deep to knee-deep at the lower edge.</abstract>
+  <name>
+    <namePart>Thompson Brothers Commercial Photographers</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" point="start">1902</dateCreated>
+    <dateCreated encoding="edtf" point="end">1960</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <note>To use photographs or to order reproductions which belong to the McClung Historical Collection, contact DigitalCollections@knoxlib.org or phone 865 215-8814. Please share the following identifier (ThGSM 127) and provide a brief description of the photograph.</note>
+  <note>See metadata for corresponding image in the McClung Historical Collection here: http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/158/rec/1</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145720">
+    <topic>Waterfalls</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4601945">
+    <geographic>Abrams Falls</geographic>
+    <cartographics>
+      <coordinates>35.60842, -83.87962</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+    <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="original">
+    <location>
+      <url>http://cmdc.knoxlib.org/cdm/singleitem/collection/p15136coll2/id/158/rec/1</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Thompson Brothers Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A258</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/thompson%3A258/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n78034834">McClung Historical Collection</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

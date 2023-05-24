@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">Frances_Shambaugh_2_2_17_VN800024</identifier>
+  <identifier type="pid">rfta:133</identifier>
+  <titleInfo>
+    <title>Interview with Frances Shambaugh, 2017-02-02</title>
+  </titleInfo>
+  <abstract>Interview with Frances Shambaugh, resident of Gatlinburg. Shambaugh recounts her evacuation efforts on the day of the fire and the relief efforts. She goes into detail about the aid provided by Rocky Top Sports World and the Red Cross during the crisis. This is a representative quote from the interview: "All afternoon I was listening to the radio and the tv at the same time and there was no mention of any problem. All afternoon and until 8 o'clock that night."</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">2017-02-02</dateCreated>
+  </originInfo>
+  <subject displayLabel="Narrator Class">
+    <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+    <topic>Evacuation of civilians</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+    <topic>Disaster relief</topic>
+  </subject>
+  <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+    <topic>Wildfires</topic>
+  </subject>
+  <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+    <geographic>Gatlinburg</geographic>
+    <cartographics>
+      <coordinates>35.71453, -83.51189</coordinates>
+    </cartographics>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/12128430">
+    <geographic>Rocky Top Sports World</geographic>
+    <cartographics>
+      <coordinates>35.7330294, -83.447498</coordinates>
+    </cartographics>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>sound recording-nonmusical</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Rising from the Ashes Oral Histories</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcore:pbcoreDescriptionDocument>
+      <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024</pbcore:pbcoreIdentifier>
+      <pbcore:pbcoreTitle>Interview with Frances Shambaugh, 2017-02-02</pbcore:pbcoreTitle>
+      <pbcore:pbcoreDescription>"All afternoon I was listening to the radio and the tv at the same time and there was no mention of any problem. All afternoon and until 8 o'clock that night."</pbcore:pbcoreDescription>
+      <pbcore:pbcorePart endTime="00:15:05" partType="geographic" startTime="00:08:00">
+        <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024_G1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rocky Top Sports World</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Interviewee discusses Rocky Top Sports World.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:08:00" partType="Chapters" startTime="00:00:00">
+        <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024_C1</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:14:00" partType="Chapters" startTime="00:08:00">
+        <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024_C2</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Rocky Top Sports World</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Rocky Top Sports World chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:20:26" partType="Chapters" startTime="00:14:00">
+        <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024_C3</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>The Red Cross</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>The Red Cross chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+      <pbcore:pbcorePart endTime="00:25:55" partType="Chapters" startTime="00:20:26">
+        <pbcore:pbcoreIdentifier source="local">Frances_Shambaugh_2_2_17_VN800024_C4</pbcore:pbcoreIdentifier>
+        <pbcore:pbcoreTitle>Returning to Normalcy</pbcore:pbcoreTitle>
+        <pbcore:pbcoreDescription>Returning to Normalcy chapter.</pbcore:pbcoreDescription>
+      </pbcore:pbcorePart>
+    </pbcore:pbcoreDescriptionDocument>
+  </extension>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://rfta.lib.utk.edu/interviews/object/frances-shambaugh-2017-02-02/</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/rfta:133/datastream/TN/view</url>
+  </location>
+</mods>

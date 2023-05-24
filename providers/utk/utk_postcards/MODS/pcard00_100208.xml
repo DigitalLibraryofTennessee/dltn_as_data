@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003589_000206_0000</identifier>
+  <identifier type="filename">gsmrc-post_08_01.jp2</identifier>
+  <name>
+    <namePart>W.M. Cline Company</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <titleInfo>
+    <title>Newfound Gap Highway, as Seen from the Chimney Tops, Great Smoky Mountains National Park</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="approximate">1940</dateCreated>
+    <dateCreated encoding="edtf" keyDate="yes" point="end" qualifier="approximate">1949</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</genre>
+  <physicalDescription>
+    <form>postcards</form>
+  </physicalDescription>
+  <abstract>.</abstract>
+  <abstract>Postcard-sized image; reverse image: Newfound Gap Parking Area and Laura Spelman Rockefeller Memorial</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100208</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/pcard00%3A100208/datastream/TN/view</url>
+  </location>
+  <subject>
+    <geographic>Chimney Tops</geographic>
+    <cartographics>
+      <coordinates>35.62999N, 83.47803W</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic authority="dots">Chimney Tops</geographic>
+  </subject>
+  <subject>
+    <geographic>Newfound Gap Road</geographic>
+  </subject>
+  <subject>
+    <geographic authority="dots">Newfound Gap Road/U.S. 441</geographic>
+  </subject>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Great Smoky Mountains Postcards</title>
+    </titleInfo>
+    <location>
+      <url>http://digital.lib.utk.edu/smokiespostcards</url>
+    </location>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Bogart Family Great Smoky Mountains Postcard Collection, 1917-1946</title>
+    </titleInfo>
+    <identifier type="local">MS.3709</identifier>
+  </relatedItem>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

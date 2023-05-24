@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl279</identifier>
+  <identifier type="pid">tdh:5856</identifier>
+  <titleInfo>
+    <title>1834 Jun. 31 [to] Andrew J. Donelson, Washington City, D. C. / Geo. W. Martin</title>
+  </titleInfo>
+  <abstract>This is a letter from Geo. W. Martin to Andrew J. Donelson, dated June 31, 1834. Martin has been traveling around the south gaging people's opinions about the government. He writes that they are being misused by their politicians. Martin has many derogatory things to say about the prominent Mississippian politician George Poindexter. He also writes that the people are against the Bank of the U. S.</abstract>
+  <name>
+    <namePart>Martin, George W.</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1834-06-31</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85076240">
+    <topic>Letters</topic>
+  </subject>
+  <subject>
+    <topic>U. S. Bank</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/nr91003782">
+    <topic>Poindexter, George, 1779-1853</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79138969">
+    <geographic>Mississippi</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. J. Donelson Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5856</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A5856/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

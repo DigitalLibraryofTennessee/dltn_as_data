@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bill Brock Believes</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>pamphlet</genre>
+  <subject>
+    <topic>United States--Congress--Senate.</topic>
+  </subject>
+  <subject>
+    <topic>Tennessee--Politics and Government.</topic>
+  </subject>
+  <subject>
+    <temporal>1970s.</temporal>
+  </subject>
+  <subject>
+    <geographic>Tennessee.</geographic>
+  </subject>
+  <subject>
+    <geographic>Contemporary United States (1968-present).</geographic>
+  </subject>
+  <note>This is a brochure or pamphlet during the 1970 campaign for Senate in Tennessee. He ran against Albert Gore, Sr. and won. He had served four terms in the House of Representatives. The brochure discusses his beliefs and points to some of the laws he voted for and against in order to gain support of voters.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0039_000051_000202_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8658</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8658/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8658</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A8658/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

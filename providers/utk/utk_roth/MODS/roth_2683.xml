@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">roth:2683</identifier>
+  <identifier type="local">0012_002328_002674</identifier>
+  <identifier>roth0852</identifier>
+  <titleInfo>
+    <title>View from Newfound Gap</title>
+  </titleInfo>
+  <abstract>Photograph taken with a 3A Autographic Kodak folding camera.</abstract>
+  <name>
+    <namePart>Roth, Albert, 1890-1974</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf" qualifier="approximate">1920</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85143317">
+    <topic>Views</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+    <topic>Landscapes</topic>
+  </subject>
+  <subject authority="geonames" valueURI="http://sws.geonames.org/4482056">
+    <geographic>Newfound Gap</geographic>
+    <cartographics>
+      <coordinates>35.61121, -83.42488</coordinates>
+    </cartographics>
+  </subject>
+  <subject>
+    <geographic>Appalachian Trail</geographic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Albert "Dutch" Roth Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>A. G. "Dutch" and Margaret Ann Roth Papers</title>
+    </titleInfo>
+    <identifier>MS.3334</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/roth%3A2683</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/roth%3A2683/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

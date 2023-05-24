@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">fbpro_87435</identifier>
+  <identifier type="local">2004-09-25</identifier>
+  <titleInfo>
+    <title>2004 Football Program - UT vs Louisiana Tech</title>
+  </titleInfo>
+  <abstract>Game program of the Tennessee Volunteers versus the Louisiana Tech Bulldogs published in 2004. The Vols were led by coach Phillip Fulmer during this athletic season.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">2004-09-25</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q7185676"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"/>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003889"/>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405">
+    <topic>Football</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
+    <topic>College sports</topic>
+  </subject>
+  <subject authority="wikidata" valueURI="https://www.wikidata.org/entity/Q16155502">
+    <topic>Louisiana Tech Bulldogs</topic>
+  </subject>
+  <subject>
+    <topic>Game programs</topic>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+    <geographic>Knoxville (Tenn.)</geographic>
+    <cartographics>
+      <coordinates>35.96064, -83.92074</coordinates>
+    </cartographics>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/fbpro%3A87435</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/fbpro%3A87435/datastream/TN/view</url>
+  </location>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>University of Tennessee Volunteers Football Media Guides</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Excerpt from The Guardian, Nov. [amp] Dec., 1851</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <genre>periodical</genre>
+  <subject>
+    <geographic>Civil War and Reconstruction (1850-1877).</geographic>
+  </subject>
+  <subject>
+    <topic>Tennessee History.</topic>
+  </subject>
+  <note>Articles entitled "Institute Affairs" and "To the Patrons..." Vol. X, 1851-1852, pages 139-142 discusses catalog of courses, requirements for dress, monthly record of grades The Guardian is no longer published under the auspices of The Columbia Female Institute or with the aid of Reverend Otey. These issues came after the scandal in which Otey accused Smith of improprieties with a student. Smith resigned and founded his own female college, The Athenaeum. The backlash against Otey was such that he moved his family to Memphis. Cost was $1 per volume for twelve months, "invariably in advance." Printed by J. W. [amp] J. E. Hatcher The Athenaeum Rectory has issues of The Guardian for the years 1841-1854.</note>
+  <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+  <identifier type="local">TU:DLC:Filename:0098_000050_000210_0000</identifier>
+  <relatedItem>
+    <titleInfo>
+      <title>Digital Collection: The Growth of Democracy in Tennessee: A Grassroots Approach to Volunteer Voices</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+  <location>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9895</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9895/datastream/TN/view</url>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9895</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/volvoices%3A9895/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+</mods>

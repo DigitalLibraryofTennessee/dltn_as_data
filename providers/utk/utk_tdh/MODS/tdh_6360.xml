@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sl136</identifier>
+  <identifier type="pid">tdh:6360</identifier>
+  <identifier type="oclc">50548262</identifier>
+  <titleInfo>
+    <title>[Letter] 1813 Dec. 7, Baxter Grove / Willie Blount</title>
+  </titleInfo>
+  <abstract>This is a letter from Governor Willie Blount dated December 7, 1813 to an unknown military commander. He is explaining that he does not know how long the term of service for a local detachment of men is supposed to be. He also regrets the lack of supplies for the soldiers. Much of the letter discusses the movements of Creek, Choctaw, and Chickasaw forces; and of various US military generals and colonels.</abstract>
+  <name>
+    <namePart>Blount, Willie, 1768-1835</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1813-12-07</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</genre>
+  <physicalDescription>
+    <form>correspondence</form>
+  </physicalDescription>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085299">
+    <topic>Military supplies</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085261">
+    <topic>Military planning</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85023080">
+    <topic>Cherokee Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh89006719">
+    <topic>Creek Indians--Wars</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85024609">
+    <topic>Choctaw Indians</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85125633">
+    <geographic>Southern States</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>John Cocke Papers V-J-3</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6360</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A6360/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n50066629">Tennessee State Library and Archives</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

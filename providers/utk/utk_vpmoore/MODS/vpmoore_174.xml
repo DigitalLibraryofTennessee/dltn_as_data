@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0012_003912_000083</identifier>
+  <titleInfo>
+    <title>Karns High School Club - 1914 Netta Butler Canning in yard of President's home</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <name>
+    <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+    <role>
+      <roleTerm>Contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated encoding="edtf" keyDate="yes">1914-01-01</dateCreated>
+  </originInfo>
+  <genre authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</genre>
+  <physicalDescription>
+    <form>photographs</form>
+  </physicalDescription>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Virginia P. Moore Collection</title>
+    </titleInfo>
+    <identifier>MS.3821</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A174</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/vpmoore%3A174/datastream/TN/view</url>
+  </location>
+  <abstract>Title from back caption (handwritten in pencil). Photograph shows Virginia P. Moore (first on the left) with nine girls from Karns High School Club demonstrating processing and canning tomatoes in the yard of Netta Butler, the club's president's home. The girls demonstrate the use of canning tools, featuring the can seamer and pressure cooker by El Flo's Home Cannery Co., Hickory, N.C., a scale, cans, tomatoes' peeling and coring. On the grass are two full baskets of fresh tomatoes.</abstract>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <subject>
+    <geographic>Knoxville (Tenn.)</geographic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Tomatoes</topic>
+  </subject>
+  <subject>
+    <topic>Canning &amp; preserving</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Societies and clubs</topic>
+  </subject>
+  <subject>
+    <topic>Canning and preserving -- Societies, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Tomatoes</topic>
+  </subject>
+  <subject>
+    <topic>4-H clubs</topic>
+  </subject>
+  <subject>
+    <topic>Agricultural education -- Societies, etc.</topic>
+  </subject>
+</mods>

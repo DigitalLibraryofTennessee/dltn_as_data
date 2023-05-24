@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">sc074</identifier>
+  <identifier type="pid">tdh:9412</identifier>
+  <identifier type="oclc">51337380</identifier>
+  <titleInfo>
+    <title>[Legal writ] 1794 Oct. 23 Nashville, [to] The Sheriff of Davidson County [Tennessee] / Andrew Ewing</title>
+  </titleInfo>
+  <abstract>This is a legal document to the Sheriff of Davidson County, Tennessee from Andrew Ewing, Clerk of the Davidson County Court, written on October 23, 1794. The document requires the Sheriff to bring eighteen shillings which were paid to him from outside parties. This money is now requested by the court as recovery payment to another individual.</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1794-10-23</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79060965">
+    <geographic>Tennessee</geographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Territory of the United States South of the River Ohio</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9412</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A9412/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="naf" valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

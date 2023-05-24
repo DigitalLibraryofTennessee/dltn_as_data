@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">0123_00050_000105</identifier>
+  <identifier type="legacy">egypt689</identifier>
+  <identifier type="acquisition">1992.2.5</identifier>
+  <titleInfo>
+    <title>(Abydos) Bas. reliefs de Ramsès II et liste de nomes.</title>
+  </titleInfo>
+  <abstract>Rameses II presenting offerings to Osiris and Isis, Temple of Seti I at Abydos (New Kingdom Dynasty XIX); wall relief of an enthroned Osiris wearing the atef crown, Isis behind him wearing Hathor horns with the sun disk and uraeus, as Rameses II, indentified by cartouches and Horus above and wearing nemes crown presents offerings and stele of djed pillars, ankhs, Abubis figures, and uraeus, other deities behind him (right); rows of servants, hieroglyphs, and cartouches inscribed above and below; "(Abydos) Bas. Reliefs de Ramses II, et listes de nomes Phot A..." in white along bottom of print. (Number on object is 5/655).</abstract>
+  <originInfo>
+    <dateCreated encoding="edtf">1865/1895</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Nineteenth and Early Twentieth Century Images of Egypt</title>
+    </titleInfo>
+  </relatedItem>
+  <name>
+    <namePart>G. Lékégian &amp; Cie. ca.1865-ca. 1895</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91004865">Abydos (Egypt : Extinct city)</geographic>
+  </subject>
+  <subject/>
+  <subject/>
+  <subject/>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133744">Temples--Egypt</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95004589">Relief (Sculpture), Egyptian</topic>
+  </subject>
+  <subject>
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91004866">Temple of Seti I (Abydos, Egypt)</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <typeOfResource>still image</typeOfResource>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A105</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/egypt%3A105/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/no2017033007">Frank H. McClung Museum of Natural History and Culture</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+  <note>Gift of Marcia S. Young, McClung Museum of Natural History and Culture, The University of Tennessee</note>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright  United States</accessCondition>
+  <abstract>
+            Permission granted for reproduction for use in research and teaching, provided proper attribution of source. Credit line should read: [description of item, including photographic number], 'Courtesy of McClung Museum of Natural History and Culture, The University of Tennessee.' For all other uses consult https://mcclungmuseum.utk.edu/research/image-services/rights-reproductions/ or call 865-974-2144.
+        </abstract>
+</mods>

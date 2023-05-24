@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="local">mp005</identifier>
+  <identifier type="pid">tdh:822</identifier>
+  <identifier type="oclc">50335247</identifier>
+  <titleInfo>
+    <title>[Military] General Orders, 1812 Jul. 8, Nashville [to] Captain John Ballinger, New Orleans / [General] J[ames] Winchester</title>
+  </titleInfo>
+  <abstract>The following document is a military order of July 8, 1812, issued by James Winchester in Nashville and addressed to Captain John Ballinger in New Orleans. Winchester served as Brigadier General during the War of 1812. In this general order, Winchester commands all soldiers to resume their posts and be prepared for battle. The United States had declared war on Great Britain on June 12.</abstract>
+  <name>
+    <namePart>Winchester, James, 1752-1826</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="edtf">1812-07-08</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85140194">
+    <topic>United States--History--War of 1812</topic>
+  </subject>
+  <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085144">
+    <topic>Military assistance</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Goodman Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Tennessee Documentary History</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Memphis Public Library</physicalLocation>
+    <url access="object in context" usage="primary display">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A822</url>
+    <url access="preview">https://digital.lib.utk.edu/collections/islandora/object/tdh%3A822/datastream/TN/view</url>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource>Memphis Public Library</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
