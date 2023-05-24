@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nouveau plan de Paris fortifié (1855)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9089</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9089</url>
+   </location>
+   <abstract>Detailed map in French depicting the old city of Paris in 1855--essentially still a medieval city on the brink of Baron Haussmann's wholesale renovation. It shows streets, buildings, railroads, landmarks, neighborhoods, the Seine River, arrondissements, and the fortifications--star forts and walls--that still surrounded the city but were shortly to disappear. A street index is located to the left of the map with a "table of names omitted in the nomenclature." To the right is a building index including governmental departments, libraries, theaters, and passages.</abstract>
+   <abstract>Haussmann's 1853-1870 renovation of Paris was a vast public works program commissioned by Emperor Napoléon III and directed by his prefect of the Seine, Georges-Eugène Haussmann. It included the demolition of crowded mazes of medieval neighborhoods, the building of wide avenues ("boulevards") as spokes with parks and squares at their hubs, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts. The modern street plan and distinctive appearance of the center of Paris today is largely the result of Haussmann's renovation.</abstract>
+   <originInfo>
+      <dateCreated>1855</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Paris (France)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Neighborhoods</topic>
+   </subject>
+   <subject>
+      <topic>Libraries</topic>
+   </subject>
+   <subject>
+      <topic>Buildings</topic>
+   </subject>
+   <subject>
+      <topic>Language</topic>
+   </subject>
+   <subject>
+      <geographic>France</geographic>
+   </subject>
+   <subject>
+      <geographic>48.854763</geographic>
+   </subject>
+   <subject>
+      <geographic>2.346815</geographic>
+   </subject>
+   <subject>
+      <geographic>Paris (France)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>839</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 48</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Abraham Bradley's Map of the United States (approximately 1796)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/359</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/359</url>
+   </location>
+   <name>
+      <namePart>Bradley, Abraham, 1731-1824</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A beautiful 18th century, paper-on-cloth map in color, "exhibiting the post-roads, the situations, connections &amp; distances of the post-offices, stage roads, counties, ports of entry and delivery for foreign vessels, and the principal rivers" of North America. Includes the mail routes of North Carolina and the territory north of the Ohio (Northwest Territory), Cherokee country, west Florida, and "Tennassee" in its first year of statehood. Features such as Tennassee County (soon to be divided into Robertson and Montgomery counties), Old Fort Assumption, the Mero District, Fort Loudon, and the Cherokee towns of Chota, Chilhowee and Coyota are shown. The map depicts many military installations, native treaty lines and boundaries, iron works and furnaces, and a wealth of other historical data.</abstract>
+   <abstract>The map provides a detailed look at the post offices and postal routes of the Southern States, as they existed at the end of the 18th Century, locating every post office then in operation, as well as military installations, native treaty lines and boundaries, iron works and furnaces, and a wealth of other historical data. Abraham Bradley was a lawyer, judge, and assistant postmaster general. This copy is the 4th state of his 1796 first edition map of the postal routes of the United States, the first postal map ever produced in the United States.</abstract>
+   <originInfo>
+      <dateCreated>1796</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Post roads--United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Transportation--United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Post office stations and branches--United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Postal service</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>166635995</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2777</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

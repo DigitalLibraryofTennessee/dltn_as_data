@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>The Republic of Texas, 1836</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll43/id/7</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll43/id/7</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll43/7/manifest.json</url>
+  </location>
+  <abstract>This colorful map shows the early boundaries of the Republic of Texas in 1836. During James K. Polk's presidency, the nation expanded significantly with the annexation of the Republic of Texas.</abstract>
+  <abstract>During the presidential election of 1844, the annexation of Texas and the expansion of slavery was a major issue. The Whig Party nominee, Henry Clay, adopted an anti-annexation platform on the principle of preserving the North-South sectional unity and to avoid war by respecting Mexico's claims to Texas. The Democrats nominated James K. Polk who ran on a platform that embraced America's popular commitment to territorial expansion, often referred to as Manifest Destiny. During the presidential campaign, Polk successfully linked the United States-British boundary dispute over the partition of Oregon Territory with the Texas annexation debate. By doing so, Polk united the anti-slavery Northern expansionists, who demanded Oregon as free from slavery with pro-slavery Southern expansionists, who insisted on acquiring Texas as a slave state. After a hard fought campaign, James K. Polk was elected as the eleventh president of the United States. Eventually, Texas was annexed and became part of the United States on December 29, 1845.</abstract>
+  <originInfo>
+    <dateCreated>1836</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Texas</topic>
+  </subject>
+  <subject>
+    <topic>Texas--History-Republic, 1836-1846</topic>
+  </subject>
+  <subject>
+    <topic>Maps</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>TSLA Map Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Map 2708</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Maps</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

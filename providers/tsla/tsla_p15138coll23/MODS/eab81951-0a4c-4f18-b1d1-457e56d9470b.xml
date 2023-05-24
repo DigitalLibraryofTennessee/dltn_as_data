@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Sketch of plantations along Cumberland River (Nashville and surrounding land, 1786)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9107</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9107</url>
+   </location>
+   <name>
+      <namePart>McGavock, David</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>David McGavock's hand-drawn map of the area surrounding Nashville from 1786. The map is centered around the city grid laid out by Thomas Molloy within the ""Publick [Public] Land"" David McGavock's 900 acres are laid out to the northwest of the public lands. The Cumberland River flows through the middle of the map. On the east side of the river are 640 acre tracts belonging to Thomas Shaw, David McGavock, and David Ewing as well as features such as Pond Creek, Fountain Blue, Sinkhole Spring, and Pleasant Mount. Of special note in the vicinity of Nashville are ""the Mount," an Indian mound on which early French traders, including de Charleville, had a trading post; [George] Freeland's Station, a forted station near the later location of the Werthen Bag factory on north 8th Avenue; and the French Lick, the seminal salt lick that first attracted hunters, traders and eventually settlers to this area. This may be the earliest map on which the French Lick is shown.</abstract>
+   <abstract>This map is reproduced in W. W. Clayton's 1880 History of Davidson County, Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>1786</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Davidson County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.) Landowners--Tennessee--Davidson County--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Real property--Tennessee--Davidson County--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Oversize</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Oversize 1</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

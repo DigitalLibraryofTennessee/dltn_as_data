@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A sketch of the Cherokee Country, being a reduced copy from Mante's History Engraved for Bancroft's History of the United States by G. G. Smith</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8559</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8559</url>
+   </location>
+   <name>
+      <namePart>Mante, Thomas, approximately 1733-1802</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>From George Bancroft's History of the United States, v. 4.</abstract>
+   <abstract>Thomas Mante was an English military writer who published a book entitled "The History of the Late War in North-America, and the islands of the West-Indies", in 1772.  The map shows the relative location of the Lower, Middle, Valley, and Upper settlements of the Cherokee nation.  All these settlements lay between Fort Loudon on the west and Fort Prince George, the colonial fort nearest to Fort Loudon, on the east.  It illustrates just how isolated and far from help Fort Loudon was.  Mante's map also illustrates the proximity of the headwaters of the Little Tennessee and the Savanna rivers, which both arise in an area the map identifies as "Herbert's Savana."  English colonial leaders feared that the two waterways might provide a strategic route for French expeditions moving up the Tennessee and Little Tennessee rivers from French settlements on the Ohio and Mississippi rivers.  Mante's map was subsequently adapted for publication in George Bancroft's History of the United States of America, from the Discovery of the American Continent to 1789.  The ten volumes of Bancoft's History were published betwen 1834 and 1874.  Americans of the time viewed Bancroft's work as the definitive account of the founding of our county. </abstract>
+   <originInfo>
+      <dateCreated>1772</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Fort Loudoun (Tenn.) Fort)</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--History</topic>
+   </subject>
+   <subject>
+      <topic>French and Indian War (United States : 1754-1763)"</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Antiquities &amp; archaeological sites -- Native American</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1478</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

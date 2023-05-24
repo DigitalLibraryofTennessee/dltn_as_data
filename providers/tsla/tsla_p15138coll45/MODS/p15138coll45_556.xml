@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Journal 2</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll45/id/556</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll45/id/556</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll45/556/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Van Alstyne, David, Jr., 1897-1985</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>The second journal begins in October 1918 and ends a few days after the Armistice. Van Alstyne records when the unit transfers to a new city or village and his responsibilities and actions during these two months. On the way to St. Quentin, he passes part of the remains of the Hindenburg Line saying, “not hardly a home standing in the villages and shell-holes, some as large as 25 feet across and 15 deep overlapped each other in places.” On October 24, he writes of being transferred to the tank corps and that Lt. Pardee will replace him. As clerk, Hodge is responsible for transferring the property and money of the unit to Pardee. In Petit Verly, Van Alstyne traded with German prisoners, Boches, for iron crosses and other souvenirs saying, “The Boches were perfectly content to part with them for a sack of Bull Durham [tobacco].”</abstract>
+  <abstract>David Van Alstyne Jr. was born January 3, 1897, in Louisville, Kentucky. While a student at Williams College, Van Alstyne joined the ambulance corps and became commander of SSU 558. He was then transferred to the United States tank corps in October 1918. At the end of the war he was awarded the Croix de Guerre. After returning from Europe, Van Alstyne finished his Bachelors of Arts degree in 1920 at Williams College and worked as a salesman and businessman. He was elected to the New Jersey State Assembly in 1942 and served until 1953. He died October 10, 1985, at age 88.</abstract>
+  <originInfo>
+    <dateCreated>1918</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>American Field Service</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>Journals (accounts)</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Robert Frank Hodge World War I Papers, 1914-1919</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2018-002</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Journals</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

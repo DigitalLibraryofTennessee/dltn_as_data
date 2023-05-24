@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plan of Nashville, 1805</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9110</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9110</url>
+   </location>
+   <name>
+      <namePart>Searcy, Robert</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn plat map of Nashville dated 1805. This important early map shows the property owners for most of the lots in the city that were laid out by Thomas Molloy 21 years prior. The Cumberland River is positioned at the bottom of the map, with a street labeled Nashville Bridge(" and the Public Square nearby. Some recognizable lot owners include Hardy Murfree, James Robertson, John Boyd, Martin Armstrong, Elijah Robertson, William Blount, John Rice, William Crutcher, Aubrey Crutcher, John Cockrill, Andrew Ewing, Russell Gower, James Thompson, Bennett Searcy, Boyd McNairy, John Overton, James Shaw, Thomas Deaderick, and Timothy Demonbreun, among others. The original street names and grid are shown. A a seemingly anachronistic note about a bridge is handwritten across the Cumberland River.</abstract>
+   <abstract>Robert Searcy was an early Nashville attorney. He served as treasurer for the Mero District from 1797 to 1803, was appointed justice of the peace for Davidson County in 1799, served as alderman of Nashville from 1806 to 1809, served as trustee of Davidson Academy, and clerk of federal district court in Nashville. He and his brother, William owned a mercantile business in Nashville from 1802 until 1806. Searcy freed the enslaved Robert Renfro[e], in 1801, who went on to become an important free black entrepreneur in Nashville.</abstract>
+   <originInfo>
+      <dateCreated>1805</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Davidson County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.) Landowners--Tennessee--Davidson County--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Real property--Tennessee--Davidson County--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streets</topic>
+   </subject>
+   <subject>
+      <topic>Plazas</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>994299729</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 62</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plan of Nashville, as the town was originally laid out by Thomas Molloy (1789)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9013</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9013</url>
+   </location>
+   <abstract>From the collections of the Tennessee Historical Society, "This plan was copied in the year 1789 for John Overton." In addition to the lot numbers and street names, Molloy's plat of early Nashville shows the French Lick Branch flowing toward the Cumberland River and a smaller spring and Upper Spring Branch just south of Broad Street. The original is stored in our THS files and a copy exists in our Map Collection as Map 2324.</abstract>
+   <abstract>Thomas Molloy was one of the earliest surveyors and settlers of Davidson County. Molloy's hand drawn plats are particularly fine examples of the early surveyors art in Tennessee. He was elected to the Inferior Court of Pleas for Davidson County in 1783 and was a prominent landowner in the area.</abstract>
+   <originInfo>
+      <dateCreated>1789</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Surveying</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.16589</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.78417</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>958274920</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

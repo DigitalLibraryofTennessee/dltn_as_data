@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>People at Cumberland Gap</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/3958</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/3958</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/3958/manifest.json</url>
+  </location>
+  <abstract>A view from above at the Pinnacle, Cumberland Gap. A wooden structure appears in foreground, as well as a woman, looking through a camera, and a man, in all white clothing, standing on rock formation. A sign indicates the direction of different states.</abstract>
+  <originInfo>
+    <dateCreated>1941 July 12</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>United States--Aerial views</topic>
+  </subject>
+  <subject>
+    <topic>Photography of mountains</topic>
+  </subject>
+  <subject>
+    <topic>Outdoor photography</topic>
+  </subject>
+  <subject>
+    <topic>Landforms</topic>
+  </subject>
+  <subject>
+    <topic>Rocks</topic>
+  </subject>
+  <subject>
+    <topic>Photography of rocks</topic>
+  </subject>
+  <subject>
+    <topic>Boulders</topic>
+  </subject>
+  <subject>
+    <topic>Signs and signboards</topic>
+  </subject>
+  <subject>
+    <topic>Mountains</topic>
+  </subject>
+  <subject>
+    <topic>Scenic overlooks</topic>
+  </subject>
+  <subject>
+    <topic>Aerial views</topic>
+  </subject>
+  <subject>
+    <topic>Valleys</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Structures</topic>
+  </subject>
+  <subject>
+    <geographic>Claiborne County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Appalachians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>H. L. W. Hill lands</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9934</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9934</url>
+   </location>
+   <name>
+      <namePart>McKenzie, A. R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Plat map show Mountain District land entries in present-day Savage Gulf State Natural Area. The Collins River, Savage Creek, and Meadow Creek are drawn as is Sewanee Mountain. Details include Jim Reed's, Rogers Corner, Tate's old field, Cagle possessions and various land entries.</abstract>
+   <abstract>Hugh Lawson White Hill was born in Warren County on March 1, 1810. He graduated from Cumberland College and went on to serve in the Tennessee General Assembly from 1837 to 1843. In 1846, he was elected to the United States House of Representatives, serving only one term. He attended the 1870 state constitutional convention as a delegate from Warren County. Hill died in 1892 and his estate was the subject of multiple lawsuits. McKenzie and Son was a turn-of-the-century Chattanooga surveying firm that executed scores of detailed plat maps of the Cumberland Plateau counties.</abstract>
+   <originInfo>
+      <dateCreated>1904</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Grundy County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Collins River (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Real property</topic>
+   </subject>
+   <subject>
+      <topic>Land grants</topic>
+   </subject>
+   <subject>
+      <geographic>Grundy County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.457815</geographic>
+   </subject>
+   <subject>
+      <geographic>-85.601123</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>McKenzie and Son Collection - Mountain District Land Grant Maps</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>82-107</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>M-9-14</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

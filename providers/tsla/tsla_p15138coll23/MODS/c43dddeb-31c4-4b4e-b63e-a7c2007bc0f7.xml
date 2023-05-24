@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Die Vereinigten Staaten von Nordamerika, nebst Mexico und Central America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10360</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10360</url>
+   </location>
+   <name>
+      <namePart>Heck, J. G. (Johann Georg), -1857</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>German language map of the United States with hand-colored national boundaries. Inset maps of New York City, the Northeast, Panama, Wartburg, San Francisco, and Boston. The map has a nice view of America's newly acquired western territories following the Mexican-American War and the Gadsden Purchase. This map appears to have been produced to encourage German immigration to the United States. Each of the insets contained significant German-speaking communities including Tennessee's Wartburg.</abstract>
+   <abstract>Johann Georg Heck was a German geographer, cartographer, publisher, and bookseller. He was born in Strasbourg around 1795. He served as head of the lithographic department of the Freibourg Art Institute until 1828. He is best known for his Bilder-Atlas zum Conversations-Lexikon. Iconographic Encyclopaedia of Sciences and Arts, which is one of the most popular German-language works of the 19th century. He died on November 20, 1857, in Leipzig.</abstract>
+   <originInfo>
+      <dateCreated>1855</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>German language</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 3406</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

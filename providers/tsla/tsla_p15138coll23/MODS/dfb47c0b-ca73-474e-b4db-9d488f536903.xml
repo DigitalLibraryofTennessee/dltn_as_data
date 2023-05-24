@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Appleton's railway map of the United States and the Canadas</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/49</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/49</url>
+   </location>
+   <name>
+      <namePart>Thomas, G. F.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map illustrates the Civil War-era railroad routes of the United States and Canada that were operating or being built around 1864. Lines are named, and major stops along each railway line are shown. An inset in the lower right corner features the area covered by the Pacific Railroad and the Gold Regions.</abstract>
+   <abstract>Compiled by G.F. Thomas. Thomas served as editor of "Appletons' Illustrated Railway Guide." This map conveys the full impact of the surge of railroad building that took hold in the 1850s across the nation. Tentative forays in the 1820s and 1830s would give way to great railway systems that would improve transportation, aid the growth of the national economy, and play a key role in the Civil War.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1864</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Railroads--United States--History--19th century</topic>
+   </subject>
+   <subject>
+      <topic>Railroads--Canada--History</topic>
+   </subject>
+   <subject>
+      <topic>Capitals (Cities)</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Transportation</topic>
+   </subject>
+   <subject>
+      <topic>Pacific Coast Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>60037857</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2535</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

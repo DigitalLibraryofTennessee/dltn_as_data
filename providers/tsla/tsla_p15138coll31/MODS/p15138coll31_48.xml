@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Margaret Bonsal about husband's appointment as Ambassador</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/48</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/48</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/48/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Bonsal, Margaret, 1903-2000</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A letter to Elise Croft from her friend Margaret Bonsal from Havana. Mrs. Bonsal writes of her rushed trip to Cuba after her husband was appointed U.S. Ambassador to Cuba, including being pursued by a reporter from the Nashville Tennessean.</abstract>
+  <abstract>Margaret Lockett Bonsal (1903-2000) was the wife of Philip Bonsal (1903-1995), United States Ambassador to Cuba from 1959-60. She was from Knoxville, Tennessee. The Bonsals arrived in Cuba in February 1959 and left in October 1960 after the Cuban government demanded a reduction in United States Embassy staff. Mr. Bonsal later served as Ambassador to Morocco.</abstract>
+  <originInfo>
+    <dateCreated>1959 February 25</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Bonsal, Philip W. (Philip Wilson), 1903-1995</topic>
+  </subject>
+  <subject>
+    <topic>Ambassadors' spouses</topic>
+  </subject>
+  <subject>
+    <topic>Ambassadors</topic>
+  </subject>
+  <subject>
+    <topic>Diplomats</topic>
+  </subject>
+  <subject>
+    <geographic>Havana (Cuba)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

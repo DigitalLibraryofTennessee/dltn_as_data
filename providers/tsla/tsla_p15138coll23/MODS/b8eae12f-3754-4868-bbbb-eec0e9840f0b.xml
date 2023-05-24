@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Mineral map of Georgia</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9281</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9281</url>
+   </location>
+   <name>
+      <namePart>Georgia. Department of Agriculture</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Compiled from state geological records and manuscript notes, this mineral map of Georgia shows various mineral deposits including gold, silver, ore and lead throughout the state. A legend color codes the various mineral types.</abstract>
+   <abstract>The Georgia Department of Agriculture is the oldest state department of agriculture in the United States, having been established in 1874.</abstract>
+   <originInfo>
+      <dateCreated>1886</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mines and mineral resources--Georgia--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mineral deposits</topic>
+   </subject>
+   <subject>
+      <topic>Gold mining</topic>
+   </subject>
+   <subject>
+      <topic>Lead mining</topic>
+   </subject>
+   <subject>
+      <topic>Silver mining</topic>
+   </subject>
+   <subject>
+      <topic>Ore industry</topic>
+   </subject>
+   <subject>
+      <topic>Coal mining</topic>
+   </subject>
+   <subject>
+      <topic>Geology</topic>
+   </subject>
+   <subject>
+      <geographic>Georgia</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Barnsley Family Papers, 1825-1904</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>204</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>I-C-2, B. 3, F. 5</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new map of America from the latest discoveries (1763)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9050</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9050</url>
+   </location>
+   <name>
+      <namePart>Spilsbury, John, 1739-1769</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Schematic, hand-colored map of North America in 1763 originally taken from the London Magazine. British occupied land is in red, French occupied land is in green, and Spanish occupied land is in yellow. The Earl of Granville's line is shown in North Carolina and extends into what will become Tennessee, as are other colonial boundaries. Towns, settlements, native villages, and forts are all indicated. General location of Native American tribes are also denoted.</abstract>
+   <abstract>The French and Indian War (1754–1763) was fought between the colonies of British America and New France, with both sides supported by Native American allies. Fighting took place primarily from Virginia to Newfoundland. France ceded its territory east of the Mississippi to Great Britain and French Louisiana west of the Mississippi River to Spain, making Great Britain the dominant colonial power in North America.</abstract>
+   <originInfo>
+      <dateCreated>1763</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>French and Indian War, 1754-1763</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Villages</topic>
+   </subject>
+   <subject>
+      <topic>Ports</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>5449575</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2444</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,89 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the former territorial limits of the Cherokee ""Nation of"" Indians</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/175</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/175</url>
+   </location>
+   <name>
+      <namePart>Royce, Charles C., 1845-1923</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>1884 map exhibiting the boundaries of various Cherokee Nation land cessions to the colonies and the United States by treaty stipulations, from the beginning of their relations with the whites to the date of their removal west of the Mississippi River. This map basically provides a color-coded depiction of all the treaty-based cessions of Cherokee land in eastern US from 1721 to the 1836 Final Removal, with a numerical and chronological schedule of Cherokee cessions in upper right corner.</abstract>
+   <originInfo>
+      <dateCreated>1884</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Cherokee Nation</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Indians--Land tenure</topic>
+   </subject>
+   <subject>
+      <topic>Indian Removal, 1813-1903</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Indian encampments</topic>
+   </subject>
+   <subject>
+      <topic>Annexations</topic>
+   </subject>
+   <subject>
+      <topic>Treaties</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Villages</topic>
+   </subject>
+   <subject>
+      <topic>Land tenure</topic>
+   </subject>
+   <subject>
+      <geographic>Southern States</geographic>
+   </subject>
+   <subject>
+      <geographic>Washington (D.C.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>43268740</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 917</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

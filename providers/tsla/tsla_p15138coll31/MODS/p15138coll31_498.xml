@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Margaret on steps of building at Hambidge Center</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/498</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/498</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/498/manifest.json</url>
+  </location>
+  <abstract>Photograph of Margaret Croft standing outside a building on stone steps. She holds a book in her hand.</abstract>
+  <abstract>Mary Crovatt (1885-1973), a former model and singer from Georgia, ventured to Greece with artist Jay Hambidge (1867-1924) in 1919, and it was there that she started working with textiles and weaving. She later took Jay's last name, even though the two never married. In 1934, Mary started the Hambidge Center in Rabun Gap, GA, a retreat and sustainable farm based on her ideas about Jay's concept of "dynamic symmetry," and the relationship between nature and creativity. From the beginning, Mary worked with local women on weaving projects to display in exhibits around the country, and opened a shop in New York City for their wares. The Hambidge Center still exists today as a retreat and community for artists and craftspeople. Margaret Croft was a frequent visitor to the Hambidge Center, learning to weave there and cultivating a friendship with Hambidge herself.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Rabun Gap (Ga.)</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Black and white photographs</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Books</topic>
+  </subject>
+  <subject>
+    <geographic>Rabun Gap (Ga.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

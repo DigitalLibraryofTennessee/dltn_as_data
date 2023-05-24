@@ -1,0 +1,85 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plan showing Bell County (Tenn.) as laid down according to the act of Dec. 20, 1870</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/478</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/478</url>
+   </location>
+   <name>
+      <namePart>Williams, J. J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This hand-drawn survey shows the proposed location of Bell County and Nashoba County, Tennessee. It depicts the three counties Bell would detract from, as well as Shelby County, from which the majority of Nashoba is taken. The map displays county borders, both old and new state borders, cities within the proposed county, county seats, the Memphis and Charleston Railroad, and clearly lists the scale used in the creation of the map. A rudimentary drawing of the Tennessee and Mississippi Rivers flank the survey.</abstract>
+   <abstract>A flurry of new counties were proposed after the State Constitution of 1870, due to the reduction of size and population thresholds for creation. Bell and Nashoba counties, in southwestern Tennessee, were among those that were proposed but never established. Bell County was proposed by an act of the state legislature on December 20, 1870, created from the southern sections of Fayette, Hardeman, and McNairy counties. However, the commissioners of the existing counties did not relinquish the land so easily. Running through the middle of the proposed county was the Memphis and Charleston Railroad, which to these rural counties was an important source of tax revenue. At least two court cases were filed to quash the formation of this new county. The Tennessee Supreme Court heard these, and in the case Thomas H. Cocke et al v. John G. Gooch et al, Justice, and future Tennessee governor, Peter Turney sided with the commissioners of the existing counties, barring the creation of this new domain.</abstract>
+   <originInfo>
+      <dateCreated>1876</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Shelby County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Fayette County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Hardeman County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>McNairy County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. Supreme Court</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Shelby County (Tenn.) Fayette County (Tenn.) Hardeman County (Tenn.) McNairy County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>933389420</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1334</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Drawings</form>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

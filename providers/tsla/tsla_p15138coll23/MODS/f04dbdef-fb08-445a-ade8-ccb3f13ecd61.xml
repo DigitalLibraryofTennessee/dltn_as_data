@@ -1,0 +1,111 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of East Tennessee, North of Loudon (1864)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/106</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/106</url>
+   </location>
+   <name>
+      <namePart>Poe, O. M. (Orlando Metcalfe), 1832-1895</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This very fine Civil War map of East Tennessee was prepared by Union Army engineer and cartographer Orlando M. Poe. State geologist James M. Stafford drew on topographical details. This map shows forts, towns, post offices, topography, roads, railroads, valleys, rivers, creeks, islands, fords, ferries, elevations, iron furnaces, poor houses, mills and forges in the East Tennessee area. It carries the signature of W. L. B. Jenney, Captain, U.S.A.</abstract>
+   <abstract>Civil War cartographers were involved in reconnaissance, pre-battle, and post-battle mapping. Orlando Poe functioned as Chief Engineer of the XXIII Corps, and his work aided in the capture of Knoxville, Tennessee by Federal forces. After this action, he was selected by Major General W. T. Sherman as chief engineer for his Military Division of the Mississippi in the spring of 1864. Poe served Sherman during the burning of Atlanta, Sherman's March to the Sea, and the Carolinas Campaign.</abstract>
+   <originInfo>
+      <dateCreated>1864</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Corps, 23rd (1863-1865)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Topographic maps</topic>
+   </subject>
+   <subject>
+      <topic>Post offices</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Valleys</topic>
+   </subject>
+   <subject>
+      <topic>Mills</topic>
+   </subject>
+   <subject>
+      <topic>Islands</topic>
+   </subject>
+   <subject>
+      <topic>Fords (Stream crossings)</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Furnaces</topic>
+   </subject>
+   <subject>
+      <topic>Forge shops</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>14816324</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1385</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

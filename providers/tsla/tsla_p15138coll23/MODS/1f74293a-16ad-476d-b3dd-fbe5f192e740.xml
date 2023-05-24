@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A comprehensive atlas geographical, historical &amp; commercial</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9658</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9658</url>
+   </location>
+   <name>
+      <namePart>Bradford, T. G. (Thomas Gamaliel), 1802-1887</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>James K. Polk's personal copy of Thomas Bradford's 1835 atlas. In addition to states, continents, and countries, the atlas contains population charts, depictions of animals, height of mountains and monuments, astronomical charts, drawings of various modes of transportation and dwellings, and various other statistics and lists.</abstract>
+   <abstract>Thomas Gamaliel Bradford was a cartographer born in Boston, Massachusetts in 1802. He worked for the American Encyclopedia for a time, before revising Adrian Balbi's Atlas Designed to Illustrate the Abridgement of Universal Geography, Modern &amp; Ancient. He went on to publish A Comprehensive Atlas: Geographical, Historical &amp; Commercial in 1835.</abstract>
+   <originInfo>
+      <dateCreated>1835</dateCreated>
+   </originInfo>
+   <subject>
+      <geographic>various</geographic>
+   </subject>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Atlases</topic>
+   </subject>
+   <subject>
+      <topic>Historical geography</topic>
+   </subject>
+   <subject>
+      <topic>Commercial geography</topic>
+   </subject>
+   <subject>
+      <topic>Human geography</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Census</topic>
+   </subject>
+   <subject>
+      <topic>Demography</topic>
+   </subject>
+   <subject>
+      <topic>Drawings</topic>
+   </subject>
+   <subject>
+      <topic>Transportation</topic>
+   </subject>
+   <subject>
+      <topic>Astronomy</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee; Kentucky</geographic>
+   </subject>
+   <subject>
+      <geographic>Boston (Mass.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Grille Books</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>17846148</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G1019 .B73</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

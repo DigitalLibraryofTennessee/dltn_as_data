@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the City of Washington in the District of Columbia ""shewing the architecture and history from the most ancient times down to the present"" (1926)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9016</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9016</url>
+   </location>
+   <name>
+      <namePart>Olsen, Edwin</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A whimsical, pictorial map of central business district of Washington D. C. It denotes the roads, rivers, creeks, and islands around the city. Monuments, historic buildings, and other important structures are illustrated in this colorful rendering. Bordering the primary map are illustrations of the city from the past. Ancillary maps are located in the 4 corners: View of Washington 1792 -- Dist. of Columbia 1800 -- John Smith's map 1606 -- Townes surrounding Washington. An artistic scale is located near the bottom left.</abstract>
+   <originInfo>
+      <dateCreated>1926</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Public buildings--Washington (D.C.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Central business districts--Washington (D.C.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Historic buildings--Washington (D.C.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Washington (D.C.)--History--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Washington (D.C.)--Maps, Pictorial</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Architecture</topic>
+   </subject>
+   <subject>
+      <topic>Business districts</topic>
+   </subject>
+   <subject>
+      <topic>Illustrations</topic>
+   </subject>
+   <subject>
+      <geographic>Washington (D.C.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Boston (Mass.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>17328130</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2627</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

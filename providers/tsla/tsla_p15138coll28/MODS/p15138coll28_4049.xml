@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Couple sitting on bluff</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4049</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4049</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4049/manifest.json</url>
+  </location>
+  <abstract>A couple sitting on the edge of Bee Rock, Monterey, Tennessee. They appear to be looking at the area below them that is dominated by trees. The man wears a white, collared shirt with short sleeves and dark pants.</abstract>
+  <originInfo>
+    <dateCreated>1940 September 8</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cliffs</topic>
+  </subject>
+  <subject>
+    <topic>Landforms</topic>
+  </subject>
+  <subject>
+    <topic>Trees</topic>
+  </subject>
+  <subject>
+    <topic>Nature</topic>
+  </subject>
+  <subject>
+    <topic>Photography, Panoramic</topic>
+  </subject>
+  <subject>
+    <topic>Panoramic views</topic>
+  </subject>
+  <subject>
+    <topic>Rock formations</topic>
+  </subject>
+  <subject>
+    <topic>Couples</topic>
+  </subject>
+  <subject>
+    <topic>People</topic>
+  </subject>
+  <subject>
+    <geographic>Putnam County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Appalachians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of "The Heights of Dover"</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/155</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/155</url>
+   </location>
+   <abstract>Hand-drawn map of Dover and disposition of forces at Fort Donelson, contained in an album written by Lt. Col. Milton A. Haynes, of McCown's Artillery. Haynes was the executive officer of the Artillery Corps of Tennessee. The map, titled "Battle of the Heights of Dover" contains the locations of Pillow's Division, Buckner's Division, and the Cumberland River.</abstract>
+   <abstract>Haynes was the executive officer of the Artillery Corps of Tennessee. The map, titled "Battle of the Heights of Dover" contains the locations of Pillow's Division, Buckner's Division, and the Cumberland River.</abstract>
+   <originInfo>
+      <dateCreated>undated</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <geographic>Stewart County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Looking Back: The Civil War in Tennessee</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

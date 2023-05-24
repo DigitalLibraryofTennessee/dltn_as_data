@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Franklin, Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/99</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/99</url>
+   </location>
+   <abstract>Hand-drawn Civil War map of Franklin, done by a Confederate soldier, showing locations of Fort Grainger, Union and Confederate positions at the November 30, 1864 battle, major streams, fords, bridges, roads, and the railroad. The map includes a legend for certain places and a chronology of action of both Federal and Confederate troops near Franklin from March 1862 to December 1864.</abstract>
+   <abstract>James Marsh Morey was a corporal in Company D of the 32nd Regiment of the Tennessee Infantry organized at Franklin in Williamson County.</abstract>
+   <originInfo>
+      <dateCreated>1864</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Franklin, Battle of, Franklin, Tenn., 1864</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Settlements</topic>
+   </subject>
+   <subject>
+      <geographic>Franklin (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Morey, James Marsh (1844-1923), Papers, 1861-1942</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1972.016</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

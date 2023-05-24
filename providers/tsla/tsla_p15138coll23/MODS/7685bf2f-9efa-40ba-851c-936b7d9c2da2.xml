@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The United States of America : confirmed by treaty 1783</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9122</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9122</url>
+   </location>
+   <name>
+      <namePart>Smith, Benjamin, -1833</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This hand-colored map of the United States shows the original territorial divisions of New England, New York, Virginia, Carolina and the states and territories created from them. Features including waterways, boundaries, forts, and Native American tribal lands are shown. Fanciful depictions show "Franklinia" (presumably a reference to the short-lived State of Franklin) stretching across the eastern part of Tennassee; "Indiana" is located in present-day West Virginia, and "New Iberia" is located in present-day Missouri. Relief shown by hachures.</abstract>
+   <abstract>"Franklinia" refers to the attempt made by the inhabitants of North Carolina's trans-Appalachian counties of Washington, Sullivan, and Greene to form the independent "State of Franklin" from 1784 to 1788 and illustrates the lasting memory of this experiment in self-government. Robert Wilkinson was a London cartographic publisher from 1785 to 1825 who published a General Atlas and a re-issuance of Bowen &amp; Kitchen's English Atlas.</abstract>
+   <originInfo>
+      <dateCreated>1812</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Franklin (State)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North American--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Statehood</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Indian encampments</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>43363307</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 669</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

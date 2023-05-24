@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The city of Nashville (1815)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9431</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9431</url>
+   </location>
+   <name>
+      <namePart>Phillips, William</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Artistic drawing of the 180 lots of Nashville from 1815. The town is flanked by two streams seen in other maps as spring branches. The street names and town square were penciled in at a later date. Drawn by William Phillips on May 15, 1815.</abstract>
+   <abstract>The 1820 census indicates that individuals named William Phillips lived in Davidson, Hickman, Sumner, and Williamson counties. All four served in the War of 1812.</abstract>
+   <originInfo>
+      <dateCreated>1815</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Real property--Tennessee--Nashville--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Streets</topic>
+   </subject>
+   <subject>
+      <topic>Real property</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society Miscellaneous Files (T-100)</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Drawings</form>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

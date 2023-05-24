@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9259</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9259</url>
+   </location>
+   <name>
+      <namePart>Colton, J. H. (Joseph Hutchins), 1800-1893</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Color map of Tennessee from showing towns, roads, different-colored counties, streams and railroads. Still shows range-and-section grid patterns from land grant system in West Tennessee and old Hiawassee and Ocoee Districts. Includes portions of adjacent states. Shows railroads completed, railroads proposed, and wagon roads.</abstract>
+   <abstract>J. H. Colton was born in England in 1800 and immigrated to New York City in the 1830s. His first foray into mapmaking involved purchasing the rights to other's work rather than creating his own. By the 1840s Colton was producing his own, and by 1860 his General Atlas was ubiquitous. His two sons G.W. and C.B. following in his footsteps and joined the family business. In 1857 they were commissioned to create an atlas of Bolivia, but upon completion, they refused payment. He was eventually able to recoup payment after a prolonged legal battle, but this setback coupled with the Panic of 1857, forced him to have to go into business and sell his plates to Alvin Jewett Johnson and Ross C. Browning, who became direct competitors. J. H Colton retired from cartography in 1865 and died in 1893.</abstract>
+   <originInfo>
+      <dateCreated>1873</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Railroads--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>39691396</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 370</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Virginia, Marylandia et Carolina in America septentrionali Britannorum (approximately 1759)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9205</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9205</url>
+   </location>
+   <name>
+      <namePart>Homann, Johann Baptist, 1663-1724</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Early German map of colonial America on excellent hand-made paper that shows among other things the early settlements of tidewater Virginia, the Chesapeake and the Carolinas. It includes many major geographical errors: the northern coastline is skewed, Lake Erie is shown too far south and massively oversized, Florida stretches from the south all the way to Lake Erie. The Apalache Lake, a common early feature referencing a native Floridian tribe, is located in North Carolina's interior. Meister Krug's plantation and Germantown Teutsche Statt appear as possible destinations for potential German immigrants. Also covers New Jersey, Southern Pennsylvania, and New York City region. Includes illustrations. Relief shown pictorially. Depths shown by soundings. The elaborate cartouche depicts trade with the natives, colorful depictions of natives, fish, sea monsters, a shipping warehouse (filled with tobacco or hams), and a seal with the phrase ""honi soit qui mal y pense,"" meaning ""May he be shamed who thinks badly of it,"" which also appears on John Smith's 1612 map of Virginia. In Homann's Atlas Geographicvs Maior, produced from 1714-1759.</abstract>
+   <abstract>This map was drawn by Johann Baptist Homann to attract German immigrants to America. Virginia Colony governor, Alexander Spotswood, wanted to attract immigrants to settle the frontier, so he built Fort Christiana [Christ Anna fort] in 1714 as a buffer from and teaching facility for the American Indians.</abstract>
+   <originInfo>
+      <dateCreated>1759</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Southern States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Middle Atlantic States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Language</topic>
+   </subject>
+   <subject>
+      <geographic>Southern States; Middle Atlantic States; Virginia; Maryland; North Carolina; South Carolina</geographic>
+   </subject>
+   <subject>
+      <geographic>Nuremberg (Germany)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>5404232</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 361</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

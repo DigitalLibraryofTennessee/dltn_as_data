@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Pennsylvania (1826)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8969</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8969</url>
+   </location>
+   <name>
+      <namePart>Melish, John, 1771-1822</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This spectacular map of Pennsylvania is one of the crowning achievements of early American cartography. It is hand colored along county and state borders, showing the counties of Pennsylvania and the surrounding states including, New Jersey, and parts of Delaware, Maryland, Virginia, Ohio, New York, and the District of Columbia. Geographic features such as rivers, creeks, lakes, bays, mountains, and the Atlantic Ocean are denoted. The legend indicates county lines, township lines, common roads, turnpike roads, sinking springs, heads of canoe navigation, heads of boat navigation, manufactories, mills, furnaces and forges, minerals, churches, post offices, and cities. A statistical table detailing each county's' population, land area, number of towns and post offices is at the bottom center of the map. Information regarding the creator of each county map used to make the larger map is a the bottom left. The cartouche at the top right depicts the state seal of Pennsylvania.</abstract>
+   <abstract>John Melish, a Scottish cartographer, moved to the United States in 1811. Shortly thereafter he began a cartography business and published his first map, along with Henry Tanner, in 1813, depicting the War of 1812. After the war, he began work on a comprehensive map of the United States and, with consultation from Thomas Jefferson, produced the first American-made map showing America from coast to coast. In the late 1810s and early 1820s he produced many state maps simultaneously with his nation-wide ones. He is considered to be one of, if not the most important of the early mapmakers in America. His map of the United States, first published in 1816, visualized the continentalist belief held by many Americans during this era. The map was used as a propaganda piece in the "manifest destiny" era of the 1840s. He was appointed by Pennsylvania in 1816 to create a detailed state map. With the help of many deputy surveyors, it took Melish eight years and cost the state over $30,000 to produce this map, often considered his best work.</abstract>
+   <originInfo>
+      <dateCreated>1826</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Pennsylvania--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>Pennsylvania</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>55485622</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1775</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

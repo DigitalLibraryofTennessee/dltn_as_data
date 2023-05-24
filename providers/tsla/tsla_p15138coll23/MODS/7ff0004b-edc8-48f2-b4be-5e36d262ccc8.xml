@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Carte statistique, politique, et minéralogique de l'Italie (1816)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10216</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10216</url>
+   </location>
+   <name>
+      <namePart>Orgiazzi, J. A. (J. Alexis)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Extremely detailed map of Italy, Sardinia, Corsica and the Dalmatian Coast showing national and state borders, cities, roads, forts, villages, archbishoprics, bishoprics, and postal routes. Mineralogical details include deposits of gold, silver, copper, iron, lead, tin, mercury and cinnabar, alum and antimony, sulphur, salt, marble, coal, springs, and hot springs, as well as foundries and forges.</abstract>
+   <abstract>This map was drawn, engraved, and dedicated to the Emperor of Austria-Hungary after the treaty following the Napoleonic Wars.</abstract>
+   <originInfo>
+      <dateCreated>1816</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Italy--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Adriatic Sea</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Topography</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <geographic>Italy</geographic>
+   </subject>
+   <subject>
+      <geographic>Paris (France)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>11251266</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 7</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

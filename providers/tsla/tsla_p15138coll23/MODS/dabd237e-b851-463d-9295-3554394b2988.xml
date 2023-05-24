@@ -1,0 +1,90 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Davidson County, Tennessee, 1871</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/348</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/348</url>
+   </location>
+   <name>
+      <namePart>Foster, Wilbur F.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Wilbur Foster's 1871 color map of Davidson County Tennessee, from actual surveys made by order of the county court of Davidson County. It shows roads, railroads, streams, schools, stores, rural house structures and residences with owner's names, post offices, and different-colored civil districts. Includes engraved view of Nashville from the west. Surveyed and mapped by Wilbur F. Foster, Civil and Topographical Engineer.</abstract>
+   <abstract>The chief value of this map comes from the detailed depiction of business establishments and landowner's names and acreages in post-Civil War Davidson County.</abstract>
+   <originInfo>
+      <dateCreated>1871</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--Tennessee--Davidson--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Davidson County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Louisville and Nashville Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Edgefield and Kentucky Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Cemeteries</topic>
+   </subject>
+   <subject>
+      <topic>Business districts</topic>
+   </subject>
+   <subject>
+      <geographic>Davidson County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.17069</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.77753</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>64572908</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2552</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

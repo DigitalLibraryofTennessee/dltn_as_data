@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Benjamin F. Cheatham's Civil War map of northeast Alabama (Guntersville to Gadsden)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/450</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/450</url>
+   </location>
+   <name>
+      <namePart>Cheatham, Benjamin Franklin, 1820-1886</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Frank Cheatham was a corps commander in the Confederate Army of Tennessee, and this hand-drawn map of a portion of northeast Alabama from Gadsden up to Guntersville may have been used by him in late 1864 as this army moved from Atlanta towards Tennessee. It would have been useful operationally, as it shows the road network, distances, streams, topography, and householder's names.</abstract>
+   <abstract>Benjamin Franklin Cheatham was appointed brigadier general in the Confederate Army at the outbreak of the Civil War. He was promoted to major general on March 10, 1862 after leading troops in Missouri. Wounded at the Battle of Shiloh, Cheatham led divisions at Perryville, Stones River, Chickamauga, Chattanooga, and Atlanta. As a major general and corps commander for the Army of Tennessee, he was blamed by its commander, Lt. Gen. John Bell Hood, for allowing Maj. Gen. John Schofield's Union army sneak by him at Spring Hill just before the devastating Battle of Franklin.</abstract>
+   <originInfo>
+      <dateCreated>1861-1865</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Topographic maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Alabama</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Cheatham, Benjamin Franklin (1820-1886) Papers, 1834-1893</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>201</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Dr. 2-A. No. 1</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

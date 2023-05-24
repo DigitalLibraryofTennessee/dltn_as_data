@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Cocke County, Tennessee rural delivery routes</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9701</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9701</url>
+   </location>
+   <name>
+      <namePart>United States. Post Office Department</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A 1930s map of Cocke County (Tenn.) showing rural delivery routes, dwellings, churches, schools, and rivers. Landowners are named. Also shown are the French Broad River, the Nolichucky River, the Big Pigeon River, and the Southern Railway. A key in the bottom right shows symbols for collection boxes, post offices, and other structures.</abstract>
+   <abstract>Cocke County was established in 1797 from a part of Jefferson County. It is named after William Cocke, one of Tennessee's first United States Senators. Its largest city and county seat is Newport. During the Civil War, Cocke County was pro-Union and actually voted against Tennessee's secession. These blue-line rural free delivery (RFD) county postal maps are extremely detailed and contain much valuable early 20th century data.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1930</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States Postal Service</topic>
+   </subject>
+   <subject>
+      <topic>Cocke County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rural free delivery</topic>
+   </subject>
+   <subject>
+      <topic>French Broad River (N.C. and Tenn.) Pigeon River (N.C. and Tenn.) Newport (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Postal service</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <geographic>Cocke County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.92542</geographic>
+   </subject>
+   <subject>
+      <geographic>-83.12116</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1935</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photo Album belonging to Frank Hodge</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll45/id/319</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll45/id/319</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll45/319/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Hodge, Robert Frank (1893-1975)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>The photo album contains approximately 80 pages of black and white photographs (presumably taken by Hodge himself), postcards, tickets, passes, and other items he collected. Some documents were removed from the album to be better preserved and stored flat. The photos do not seem to be in chronological order. They document Hodge’s and the SSU 558’s time in France.</abstract>
+  <abstract>Shortly after the United States joined the war on the Allied side, the French high command requested 6,000 volunteer Americans to man field ambulances on the Western Front. That call was directed mainly at college men, initially from Ivy League and Eastern universities, to join the American Field Service (AFS), an American volunteer ambulance corps under the French Army. In May 1917, while still a student at the University of the South, Hodge joined the 36-man unit being recruited from Sewanee. Once in France, the AFS was divided into smaller sections, forty men with two drivers per car, called Sections Sanitaire [Etats-]Unis (SSU). Hodge and the other Sewanee men formed SSU 558, in which he served as a private and clerk. While the Americans arranged their travel to and from France, the French Army furnished gas, rations, and gave them the regular pay of French soldiers. Much of their work consisted in driving and doing maintenance on the Ford Model Ts, Fiats and “camionettes” (little trucks) that had been converted to ambulances. Though the unit was at various times in 1917-18 posted to the Somme sector, Verdun, and Chateau-Thierry, there was much “down-time.” Their heaviest action came on August 10-14, 1918, in support of a French offensive near the Somme sector . Hodge was employed in all-night triage work and ferrying wounded from the front lines to field hospitals. Several members of SSU 558 received Croix de Guerre medals from the French Army for this action. SSU 558 was originally organized at Versailles in June 1917 under the number 61. By August 1917, it had joined the 42nd Division of French infantry at Verdun and helped evacuate 3100 wounded. The unit was “en repos” (behind the lines) most of October 1917 and new personnel were brought in. In November, the section was stationed at Villers en Haye with advanced posts in St. Jacques and Madieres. In January 1918, the section was changed to number 558.</abstract>
+  <originInfo>
+    <dateCreated>1917-1919</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>American Field Service</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Postcards</topic>
+  </subject>
+  <subject>
+    <topic>Tickets</topic>
+  </subject>
+  <subject>
+    <topic>Advertisements</topic>
+  </subject>
+  <subject>
+    <topic>Military passes</topic>
+  </subject>
+  <subject>
+    <topic>Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Portrait Prints</topic>
+  </subject>
+  <subject>
+    <topic>Military records</topic>
+  </subject>
+  <subject>
+    <topic>Orders (military records)</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Robert Frank Hodge World War I Papers, 1914-1919;</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2018-002</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives;</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Albums</form>
+    <form>Photographs</form>
+    <form/>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Allen Holladay, Conservation Aide, SCS and Clyde Johnson, farmer, examine pulpwood cut from a 26 year old loblolly pine plantation planted by the C.C.C. (Civilian Conservation Corps) in 1939 for control of erosion. Located in Carroll County, Tennessee.</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4957</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4957</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4957/manifest.json</url>
+  </location>
+  <name>
+    <namePart>C. M. Henninger, SCS</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>The C.C.C. (Civilian Conservation Corps) was a federal work relief program established in 1933 under the administration of Pres. Franklin D. Roosevelt.</abstract>
+  <originInfo>
+    <dateCreated>1966 February 11</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Farmers</topic>
+  </subject>
+  <subject>
+    <topic>Soil conservation</topic>
+  </subject>
+  <subject>
+    <topic>Administrative agencies</topic>
+  </subject>
+  <subject>
+    <topic>Pines</topic>
+  </subject>
+  <subject>
+    <topic>Forestry</topic>
+  </subject>
+  <subject>
+    <topic>Logs</topic>
+  </subject>
+  <subject>
+    <geographic>Carroll County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Soil Conservation Service</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

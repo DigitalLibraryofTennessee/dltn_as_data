@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Polk County showing roads (1921)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/476</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/476</url>
+   </location>
+   <name>
+      <namePart>Jakobe, H.J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Blueline map of Polk County (with portions of McMinn, Bradley &amp; Monroe counties) shows unimproved, graded, and macadam roads. Contour lines are visible for Polk and the surrounding counties. Geographic features such as mountains, rivers, and creeks are identified, as are towns, railroads, and county and state lines.</abstract>
+   <abstract>Polk County was established in 1839 from parts of Bradley and McMinn counties. It was named for sitting Governor James K. Polk. Its county seat and largest city is Benton, named for United States Senator Thomas Hart Benton. Copper was discovered in Ducktown, Polk County in 1843, which sparked major mining operations in the region. Agriculture and the Tennessee Valley Authority provide the majority of the populace with work.</abstract>
+   <originInfo>
+      <dateCreated>1921</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Roads--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Polk County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Polk County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.1199</geographic>
+   </subject>
+   <subject>
+      <geographic>-84.5233</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>944444379</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2075</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

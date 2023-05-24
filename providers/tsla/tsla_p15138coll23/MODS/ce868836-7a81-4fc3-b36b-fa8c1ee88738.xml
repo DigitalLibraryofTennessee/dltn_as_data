@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Tennessee (1822)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/46</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/46</url>
+   </location>
+   <name>
+      <namePart>Lucas, Fielding, Jr., 1781-1854</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Beautiful color map of Tennessee as it appeared in 1822, soon after the cession by treaty of Chickasaw lands between the Tennessee and Mississippi Rivers. The map shows the newly formed West Tennessee counties in different colors and short-lived configurations that would change as new counties were formed. It also shows county seats, rivers, and mountains. Recently formed (by the New Madrid earthquakes of 1812-13) Reelfoot Lake appears as a rather fanciful "Wood Lake;" Muscle Shoals in Alabama can also be seen, in addition to some Cherokee lands in southeast Tennessee.</abstract>
+   <abstract>Newly created counties in West Tennessee are shown. After the treaty with the Chickasaws in 1818, new land was added to the western region of Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1822</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>county seats</topic>
+   </subject>
+   <subject>
+      <topic>treaty lands</topic>
+   </subject>
+   <subject>
+      <topic>Reelfoot Lake (Tenn.) Muscle Shoals (Ala.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 670</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

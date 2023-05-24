@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of West Tennessee (1864)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9465</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9465</url>
+   </location>
+   <name>
+      <namePart>Poe, O. M. (Orlando Metcalfe), 1832-1895</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Detailed Civil War era map of West Tennessee, created by noted Union Army cartographer Orlando Poe, detailing streams, roads, railroads from the Tennessee river counties westward. Civil War military railroads and installations such as Johnsonville and Fort Pickering are shown. Most cities and towns are included as are some railroad depots, iron furnaces, post offices, and river landings. Relief shown by hachures. This map--stylistically and in content--is a western continuation of Map 138 of Middle Tennessee attributed to Lt. Col. H. C. Wharton. It is printed on linen-backed paper and folded between two backing boards for stability.</abstract>
+   <abstract>Civil War cartographers were involved in reconnaissance, pre-battle, and post-battle mapping. Orlando Poe functioned as Chief Engineer of the XXIII Corps, and his work aided in the capture of Knoxville, Tennessee by Federal forces. Poe designed the defenses of Fort Sanders that aided in the decisive Union victory during the Confederate assault. After this action, he was selected by Major General William Tecumseh Sherman as chief engineer for his Military Division of the Mississippi in the spring of 1864. Poe served Sherman during the burning of Atlanta, Sherman's March to the Sea, and the Carolinas Campaign.</abstract>
+   <originInfo>
+      <dateCreated>1864</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Fort Pickering (Tenn.) Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Post offices</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Grille Books</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G 3701 .S532 1862 .u5</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

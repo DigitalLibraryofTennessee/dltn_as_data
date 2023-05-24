@@ -1,0 +1,91 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plates 9-10 Sanborn Fire Insurance Map of Nashville, Tenn. (1897, rev. 1911)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10265</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10265</url>
+   </location>
+   <name>
+      <namePart>Sanborn Map Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Plates 9 and 10 from the 1911 revision of the Nashville Sanborn Atlas. These plates depict the neighborhoods just north of the state capitol between 1st Avenue and 5th Avenue and as far north as Jefferson Street. The Nashville Athletic Grounds (Sulphur Dell), sulphur spring, Belleview Public School, Howe Ice Company, and other manufacturing are shown. Grandstands at the baseball stadium had since been torn down to make way for the new one, the first to be named Sulphur Dell. built in 1908. The sulphur spring is the site of the French Lick, the salt lick that attracted hunters to this area for thousands of years.</abstract>
+   <abstract>Daniel Alfred Sanborn, a civil engineer and surveyor, began working on fire insurance maps in the 1860s and his company soon became one of the largest and most successful American map companies. Sanborn's first work mapping cities for insurance purposes began in Tennessee when Aetna Insurance hired him to survey a few towns across the state, however none of these earliest examples are known to exist today (Ristow, Walter W. "United States Fire Insurance and Underwriters Maps· 1852—1968." The Quarterly Journal of the Library of Congress 25, no. 3 (1968): 194-218.). Sanborn maps were originally created to estimate fire insurance risks. Insurance companies would decide how much insurance, if any, was to be offered to a customer solely through the use of a Sanborn map. Today, the maps are frequently used for historical research and for preservation and restoration purposes.</abstract>
+   <originInfo>
+      <dateCreated>1911</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Fire insurance maps</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Sanborn Map Company</topic>
+   </subject>
+   <subject>
+      <topic>Fire risk assessment--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Fire insurance maps</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Buildings</topic>
+   </subject>
+   <subject>
+      <topic>Architecture</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Businesses</topic>
+   </subject>
+   <subject>
+      <topic>Industry</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.); Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Sanborn Fire Insurance Maps</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Stack 8 - Oversize Volumes</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Electric transmission and distribution lines in Illinois</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10363</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10363</url>
+   </location>
+   <name>
+      <namePart>Huebinger, H.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A comprehensive map showing the location of all power generation stations and transmission lines across Illinois as of January 1, 1937. A list of all public utility corporations, cooperatives, and industrial concerns is located in the bottom left. The map nicely illustrates Illinois's neat township and range grid.</abstract>
+   <abstract>Spurred to action by the New Deal and the Rural Electrification Administration, Governor Henry Horner formed the Illinois State Rural Electrification Committee in 1936 to raise the standard of living of rural people by increasing access to electricity across the state. The committee created this map to highlight areas in need of electrification and to identify areas that would be best served by either public utility companies or electric cooperatives.</abstract>
+   <originInfo>
+      <dateCreated>1937</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Electric utilities--Illinois--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rural electrification--Illinois--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Illinois--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rural electrification</topic>
+   </subject>
+   <subject>
+      <geographic>Illinois</geographic>
+   </subject>
+   <subject>
+      <geographic>Chicago (Ill.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>13688530</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 747</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

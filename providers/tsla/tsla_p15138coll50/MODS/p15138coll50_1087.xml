@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Boyd Mill</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/1087</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/1087</url>
+  </location>
+  <abstract>Black and white photograph of Boyd Mill on the Harpeth River. There is snow covering the ground.</abstract>
+  <abstract>The mill was built in the early 19th century, powered by the West Harpeth River. The mill was used to produce flour and corn mill for area farmers for more than 50 years. It was one of about a dozen water-powered mills in the county in the 19th century. Around 1900, the mill ceased operation, and was left to fall into ruins.The W.A. Boyd farm was one of the larger farms/plantations in Williamson County before and after the American Civil War. After the war, many of these were reduced in size, but the Boyd farm, which included the Boyd Mill had 528 acres.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Mills</topic>
+  </subject>
+  <subject>
+    <topic>Snow</topic>
+  </subject>
+  <subject>
+    <topic>Flour &amp; meal industry</topic>
+  </subject>
+  <subject>
+    <topic>Bodies of water</topic>
+  </subject>
+  <subject>
+    <geographic>Williamson County (Tenn.); Franklin (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

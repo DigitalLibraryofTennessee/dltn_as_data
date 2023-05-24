@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>State of Franklin map</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/251</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/251</url>
+   </location>
+   <name>
+      <namePart>McGill, J. T.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Early 20th century manuscript map of State of Franklin (Frankland), possibly drawn by J.T. McGill to accompany his article: ""Franklin and Frankland: Names and Boundaries,"" Tenn. Historical Magazine, v. 8, no. 4, (1925), p. 248.</abstract>
+   <abstract>This map seeks to distinguish between the geographic boundaries of the historic State of Franklin and the proposed state of Frankland.  The State of Franklin, as McGill denotes on this map, existed from 1784 to 1788 and was formed from the area of Colonial North Carolina west of the mountains separating present-day Tennessee and North Carolina.  Frankland, a rejected state proposal, was to encompass portions of Virginia, North Carolina, and Georgia, and possibly beyond. McGill also tackled the name issue in his article.  Though it is contended that Frankland, "the land of free-men" was an early name applied in the new state proposals, the December 1784 Provisional Constitution of Jonesborough used "Franklin," and the Second Constitutional Convention at Greeneville in November of 1785 fixed the name of the state as "Franklin," in honor of Benjamin Franklin.  Confusion over the years arose from historian John Haywood's insistence upon using "Frankland" when referring to the state and from the circulation of the printed rejected Houston Constitution of "Frankland," presumably authored largely by Dr. William Graham and Rev. Samuel Houston.</abstract>
+   <originInfo>
+      <dateCreated>1925</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Franklin (State)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>99-046</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>957559544</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2932</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

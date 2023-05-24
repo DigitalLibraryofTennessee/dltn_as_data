@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Civil War map of Virginia showing area around Richmond, Petersburg and Williamsburg</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/96</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/96</url>
+   </location>
+   <name>
+      <namePart>Abbey, Seth Alden, 1798-1880</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map showing Tidewater Virginia on the lower York and James River peninsulas during the Civil War, with detailed depiction of roads, bridges, encampments, forts, railroads, courthouses and towns. The map was created by Ohio Union cavalryman Seth Alden Abbey (1798-1880) and was included in a diary that he kept.</abstract>
+   <abstract>Seth Abbey came to Cleveland in 1830 with his widowed father, Peter Abbey, from Enfield, Connecticut. Seth Abbey assisted in the incorporation of the city in 1836 by serving, along with Edmund Clark and Richard Winslow, as judge of elections. He was also city marshal for a time, as well as judge of police court. When the Civil War broke out, he enlisted and served in the Ohio Volunteer Cavalry.</abstract>
+   <originInfo>
+      <dateCreated>1861-1865</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>American Civil War, letters and diaries</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <geographic>Petersburg (Va." Richmond (Va.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Abbey, Seth, Papers 1861-1866</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 471</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>27327866</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

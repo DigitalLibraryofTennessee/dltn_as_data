@@ -1,0 +1,85 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Children selling flowers</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/3991</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/3991</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/3991/manifest.json</url>
+  </location>
+  <abstract>Two children, natives of Clinch Mountain, peddling wildflowers to tourists on U.S. Highway 25-E. They are both wearing hats, and stand near a wooden post. The guardrail of the highway is visible in the background</abstract>
+  <originInfo>
+    <dateCreated>1947 May 6</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>United States Highway 25</topic>
+  </subject>
+  <subject>
+    <topic>Photography of children</topic>
+  </subject>
+  <subject>
+    <topic>Rural children</topic>
+  </subject>
+  <subject>
+    <topic>Appalachians (People)</topic>
+  </subject>
+  <subject>
+    <topic>Mountain people--Southern States</topic>
+  </subject>
+  <subject>
+    <topic>Mountain people</topic>
+  </subject>
+  <subject>
+    <topic>Children's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Clinch Mountain (Tenn. and Va.)</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Roads</topic>
+  </subject>
+  <subject>
+    <topic>Vending stands</topic>
+  </subject>
+  <subject>
+    <topic>Bouquets</topic>
+  </subject>
+  <subject>
+    <topic>Flower arrangements</topic>
+  </subject>
+  <subject>
+    <topic>Wildflowers</topic>
+  </subject>
+  <subject>
+    <geographic>Hawkins County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Appalachians</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

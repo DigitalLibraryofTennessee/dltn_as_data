@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Godzilla topiary</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll48/id/25</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll48/id/25</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll48/25/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Kinsall, J.Y.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Slide film (or reversal film) of a Godzilla topiary located at a park in Tokyo, Japan. Emiko and Yasko, who were governesses for the Kinsall family, are pictured with the Kinsall children, Robert (aged 2) and Lucinda (aged 3.)</abstract>
+  <abstract>Godzilla is a Japanese kaiju film, which was the first film in the Godzilla franchise. It was released in Nagoya, Japan on October 27, 1954 and nationwide on November 3, 1954. The film spawned a multimedia franchise and is the longest running film franchise in the world.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1955</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Tokyo (Japan)</topic>
+  </subject>
+  <subject>
+    <topic>Godzilla (Fictitious character)</topic>
+  </subject>
+  <subject>
+    <topic>Godzilla films</topic>
+  </subject>
+  <subject>
+    <topic>Topiary work</topic>
+  </subject>
+  <subject>
+    <topic>Governesses</topic>
+  </subject>
+  <subject>
+    <topic>People</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Boys</topic>
+  </subject>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Parks</topic>
+  </subject>
+  <subject>
+    <geographic>Tokyo (Japan)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Lt. Col. J.Y. Kinsall Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0025</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Slides</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

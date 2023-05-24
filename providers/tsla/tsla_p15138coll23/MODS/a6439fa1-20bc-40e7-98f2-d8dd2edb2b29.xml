@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Civil War map of Nashville from John Johnston's Civil War Reminiscences</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9095</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9095</url>
+   </location>
+   <name>
+      <namePart>Johnston, John,--1842-1928</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map by Confederate cavalryman John Johnston detailing Confederate movements during and after the Battle of Nashville on December 16 and 17, 1864, between Hillsboro Pike and Franklin Pike, just north of the Little Harpeth River. The Federal cavalry line is indicated, as is the 14th regiment, the field of Johnston's "last stand" on December 16th, and the scene of Ben Rucker's capture. The rallying place of Gen. Hood on December 17th at 7:00 a.m. is shown as is their line of retreat later that day. The property of his uncle, Matthew Johnston, and great-grandfather is drawn, showing the location of their home, and a nearby church and graveyard.</abstract>
+   <abstract>John Johnston was born in 1842 and joined the Confederate army in April 1861. He served in Nathan Bedford Forrest's cavalry during the war. Following the war he became a lawyer in Memphis and wrote a memoir of his experiences during the Civil War. He died in 1928.</abstract>
+   <originInfo>
+      <dateCreated>1905</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Johnston, John,--1842-1928--Diaries</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Personal narratives, Confederate.</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Civil War Collection - Confederate</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1407</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

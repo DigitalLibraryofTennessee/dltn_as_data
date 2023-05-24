@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the Southern States of America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/47</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/47</url>
+   </location>
+   <name>
+      <namePart>Russell, John, fl. 1733-1795</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Includes Maryland, Virginia, Kentucky, Territory South of the Ohio, North Carolina, Tennessee Government, South Carolina and Georgia.This map shows the southern states of the United States, and includes rivers, mountains, towns, bays, donation lands from the Commonwealth of Virginia Company, various speculative land companies such as the Wabash Company, the New Jersey Company, the Ohio Company, and army lands. Lands and towns belonging to the Cherokee, Chickasaw, Creek, and Choctaw are also shown.</abstract>
+   <abstract>In 1795, when this map was published, Tennessee had not yet been granted statehood, hence the name "Tennessee Government."</abstract>
+   <originInfo>
+      <dateCreated>1795</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Southern States</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Land grants</topic>
+   </subject>
+   <subject>
+      <topic>Southern states--History--1775-1865</topic>
+   </subject>
+   <subject>
+      <topic>Wabash Land Company</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Wetlands</topic>
+   </subject>
+   <subject>
+      <topic>Bays (Bodies of water)</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Indian encampments</topic>
+   </subject>
+   <subject>
+      <geographic>Southern States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>21244894</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1494</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

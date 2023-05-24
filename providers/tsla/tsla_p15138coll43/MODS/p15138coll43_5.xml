@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Home and tomb of James K. Polk</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll43/id/5</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll43/id/5</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll43/5/manifest.json</url>
+  </location>
+  <abstract>This photograph shows the home and tomb of James K. Polk that was located on the corner of Vine Street (now 7th Avenue) and Union Street in Nashville, Tennessee.</abstract>
+  <abstract>Polk Place was originally the residence of U.S. Senator Felix Grundy and was purchased by President James K. Polk to be his retirement home. The house was located on the corner of Vine Street and Union Street in Nashville, Tennessee. President Polk lived at the residence until his death on June 15, 1849. He was buried in a tomb on the front lawn. After President Polk died, his wife Sarah continued to live at the house until she died in 1891. She was buried beside her husband. After the death of Sarah, the heirs of the Polks sold the property and the tomb was eventually moved to the grounds of the Tennessee State Capitol. Over time, the house was demolished and the land was developed for commercial purposes.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Polk, James Knox, --1795-1849</topic>
+  </subject>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Presidents--Tombs</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Library Photograph Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

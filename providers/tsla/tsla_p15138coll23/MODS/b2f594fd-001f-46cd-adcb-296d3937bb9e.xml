@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A map of the United States of America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9271</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9271</url>
+   </location>
+   <name>
+      <namePart>Fielding, John (Publisher)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This hand-colored map of the United States covers the area east of the Mississippi River from Canada to Florida as determined by the Treaty of Paris with Great Britain in 1783. In very broad, geographically inaccurate strokes, it shows cities and towns, forts, boundaries, major roads, and other topographical features. Indian tribes and villages are also denoted including "Cherakees" (Cherokee) and Chi[c]kasaws. "Welch Settlements" are labeled in North Carolina. A dotted line indicates an "antient boundary."</abstract>
+   <abstract>The Treaty of Paris was signed in Paris by representatives of King George III of Great Britain and representatives of the United States of America on September 3, 1783. It ended the American Revolutionary War and set boundaries (incl. the 200-mile offshore limit of American territorial waters) between the British Empire and the United States.</abstract>
+   <originInfo>
+      <dateCreated>1785</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Revolution, 1775-1783</topic>
+   </subject>
+   <subject>
+      <topic>United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Definitive Treaty of Peace Between Great Britain and the United States (1783 September 3)</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Villages</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Topography</topic>
+   </subject>
+   <subject>
+      <topic>Treaties</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>47202313</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>E 208 .A56 v.2</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

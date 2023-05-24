@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hale Springs Hotel</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/355</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/355</url>
+  </location>
+  <abstract>Exterior of Hale Spring Hotel and School.</abstract>
+  <abstract>This is now Pressman's House. The Inn was originally built in 1824-25 by John McKinney, a local lawyer and businessman, to compete with the tavern operated by the founder of Rogersville, Joseph Rogers. Andrew Jackson, Andrew Johnson, and James K. Polk were all once guests at the inn. Jackson used its balcony to address a crowd of Rogersvillians in a political speech. After the divisive war, the name of the Inn was changed to Hale Springs Hotel, and it began to serve as a stopping point for tourists who were on their way to see nearby Hale Springs Resort, a famous hot mineral springs near Rogersville. The Inn continued to serve as a hotel until it closed briefly in 1980, when it was purchased, fully restored to its 1820-30s appearance, and reopened as Hale Springs Inn.</abstract>
+  <originInfo>
+    <dateCreated>1911</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Schools</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Houses</topic>
+  </subject>
+  <subject>
+    <topic>Hotels</topic>
+  </subject>
+  <subject>
+    <geographic>Rogersville (Tenn.); Hawkins County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

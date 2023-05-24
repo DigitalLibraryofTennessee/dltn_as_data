@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Carte générale des routes de poste de l'Europe</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9947</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9947</url>
+   </location>
+   <name>
+      <namePart>Fremin, A. R., active approximately 1810-approximately 1860</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>French map of Europe showing postal routes and distances between important cities and towns.. National borders are colored and railroad lines are outlined in red. Geographic features such as rivers, lakes, and mountains are included. A table on the right lists European capitals, their distances from Paris in kilometers and postal leagues, and the populations of each. Another lists the main cities of each department of France with the distances from Paris in kilometers and postal leagues. The legend is located just below the two tables. Ink markings made on the map detail Edward Barnwell Heyward's Grand Tour in 1848, although it is unclear who made them.</abstract>
+   <abstract>Edward Barnwell Heyward was born in 1826 to Charles Heyward and Emma Barnwell Heyward. The senior Heyward owned four, primarily rice, plantations in South Carolina. Edward graduated from South Carolina College in 1845 and shortly thereafter embarked on a Grand Tour of Europe, which this map's markings document. E. B. served the Confederacy during the Civil War as an engineer. Following the war, 491 enslaved people were emancipated from various Heyward plantations, many of which burned during the war. Heyward died in 1871. His son, Duncan Clinch Heyward, served as Governor of South Carolina from 1903-1907. (www.lowcountryafricana.com/south-caroliniana-library-at-usc/) and (Stroup, Rodger E. Before and after: Three letters from E. B. Heyward." The second copy of this map was purchased by Charles Izard Manigault, a cousin of E. B. Heyward, in Paris, while on a Grand Tour from 1847 to 1848. A letterbook from his stay in Paris resides at the South Carolina Historical Society.</abstract>
+   <originInfo>
+      <dateCreated>1847</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Europe--Routes</topic>
+   </subject>
+   <subject>
+      <topic>Europe--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Postal service</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Lakes &amp; ponds</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Demography</topic>
+   </subject>
+   <subject>
+      <geographic>Europe</geographic>
+   </subject>
+   <subject>
+      <geographic>Paris (France)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>837</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 46</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

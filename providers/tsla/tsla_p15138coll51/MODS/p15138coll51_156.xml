@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tennessee State Capitol</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll51/id/156</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll51/id/156</url>
+  </location>
+  <abstract>Tennessee State Capitol building, viewed from southwest corner. Sam Davis statue is in the foreground.</abstract>
+  <abstract>Lyndon B. Johnson (1908-1973) was the 36th President of the United States from 1963-1969 and was John F. Kennedy's Vice President until Kennedy's assassination. Lady Bird Johnson (1912-2007) broke new ground by interacting directly with Congress and beautifying the nation's cities and highways. On March 15, 1967, President Lyndon B. Johnson and his wife Lady Bird Johnson made a day-long trip to Nashville. The Tennessee General Assembly invited Johnson to speak at a joint session to commemorate the 200th anniversary of the birth of President Andrew Jackson. Their one-day tour resulted in trips to the Hermitage, the Polk House, Ellington Agricultural Center, Columbia State Community College, and the Tennessee State Capitol.</abstract>
+  <originInfo>
+    <dateCreated>1967 March 15</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Capitols</topic>
+  </subject>
+  <subject>
+    <topic>Government facilities</topic>
+  </subject>
+  <subject>
+    <topic>Flags</topic>
+  </subject>
+  <subject>
+    <topic>Sculpture</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.); Davidson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Pres. Lyndon B. Johnson's Visit to Middle Tennessee Photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2005-012</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>VAULT VII-D-3v</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

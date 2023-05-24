@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Inaugural Address of James K. Polk</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll43/id/2</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll43/id/2</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll43/2/manifest.json</url>
+  </location>
+  <abstract>This article features the inaugural address of President James K. Polk that occurred on March 4, 1845. Through his speech, Polk reaffirmed his campaign promises to aggressively advance the United States interests in Oregon and Texas.</abstract>
+  <abstract>James Knox Polk was born on November 2, 1795 in Pineville, North Carolina and moved to Tennessee to study law. Over time, he was elected to the Tennessee legislature and eventually to the United States House of Representatives in 1825. From 1835 to 1839, Polk served as the Speaker of the House of Representatives. In 1839, Polk left Congress to serve as the Governor of Tennessee. In 1844, Polk became the eleventh president of the United States. Polk gave his inaugural address in Washington, D.C. on March 4, 1845, from a special platform that had been constructed over the Capitol steps. Many people had gathered to hear the speech, but a persistent rain spoiled the occasion. During his presidency, the United States expanded significantly with the annexation of the Republic of Texas, the Oregon Treaty, and the conclusion of the Mexican-American War. Polk died on June 15, 1849.</abstract>
+  <originInfo>
+    <dateCreated>1845 March 10</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Polk, James Knox, --1795 - 1849</topic>
+  </subject>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Presidents--United States--Inauguration</topic>
+  </subject>
+  <subject>
+    <topic>Presidents--United States--Inaugural addresses</topic>
+  </subject>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Newspapers on Microfilm</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Newspapers on Microfilm</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Articles</form>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new and correct map of North America, with the West India Islands divided</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9397</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9397</url>
+   </location>
+   <name>
+      <namePart>Pownall, Thomas, 1722-1805.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This massive and incredibly detailed map depicts British possessions in the New World after the French and Indian War. Towns, forts, hand-colored colonial borders, factories, stations, roads, mines, and Spanish missions are all depicted. The depiction of American Indian tribes and villages is particularly comprehensive, and provides some of the best information for locations west of the Mississippi for an 18th century map. Geographic features include rivers, lakes, creeks, capes, inlets, islands, and mountains. Annotations describe details specifically noted in articles of the Treaty of Paris, 1763. The cartouche is one of the finest examples published in the 18th century. It depicts a pair of native people and a child, one petting a large cat. An alligator or crocodile appears to their left.</abstract>
+   <abstract>Thomas Pownall was born in 1722. He served as colonial governor of New Jersey and Massachusetts Bay, often advocating colonial positions on taxation and other controversial legislation. Pownall's American sympathies saw him voted out of office in 1774. During the Revolutionary War, Pownall worked to revise Lewis Evans map of the American colonies, resulting in this incredibly detailed masterpiece. Pownall died in 1805.</abstract>
+   <originInfo>
+      <dateCreated>1777</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>British--America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>West Indies--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Great Britain--Colonies--America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Lakes</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Colonies</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>47851497</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G1100 .J4 1776; Top of M-8</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

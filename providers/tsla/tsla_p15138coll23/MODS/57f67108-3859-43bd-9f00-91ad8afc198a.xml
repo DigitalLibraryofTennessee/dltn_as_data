@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hawkins County, Tennessee (approximately 1832)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9139</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9139</url>
+   </location>
+   <name>
+      <namePart>Rhea, Matthew, 1785-1870</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map of Hawkins County (Tenn.) showing Rogersville, creeks, part of the Holston River, part of the Clinch River, valleys, ridges, forks, Clinch Mountain, Mount Sterling, Chimney Top, other mountains and surrounding counties. This map has excellent detail of geographical features such as the ""Devil's nose"" north of Rogersville and economic features such as ""Powel's Saltworks"" along Big Poor Valley Cr[eek].</abstract>
+   <abstract>This map, along with his other county maps, may have been used by Rhea to make his seminal map of the State of Tennessee with cousin Joseph Campbell Rhea. Hawkins County was named for Benjamin Hawkins, a U.S. Senator from North Carolina and is also home to the oldest county courthouse in Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1832</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Clinch Mountain (Tenn. and Va." Clinch River (Va. and Tenn.) Hawkins County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Holston River (Va. and Tenn.) Rogersville (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Hawkins County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Rhea Family Papers, 1769-1859</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 10</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

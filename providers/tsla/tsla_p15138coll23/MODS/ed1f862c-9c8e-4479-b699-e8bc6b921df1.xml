@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A copy of a plan of Charleston</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10203</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10203</url>
+   </location>
+   <name>
+      <namePart>Sinnickson, Charles</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Town plan of Charleston, Tennessee, along the Hiwassee River. Town lots are drawn and numbered. H. Witton's lots are indicated as are Lewis Ross's house and store. The railway, bridge, and depot lot for the Hiwassee Railroad are drawn. The base line indicated the primary survey line of the Hiwassee District. Accompanying table title: A table showing the dimensions &amp; area contd. in each lot. Lists street names and widths.</abstract>
+   <abstract>Charleston was the site of the final Cherokee Agency. After the Treaty of New Echota, Fort Cass was constructed as the emigration depot to concentrate Cherokees for removal west of the Mississippi. Most of the Cherokee Removal features are just east of the map. Charles Sinnickson was born in Salem, New Jersey, in 1816 to Thomas and Elizabeth Sinnickson. After his early education he became surveyor and civil engineer with the Indian Agency in the Bureau of Indian Affairs. He was the official surveyor for the Cherokee Reservation in Indian Territory.</abstract>
+   <originInfo>
+      <dateCreated>1839</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Charleston (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Hiwassee River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Charleston (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>42684736</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 601</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

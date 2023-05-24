@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Military Travel Itinerary, SSU 558</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll45/id/66</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll45/id/66</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll45/66/manifest.json</url>
+  </location>
+  <abstract>The military travel itinerary documents the movements of SSU 558 once in Europe. It provides information about where the company was stationed, when they arrived, and when they departed.</abstract>
+  <abstract>SSU 558 was originally organized at Versailles in June 1917 under the number 61. By August 1917, it had joined the 42nd Division of French infantry at Verdun and helped evacuate 3,100 wounded. The unit was “en repos” (behind the lines) most of October 1917 and new personnel were brought in. In November, the section was stationed at Villers en Haye with advanced posts in St. Jacques and Madieres. In January 1918, the section was changed to number 558.</abstract>
+  <originInfo>
+    <dateCreated>1917-1918</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>American Field Service</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>Military records</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Robert Frank Hodge World War I Papers, 1914-1919</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2018-002</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Military records</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

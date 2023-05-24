@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Flying squirrels</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/3971</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/3971</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/3971/manifest.json</url>
+  </location>
+  <abstract>Black and white photograph of three flying squirrels on the side of a tree. Two squirrels clings to tree. Another squirrel is peeking from a hole in the tree, with tail hanging out of hole. Leafs can be seen in the background.</abstract>
+  <originInfo>
+    <dateCreated>1939 May 9</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Flying squirrels</topic>
+  </subject>
+  <subject>
+    <topic>Sciuridae</topic>
+  </subject>
+  <subject>
+    <topic>Rodents</topic>
+  </subject>
+  <subject>
+    <topic>Squirrels in art</topic>
+  </subject>
+  <subject>
+    <topic>Southern flying squirrel</topic>
+  </subject>
+  <subject>
+    <topic>Glaucomys</topic>
+  </subject>
+  <subject>
+    <topic>Burrowing animals</topic>
+  </subject>
+  <subject>
+    <topic>Tree cavities</topic>
+  </subject>
+  <subject>
+    <topic>Holes</topic>
+  </subject>
+  <subject>
+    <topic>Squirrels</topic>
+  </subject>
+  <subject>
+    <topic>Trees</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Animals</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

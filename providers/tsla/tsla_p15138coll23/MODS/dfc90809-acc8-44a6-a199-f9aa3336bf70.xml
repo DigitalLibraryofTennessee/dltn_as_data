@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the Battle of Saratoga: plan of the position taken by General Burgoyne on the 10th of October 1777</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/322</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/322</url>
+   </location>
+   <name>
+      <namePart>Chapman, Isaac A.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of the Battle of Saratoga in which a British Army was invested by the Americans under the command of Gen. Gates and surrendered on Oct. 16, 1777. Saratoga was the first great American victory and a turning point in the colonies' struggle for independence, helping to bring France into the conflict on the American side.</abstract>
+   <abstract>The Battle of Saratoga marked the climax of the Saratoga campaign giving a decisive victory to the Americans over the British in the American Revolutionary War. British General John Burgoyne was surrounded by American forces in upstate New York where he fought two small battles that took place eighteen days apart near Saratoga, New York. Trapped by superior American forces, Burgoyne surrendered his entire army on October 17.</abstract>
+   <originInfo>
+      <dateCreated>1777</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Saratoga Campaign, N.Y., 1777</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Revolution, 1775-1783</topic>
+   </subject>
+   <subject>
+      <topic>Burgoyne, John, 1722-1792</topic>
+   </subject>
+   <subject>
+      <topic>Hudson River Bank (Hudson, N.Y.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Campaigns, Military</topic>
+   </subject>
+   <subject>
+      <geographic>Saratoga (N.Y.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS T-100 Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 191</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>495044174</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

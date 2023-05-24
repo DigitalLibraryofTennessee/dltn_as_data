@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A Boone camp map from Jefferson N.C. to Clinch Riv.</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9295</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9295</url>
+   </location>
+   <name>
+      <namePart>Johnston, Thomas C.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Negative photocopy of map in Draper Manuscript Collection. It shows northwest North Carolina, northeast Tennessee, and southwest Virginia. Cities, towns, rivers, creeks, mountains, and known and uncertain Boone Camps, which are denoted with a B and f respectively. Sen. Campbell's, Gilman's store, and a number of latitudinal markings are present.</abstract>
+   <abstract>The Draper Manuscript Collection is owned by the Wisconsin Historical Society. It was collected by Lyman Copeland Draper in the mid 19th century, and includes many important early documents from Tennessee and North Carolina. Draper wrote a biography of Daniel Boone (which this map corresponds to) and a work on the Battle of King's Mountain. Additionally, Draper collected the papers of many famous Tennesseans including John Donelson, Daniel Boone, James Robertson, and correspondence regarding the Battle of King's Mountain.</abstract>
+   <originInfo>
+      <dateCreated>1884</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North Carolina--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boone, Daniel, 1734-1820</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Stores</topic>
+   </subject>
+   <subject>
+      <topic>Camps</topic>
+   </subject>
+   <subject>
+      <geographic>North Carolina</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1472</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

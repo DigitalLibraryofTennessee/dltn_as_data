@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the City of Nashville and vicinity (1879)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/426</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/426</url>
+   </location>
+   <name>
+      <namePart>Nashville (Tenn." Board of Health</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Published by the Nashville Board of Health to go with its 1879 report, this map details streets names, toll gates, colleges, railways, and sites such as the Capitol, a cotton factory(on the future site of Werthan Bag Co.) and cemeteries. It also names some farm owners on outskirts of Nashville. Red lines indicate water levels of Cumberland River and the limits of jurisdiction of the Nashville Board of Health. Wilbur F. Foster is noted as the City Engineer.</abstract>
+   <abstract>This map is produced on the heels of the devastating Memphis yellow fever epidemics of the 1870s and indicates growing awareness in Tennessee municipalities of the need for better public sanitation to prevent disease. Wilbur F. Foster served as city engineer from 1865 to 1884. He also served as a chief engineer in during the Civil War under General A. P. Stewart.</abstract>
+   <originInfo>
+      <dateCreated>1879</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Real property--Tennessee--Nashville--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cemeteries</topic>
+   </subject>
+   <subject>
+      <topic>Factories</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Library Book Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS RA155 .N33 5th Floor, Oversize Dr. 42</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

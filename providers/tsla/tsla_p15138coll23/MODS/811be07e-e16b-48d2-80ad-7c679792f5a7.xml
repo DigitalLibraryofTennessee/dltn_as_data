@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new and accurate map of North America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9834</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9834</url>
+   </location>
+   <name>
+      <namePart>Kitchin, Thomas, -1784</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Originally published in Morse's Geography, this map depicts most of North America in 1792. The continent is populated by various Native American tribes, while white settlement is concentrated on the Atlantic coast. The Cherokee are shown to inhabit western North Carolina, what would later become Tennessee, and their town of Great Tellico is named. Inland North America appears only sparsely discovered, and much of the information is merely speculation. Many Spanish missions are indicated to the west. Oregon and Washington Territory are called New Albion.</abstract>
+   <originInfo>
+      <dateCreated>1774</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Discoveries in geography</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Nation</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Indian villages</topic>
+   </subject>
+   <subject>
+      <topic>Discovery &amp; exploration</topic>
+   </subject>
+   <subject>
+      <topic>Missions</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G 114 .G9 1794</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

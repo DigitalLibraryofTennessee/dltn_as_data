@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hams</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/3911</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/3911</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/3911/manifest.json</url>
+  </location>
+  <abstract>Ewell Perry, of Ashland City, Tenn., taking a look at his home food supply for the year (in this case, hams). In the photograph, he is inspecting one of the hams that is hanging from the ceiling.</abstract>
+  <abstract>The Home Food Supply Program was a war-relief program instituted by the administration of Gov. Prentice Cooper. Mr. Perry had won national honors as a Future Farmer boy.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cooper, Prentice, 1895-1969</topic>
+  </subject>
+  <subject>
+    <topic>Swine</topic>
+  </subject>
+  <subject>
+    <topic>Livestock</topic>
+  </subject>
+  <subject>
+    <topic>Swine--Carcasses</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture</topic>
+  </subject>
+  <subject>
+    <topic>Home food processing</topic>
+  </subject>
+  <subject>
+    <topic>Farmers</topic>
+  </subject>
+  <subject>
+    <topic>Pork</topic>
+  </subject>
+  <subject>
+    <topic>Curing (preservation)</topic>
+  </subject>
+  <subject>
+    <topic>Smokehouses</topic>
+  </subject>
+  <subject>
+    <topic>War relief</topic>
+  </subject>
+  <subject>
+    <geographic>Cheatham County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agriculture</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

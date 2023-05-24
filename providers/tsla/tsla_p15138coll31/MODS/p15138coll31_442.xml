@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Margaret Croft to Elise Croft from Rabun Gap</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/442</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/442</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/442/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Croft, Margaret, 1889-1974</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Letter written from Margaret to Elise from Rabun Gap, Georgia. She replies to a recent letter from Elise, expresses her shock about "the unbelievable horror closing in on us" and "a part of us that has disappeared just as completely and irrevocably as our life in Habana [sic]." She refers to "man-made machines devastating the divine beauty of God's creation," which may refer to damages done to Grassmere property and crops by construction at the Radnor railyards. She also discusses her health and Rabun Gap news.</abstract>
+  <abstract>Margaret Croft took an interest in the Southern arts and crafts movement sometime after moving back to Tennessee from Cuba, and learned to weave at the Hambidge Center in Rabun Gap, Georgia. She also struck up a friendship with Mary Crovatt Hambidge, regularly corresponding with her and visiting Rabun Gap at least once a year.</abstract>
+  <originInfo>
+    <dateCreated>1952 May 4</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic>Rabun Gap (Ga.)</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <geographic>Rabun Gap (Ga.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Central America (1856)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/472</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/472</url>
+   </location>
+   <name>
+      <namePart>Palmer, W. R. (William R." -1862</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of Central America drawn for the Senate Foreign Relations Committee in 1856. It shows in great detail (with watercolor highlights and topographical features) the countries of Mexico, Nicaragua, Honduras, Guatemala, Colombia, Belize, Costa Rica, and the Mosquito Coast. Prospective railroad routes, treaty boundary lines, and ancient Mayan ruins such as Palenque are shown.</abstract>
+   <abstract>This map was created by the Senate Foreign Relations Committee, possibly in response to the filibustering movement that occurred in the 1850s. In 1856, William Walker, a native Nashvillian, managed to take over Nicaragua with a small expeditionary force. The surrounding countries were unhappy with his usurpation and reinstatement of slavery and formed a coalition to oust him. This coalition was successful and Walker returned to the United States. After a couple of subsequent failed expeditions to the region, he was captured by the British and turned over to Honduran authorities who executed him in 1860.</abstract>
+   <originInfo>
+      <dateCreated>1856</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Central America</topic>
+   </subject>
+   <subject>
+      <topic>United States. Congress. Senate. Committee on Foreign Relations.</topic>
+   </subject>
+   <subject>
+      <topic>Filibusters</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Oceans</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <geographic>Central America</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>21579701</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1422</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

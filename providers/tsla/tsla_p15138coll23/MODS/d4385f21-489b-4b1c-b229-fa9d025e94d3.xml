@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plat and surveys of John Rice and Solomon Kitt land in Lauderdale County and Tipton County, Tennessee (1786)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8890</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8890</url>
+   </location>
+   <name>
+      <namePart>Rutherford, Henry</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This plat is one of many surveyed by Isaac Roberts, Henry Rutherford, James Robertson and others on Rutherford's 1785-86 expeditions through what was then Chickasaw territory west of the Tennessee River to lay off tracts for the Blounts and other well-connected Eastern clients such as Rice. Far in advance of any prospective settlement--the land would not come open by treaty for settlement until around 1820, this particular tract was on the Big Hatchie River in southwestern Tennessee. This land is adjacent to Robinson Mumford's entry. William Bush and Thomas Jameson served as chain carriers.</abstract>
+   <abstract>John Rice, a friend and associate of the Blounts, received many land grants in West Tennessee including one on the fourth Chickasaw Bluff, now present-day Memphis. Rice, along with John Curtis and Robert, William, and Valentine Sevier (John Sevier's nephews), was killed in 1792, near Clarksville by a Native American party led by Doublehead. Solomon Kitt was among those who received multiple North Carolina land grants in Middle and West Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>1789</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Lauderdale County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tipton County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Hatchie River (Miss. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Surveying</topic>
+   </subject>
+   <subject>
+      <geographic>Lauderdale County (Tenn.) Tipton County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of British governments in North America (1763)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/377</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/377</url>
+   </location>
+   <name>
+      <namePart>Gibson, J. (John), active 1750-1792</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Published in London in 1763, this map interprets the landscape of the North American colonies following Great Britain's victory over France in the Seven Year's War. Specifically, it shows the line laid down on the crest of the Appalachian Mountains by the Proclamation of 1763, beyond which American colonists' westward encroachment onto Native American lands was prohibited. The British Crown's limit on westward expansion in favor of "Lands Reserved for the Indians" was one of the American colonists' chief complaints leading to the Revolution.</abstract>
+   <abstract>The Royal Proclamation of 1763 was issued by King George III, following the conclusion of the French and Indian War (Seven Years' War). As a result of their defeat in the war, France ceded much of its North American territory to Great Britain. The proclamation outlined the management of the newly acquired French colonies as well as regulated colonial expansion west of the Appalachian Mountains.</abstract>
+   <originInfo>
+      <dateCreated>1763</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--French and Indian War, 1754-1763--Battlefields</topic>
+   </subject>
+   <subject>
+      <topic>Great Britain--Colonies--America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Colonies</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>51843502</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2443</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

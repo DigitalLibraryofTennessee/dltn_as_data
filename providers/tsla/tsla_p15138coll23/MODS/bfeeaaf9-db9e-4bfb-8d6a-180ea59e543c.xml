@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>John Filson's map of Kentucke (1929 reproduction of 1785 original)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9101</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9101</url>
+   </location>
+   <name>
+      <namePart>Filson, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>John Filson's map of the central "bluegrass" part of Kentucky Territory published in his History of Kentucke, 1785. Bounded by the Ohio, Cumberland and Green Rivers, it shows cities and towns, Native American villages, rivers, creeks, mountains, counties, and includes commentary on certain features. Centered on the early settled area around Lexington, Harrods Town, and Boonsborough, this map names forts, salt works and springs, towns, dwellings and mills, and wigwams. Early migration routes are noted, such as the roads leading to the Cumberland settlements around Nashville and the long-established one between Virginia and Kentucky. Particular attention is given to the quality of the land as indicated by prairie or the presence of cane and the location of workable salt deposits. The mill of Col. [Daniel] Boon[e] and the fort of Col. [Isaac] Shelby, among many other named establishments, are shown. This particular copy is a reproduction of the first Philadelphia 1784 map of Kentucky by John Filson, issued to accompany "Filson's Kentucke" by Willard Rouse Jillison in 1929.</abstract>
+   <abstract>Filson's original map (and book) was published in 1794, and was later translated into French and German. This work, like many early maps and guidebooks from the American frontier, highlighted the advantages of moving to the new territory of Kentucky, specifically the mineral resources, farmland, and modes of transportation. Filson, as a close friend of Daniel Boone, added an appendix which publicized Boone's accomplishments. See Paris-published French version from 1785 http://teva.contentdm.oclc.org/cdm/singleitem/collection/p15138coll23/id/9052/rec/1</abstract>
+   <originInfo>
+      <dateCreated>1929</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Kentucky--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Kentucky River</topic>
+   </subject>
+   <subject>
+      <topic>Ohio River</topic>
+   </subject>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Settlements</topic>
+   </subject>
+   <subject>
+      <geographic>Kentucky</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2787</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

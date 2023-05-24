@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the hydrographical basin of the Mississippi River</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9953</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9953</url>
+   </location>
+   <name>
+      <namePart>Nicollet, J. N. (Joseph Nicolas), 1786-1843</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Frémont, John Charles, 1813-1890</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Highly detailed map of the Midwest showing various rivers, creeks, lakes, cities, towns, and American Indian tribes. The map details primarily the waterways of the Upper Mississippi and Missouri rivers. "From Astronomical and Barometrical Observations, Surveys and Information by J. N. Nicollet. Made in the years 1836, 1837, 1838, 1839, 1840… and assisted by Lt. J. C. Fremont of the Corps of Topographical Engineers and authorized by the War Department."</abstract>
+   <abstract>This landmark map of the Trans-Mississippi West was executed by J. N. Nicollet shortly before his death in 1843. The most detailed and accurate map of the region for decades, it was drawn from the surveys done by Nicollet and John C. Frémont in the 1830s. This is the rare first edition of the map, which was halved in size for the second printing in 1843, and published by the United States government for years afterward.</abstract>
+   <originInfo>
+      <dateCreated>1842</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi River Watershed</topic>
+   </subject>
+   <subject>
+      <topic>Missouri River</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Mississippi River</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>26375166</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1387</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

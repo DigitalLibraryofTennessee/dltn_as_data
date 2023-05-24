@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of mineral district on the lines of the Knoxville &amp; Ohio and Cin. Southern Railway (1876)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/471</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/471</url>
+   </location>
+   <name>
+      <namePart>Killebrew, J. B. (Joseph Buckner), 1831-1906</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map shows portions of the East Tennessee coal and iron fields, most famously the Coal Creek mines near Clinton, Tenn. where armed miners fought pitched battle against hired mine guards and the Tennessee State Guard in 1892, an episode known as the Coal Creek Rebellion. Coal mining in this remote district on the Anderson-Campbell County line was made possible by construction of the connecting link with the Cincinnati Southern Railroad shown in Killebrew's map. Oliver Springs coal fields and salt works, iron ore deposits, and Sharp's Forge near Jacksboro also shown.</abstract>
+   <abstract>Map taken from first Tennessee Commissioner of Agriculture Joseph B. Killebrew's pathbreaking 1876 Resources of Tennessee. At the time of the publication of this book, the Cincinnati Southern Railroad was nearing completion of its intended line from Cincinnati, Ohio to Chattanooga, Tenn.; it intersected with the Knoxville &amp; Ohio Railroad at Careyville. The railroad was a reflection of Cincinnati's efforts to fortify its commercial position in the South. This map depicts the terrain of the famous 1892 Coal Creek Rebellion, one of the earliest actions of American miners against the use of leased convicts to break strikes in the coal fields.</abstract>
+   <originInfo>
+      <dateCreated>1876</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mines and mineral resources--Tennessee, East</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee, East--Description and travel</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mineral resources</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Agriculture</topic>
+   </subject>
+   <subject>
+      <geographic>Campbell County (Tenn.) Scott County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>932018986</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2727</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

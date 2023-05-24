@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Bradford Dallas to Elise Croft about the "Cuban Situation"</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/356</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/356</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/356/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Dallas, Bradford B.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Dallas writes Elise Croft about the political unrest in Cuba, and shares his disappointment about President Kennedy's decision to "stay out of the fight." He feels if the United States does not take action, "the Cuban situation is going to last a long time." He mentions the dangers posed to Americans in Cuba, including the execution of his friend Howard Anderson, which took place the day before this letter.</abstract>
+  <abstract>Bradford B. Dallas (b. 1924) is the son of Charles Frederick Dallas, who was owner of the Antillean Construction Company based in Havana. Bradford managed his father's company and William Croft's General Concrete Construction Company of Cuba until he was forced to leave the country in 1961. Howard F. Anderson was an American World War II veteran who owned several businesses in Cuba. He was arrested by Cuban intelligence agents in March 1961 and falsely charged with conspiring to smuggle arms into Cuba in an attempt to overthrow Fidel Castro. After a brief trial that coincided with the failed invasion by the United States at the Bay of Pigs, Anderson was executed at dawn by a firing squad on April 19, 1961.</abstract>
+  <originInfo>
+    <dateCreated>1961 April 20</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cuba--History--Invasion, 1961</topic>
+  </subject>
+  <subject>
+    <topic>Cuba--Politics and government--1959-1990</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Executions</topic>
+  </subject>
+  <subject>
+    <topic>Death</topic>
+  </subject>
+  <subject>
+    <geographic>Coral Gables (Fla.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Perrine's new topographical war map of the southern states : taken from the latest government surveys and official reports</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10205</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10205</url>
+   </location>
+   <name>
+      <namePart>Perrine, C. O. (Charles O.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Civil War-era map of the southern United States with engagements circled in red. Cities, state borders, and railroads are included. Geographic features include rivers, lakes, and the Atlantic Oceran. Shows Missouri, Kentucky, West Virginia, Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, Tennessee, Maryland, and Delaware. Shows part of Texas, Indiana, Kansas, Illinois, Ohio, Pennsylvania, and New Jersey. Detached from: A concise history of the war / by John S. Bishop. Indianapolis, Ind." C.O. Perrine, 1864. Inset: Southern part of Florida.</abstract>
+   <originInfo>
+      <dateCreated>1863</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Confederate States of America--History--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Southern States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Topography</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Southern States</geographic>
+   </subject>
+   <subject>
+      <geographic>Buffalo (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>97-095</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>10204154</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2853</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

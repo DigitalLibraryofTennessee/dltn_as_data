@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A map of the states of Virginia, North Carolina, South Carolina, and Georgia; comprehending the Spanish provinces of East and West Florida (1794)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9118</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9118</url>
+   </location>
+   <name>
+      <namePart>Morse, Jedidiah, 1761-1826</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Purcell, Joseph (Cartographer)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of Virginia, North Carolina, South Carolina, and Georgia showing national borders, state borders, Native American territorial boundaries, towns, and Native American villages. The coast has a highly detailed depiction of inlets, capes, bays, and rivers. Roads, mines, counties, caves, and springs are shown, including the Cherokee (Tennessee) River which is wrongly said to be ""Navigable 900 M[ile]s."" Unique features include lands of the Ohio Company, Army Lands in present-day Ohio, General Clark's grant, Army Lands in present-day Illinois, and the Cumberland Settlements (misplaced) and the ""New State of Franklin"" in present-day Tennessee. While dated 1794, this map depicts an earlier state of things, such as Franklin which by then had gone out of existence, Tennessee as still part of North Carolina, Kentucky as part of Virginia, and Georgia extending to the Mississippi River.</abstract>
+   <originInfo>
+      <dateCreated>1794</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Southern States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Southern States--Boundaries--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Spain--Colonies--America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America--Southern States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Eastern Band of Cherokee Indians of North Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Catawba Indians--North Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Caves</topic>
+   </subject>
+   <subject>
+      <geographic>Virginia; North Carolina; South Carolina; Georgia; Tennessee; Southeast</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>51970980</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 418</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

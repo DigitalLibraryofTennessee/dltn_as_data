@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Limestone County, Alabama</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9434</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9434</url>
+   </location>
+   <name>
+      <namePart>Rhea, Matthew, 1795-1870</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map of Limestone County, Alabama, with hand-colored county borders. The map includes the towns of Athens, Rodgersville [Rogersville], Mooresville, Cottonport, Courtland, Centreville, Decatur, Elkton, and Triana, and Brown's ferry. Roads to each of these towns are drawn. The Tennessee River, including the Muscle Shoals, the Elk River, and various tributaries are denoted.</abstract>
+   <abstract>This map, along with his other county maps, may have been used by Rhea to make his seminal map of the State of Tennessee with cousin Joseph Campbell Rhea.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1832</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Limestone County (Ala.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Elk River (Tenn. and Ala." Muscles Shoals (Ala." Athens (Ala." Rogersville (Ala." Courtland (Ala." Centreville (Ala." Decatur (Ala." Triana (Ala." Town)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Limestone County (Ala.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Rhea Family Papers, 1769-1859</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 10</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1043914967</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

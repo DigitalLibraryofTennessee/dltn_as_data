@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Phelps's national map of the United States (1848)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8872</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8872</url>
+   </location>
+   <name>
+      <namePart>Atwood, John M., approximately 1818-</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map of the United States shows the country as it was in 1848, before the massive territorial expansion that followed the War with Mexico. States are rendered with hand-colored borders. Surrounding the map are artistic portraits of the first eleven presidents as well as other important early statesmen and explorers, state seals, a sketch of the signing of the Declaration of Independence and an artistic representation of the Great Seal of the United States. The map shows state capitals, cities, roads, distances between cities, rivers, railroads, and canals. The portraits and state seals were engraved by William D. Smith. The map is folded within a cloth-bound cover entitled "Phelp's Traveller Guide through the United States."</abstract>
+   <abstract>Engraver John M. Atwood was born in Washington, D.C. around 1818. Active in New York City from 1838 to 1852, he drew and engraved maps with Thomas A. Story for many American mapmakers, including the Colton Company, Humphrey Phelps, and Ensigns &amp; Thayer. Humphrey Phelps was a publisher in New York City from the early 1830s until the 1850s, often working with Ensigns &amp; Thayer, Thomas Fanning, and Gaylord Watson, producing maps, prints and books. Phelps is primarily known for travel guides, or foldable pocket maps, which he began producing in 1838. Timothy and Edward Ensign were lithographers, and map and book publishers in New York City. They formed the publishing firm Ensigns &amp; Thayer with Horace Thayer, and worked together until Timothy's death in 1849. Edward continued with Ensigns &amp; Thayer until about 1854, when he became a partner of Ensign, Bridgman &amp; Fanning, another publishing firm.</abstract>
+   <originInfo>
+      <dateCreated>1848</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Phelps, Humphrey, active 19th century</topic>
+   </subject>
+   <subject>
+      <topic>United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Canals</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Portraits</topic>
+   </subject>
+   <subject>
+      <topic>State seals</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Map 2458</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>27908973</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2458</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

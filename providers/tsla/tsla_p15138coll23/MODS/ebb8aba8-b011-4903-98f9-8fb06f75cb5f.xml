@@ -1,0 +1,98 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A map of Kincardineshire, Scotland (1776, repr. 1797)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8888</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8888</url>
+   </location>
+   <name>
+      <namePart>Garden, William, active 1771-1806</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Highly detailed map of the county of Kincardineshire, Scotland. The legend indicates various broken lines for the boundaries of parishes, estates, and parishes and estates. Cities, lochs, rivers, roads, mills, harbors, wells, bridges, ferries, hills, and ruins are all named. Landowners and estates are denoted in their locations. Differences in terrain are artfully drawn such as hills, farmland, and forests. A depiction of Dunnotar Castle, the seat of the Keith Clan, Earls Marischal of Scotland, is shown on the right. The cartouche depicts a manor house atop a hill and a robed woman among farm equipment. In the bottom left, a chart of population and acreage of each parish and altitude of remarkable hills is provided.</abstract>
+   <originInfo>
+      <dateCreated>1797</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Kincardineshire (Scotland)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cartouche</topic>
+   </subject>
+   <subject>
+      <topic>Dunnottar Castle (Scotland)--Pictorial works--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Kincardineshire (Scotland)--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Estates</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Ruins</topic>
+   </subject>
+   <subject>
+      <topic>Bridges</topic>
+   </subject>
+   <subject>
+      <topic>Hills</topic>
+   </subject>
+   <subject>
+      <topic>Demography</topic>
+   </subject>
+   <subject>
+      <geographic>Kincardineshire (Scotland)</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>44096784</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 677</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

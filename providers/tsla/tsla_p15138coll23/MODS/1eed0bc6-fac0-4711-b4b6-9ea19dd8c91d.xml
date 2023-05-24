@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Proposed extension of Memphis</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10345</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10345</url>
+   </location>
+   <name>
+      <namePart>Tod, Edward P.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of the proposed extension of the city limits of Memphis that accompanied a petition to the Tennessee General Assembly in 1845. The proposed extension would extend the southern border corporation line of Memphis from Union Street to the border of the John Rice and John Ramsey tracts near Beale Street. The Gayoso House, a 19th century hotel is indicated.</abstract>
+   <abstract>The Gayoso House or Gayoso Hotel was named for the Spanish governor of the Natchez District, Manuel Gayoso de Lemos. Gayoso was born in Portugal and fluent in Spanish, English, French, and Latin. His tenure as governor coincided with the establishment of a Spanish fort at the Chickasaw Bluffs, near present-day Memphis. The Hotel was built in 1842. Its location and amenities contributed to its recognition as a premier location in Memphis. The hotel burned down on July 4, 1899, and had to be rebuilt. It operated until 1948 when Goldsmith's department store purchased the building. The second iteration of the hotel still stands as multi-purpose apartments and stores. (A Choctaw Chief and Spanish Governor: Franchimastabé and Manuel Gayoso de Lemos by Charles A. Weeks.) ("Gayoso Hotel" Tennessee Encyclopedia of History and Culture by Blythe Semmer)</abstract>
+   <originInfo>
+      <dateCreated>1845</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Memphis (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. General Assembly</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Streets</topic>
+   </subject>
+   <subject>
+      <topic>Hotels</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Memphis (Tenn.); Shelby County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.145908</geographic>
+   </subject>
+   <subject>
+      <geographic>-90.055654</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Sanborn Fire Insurance Map of South Pittsburg, Tenn. (1924, rev. 1944)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9990</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9990</url>
+   </location>
+   <name>
+      <namePart>Sanborn Map Company</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This Sanborn Fire Insurance atlas covers the area of South Pittsburg, Tennessee, from First Street down to Tenth Street and from Pine Ave over to the lumber company and mill across Railroad Ave. There are two versions of Plate 8 of the South Pittsburg Sanborn Atlas showing the cement factory. There are also residential areas along with the South Pittsburg Elementary School, businesses including Marion Lumber Company, and other institutions including mills, a foundry, garages, a hotel, and movie theater.</abstract>
+   <abstract>Daniel Alfred Sanborn, a civil engineer and surveyor, began working on fire insurance maps in the 1860s and his company soon became one of the largest and most successful American map companies. Sanborn maps were originally created to estimate fire insurance risks. Insurance companies would decide how much insurance, if any, was to be offered to a customer solely through the use of a Sanborn map. Today, the maps are frequently used for historical research and for preservation and restoration purposes.</abstract>
+   <originInfo>
+      <dateCreated>1944</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>South Pittsburg (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Fire insurance maps</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Warehouses</topic>
+   </subject>
+   <subject>
+      <topic>Buildings</topic>
+   </subject>
+   <subject>
+      <topic>Architecture</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Businesses</topic>
+   </subject>
+   <subject>
+      <topic>Industry</topic>
+   </subject>
+   <subject>
+      <topic>Education</topic>
+   </subject>
+   <subject>
+      <topic>Universities &amp; colleges</topic>
+   </subject>
+   <subject>
+      <topic>Mills</topic>
+   </subject>
+   <subject>
+      <topic>Atlases</topic>
+   </subject>
+   <subject>
+      <geographic>South Pittsburg (Tenn.) Marion County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Sanborn Fire Insurance Maps</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Stack 8 - Oversize Volume Shelves</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

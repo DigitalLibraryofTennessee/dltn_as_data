@@ -1,0 +1,86 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Geological map of state of Tennessee (1855)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/378</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/378</url>
+   </location>
+   <name>
+      <namePart>Safford, James M. (James Merrill), 1822-1907</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A color-coded geological map of Tennessee showing rock formations, commercial deposits and mines, and iron-making operations across the state. Executed by James Safford, Tennessee's state geologist before the Civil War, it details the locations of mineral deposits, iron furnaces, forges and bloomeries, mills, coal mines, and marble quarries. It particularly names all the places associated with the iron industry in the Western Highland Rim and East Tennessee, one of the state's key economic sectors during the antebellum era. Along the bottom is a geological cross section of the state with a rough elevation projection. The top right corner contains an enlarged map of the copper mines around Ducktown in the southeastern corner of Polk County, Tenn.</abstract>
+   <abstract>James M. Safford was a chemist, geologist, and professor in Tennessee. He studied chemistry at Yale, and taught geology, chemistry, and botany at the University of Nashville, Cumberland University, and Vanderbilt University. He served as State Geologist for the much of the latter half of the 19th century, and his geological survey of Tennessee in 1869 is still cited in the field today. He and J. B. Killebrew published a report on the agricultural and mineral resources of Tennessee which served as the basis for textbooks, pamphlets, essays, and bulletins for decades thereafter.</abstract>
+   <originInfo>
+      <dateCreated>1855</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mines and mineral resources</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Geological maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mineral deposits</topic>
+   </subject>
+   <subject>
+      <topic>Forging</topic>
+   </subject>
+   <subject>
+      <topic>Quarrying</topic>
+   </subject>
+   <subject>
+      <topic>Copper mining</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>2003-015-044</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>85029811</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 3011</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

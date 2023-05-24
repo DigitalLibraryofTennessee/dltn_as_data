@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Germany</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9093</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9093</url>
+   </location>
+   <abstract>Transportation map of Germany showing Reich roads, railroads, shipping routes, airways and populations. The beginnings of Adolf Hitler's vaunted autobahn road network, the forerunner of the American 4-lane interstate highway system, is shown. Called "Reich motor roads," the completed portions are indicated by solid green lines--under construction portions by double green lines. Map is in German; key is in English.</abstract>
+   <abstract>Reichsbahnzentrale für den Deutschen Reiseverkehr promoted rail travel for the German National Railroad [Reichsbahn].</abstract>
+   <originInfo>
+      <dateCreated>1937</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Travel</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Demography</topic>
+   </subject>
+   <subject>
+      <geographic>Germany</geographic>
+   </subject>
+   <subject>
+      <geographic>Berlin (Germany)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Frazer, Sadie Warner (1885-1974) Papers, 1894-1974</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>83-40</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>IX-G-2, B. 82, F. 32</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

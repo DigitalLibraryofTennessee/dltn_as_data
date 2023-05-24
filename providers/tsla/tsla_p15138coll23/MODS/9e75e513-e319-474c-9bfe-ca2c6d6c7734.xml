@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the Civil War battlefields of Chattanooga</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/333</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/333</url>
+   </location>
+   <abstract>One of a series of maps illustrating the campaigns in and around Chattanooga, this detailed topographical map shows the November 23-25, 1863 disposition of Union and Confederate forces at the Battle of Missionary Ridge, prepared under the direction of Daniel S. Lamont, Secretary of War and drawn by Edward E. Betts, Park Engineer. Shows Chattanooga and surrounding areas with stamps and markings showing troop locations and camps.</abstract>
+   <abstract>The Chattanooga and Chickamauga National Military Park was the first of the Civil War battlefields to be commemorated, and these maps were prepared by the Park Commission to map the military landscape that would be marked and interpreted in the park.</abstract>
+   <originInfo>
+      <dateCreated>1901</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Chickamauga and Chattanooga National Military Park (Ga. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Military camps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Chattanooga (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.04563</geographic>
+   </subject>
+   <subject>
+      <geographic>-85.30968</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>68699037</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 7</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

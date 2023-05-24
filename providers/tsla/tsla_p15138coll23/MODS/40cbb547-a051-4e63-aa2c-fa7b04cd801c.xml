@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Dismal Swamp Canal, connection Chespeake Bay with Currituck, Albemarle and Pamlico sounds and their tributary streams, 1867</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10189</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10189</url>
+   </location>
+   <name>
+      <namePart>Walton, D. S.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of eastern North Carolina and Virginia showing the Dismal Swamp Canal that connected Chesapeake Bay with the sounds of the Outer Banks. Geographic features such as sounds, rivers, lakes, and creeks are shown. Cities, other canals, lighthouses, hotels, landings, ferries, mills, bridges, and county and state borders are denoted. Railroads constructed and proposed are indicated.</abstract>
+   <abstract>Work on the Dismal Swamp Canal began in 1793, primarly by slaves. It was completed in 1805 and is the oldest continually operated canal in the United States. Constructed to connect Chesapeake Bay with the sounds of the Outer Banks, it was vital to trade between the two states and the economy of the Virginia Tidewater.</abstract>
+   <originInfo>
+      <dateCreated>1867</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Dismal Swamp Canal (N.C. and Va.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Canals</topic>
+   </subject>
+   <subject>
+      <topic>Wetlands</topic>
+   </subject>
+   <subject>
+      <topic>Commerce</topic>
+   </subject>
+   <subject>
+      <geographic>Virginia</geographic>
+   </subject>
+   <subject>
+      <geographic>Washington (D.C.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>823</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>29617311</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 34</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

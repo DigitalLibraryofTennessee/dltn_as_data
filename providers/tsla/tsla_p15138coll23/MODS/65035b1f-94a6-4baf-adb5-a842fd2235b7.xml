@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>North Britain or Scotland divided into its counties (1778)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9008</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9008</url>
+   </location>
+   <name>
+      <namePart>Kitchin, Thomas, 1718-1784</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Thomas Kitchin's fine map of Scotland, with colored county borders, universities, boroughs, presbyteries (kirks or churches), castles, lochs, mountains, battle sites, coastal features, and roads. Safe to say that every late 18th century Scottish village and town is depicted in this exquisitely detailed map. The cartouche in the bottom left shows a country-side manor and church in the background; the foreground shows sundry items that represent the major industries in Scotland. There is an inscription on the map that reads:""Presented to the Historical Society of the state of Tennessee, Mecklenburg Place, Knoxville, March 25, 1880, by J. G. M. Ramsey."</abstract>
+   <abstract>Thomas Kitchin was born in the London borough of Southwark in 1718. As an engraver and cartographer he produced some of the most important maps of North America in the 18th century. He and Thomas Jefferys apprenticed under Emanuel Bowen and Kitchin later married Bowen's daughter, Sarah. Kitchin served as hydrographer to the King of England. He died in 1784.</abstract>
+   <originInfo>
+      <dateCreated>1778</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Scotland--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Universities &amp; colleges</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Estates</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <geographic>Scotland</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>787</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>913224529</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 4</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

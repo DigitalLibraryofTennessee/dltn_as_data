@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new &amp; accurate map of the provinces of North &amp; South Carolina, Georgia.</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8839</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8839</url>
+   </location>
+   <name>
+      <namePart>Bowen, Emanuel, -1767</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This 18th century map of the Southern colonies and their backcountry shows topographical features such as mountains, rivers, bays and inlets as well as forts, settlements, mines and towns. It is particularly noteworthy for its depiction of the native American landscape of the interior. Tennessee is shown as the "Country of the Cherokees." There is also a note on the Cherokees describing them as "a numerous &amp; warlike nation...[who] serve as a powerful Barrier to Carolina &amp; Georgia in ye present War against France &amp; Spain," likely a reference to their alliance with Great Britain in King George's War with France and the War of Jenkins' Ear with Spain. Many Cherokee (and other Southern tribal) villages are shown. An "English Fort and Factory" is shown on the R[iver] Hogohegee (Tennessee River), and the Cumberland River is named the "Antient River of Chouanons" (Shawnee?" The Appalachian Mountains collectively are designated as the "Charokee Mountains."</abstract>
+   <abstract>Emanuel Bowen was an English map maker in the 18th century. He produced many well-known maps of the American colonies as well as county maps of England. His son was map maker Thomas Bowen. Two of his apprentices were renowned cartographers Thomas Kitchin and Thomas Jefferys. This map was no. 60 of 68 maps originally published in A Complete Atlas, or Distinct View of the Known World, and is a reprint from Bowen's earlier atlas: A Complete System of Geography, published in 1747. He served as geographer to King George II of England and Louis XV of France.</abstract>
+   <originInfo>
+      <dateCreated>1752</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>South Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Georgia--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Southern States--Maps--Early works to 1800.</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <geographic>North Carolina; South Carolina; Georgia</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>5402687</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 464</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

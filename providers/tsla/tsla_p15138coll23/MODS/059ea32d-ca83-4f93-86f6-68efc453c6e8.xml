@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>[Map of the New York City cholera epidemic, summer 1832]</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9948</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9948</url>
+   </location>
+   <name>
+      <namePart>Reese, David Meredith, 1800-1861</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map depicting areas affected by the New York City cholera epidemic in the summer of 1832. The circles denote the locations where the disease appeared independently. The lines extending from the circles represent the reach of that particular outbreak. Each black dot locates cholera hospitals distributed throughout the city.</abstract>
+   <abstract>A cholera epidemic devastated New York City in the summer of 1832. The outbreak killed some 3,515 New Yorkers, predictably the poorest were the hardest hit. (Wilford, John Noble. "How Epidemics Helped Shape the Modern Metropolis," The New York Times, April 15, 2008.) This map predates John Snow's 1854 map of a cholera outbreak in London that correlated pockets of infectivity with contaminated water sources and thus gave cause to the dreaded disease.</abstract>
+   <originInfo>
+      <dateCreated>1833</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Cholera--New York (State)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Hospitals</topic>
+   </subject>
+   <subject>
+      <topic>Cholera</topic>
+   </subject>
+   <subject>
+      <topic>Diseases</topic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>RC 126 .R43</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

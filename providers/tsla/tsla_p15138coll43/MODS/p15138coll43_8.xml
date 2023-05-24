@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sarah Childress Polk portrait</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll43/id/8</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll43/id/8</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll43/8/manifest.json</url>
+  </location>
+  <abstract>A portrait painting of Sarah Childress Polk, wife of President James Knox Polk.</abstract>
+  <abstract>Sarah Childress Polk was born on September 4, 1803 near Murfreesboro, Tennessee. She was the daughter of Joel and Elizabeth Childress. Sarah's father was a successful business man who ran a store and tavern on the public square in Murfreesboro. On January 1, 1824, Sarah married James Knox Polk. During Polk's political career, Sarah assisted her husband with his speeches, gave him advice on policy matters, and played an active role in his campaigns. After Polk's presidential term ended he and Sarah moved into their newly renovated home, Polk Place in Nashville. James died on June 15, 1849, making Sarah a widow at the age of forty-six. For the rest of her life, Sarah lived at Polk Place and always wore some article of black clothing in memory of her husband. On August 14, 1891, Sarah died at the age of 87. She was buried alongside her husband in the tomb at Polk Place. In 1893, the tomb was moved to the capitol grounds of the Tennessee State Capitol.</abstract>
+  <originInfo>
+    <dateCreated>1846</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Polk, Sarah Childress, --1803 - 1891</topic>
+  </subject>
+  <subject>
+    <topic>First ladies</topic>
+  </subject>
+  <subject>
+    <topic>Presidents--Wives</topic>
+  </subject>
+  <subject>
+    <topic>Presidents' wives</topic>
+  </subject>
+  <subject>
+    <topic>Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Paintings</topic>
+  </subject>
+  <subject>
+    <topic>Portrait paintings</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Colonial Dames of America Portrait in Tennessee Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>95-108</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Paintings</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

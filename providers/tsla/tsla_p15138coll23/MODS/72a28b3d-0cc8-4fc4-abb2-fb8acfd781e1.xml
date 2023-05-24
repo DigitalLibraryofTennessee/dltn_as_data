@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Coastal survey map of Charleston harbor and its approaches (1855)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/405</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/405</url>
+   </location>
+   <name>
+      <namePart>United States Coast Survey</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Antebellum nautical map showing the navigational approaches to Charleston harbor. The map is complete with depth soundings and charts showing information about tides, currents, buoys, and beacons in the vicinity. Along the top, views from harbor from the mainland are illustrated. Charleston's wharves are shown along with town street grid and some prominent buildings in addition to harbor features such as Fort Sumter. Coastal topography is shown in some detail, and longitudinal and latitudinal lines cross-section the map. TSLA holds a sizable collection of these early coastal survey maps.</abstract>
+   <abstract>The United States Coast Survey can trace its roots to an act signed into law by President Thomas Jefferson in 1807 to generate maritime charts for the newly formed nation. Ferdinand Hassler was selected as the first superintendent in 1816 and served until the jurisdiction of the survey was moved under the control of the Army in 1818. He was reappointed superintendent by President Andrew Jackson in 1832 with the department once again under civilian control. The Coast Survey created nautical charts, performed hydrographic surveys, as well as executed the first studies of the Gulf Stream. Known as the United States Coast and Geodetic Survey beginning in 1878, the department provided much needed work for engineers during the Great Depression and helped create maps and charts for the Allies in World War II. In 1970, the National Oceanic and Atmospheric Administration was formed and was given control over the agency.</abstract>
+   <originInfo>
+      <dateCreated>1855</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Charleston Harbor (S.C." Nautical charts--South Carolina--Charleston Harbor</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Harbors</topic>
+   </subject>
+   <subject>
+      <topic>Charts</topic>
+   </subject>
+   <subject>
+      <geographic>Charleston (S.C.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>51752360</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 169</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+      <form>Surveys</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

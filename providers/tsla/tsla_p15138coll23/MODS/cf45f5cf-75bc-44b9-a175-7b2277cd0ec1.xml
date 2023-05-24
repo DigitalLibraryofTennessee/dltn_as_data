@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>States of America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/373</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/373</url>
+   </location>
+   <name>
+      <namePart>Fisher, Henry</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This London-published color map reflects twenty "States of America," each marked with a Roman numeral. An 1840 reprint of an 1823 publication, the map actually reflects an earlier period in the nation's history with its labeling of territories, Indian tribes, and East Tennessee as "Franklinia" (a reference to the frontier-era State of Franklin). Noted on the map are cities and towns; rivers and major waterways; and Indian towns including Creek and Cherokee settlements. The map reaches north into Canada, south to the Gulf of Mexico, east to the North Atlantic Ocean, and west to Louisiana.</abstract>
+   <abstract>This rather fanciful depiction of the early United States--e.g. Indiana is shown east of Ohio--is interesting for what it tells us about the state of English knowledge about the former American colonies. In Tennessee, "Franklinia" refers to the attempt made by the inhabitants of North Carolina's trans-Appalachian counties of Washington, Sullivan, and Greene to form the independent "State of Franklin" from 1784 to 1788 and illustrates the lasting memory of this experiment in self-government.</abstract>
+   <originInfo>
+      <dateCreated>1840</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Franklin (State)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Statehood</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Bodies of water</topic>
+   </subject>
+   <subject>
+      <topic>Indian encampments</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>54807989</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2452</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Military map of the States of Kentucky and Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9811</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9811</url>
+   </location>
+   <name>
+      <namePart>Swann, Charles E. active 1863-1865</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Simpson, J. H. (James Hervey), 1813-1883</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Civil War era map of Kentucky and Tennessee detailing towns and villages, county seats, iron works and forges, salt works, mills, post offices, existing and proposed railroads, roads, rivers, and limits of coal fields. Signed in facsimile: J. H. Simpson, Lieut. Col. Engrs. U.S. Army, Chief Engr., Dpt. of the Ohio.</abstract>
+   <abstract>James H. Simpson was born in New Brunswick, New Jersey, in 1813. He graduated from West Point in 1832, assigned to the 3rd U.S. Artillery. After serving in the Second Seminole War, Simpson joined the topographical engineers. He surveyed for the New Mexico Expedition in 1849 and the Utah Expedition in 1858 to 1859. At the outbreak of the Civil War, Simpson joined the 4th New Jersey Volunteer Infantry and was captured at the Battle of Gaines's Mill. He was paroled, returned to the topographical engineers and joined the Department of the Ohio. After the war, Simpson was appointed chief engineer of the Interior Department and supervised the laying of the Transcontinental Railroad. He died March 2, 1883.</abstract>
+   <originInfo>
+      <dateCreated>1863</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Kentucky--History--Civil War, 1861-1865--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Kentucky; Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Cincinnati (Ohio)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Grille Books</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>45627713</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G 3701 .S531 1863 .U5</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The Watauga[h] land purchases</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9018</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9018</url>
+   </location>
+   <name>
+      <namePart>Keesee, Troy R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Printed map showing the Watauga land purchases in Sullivan and Washington counties that accompanies a book by the same name. These were the earliest conveyances--March, 1775--from Native Americans, in this case Cherokee headmen including Oconostota and Attakullakulla, to white settlers in what is now Tennessee. Grantees included such prominent settlers as William Bean, John Carter, James and Charles Robertson, and John and Valentine Sevier. Their plats are overlaid on a current map of the area centered on Johnson City and Elizabethton, TN. The plats are numbered and an accompanying table details the owners of said plats. The legend denotes streams, lakes, rivers, county boundaries, state boundaries, plats, and cities.</abstract>
+   <abstract>The earliest white European settlers in Tennessee came to the northeast region of the state, the most easily accessible by river routes from Virginia and North Carolina. They generally resided near a water source so the Holston, Nolichucky, and Watauga rivers and their tributaries became their homesteads. The Watuaga River was centrally located among the three and thus lent its name to these settlements. These settlers emigrated to the area in violation of the Proclamation of 1763 and had to lease their land from the Cherokee. They eventually formed their own government, the Watauga Association, and petitioned the state of North Carolina for protection and the benefits of government.</abstract>
+   <originInfo>
+      <dateCreated>1997</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Elizabethton (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Watauga (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>Elizabethton (Tenn.) Carter County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>97-069</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>958663553</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2909</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

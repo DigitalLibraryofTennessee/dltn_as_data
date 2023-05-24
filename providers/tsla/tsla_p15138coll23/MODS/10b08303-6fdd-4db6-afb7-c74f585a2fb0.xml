@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Recreation maps - Tennessee Valley lakes</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9729</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9729</url>
+   </location>
+   <name>
+      <namePart>Tennessee Valley Authority</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This index map shows all available recreation maps of the Tennessee Valley. These include Kentucky Lake, Wheeler-Wilson Lakes, Guntersville-Hales Bar Lakes, Watts Bar-Fort Loudon-Melton Hill Lakes, Hiwassee River Lakes, Cherokee-Douglas-Nolichucky Lakes, Upper Holston Lakes, Pickwick Landing Lake, Chickamauga Lake, Norris Lake, and Fontana Lake.</abstract>
+   <abstract>The Tennessee Valley Authority (TVA) was created in 1933 to provide economic development to the Tennessee Valley due to the Great Depression. Throughout the years, the TVA has regulated flooding, manufactured fertilizer, and, most notably, created electric power distribution.</abstract>
+   <originInfo>
+      <dateCreated>1960s</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee River Valley--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Kentucky Lake (Ky. and Tenn.) Pickwick Landing Reservoir</topic>
+   </subject>
+   <subject>
+      <topic>Norris Lake (Tenn.) Hiwassee River</topic>
+   </subject>
+   <subject>
+      <topic>Chickamauga Lake (Tenn.) Guntersville Lake (Ala. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Lakes</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Reservoirs</topic>
+   </subject>
+   <subject>
+      <topic>Recreation</topic>
+   </subject>
+   <subject>
+      <topic>Tourism</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Chattanooga (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>42644543</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 646B</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

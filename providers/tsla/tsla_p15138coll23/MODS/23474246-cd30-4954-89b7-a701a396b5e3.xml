@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Second Infantry Brigade, Tennessee State Guard map of Middle Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/255</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/255</url>
+   </location>
+   <name>
+      <namePart>Tennessee State Guard, 1941-1947</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map depicting the Middle Tennessee area of operation for the Second Infantry Brigade of the Tennessee State Guard. Featured on the map are cities and towns, major highways, parks, rivers, dams, and bridges. The brigade headquarters in Nashville is marked by a flag.</abstract>
+   <abstract>The Second Infantry Brigade was formed by a May 1942 reorganization of the Tennessee State Guard. It was commanded by Brig. Gen. Jacob McGavock Dickinson and headquartered in Nashville. The Brigade was composed of the Second Regiment, headquartered in Nashville, the Seventh Regiment, headquartered in Cookeville, and the Tenth Regiment, headquartered in Pulaski. This map was probably produced to assist in the staging of State Guard maneuvers and exercises.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1942</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee. Militia</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee - History, Military</topic>
+   </subject>
+   <subject>
+      <topic>World War, 1939-1945</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Militias</topic>
+   </subject>
+   <subject>
+      <topic>Military training</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>957468966</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1297</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

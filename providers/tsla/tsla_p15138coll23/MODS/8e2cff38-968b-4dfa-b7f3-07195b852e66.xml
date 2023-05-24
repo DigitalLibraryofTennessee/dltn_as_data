@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The Silurian Basin of Middle Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9922</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9922</url>
+   </location>
+   <name>
+      <namePart>Safford, James M. (James Merrill), 1822-1907</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map, published in the Southern Journal of Medical and Physical Sciences, depicts Middle Tennessee's basin in geological terms. Cities rivers, cedar glades, barrens, and mountains are drawn. A key outlining the various geologic periods noted across the basin is at the bottom left. A cross section of the basin appears to the right of the map nearly into the book's binding. Relief shown by hachures.</abstract>
+   <abstract>The Silurian Basin refers to the Silurian geologic period the lasted from 443.8 million years ago until 419.2 million years ago, noted for its distinct rock beds. The beginning of the Silurian period is marked by a major extinction event that killed 60% of all marine life. The Silurian period is also when bony fish began to flourish in Earth's oceans and the first multicellular life began on land.</abstract>
+   <originInfo>
+      <dateCreated>1851</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <geographic>Tennessee, Middle</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>R11 .S62 v.1</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

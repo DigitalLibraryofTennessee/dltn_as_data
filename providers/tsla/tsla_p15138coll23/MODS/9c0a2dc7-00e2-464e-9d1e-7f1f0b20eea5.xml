@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Athenai</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9704</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9704</url>
+   </location>
+   <name>
+      <namePart>Kiepert, Heinrich, 1818-1899</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>German language map of Athens surrounded by insets: Surroundings of Athens, the Acropolis, Athens harbor, and ruins of Eleusis. These hand-colored maps depict the city in 1851, drawn for Heinrich Kiepert's Topographical and Historical Atlas of Greece. Many ancient structures are denoted including temples, city walls, theaters, the agora, gymnasiums, and stadiums. Relief shown by hachures.</abstract>
+   <abstract>Many of the Greek Revival features of the Tennessee State Capitol (under construction while this atlas was created) are based on structures that appear on this plate. The Capitol’s Ionic columns and porticos are based on the Erechtheum, the companion temple near the Parthenon. The tower and cupola that crown the Capitol are modeled after the (much smaller) Choragic Monument of Lysicrates, built in 335 B.C. on the flank of the Acropolis.</abstract>
+   <originInfo>
+      <dateCreated>1846</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Athens (Greece)--History--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Acropolis (Athens, Greece)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Temples</topic>
+   </subject>
+   <subject>
+      <topic>Theaters</topic>
+   </subject>
+   <subject>
+      <topic>Topography</topic>
+   </subject>
+   <subject>
+      <topic>Harbors</topic>
+   </subject>
+   <subject>
+      <geographic>Athens (Greece)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TNS Oversize</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G 2000 q.K5 1851</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

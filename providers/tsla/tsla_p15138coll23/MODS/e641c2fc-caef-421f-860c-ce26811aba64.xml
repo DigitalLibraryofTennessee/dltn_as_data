@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hickman County, Tennessee (1820)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9136</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9136</url>
+   </location>
+   <name>
+      <namePart>Campbell, John R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Manuscript map of a portion of Hickman County drawn on June 30, 1820, possibly to illustrate the proposed change in the county seat. The letter ""A"" denotes the geographic center of the county, the future site of the county seat at Centerville, while ""B"" represents the location of the courthouse at Virnan [Vernon]. The Duck River and the Natchez Road (Trace) are shown.</abstract>
+   <abstract>Hickman County was established in 1807 from the southern portion of Dickson County. It was named for settler Edwin Hickman who was killed in 1791, in a Native American raid, while leading a surveying team. Its original county seat as evidenced by this map was Vernon, but moved to Centerville in 1823.</abstract>
+   <originInfo>
+      <dateCreated>1820</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Hickman County (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Duck River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <geographic>Hickman County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.80325</geographic>
+   </subject>
+   <subject>
+      <geographic>-87.47331</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1091</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

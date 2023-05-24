@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>R. L. Polk and Co.'s city directory map of Knoxville (1887)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9011</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9011</url>
+   </location>
+   <name>
+      <namePart>R.L. Polk &amp; Co.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>City directory street map of Knoxville, Tennessee showing the color-coded precincts or wards. Neighborhoods are shown, some with area names such as Marble Hill and some with names of prominent residents. East Tennessee Agricultural College, Knoxville University, and East Tennessee University [University of Tennessee] are indicated. Structures no longer extant include the Deaf and Dumb Asylum, a train depot, Bell House Public School, city hall, the market house, Hampden Stoney School, Peabody School, Mechanicsville School, Girls' High School, W. W. Woodruff's residence,and J. D. Cowan's residence. The Knoxville and Augusta Railroad and East Tennessee, Virginia, and Georgia Railroads are denoted. Many cemeteries are depicted including the National Cemetery, Gray Cemetery[Old Gray Cemetery], Roman Catholic Cemetery, Confederate Cemetery, and Knox County Cemetery. Concentric circles radiate from city hall indicating distances from the city center. A street index appears in the top right.</abstract>
+   <abstract>Knoxville was founded in 1786 by James White as White's Fort and served as the capital of the Southwest Territory and the first capital of Tennessee. In 1791, William Blount negotiated the Treaty of Holston with the Cherokees at White's Fort. White later donated land to establish a city, named Knoxville after Secretary of War and Revolutionary War general, Henry Knox. The first state constitution was written and signed there in 1796.</abstract>
+   <originInfo>
+      <dateCreated>1887</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Knoxville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Cemeteries</topic>
+   </subject>
+   <subject>
+      <topic>Universities &amp; colleges</topic>
+   </subject>
+   <subject>
+      <topic>Streets</topic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.); Knox County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.96064</geographic>
+   </subject>
+   <subject>
+      <geographic>-83.92074</geographic>
+   </subject>
+   <subject>
+      <geographic>Cincinnati (Ohio)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>957005627</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 2</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

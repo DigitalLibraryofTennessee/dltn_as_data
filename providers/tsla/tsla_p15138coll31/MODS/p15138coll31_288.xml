@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Lavinia Hilliard Shute</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/288</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/288</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/288/manifest.json</url>
+  </location>
+  <abstract>Small carte de visite of Lavinia "Venie" Hilliard Shute. Written on the back of the card is "Mrs William D Shute, mother of 9, only 4 lived, Margaret Shute, Leila Shute, Kate Shute, Venie Shute"</abstract>
+  <abstract>Lavinia Lafayette Hilliard (1837-1872) married William Dickson Shute (1834-1916) in 1856. William's father, Lee Shute, sold the Grassmere property to his son for $5 in 1859 on occasion of his marriage to Lavinia. The Shutes had nine children together, but only four of them survived to adulthood: Margaret Shute, Leila Shute Tigert, Kate Shute Croft, and Lavinia Shute Hotchkiss.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Women--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Carte de visite photographs</topic>
+  </subject>
+  <subject>
+    <topic>Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Portrait photographs</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Cartes de visite</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

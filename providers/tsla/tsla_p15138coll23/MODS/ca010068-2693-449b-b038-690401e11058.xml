@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>S. W. Territory (1795)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9096</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9096</url>
+   </location>
+   <name>
+      <namePart>Scott, Joseph</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Philadelphia-published map of territorial Tennessee or the Southwest Territory, formerly known as the Territory of the United States South of the River Ohio, from 1795. Knoxville, Nashville, and Clarksville are the only three white settlements shown. A number of Native American villages are indicated including Coyeta, Chota, Talasse, Cholhowee, Crow Town, Nickajack Town, Cherokee Town, and Estenauhly. The rivers are mapped in detail. Other important features shown in this map are Fort Massac, Ross's Iron Works, the boundaries of the Military Reservation (for North Carolina Revolutionary War land grants) in Middle Tennessee, as well as the three counties that make up the Mero District -- Tennessee, Davidson, and Sumner. The "Creeks crossing place" seems to be a reference to a ford near the Chickasaw Old Fields. A notation from East Tennessee southward reads "To Pensacola the way nearly level."</abstract>
+   <abstract>The area the makes up the present-day Tennessee was originally part of the colony of North Carolina, who ceded the land to the United States government to repay their Revolutionary War debts on December 22, 1789. Congress officially accepted this cession on April 2, 1790, and formally organized the Territory of the United States South of the River Ohio, or Southwest Territory, on May 26, 1790. After a statewide referendum in 1795, Tennessee voted to join the Union and was admitted on June 1, 1796. This map appears to have been the model from which Daniel Smith produced his map of the "Tennessee Government" that same year.</abstract>
+   <originInfo>
+      <dateCreated>1795</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Territory of the United States, South of the River Ohio</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Villages</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Military reservations</topic>
+   </subject>
+   <subject>
+      <topic>Settlements</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Grille Books</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>E 154 .S42</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

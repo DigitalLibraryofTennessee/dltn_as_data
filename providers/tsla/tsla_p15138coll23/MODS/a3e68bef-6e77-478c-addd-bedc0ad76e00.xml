@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>General Highway Map of Sullivan County, Tennessee (1963)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10275</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10275</url>
+   </location>
+   <name>
+      <namePart>Tennessee. State Highway Department</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This 1963 general highway map of Sullivan County (Tenn.) shows residences, schools, churches, cemeteries, businesses, roads, cities and towns, hotels, sawmills and quarries. Issued by the Tennessee State Highway Department, these county road maps exist at the Tennessee State Library and Archives for all Tennessee counties in series beginning in 1938, 1961, etc.</abstract>
+   <abstract>Sullivan County was established in 1779 when it was still a part of North Carolina. It is Tennessee's second oldest county, with the oldest being Washington. It is named for Revolutionary War general John Sullivan and was part of the State of Franklin during its existence from 1784-1788. Its largest city is Kingsport and the county seat is Blountville.</abstract>
+   <originInfo>
+      <dateCreated>1963</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Sullivan County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads--Sullivan County (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Transportation</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Hotels</topic>
+   </subject>
+   <subject>
+      <topic>Sawmills</topic>
+   </subject>
+   <subject>
+      <geographic>Sullivan County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>M-8-15</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,126 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Henry County, Tennessee (1922)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9124</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9124</url>
+   </location>
+   <name>
+      <namePart>United States. Bureau of Chemistry and Soils</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Wildermuth, Robert</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Sweet, A. T.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Brinkley, L. L.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Hamilton, H. E.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Perry, E. S.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Agee, J. H.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This extremely detailed map was made in cooperation with the Tennessee Geological Survey and the U. S. Bureau of Chemistry and Soils. It shows and names all roads, bridges, streams, ferries, residences, stores, churches, schools, cemeteries, mills, river landings, mines, and drainage ditches. In addition to natural features such as soil types, contour lines and watercourses, this fine map shows every house structure and significant economic and demographic feature in Henry County.</abstract>
+   <abstract>Henry County was established in 1821 from lands purchased from the Chickasaw in 1818, known as the Jackson Purchase or Chickasaw Purchase. It is named for patriot, author, and orator Patrick Henry. its county seat and largest city is Paris, named for the French capital supposedly to honor the Marquis de Lafayette. These early 20th century Division of Geology county maps are most revealing about the communities and historical geography of Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>1922</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Henry County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geological surveys</topic>
+   </subject>
+   <subject>
+      <topic>Soil survey materials</topic>
+   </subject>
+   <subject>
+      <topic>Soil mapping</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <geographic>Henry County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.33183</geographic>
+   </subject>
+   <subject>
+      <geographic>-88.30122</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>76956301</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2006</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

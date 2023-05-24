@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>New map of Knoxville, Tenn., and suburbs</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9801</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9801</url>
+   </location>
+   <name>
+      <namePart>Pill, John R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Highly detailed map of Knoxville printed just prior to the turn of the 20th century. Roads, lot numbers, railroads, streetcar lines, churches, schools, post offices, factories, cemeteries, and wards are all shown. Period businesses include the New Knoxville Brewery, Knoxville Furniture Company, the Imperial Hotel, slaughterhouses, livery stables, saw mills, an opera house, Knoxville Tannery Company, various quarries, the Deaf and Dumb Asylum, the Colored Deaf and Dumb Asylum, Dr. Bayless Sanitarium, and lumber mills. Knoxville College, Tennessee Medical College, and the University of Tennessee are all denoted.</abstract>
+   <abstract>J. Simpson Africa, a Pennsylvania politician and banker, served as trustee and investor of the Knoxville Street Railway Company. This case was the result of a dispute over rights to lay and operate street railway lines in Knoxville. From Citizens Railway Company v. J. Simpson Africa, Trustee, et al.</abstract>
+   <originInfo>
+      <dateCreated>1895</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Knoxville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. Supreme Court</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Universities &amp; colleges</topic>
+   </subject>
+   <subject>
+      <topic>Fire alarms</topic>
+   </subject>
+   <subject>
+      <topic>Firefighting equipment</topic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.); Knox County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Baltimore (Md.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>M-17-21</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

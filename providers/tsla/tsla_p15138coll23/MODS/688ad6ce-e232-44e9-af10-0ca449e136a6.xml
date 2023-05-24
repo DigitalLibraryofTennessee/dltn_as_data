@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plat of capitol</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9706</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9706</url>
+   </location>
+   <name>
+      <namePart>Strickland, Francis W. -1895</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Plat of land around the Tennessee State Capitol during the final phases of construction. It shows property lines, lot widths, and landowners. The purpose of this map was probably to determine the landowners so the state could purchase the surrounding land to clear capitol hill, which happened on the north side. High Street, Vine Street, Cedar Street, and Gay Street are named. A handwritten note to the left states "Mr. Plunkett wants you to draw a plat of all the Capitol ground and the different lots adjoining it," possibly signed by James S. Young.</abstract>
+   <abstract>The lot designated as Hospital was the site of Tennessee's first Catholic Church, built in 1820 by Irish Catholic bridgebuilders. In 1830, the parishioners replaced the frame church with a brick building and designated it Holy Rosary Cathedral. The construction of St. Mary's Cathedral on 5th made the small cathedral obsolete and in 1847, it became St. John's Hospital and Orphanage. The plot was sold to the state in 1857 during the finishing stages of the capitol's construction. The Capitol Building Commission authorized the following amounts to purchase adjoining lots: Martin - $6000, Spain - $2250, Wynn - $7000, Torbett - $2000, Freeman - $6000, and Crockett -$2400.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1855</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Strickland, Francis W. -1895</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Capital and capitol</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Building construction</topic>
+   </subject>
+   <subject>
+      <topic>Engineering &amp; construction</topic>
+   </subject>
+   <subject>
+      <topic>Government facilities</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>William Strickland Sketches</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Library Oversize</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

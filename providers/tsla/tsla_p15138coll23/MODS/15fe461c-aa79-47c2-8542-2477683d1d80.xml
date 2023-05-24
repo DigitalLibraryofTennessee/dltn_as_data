@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Plat of Monterey, Putnam County, Tenn.</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10208</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10208</url>
+   </location>
+   <name>
+      <namePart>Jackson, George H.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Plat of Monterey, Tennessee showing early town lots, Monterey Park, Whitaker Park, and the Southern Railroad.</abstract>
+   <abstract>This map comes from the A. P. Welch Business Records. Abraham Poteet Welch was born on May 28, 1881, in Putnam County to John Wesley Welch and Julia Ann Ford. His World War I draft registration describes him as a short and slender man with black eyes and graying hair. On August 3, 1900, he and Daisy Andrews married in Putnam County. At the time of this marriage, A. P. lived at home and worked as a grain dealer. Before he launched A. P. Welch and Company he worked as a minister, farmer, and for Cookeville Veneer Company. His business, A. P. Welch and Company, bought and sold lumber, coal, real estate, and feed. Under this styling, Welch served as the purchasing agent for Carthage Spoke and Cooperage Company and Cookeville Veneer Company. He served as a director of The Welch Stave and Heading Company with his relatives George Nathaniel Welch, John W. Welch, J. P. Welch, and J. N. Welch. A. P. helped found Monterey Nazarene Church in 1903 and continued preaching full-time until 1930. A. P. and Daisy Welch had three daughters, Lucile, Margaret Josephine, and Ruth. He died on January 9, 1956, and is buried in Welch Memorial Cemetery in Putnam County.</abstract>
+   <originInfo>
+      <dateCreated>undated</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Monterey (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Springs</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Parks</topic>
+   </subject>
+   <subject>
+      <geographic>Monterey (Tenn.) Putnam County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>A. P. Welch Business Records, 1900-1983</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>2010-083</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>M-18-12</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Military map showing the theater of operations in the Tullahoma, Chickamauga and Chattanooga campaigns</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/21</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/21</url>
+   </location>
+   <name>
+      <namePart>Merrill, William E.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This Civil War map showing the theater of Tennessee operations during General William Rosecrans 1863 Tullahoma and Chattanooga campaigns against general Braxton Bragg's Army of Tennessee. Prepared after the war under the direction of the Honorable Daniel S. Lamont, Secretary of War, by the Chickamauga and Chattanooga National Park Commission and based on wartime mapping of the important Federal mapmaker Col. William E. Merrill, U. S. Topographical Engineers.</abstract>
+   <abstract>The Tullahoma, Chickamauga, and Chattanooga Campaigns were significant military operations in Tennessee during 1863. Merrill served under William T. Sherman and provided maps for the campaign from Chattanooga to Atlanta.</abstract>
+   <originInfo>
+      <dateCreated>1874</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Military maps</topic>
+   </subject>
+   <subject>
+      <topic>Chickamauga and Chattanooga National Military Park Commission</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Lamont, Daniel Scott, 1851-1905</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Military camps</topic>
+   </subject>
+   <subject>
+      <topic>Campaigns &amp; battles</topic>
+   </subject>
+   <subject>
+      <geographic>Southern States</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>30933910</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1583</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

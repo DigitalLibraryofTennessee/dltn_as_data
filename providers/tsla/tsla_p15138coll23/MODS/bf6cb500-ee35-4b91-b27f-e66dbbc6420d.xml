@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A map of Indian boundary lines and the southern boundary of the state of Tennessee (1807)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9064</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9064</url>
+   </location>
+   <name>
+      <namePart>Freeman, Thomas</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map showing the boundary line of the Chickasaw Treaty of 1806, drawn by the surveyor of said treaty, Thomas Freeman. In addition to the Chickasaw boundary line, the map also indicates the Tennessee Congressional line, the Cherokee boundary line, the new southern boundary line of Tennessee, and the Huntsville meridian (the line from which all township and range lines are drawn in the state of Alabama). The Tennessee River, Elk River, Duck River, Flint River, Richland Creek, and Muscle Shoals are included. Cherokee Mountains, and the dividing ridge between the waters of Buffalo and Duck rivers are artistically shown. The "Barrens" of lower middle Tennessee are indicated as are a large swamp near present-day Huntsville, and "Doublehead's Place." This map may contain the earliest representation of the Huntsville meridian and Madison County, Alabama [Mississippi Territory] "Run &amp; marked, Sept. 1807."</abstract>
+   <abstract>Thomas Freeman was born in Ireland and moved to the United States in 1784. He served as land agent to George Washington in the 1790s, surveying his land and collecting rents. After Pierre L'Enfant and Andrew Ellicott resigned from laying out Washington D. C. Freeman completed the necessary surveying. In 1795 he was appointed by George Washington to survey the 31st parallel, to serve as the boundary between American and Spanish possessions following the Pinckney Treaty. Freeman was appointed to lead the Red River Expedition, also known as the Freeman-Custis Expedition, in 1806, to explore the lower Louisiana Territory. After completion of the failed mission, Freeman was appointed to survey the recently negotiated Chickasaw Treaty of 1806 in lower Tennessee and northern Alabama (known as Mississippi Territory). This map appears to be a relic of this undertaking. In 1810, Freeman was appointed Surveyor-General of the Mississippi Territory and remained in Alabama until his death in 1821. He is buried at Maple Hill Cemetery in Huntsville, Alabama.</abstract>
+   <originInfo>
+      <dateCreated>1807</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Boundaries--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Elk River (Tenn. and Ala." Duck River (Tenn.) Flint River Basin (Tenn. and Ala." Muscle Shoals (Ala.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Treaties</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1407</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

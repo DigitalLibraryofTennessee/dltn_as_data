@@ -1,0 +1,86 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Columbia (Tenn.) showing the 1946 'Operation Mink Slide.'</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/423</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/423</url>
+   </location>
+   <name>
+      <namePart>Akin, C. J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Tennessee Highway Patrol</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>The blueprint map of Columbia was originally published in 1937 by C. J. Akin. This copy belonged to Tennessee State Guard commander Major General Jacob McGavock Dickinson, Jr.and was originally part of his manuscript collection, the Dickinson, Jacob McGavock (1851-1928) Papers 1812-1946. It was used by him in the Guard's policing actions during the Columbia Race Riot in 1946. He (or someone on his staff) drew on the map using wax pencil, denoting certain roadblocks, military cordons, barracks, and unit placement throughout the town as the State Guard tried to seal off the African American neighborhoods and get between the two sides. The State Guard played a generally positive role in calming the white mob, keeping them away from the guns in the armory, and cordoning off the African American neighborhoods and "Mink Slide" business district.</abstract>
+   <abstract>The 1946 Columbia "race riot"--more accurately, white mob violence and near-lynching--was significant mainly for the self-defense role played by black veterans of World War II and the legal defense mounted by NAACP attorneys such as Z. Alexander Looby and Thurgood Marshall. In Maury County racial tension ran high, with three lynchings in the years before this episode. Between 1877 and 1950 nearly 4,000 African Americans were lynched in the South, 225 of them in Tennessee. [Equal Justice Initiative report published in Washington Post, 2/10/15] On February 25, Navy veteran James Stephenson and his mother walked into to a downtown store to pick up a repaired radio. The white clerk and Mrs. Stephenson began arguing over the order when the clerk struck her. James intervened and struggled with the clerk--who crashed through a store window. The Stephensons were arrested, paid a fine, and were released. The situation escalated when the clerk's father accused Stephenson of assault with intent to commit murder. Stephenson was arrested again. [C. V. West, Tennessee Encyclopedia of History and Culture] Tension accelerated that night when an angry white crowd assembled at the courthouse. In the African American business district, nicknamed the Mink Slide, black citizens--some of them veterans--also gathered. Four local (white) policemen entered Mink Slide after disregarding warnings from the black community to stop. Shots were fired, and the officers were wounded. Patrolmen from the Tennessee Highway Patrol (THP) entered the city, and in the early morning hours of February 26 patrolmen and whites surrounded the black district. They looted Mink Slide, illegally searched homes, fired indiscriminately into buildings, and confiscated weapons. Dozens were arrested but denied bail and legal counsel. [West, TEHC) The "riot" drew national attention. The NAACP sent attorneys Thurgood Marshall and Walter White to Nashville to assemble a legal team. Z. Alexander Looby and Maurice Weaver assisted with the jailed men's defense. The situation worsened on February 28 when two black men were killed and one was wounded while in THP custody. Circumstances were suspicious, but the killings were the last spasm of violence in Columbia. Most of the black defendants were cleared of charges; although harsh THP reaction was considered by an all-white federal grand jury, the patrolmen were ultimately cleared.</abstract>
+   <originInfo>
+      <dateCreated>1937</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Race riots--Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>African Americans--Crimes against</topic>
+   </subject>
+   <subject>
+      <topic>United States--Race relations</topic>
+   </subject>
+   <subject>
+      <topic>Discrimination in criminal justice administration--Southern States--History--20th century</topic>
+   </subject>
+   <subject>
+      <topic>African Americans--Southern States--History--20th century</topic>
+   </subject>
+   <subject>
+      <topic>Mobs--Southern States--History--20th century</topic>
+   </subject>
+   <subject>
+      <topic>Southern States--Race relations--History--20th century</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Race relations</topic>
+   </subject>
+   <subject>
+      <topic>Race discrimination</topic>
+   </subject>
+   <subject>
+      <geographic>Columbia (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Dickinson, Jacob McGavock (1851-1928) Papers, 1812-1946</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>OV Mss. Dr. 5-C</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Blueprints</form>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

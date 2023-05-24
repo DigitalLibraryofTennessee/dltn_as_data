@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Packing Kitty Litter</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/6019</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/6019</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/6019/manifest.json</url>
+  </location>
+  <abstract>An employee packaging bags of Lowe's Kitty Litter at a factory, likely Russell Pottery.</abstract>
+  <abstract>Edward Lowe (1920-1995) was a Michigan entrepreneur who invented clay cat litter in 1947. Marketing the product as "Kitty Litter" and later also as "Tidy Cat," Lowe expanded his business into a billion-dollar industry by the time of his death. In 1951, he moved litter packaging of litter to the facilities of Russell Pottery in Paris, to be closer to the source of clay. He later purchased two more Paris-based clay manufacturing businesses, Southern Clay Co. in 1965 and The Tennessee Absorbent Clay Co. in 1966.</abstract>
+  <originInfo>
+    <dateCreated>after 1951</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cat litter industry</topic>
+  </subject>
+  <subject>
+    <topic>Clay industries--United States</topic>
+  </subject>
+  <subject>
+    <topic>Factories</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Industry</topic>
+  </subject>
+  <subject>
+    <geographic>Paris (Tenn.); Henry County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Industry</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

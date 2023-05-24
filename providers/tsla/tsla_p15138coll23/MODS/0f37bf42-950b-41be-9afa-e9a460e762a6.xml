@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Washington County, Tennessee (1828)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/854</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/854</url>
+   </location>
+   <name>
+      <namePart>Morris, Eastin, 1795-1863</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This hand-drawn map of Washington County from 1828 shows cities, roads, ferries, residences, churches, mills, and county lines. Geographic features include rivers, creeks, mountains, and coves. Elijah and Elihu Embree's forge and furnace are shown in "Bumper's (Bumpass) Cove," where they mined and smelted lead and iron. Washington College, Salem Church, a Baptist meeting house, and a plough factory are denoted on the map, as are numerous named ferries and mills. The chief purpose of the map, in fact, seems to be locating the water-powered mills and manufactories of Washington County.</abstract>
+   <abstract>Washington County is Tennessee's oldest county, organizing itself as the Washington District in the early 1770s until it was annexed by North Carolina and officially dubbed Washington County in 1777. It was a part of the failed State of Franklin in the 1780s, and the territory south of the River Ohio in the 1790s, before ultimately joining Tennessee after admittance to the Union in 1796. It is named for General and President George Washington. Its county seat is Jonesborough, named for North Carolina statesman Willie Jones, while its largest city is Johnson City, is named for an early settler, Henry Johnson. Johnson City briefly changed its name to Haynesville during the Civil War to honor Confederate senator Landon Carter Haynes.</abstract>
+   <originInfo>
+      <dateCreated>1828</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Washington County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Washington College (Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Mills</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <geographic>Washington County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>945700691</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2840</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

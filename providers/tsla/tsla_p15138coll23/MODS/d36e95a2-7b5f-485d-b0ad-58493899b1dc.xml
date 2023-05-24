@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Linguistic stocks of American Indians north of Mexico</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8847</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8847</url>
+   </location>
+   <name>
+      <namePart>Powell, John Wesley, 1834-1902</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>From John Wesley Powell's Indian Linguistic Families of North America. This color map shows 58 areas of Indian habitation grouped by native language. The map is helpful in understanding the possible early relationships of the various Native American tribes, such as the linguistic affinities between the Cherokee and Iroquois Nations. Powell was one of the first American scientists to undertake ethnographic studies of native Americans, of which this map is an artifact. There is also a small inset of the Aleutian Islands in the lower left.</abstract>
+   <abstract>John Wesley Powell was the great Western explorer, geologist and Union veteran. Having lost his right arm at Shiloh, Powell went on to become the first director of the Smithsonian Bureau of Ethnology, the second director of the United States Geological Survey. He is credited with the first non-native exploration of the Grand Canyon and early efforts to preserve it and other natural wonders of the West. The map was compiled under the direction of Henry Gannett (1846-1914), who established the geography program in the U.S. Census Office. In 1882 he created a similar program at the USGS, which became the Division of Geography in 1885 and produced the first topographic map sheets published in the General Atlas of the United States four years later.</abstract>
+   <originInfo>
+      <dateCreated>1891</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Indians of North America--Languages--Maps</topic>
+   </subject>
+   <subject>
+      <topic>North America--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Smithsonian Institution. Bureau of American Ethnology</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Language</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>701108120</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2431</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

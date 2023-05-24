@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hamblen County, Tennessee (1870)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9068</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9068</url>
+   </location>
+   <name>
+      <namePart>Watkins, O. R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn and colored map of Hamblen County. Roads are drawn in yellow, county borders are shown in red, and water in blue. Morristown is at the crossroads of the East Tennessee and Virginia Railroad, the Cincinnati, Cumberland Gap, and Charleston Railroad (unfinished north of town), the Old Stage Road and Kentucky Road. Long's Ferry, Noe's Ferry, Maze's Ford, Mount Sterling, Panther Springs, and Talbott's Station are all indicated. Along the old stage road is a red line indicating the old county line between Grainger and Jefferson counties. A portion of the Rogersville Railroad is shown.""Completed this survey on the 15th day of April 1870. Party engaged with me in the survey were Col. B. F. Cluck, R. E. Rice, A. J. Donaldson, J. C. Davis, O. R. Watkins, surveyor." This is likely the first map of the county to be drawn.</abstract>
+   <abstract>Hamblen County was established in 1870 from portions of Grainger, Greene, and Jefferson Counties. It is named for Hezekiah Hamblen, an early settler and attorney. Its county seat and largest city is Morristown, named for Gideon Morris, its first settler.</abstract>
+   <originInfo>
+      <dateCreated>1870</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Hamblen County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>Hamblen County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.21715</geographic>
+   </subject>
+   <subject>
+      <geographic>-83.26666</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1063</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

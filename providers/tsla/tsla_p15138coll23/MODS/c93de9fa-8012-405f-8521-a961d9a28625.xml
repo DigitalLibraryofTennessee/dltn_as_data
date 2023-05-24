@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A map of Perry County</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9286</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9286</url>
+   </location>
+   <name>
+      <namePart>Rhea, Matthew, 1785-1870</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn and colored map of Perry County (Tenn.) showing Shannonvile, Shakerag, Perryville, Beardstown, Carrolville, the Tennessee River, the Duck River, creeks, ferries, and a "sulpher" spring. Two furnaces appear on the map, one belonging to Laneer (Lanier).</abstract>
+   <abstract>This map, along with his other county maps, may have been used by Rhea to make his seminal map of the State of Tennessee with cousin Joseph Campbell Rhea. Perry County was established in 1819 from Hickman and Humphreys counties and is named after Oliver Hazard Perry, a War of 1812 naval officer. Its county seat and largest town is Linden.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1842</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Duck River (Tenn.) Perry County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mines and mineral resources</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Streams</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Minerals</topic>
+   </subject>
+   <subject>
+      <topic>Sulphur industry</topic>
+   </subject>
+   <subject>
+      <geographic>Perry County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Rhea Family Papers, 1769-1859</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 10</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1034987441</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

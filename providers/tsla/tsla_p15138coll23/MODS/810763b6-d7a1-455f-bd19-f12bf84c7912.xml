@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Loudon County, Tenn., rural electrification survey</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/407</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/407</url>
+   </location>
+   <name>
+      <namePart>Phelps, Paul R.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A 1930s Tennessee Emergency Relief Administration (TERA) blueprint map of Loudon County, Tenn. showing the rural electrification efforts in the region. Tennessee Electric Power Company (TEPCO) power lines are shown, along with houses, schools, garages, filling stations, industries, stores, churches, Delco plants (early home power generators), and tourist camps. The Southern Railroad as well as roads and highways are drawn and named. Geographical features such as rivers and islands are included.</abstract>
+   <abstract>TERA was formed on April 1, 1934, as an ancillary to the Federal Emergency Relief Administration. TERA projects were spread across the state and were responsible for hundreds of public works projects as well as supplying direct aid to urban and rural communities in Tennessee. It served as the precursor to the Rural Electrification Administration which, in tandem with the Tennessee Valley Authority, provided electricity and electrical infrastructure to rural communities across the state.</abstract>
+   <originInfo>
+      <dateCreated>1930s</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Rural electrification</topic>
+   </subject>
+   <subject>
+      <topic>New Deal, 1933-1939</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Electric lines</topic>
+   </subject>
+   <subject>
+      <geographic>Loudon County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.73478</geographic>
+   </subject>
+   <subject>
+      <geographic>-84.31187</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>933529192</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2040</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+      <form>Surveys</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

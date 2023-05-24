@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Joseph Miller about payment for order</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/230</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/230</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/230/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Miller, Joseph</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Joseph Miller writes to The Lookout Shop to apologize for being late in remitting the balance due for jewelry he ordered from the shop. He mentions that he was short of money until he got his Army pay, and states "It's a good thing that the Army feeds &amp; houses us; otherwise many of us might be a little thin @ the middle of the month."</abstract>
+  <abstract>Margaret Croft owned part of the Lookout Shop and was involved in its day-to-day business affairs until she sold her shares in 1945. The shop was opened by Arlene Ziegler and Mable Ward in 1939 as a store featuring arts and crafts from Southern artists. The pair sold the shop when they retired in 1953. Ward and Ziegler were also the founders of Nashville's iconic Satsuma Tea Room, which was open from 1918-2001.</abstract>
+  <originInfo>
+    <dateCreated>1944 March 2</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Handicraft--United States--History--20th century</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail--Tennessee</topic>
+  </subject>
+  <subject>
+    <topic>Craft shops</topic>
+  </subject>
+  <subject>
+    <geographic>Coral Gables (Fla.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Wonder Cave in Pelham</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/414</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/414</url>
+  </location>
+  <abstract>Wonder Cave located between Pelham and Monteagle. Men are looking at stalactites and stalagmites.</abstract>
+  <abstract>Located along scenic US 41 in Grundy County, Tennessee, just 4 miles NW of Monteagle, is Wonder Cave. It was long considered by many to be one of the State's premier show caves and for more than a century Wonder Cave operated as a commercial cave. Prior to being known as Wonder Cave, this area was once referred to as the "Big Spring" by locals. Wonder cave closed in 1986. It reopened as part of a bed and breakfast in 1989, then closed again in 2000.</abstract>
+  <originInfo>
+    <dateCreated>1900</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Caves</topic>
+  </subject>
+  <subject>
+    <topic>Land</topic>
+  </subject>
+  <subject>
+    <topic>Stalactites &amp; stalagmites</topic>
+  </subject>
+  <subject>
+    <topic>Natural phenomena</topic>
+  </subject>
+  <subject>
+    <geographic>Pelham (Tenn.); Grundy County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Geological cross-section of the state of Tennessee, from two of the most eastern extremities of the state: Roane Mountain by Carter Co. and Smoky Mountain in Cocke Co., to Randolph on the Mississippi, the most western extremity</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8844</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8844</url>
+   </location>
+   <name>
+      <namePart>Troost, Gerard, 1776-1850</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This 19th century map shows the east-to-west elevations of Tennessee and a color-coded legend of different geological strata. Geological maps have many uses including determining areas suitable for agriculture, identifying potential geological hazards and locating groundwater and mineral deposits. This diagram was made to accompany Dr. Gerard Troost's Geological map of Tennessee, Map 513 in our collection.</abstract>
+   <abstract>Peter S. Duval was born in France and trained as a lithographer in Paris. Fellow lithographer Cephas G. Childs met and hired Duval and brought him back to Philadelphia to work in his company. When Childs retired from the lithography business in 1834, he sold his interest in the firm to Duval and George Lehman. The company of Lehman &amp; Duval moved the business to a building at Dock Street and Bank Alley in 1835. Lehman resigned in 1837, and the firm became known as P. S. Duval's Lithographic Establishment.</abstract>
+   <originInfo>
+      <dateCreated>1839</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Geology--Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geology</topic>
+   </subject>
+   <subject>
+      <topic>Agriculture</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>40115989</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 517</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

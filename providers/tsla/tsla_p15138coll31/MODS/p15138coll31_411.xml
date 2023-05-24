@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of building frame, General Concrete Construction Company of Cuba</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/411</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/411</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/411/manifest.json</url>
+  </location>
+  <abstract>Black and white photograph of a General Concrete Construction Company of Cuba building frame.</abstract>
+  <abstract>William Croft moved to Cuba in 1900 and started the General Concrete Construction Company of Cuba in Havana. The company specialized in the construction of concrete chimneys for the sugar industry on the island. After Mr. Croft’s death in 1938, his daughters Elise and Margaret became sole owners of the company’s stocks and relied on income from the company for their livelihood. Elise visited Cuba at least once a year on business through the 1950s and kept up a regular correspondence with company manager Bradford Dallas. On December 6, 1961, all of the Crofts’ property in Cuba, including the company, was confiscated pursuant to Law 989 - the abandoned property law issued by Fidel Castro (1926-2016). The Croft sisters filed a claim with the United States Government in the late 1960s, but never received compensation for their losses. Their claims against the Cuban government are still outstanding.</abstract>
+  <originInfo>
+    <dateCreated>1954 February 25</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Construction industry--Cuba</topic>
+  </subject>
+  <subject>
+    <topic>Building construction</topic>
+  </subject>
+  <subject>
+    <topic>Factories</topic>
+  </subject>
+  <subject>
+    <geographic>Cuba</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

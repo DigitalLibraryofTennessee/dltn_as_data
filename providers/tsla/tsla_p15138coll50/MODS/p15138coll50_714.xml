@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Carson-Newman College Panoramic</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/714</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/714</url>
+  </location>
+  <abstract>Panoramic of Carson-Newman College showing the students with the buildings in the background.</abstract>
+  <abstract>The school was established as Mossy Creek Missionary Baptist Seminary in 1851. The school began by holding classes in a local Baptist church. Within a few years the institution became Mossy Creek Baptist College and occupied its own buildings on the site of the present campus. In 1880, the university was named Carson College for James Harvey Carson. For several years it existed alongside Newman College, a separate facility for the education of women named for William Cate Newman. In 1889, the two colleges united as one of the first coeducational institutions in the South. The institution operated as Carson-Newman College until 2012 when the board of trustees voted to acknowledge recent organizational changes by changing the name to Carson-Newman University.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1913</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Universities &amp; colleges</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities</topic>
+  </subject>
+  <subject>
+    <topic>Students</topic>
+  </subject>
+  <subject>
+    <topic>Panoramic photographs</topic>
+  </subject>
+  <subject>
+    <geographic>Jefferson City (Tenn.); Jefferson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

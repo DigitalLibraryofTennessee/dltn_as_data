@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The county seat of McNairy County, Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10267</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10267</url>
+   </location>
+   <abstract>Early hand-drawn map of Selmer, Tennessee, soon after it was designated the county seat of McNairy County, showing Court, Pharr, Houston, Cypress and Warren avenues as well as the numbered street running north/south. The Mobile and Ohio Railroad runs along the right of the map. Removed from Supreme Court Records, probably City of Selmer v. P. H. Thrasher</abstract>
+   <abstract>The city of Selmer accused Thrasher of obstructing a public street when he unlawfully fenced and set up brush on 8th Street near Cypress Avenue. Original metadata stated that the map was pulled from John D. Allen v. Horace Stone. Docket #999. Shelby County Circuit Court, 1872.</abstract>
+   <originInfo>
+      <dateCreated>1872</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>McNairy County (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee. Supreme Court</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Judicial proceedings</topic>
+   </subject>
+   <subject>
+      <geographic>McNairy County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.17545</geographic>
+   </subject>
+   <subject>
+      <geographic>-88.5636</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>2009-024</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 3212</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

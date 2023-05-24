@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the Nashville &amp; North-Western Railroad and its connections with other roads &amp; portions of roads, compiled from the best authorities</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9949</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9949</url>
+   </location>
+   <name>
+      <namePart>MacNeale, N.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Railroad map showing connecting lines with the Nashville and Northwestern Railroad (in blue) in Tennessee, Mississippi, Alabama, and Kentucky. The Mississippi and Ohio rivers are also drawn. The legend indicates railroads in operation, in progress, and projected.</abstract>
+   <abstract>The Nashville and Northwestern Railroad was chartered in 1852. By the outbreak of the Civil War, the tracks connected Nashville with Kingston Springs, TN, and HIckman, KY with McKenzie, TN. Once the Union Army captured Nashville and the railroad, they impressed formerly enslaved African Americans to extend it westward from Kingston Springs to Johnsonville. In April 1868, funding for workers ran dry and in June the workers went on strike to protest their lack of pay. In 1872, the Nashville and Chattanooga Railroad purchased the Nashville and Northwestern and reincorporated under the name Nashville, Chattanooga, and St. Louis Railway.</abstract>
+   <originInfo>
+      <dateCreated>1856</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville &amp; Northwestern Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Industry</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1750</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

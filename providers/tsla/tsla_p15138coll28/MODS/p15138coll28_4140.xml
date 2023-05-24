@@ -1,0 +1,70 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Harvest dinner</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4140</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4140</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4140/manifest.json</url>
+  </location>
+  <abstract>Harvest dinner at the Leesburg Community of Washington County; 175 different kinds of food, all home-grown. The food is piled on plates sitting on a table. A poster in the background says Merry Christmas with drawings of pine trees.</abstract>
+  <originInfo>
+    <dateCreated>1941 December 12</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Dinners and dining</topic>
+  </subject>
+  <subject>
+    <topic>Buffets (Cooking)</topic>
+  </subject>
+  <subject>
+    <topic>Table</topic>
+  </subject>
+  <subject>
+    <topic>Posters</topic>
+  </subject>
+  <subject>
+    <topic>Plates (Tableware)</topic>
+  </subject>
+  <subject>
+    <topic>Eating &amp; drinking</topic>
+  </subject>
+  <subject>
+    <topic>Food</topic>
+  </subject>
+  <subject>
+    <topic>Banquets</topic>
+  </subject>
+  <subject>
+    <topic>Harvest festivals</topic>
+  </subject>
+  <subject>
+    <geographic>Washington County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agriculture</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

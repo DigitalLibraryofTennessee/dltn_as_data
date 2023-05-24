@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>President Johnson at Polk House</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll51/id/172</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll51/id/172</url>
+  </location>
+  <name>
+    <namePart>Cooley, Vic</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>President Lyndon B. Johnson at Polk House. To his right is Governor Ellington.</abstract>
+  <abstract>Lyndon B. Johnson (1908-1973) was the 36th President of the United States from 1963-1969 and was John F. Kennedy's Vice President until Kennedy's assassination. Johnson was a Democrat from Texas who positively affected civil rights, gun control, wilderness preservation and Social Security but was criticized for his handing of the Vietnam War. Lady Bird Johnson (1912-2007) broke new ground by interacting directly with Congress and beautifying the nation's cities and highways. On March 15, 1967, President Lyndon B. Johnson and his wife Lady Bird Johnson made a day-long trip to Nashville. The Tennessee General Assembly invited Johnson to speak at a joint session to commemorate the 200th anniversary of the birth of President Andrew Jackson. Their one-day tour resulted in trips to the Hermitage, the Polk House, Ellington Agricultural Center, Columbia State Community College, and the Tennessee State Capitol. The James K. Polk ancestral home is located in Columbia, Tennessee. It was built by James K. Polk's father, Samuel Polk, in 1816. The residence is the only house other than the White House in which James K. Polk lived that is still standing. The house remained in the Polk family for many years, and passed through several owners before it was acquired by the state of Tennessee in 1929. It is now a historic house museum. It is managed by the Tennessee Historical Commission and the museum is operated by the James K. Polk Association. Polk's home in Nashville, Polk Place, was demolished by a developer in 1901.</abstract>
+  <originInfo>
+    <dateCreated>1967 March 15</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Motion picture cameras</topic>
+  </subject>
+  <subject>
+    <topic>Crowds</topic>
+  </subject>
+  <subject>
+    <topic>Cameras</topic>
+  </subject>
+  <subject>
+    <geographic>Columbia (Tenn.); Maury County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Pres. Lyndon B. Johnson's Visit to Middle Tennessee Photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2003-067</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

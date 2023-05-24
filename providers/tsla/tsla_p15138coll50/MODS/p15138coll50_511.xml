@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tracy City CCC Camp</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/511</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/511</url>
+  </location>
+  <abstract>Shows men at the CCC Camp reading and relaxing at the camp exchange.</abstract>
+  <abstract>CCC Company 1475 called this workers' village of Grundy Forest home. The camp included a number of buildings which housed, fed, hospitalized and stored equipment and supplies for the workers of Company 1475 from the mid-1930s until the start of World War II. Around 1938, Company 1475 also set up a satellite camp at what is now Franklin State Forest, near Jumpoff Road, south of Sewanee. The young men of Company 1475 undertook many projects which improved the lives of people in this area. One CCC legacy is the chain of Grundy Lakes, now used for swimming, paddling, and fishing. CCC personnel built some of the first hiking trails in what would later become South Cumberland State Park. They also erected fire towers, built roads, strung some of the first telephone lines in this area, and fought forest fires. They were also instrumental in helping contain a 1935 fire in downtown Tracy City - one of the biggest fires in Grundy County history.</abstract>
+  <originInfo>
+    <dateCreated>1935</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Work camps</topic>
+  </subject>
+  <subject>
+    <topic>Camps</topic>
+  </subject>
+  <subject>
+    <topic>Reading</topic>
+  </subject>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Activities</topic>
+  </subject>
+  <subject>
+    <geographic>Tracy City (Tenn.); Grundy County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

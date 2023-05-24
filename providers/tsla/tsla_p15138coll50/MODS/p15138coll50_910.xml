@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Historic Nolensville School</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/910</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/910</url>
+  </location>
+  <abstract>Exterior of Nolensville High School, located off of Nolensville Road.</abstract>
+  <abstract>In addition to serving students for nearly four decades, the historic school near the center of Nolensville has also been a farm, a recreation center, a library and a museum. The Nolensville school building is based on a design that was used to build thousands of schools for black children between 1917 and 1932. Those schools, called Rosenwald schools, are becoming increasingly rare. The school ran from 1937-1975. The building now houses the Nolensville Historical Society and Museum.</abstract>
+  <originInfo>
+    <dateCreated>1950</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Schools</topic>
+  </subject>
+  <subject>
+    <topic>Educational facilities</topic>
+  </subject>
+  <subject>
+    <topic>Automobiles</topic>
+  </subject>
+  <subject>
+    <topic>Buses</topic>
+  </subject>
+  <subject>
+    <geographic>Williamson County (Tenn.); Nolensville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Topographical map of the approaches and defenses of Knoxville E. Tennessee: shewing the positions occupied by the United States &amp; Confederate forces during the seige</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/413</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/413</url>
+   </location>
+   <name>
+      <namePart>Poe, O. M. (Orlando Metcalfe), 1832-1895</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Capt. Orlando Poe's wartime map of Knoxville, Tennessee showing the positions occupied by Confederate and Federal forces during the 1863 siege of Knoxville. Topographical lines are shown in conjuction with elevation of certain hills. Union forts and defensive positions, including Fort Sanders from which a Confederate attack by Gen. James Longstreet's forces was repulsed in November 1863, are indicated in blue, while Confederate lines are in red. Other features include the Holston River, trees, ponds, and creeks. Infrastructure such as roads, railroads, bridges, and ferries are also shown.</abstract>
+   <abstract>Civil War cartographers were involved in reconnaissance, pre-battle, and post-battle mapping. Orlando Poe functioned as Chief Engineer of the XXIII Corps, and his work aided in the capture of Knoxville, Tennessee by Federal forces. After this action, he was selected by Major General W. T. Sherman as chief engineer for his Military Division of the Mississippi in the spring of 1864. Poe served with Sherman during the burning of Atlanta, Sherman's March to the Sea, and the Carolinas Campaign.</abstract>
+   <originInfo>
+      <dateCreated>1891</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Fort Sanders, Battle of, Knoxville, Tenn., 1863</topic>
+   </subject>
+   <subject>
+      <topic>United States. Army. Department of the Ohio</topic>
+   </subject>
+   <subject>
+      <topic>East Tennessee and Georgia Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Military maneuvers</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <geographic>Knoxville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.96064</geographic>
+   </subject>
+   <subject>
+      <geographic>-83.92074</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>994617852</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 376</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

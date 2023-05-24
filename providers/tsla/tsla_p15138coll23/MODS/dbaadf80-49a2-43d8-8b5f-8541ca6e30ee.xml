@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>School atlas to Cummings' Ancient and modern geography</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9168</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9168</url>
+   </location>
+   <name>
+      <namePart>Cummings, J. A. (Jacob Abbot), 1773-1820.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>An 1820s school atlas, signed and presumably owned by Samuel Donelson of Nashville (Tenn." The first page shows a map of the world with national boundaries hand colored, with the United States stretching only as far west as the Mississippi River and not including Spanish Florida. The second page depicts North America and includes Native American tribes, states, cities, forts, rivers, and lakes. The third shows only the United States with hand colored state borders. Towns, rivers, mountains, and forts are drawn. The fourth depicts South America and includes provincial borders, towns, rivers, and missions. The fifth shows Europe with national borders hand colored, cities, towns, rivers, and mountains. The sixth is a more detailed look at the United Kingdom, once again featuring cities, towns, rivers, and lakes. The seventh and final is of Asia with hand colored national borders and depicting towns, cities, rivers, mountains, and islands. Handwriting can be seen on verso of most maps. The map of Africa is missing.</abstract>
+   <abstract>Bettie Mizell was born in Nashville, Tennessee in 1862. In 1882, she married William Alexander Donelson, son of diplomat and vice presidential nominee Andrew Jackson Donelson. William was murdered on July 21, 1900, by William Giles Baker after a long standing dispute. Bettie was one of the primary founders of the Ladies Hermitage Association, participated in the women's suffrage movement, and helped develop the plan for the Woman�s Department of the Tennessee Centennial. After her husband's death, Bettie served as Chairman of Davidson County Woman�s Christian Temperance Union and Chairman of the General Arrangements Committee when the national convention met in Nashville in 1907. She served as president of the Andrew Jackson Society in the 1920s and 30s and was a delegate to the World Conference of Women in Washington, D. C. in 1923. She died in 1939.</abstract>
+   <originInfo>
+      <dateCreated>undated (approximately 1820)</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Atlases</topic>
+   </subject>
+   <subject>
+      <topic>School books</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Earth</topic>
+   </subject>
+   <subject>
+      <geographic>United States; North America; South America; Europe; Asia; United Kingdom</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Donelson, Bettie Mizell (1862-1939) Papers, 1787-1938</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 309</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

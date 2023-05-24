@@ -1,0 +1,96 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ashport to Memphis Confederate map</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/51</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/51</url>
+   </location>
+   <name>
+      <namePart>Martin, Albert</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map showing Confederate military installations along the Tennessee portion of the Mississippi River was hand-drawn on linen by Albert Martin around 1861. It stretches from Ashport in the north to Memphis in the south and shows Confederate artillery batteries, with number, size and type of guns. Though detailed in its presentation of waterways, swamps, bluffs, plantations, certain landowners, and the numbered islands in the Mississippi River, its primary purpose was to depict the Confederate gun emplacements--Forts Harris, Randolph and Claiborn [sic: should be Cleburne for Col. Patrick R. Cleburne whose 1st Arkansas Regt. built the earthworks, later in the war called Fort Pillow]--protecting the river above Memphis early in the war. Troop deployments in the area are also indicated.</abstract>
+   <abstract>The importance of controlling this stretch of the Mississippi River was paramount for both sides during the Civil War, but especially for the Confederacy, which the great river divided. As indicated by this map, the Southern command had fortified the bluffs above Memphis with an array of heavy gun emplacements to guard against a potential Federal riverborne assault. Note the written comment that cotton bales and barricades were present in the streets of Memphis. Memphis would cease to function as a Confederate stronghold when it fell to Union forces on June 6, 1862.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1861</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Maps, Military</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--History--Civil War, 1861-1865--Campaigns</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865--Campaigns</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Batteries (Weaponry)</topic>
+   </subject>
+   <subject>
+      <topic>Artillery (Weaponry)</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Islands</topic>
+   </subject>
+   <subject>
+      <topic>Wetlands</topic>
+   </subject>
+   <subject>
+      <topic>Plantations</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Bodies of water</topic>
+   </subject>
+   <subject>
+      <topic>Military camps</topic>
+   </subject>
+   <subject>
+      <geographic>Shelby County (Tenn.) Tipton County (Tenn.) Lauderdale County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>927110669</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1577</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

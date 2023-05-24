@@ -1,0 +1,99 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Chattanooga and Vicinity (1914)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9012</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9012</url>
+   </location>
+   <name>
+      <namePart>G.M. Hopkins &amp; Co.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Color map of the City of Chattanooga and suburbs such as North Chattanooga, Sherman Heights, Mabbit Springs, Lookout Mountain and others in the 1910s. Geographic features such as the Tennessee River, Signal Mountain, and Missionary Ridge are shown along with railroad lines and individual street names. Concentric circles showing mile distances emanate from the new city hall.</abstract>
+   <abstract>Chattanooga, which comes from Cherokee describing a creek in the area, is Hamilton County's seat of government and largest city. John Ross, a half-Cherokee, half-white man set up a ferry on the Tennessee River called Ross's Landing or Ross's Ferry in 1816, and the city grew around it, changing its name to Chattanooga in 1839. Griffith Morgan Hopkins was born around 1836, however the exact date is unknown. He first began printing maps in 1857 and continued until his retirement in 1900. He founded G. M. Hopkins &amp; Co. with his brother Henry W. Hopkins, and together they produced many city and county atlases, primarily of the northeast, from their shop in Philadelphia. G. M. Hopkins &amp; Co. continued on after the founders' retirements until the Great Depression ended the demand for their atlases. The company was sold to the Franklin Survey Company in 1943, with the name intact, due to its association with quality.</abstract>
+   <originInfo>
+      <dateCreated>1914</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Chattanooga (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Memphis-Chattanooga Railway Company</topic>
+   </subject>
+   <subject>
+      <topic>Nashville, Chattanooga and St. Louis Railway</topic>
+   </subject>
+   <subject>
+      <topic>Alabama Great Southern Railway Company</topic>
+   </subject>
+   <subject>
+      <topic>Central of Georgia Railway</topic>
+   </subject>
+   <subject>
+      <topic>Belt Railway Company of Chattanooga</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Streets</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <geographic>Chattanooga (Tenn.) Hamilton County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.04563</geographic>
+   </subject>
+   <subject>
+      <geographic>-85.30968</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>958274365</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2289</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

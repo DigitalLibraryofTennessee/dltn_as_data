@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Final report on survey of Hiwassee River, Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9368</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9368</url>
+   </location>
+   <name>
+      <namePart>United States. War Department</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This final report of surveys of the Hiwassee River in Tennessee was given to the House of Representatives of the 56th Congress by the Secretary of War, Elihu Root. There are seven maps depicting various sections of the Hiwassee River and proposed improvements accompanied by a 34 page detailed report. The survey and report were created to highlight potential navigation improvements, specifically to secure a 30-inch navigation depth at the lower points near the mouth of the Ocoee.</abstract>
+   <abstract>Flowing through four Tennessee counties (Meigs, Bradley, McMinn, and Polk), the 147-mile long Hiwassee River was the first designated Scenic River in Tennessee and is dammed in three locations by the Tennessee Valley Authority (TVA).</abstract>
+   <originInfo>
+      <dateCreated>1900</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Hiwassee River</topic>
+   </subject>
+   <subject>
+      <topic>Ocoee River (Ga. and Tenn.) United States. Congress. House. Committee on Rivers and Harbors</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Surveying</topic>
+   </subject>
+   <subject>
+      <topic>Engineering</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <geographic>Tennessee, East</geographic>
+   </subject>
+   <subject>
+      <geographic>Washington (D.C.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1040597636</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1824</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+      <form>Surveys</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Newspaper clippings, the New York Times</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll45/id/26</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll45/id/26</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll45/26/manifest.json</url>
+  </location>
+  <abstract>Newspaper clippings that have been stitched together from the January 5, 1919 edition of the New York Times. One side of clippings contains part of a story about the 'The Argonne Players' who were a divisional theatrical unit who provided entertainment to troops stationed in France. The photograph depicts some members of 'The Argonne Players.' The other side of the clippings contains part of a story by J. C. H. Beaumont, who was a surgeon on the White Star Line. It discusses 'The Baltic' ship and its near misses with German U-Boats. The article also mentions American nurses who were on board. An unidentified person has written in brackets "some of them" after a passage that reads: "All hands were at once piped to stations, and in less than five minutes were standing by their boats, including 170 American nurses, who filed quickly from the dinner table with the utmost coolness."</abstract>
+  <originInfo>
+    <dateCreated>1919 January 5</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>American Field Service</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <subject>
+    <topic>Clippings</topic>
+  </subject>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Robert Frank Hodge World War I Papers, 1914-1919</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>2018-002</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Newspapers</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

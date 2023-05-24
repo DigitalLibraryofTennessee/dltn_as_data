@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Photograph of a bandstand</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/368</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/368</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/368/manifest.json</url>
+  </location>
+  <abstract>Black and white photograph of a bandstand in Havana, Cuba with Morro Castle in the background. Handwritten on back of photograph, "Malecon, showing bandstand and Morro Castle."</abstract>
+  <abstract>Morro Castle, built in 1589, originally served as a fortress to guard the Havana Bay from raids. Morro Castle and La Punta Castle (situated across from Morro Castle) were both built by Italian military engineer Giovanni Battista Antonelli, and could be linked using an iron chain to protect the harbor from enemies. During the Seven Years War, the British captured the fortress, but it was returned to Spain in 1763. In later years it housed political prisoners.</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cuba--Havana</topic>
+  </subject>
+  <subject>
+    <topic>Forts &amp; fortifications--Cuba--Havana</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <topic>Bandstands</topic>
+  </subject>
+  <subject>
+    <topic>Gazebos</topic>
+  </subject>
+  <subject>
+    <topic>Bays (Bodies of water)</topic>
+  </subject>
+  <subject>
+    <topic>Castles &amp; palaces</topic>
+  </subject>
+  <subject>
+    <geographic>Havana (Cuba)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

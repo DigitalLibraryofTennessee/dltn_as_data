@@ -1,0 +1,90 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of East Tennessee and western North Carolina showing mineral deposits (1876)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/374</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/374</url>
+   </location>
+   <name>
+      <namePart>Waring, Charles</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>The map shows primarily East Tennessee ("vicinity of Knoxville") and western North Carolina, as well as small portions of northern Georgia, southwestern Virginia, and southeastern Kentucky. It is extremely detailed as to the commercial mining industries of East Tennessee, showing mineral deposits, marble quarries, coal mines and salt works throughout the region, specifically identifying copper and iron ores in color. Iron forges and furnaces are also indicated, as well as stream names, coves, local peaks and their elevation. The map also shows railroads; completed, in construction, and proposed.</abstract>
+   <abstract>This map is an artifact of Tennessee's effort to promote the rich mineral resources available for potential manufacturers after the Civil War. At the time, northern investors were purchasing huge acreages in mineral rich areas of Appalachia. Tennessee was an early leader in iron and--to a lesser extent--steel production as well as coal mining. However, by the beginning of the 20th century, the focus of steel-making shifted southward to Birmingham, Alabama. Charles Waring &amp; Co. was a civil engineering, drafting, and surveying firm in Knoxville, Tennessee in the latter half of the 19th century.</abstract>
+   <originInfo>
+      <dateCreated>1876</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mines and mineral resources</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Geography--Maps--Geological maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mineral deposits</topic>
+   </subject>
+   <subject>
+      <topic>Marble quarrying</topic>
+   </subject>
+   <subject>
+      <topic>Coal mining</topic>
+   </subject>
+   <subject>
+      <topic>Salt mining</topic>
+   </subject>
+   <subject>
+      <topic>Iron mining</topic>
+   </subject>
+   <subject>
+      <topic>Copper mining</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee, East; North Carolina</geographic>
+   </subject>
+   <subject>
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>26375111</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 54</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dyche Family Farm</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll49/id/14</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll49/id/14</url>
+  </location>
+  <abstract>Small farm in Philadelphia, Tennessee. In the background is the farmhouse, along with several outbuildings. In the foreground is a wooden fence and telephone pole.</abstract>
+  <abstract>Philadelphia was founded in the early 1820s by William Knox and Jacob Pearson. The town initially grew quickly and prospered as a center of business in the Sweetwater Valley. By the mid-1800s, Philadelphia had two general stores,a tanning yard, a stillhouse, and a hotel. On October 20, 1863, during the Civil War, two Confederate cavalry regiments attacked and routed a Union brigade at Philadelphia while conducting maneuvers following the Battle of Chickamauga.</abstract>
+  <originInfo>
+    <dateCreated>1910</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Farms</topic>
+  </subject>
+  <subject>
+    <topic>Utility poles</topic>
+  </subject>
+  <subject>
+    <topic>Fences</topic>
+  </subject>
+  <subject>
+    <geographic>Philadelphia (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Mamie Moser Dyche Papers</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1994-138</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

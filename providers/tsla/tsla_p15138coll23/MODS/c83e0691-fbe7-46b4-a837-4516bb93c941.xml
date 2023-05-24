@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Cruchley's new traveling map and itinerary, comprising the whole of England with part of Scotland &amp; Ireland and a portion of France and the Netherlands shewing the communication between London and Paris</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9311</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9311</url>
+   </location>
+   <name>
+      <namePart>Cruchley, G. F.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Folded travel map of England with parts of Ireland, Scotland, Netherlands, and France. It shows English cities, towns, counties, roads, and boat routes. Some of the acidic pigment has browned the paper. It shows Scotland as far north as Edinburgh, only the east coast of Ireland, and France as far south as Brest and Chartres and as far east as Lille.</abstract>
+   <abstract>George Frederick Cruchley was born in London in 1797. He apprenticed with Arrowsmith printers before striking out on his own. While Cruchley was an accomplished mapmaker and engraver himself, he reused many of Arrowsmith's plates and purchased John Cary's and published those. (Batten, Kit and Francis Bennett. The Victorian Maps of Devon.)</abstract>
+   <originInfo>
+      <dateCreated>1829</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>England--Maps--Early works to 1900</topic>
+   </subject>
+   <subject>
+      <topic>Scotland--Maps--Early works to 1900</topic>
+   </subject>
+   <subject>
+      <topic>English Channel</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Travel</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <geographic>England; Scotland; Wales; France; Netherlands</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>557285748</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2765</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

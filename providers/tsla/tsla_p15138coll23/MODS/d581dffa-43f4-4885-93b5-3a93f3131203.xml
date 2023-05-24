@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Battle of Cerro Gordo, April 17 &amp; 18, 1847</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9084</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9084</url>
+   </location>
+   <name>
+      <namePart>McClellan, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of the Battle of Cerro Gordo in the War with Mexico, showing the location of American troops and batteries and the positions of Mexican batteries. Geographic features such as the Rio de la Plata and hills are depicted. Roads, ranches, an American camp, and dwellings are shown. The 1st and 2nd regiments of Tennessee Volunteers were engaged here as part of Patterson's Division, Pillow's Brigade. A regimental listing appears to the left of the map, while a table showing casualties is below. At the bottom is a tabulation of each sides numbers.</abstract>
+   <abstract>On March 9, 1847, American troops performed their first major amphibious operation, landing 12,000 men, supplies, weapons, and horses at Veracruz, Mexico. After the 12-day siege of the city, the Mexicans surrendered. Scott's troops continued their campaign toward Mexico City and met Mexican troops under General Santa Anna entrenched near Cerro Gordo. After a decisive victory, the Americans marched on to Puebla, who surrendered without resistance. After the Battles of Contreras, Churubusco, Molino del Rey, and Chapultepec, Santa Anna withdrew to Guadalupe Hidalgo. After a 5 month guerilla campaign, the war ended there with the signing of the Treaty of Guadalupe Hidalgo on February 2, 1848. The treaty ceded California, Nevada, Utah, and parts of New Mexico, Arizona, Texas, Oklahoma, Kansas, Wyoming, and Colorado to the United States for $15 million. Many generals in the Civil War participated in the Mexican War, specifically the Mexico City campaign including: Robert E. Lee, George Meade, Ulysses S. Grant, James Longstreet, Thomas ""Stonewall"" Jackson, Gideon J. Pillow, Joseph E. Johnston, Sterling Price, George B. McClellan, Daniel H. Hill, and George Pickett. Future Tennessee governor William Trousdale served as a Colonel in this campaign.</abstract>
+   <originInfo>
+      <dateCreated>1847</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Cerro, Gordo, Battle of, Mexico, 1847--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Ranches</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Troop movements</topic>
+   </subject>
+   <subject>
+      <geographic>Cerro Gordo (Mexico)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1574</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

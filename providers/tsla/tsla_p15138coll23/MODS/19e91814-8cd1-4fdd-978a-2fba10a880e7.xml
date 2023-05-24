@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Scotland, drawn and engrav'd from a series of angles and astronomical observations (1800)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/861</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/861</url>
+   </location>
+   <name>
+      <namePart>Ainslie, John (surveyor)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This extremely detailed map of Scotland from the end of the 18th century shows towns, cities, and roads. Geographic features such as hills, mountains, rivers, and lakes are indicated. The legend denotes borough towns which send members to Parliament, market towns, parish towns, seats and noted houses, Ancient Roman and Celtic ruins,roads and camps are shown, as are turnpike roads, castles, military roads, bens (mountains), country roads, lochs, rivers and burns, hills, and a distance table. Historic Roman names for certain features are written in separate font. Each county is outlined by watercolor. Thousands of family and place names from the 1700s are indicated on this map, making it highly useful for Scottish genealogy.</abstract>
+   <abstract>John Ainslie was a Scottish surveyor and cartographer active in the late 18th and early 19th centuries. He was born in Jedburgh, Scotland in 1745 and educated at the Jedburgh Grammar School. He served as an apprentice to the Geographer to King George III, Thomas Jefferys. Ainslie returned to Scotland and began work on surveying and mapping Scottish counties and islands. From 1787 to 1789 he worked on his groundbreaking map of Scotland, the most accurate of its time. In 1812 he published A Comprehensive Treatise on Land Surveying comprising the Theory and Practice of all its Branches, one of the preeminent surveying works of the time. Ainslie died in Edinburgh in 1828.</abstract>
+   <originInfo>
+      <dateCreated>1800</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Scotland--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Scotland. Parliament</topic>
+   </subject>
+   <subject>
+      <topic>Roman history</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <geographic>Scotland</geographic>
+   </subject>
+   <subject>
+      <geographic>Edinburgh (Scotland)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>43203627</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1373</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

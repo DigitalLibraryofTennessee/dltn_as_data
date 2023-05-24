@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the British American Plantations (1754)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/16</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/16</url>
+   </location>
+   <name>
+      <namePart>Bowen, Emanuel, -1767</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>"A map of the British American plantations, extending from Boston in New England to Georgia; including all the back settlements in the respective provinces as far as the Mississippi." An exceptional map of the American colonies and backcountry published in London at the time of the French &amp; Indian War. It shows the territory of the "Cherakees" "Chikasas" and Upper Creeks with their towns and villages, including the site of "Tanase" from which the future state's name derived. On the Cumberland River is shown “Walkers Settlement 1750,” possibly a reference to the French Lick trading outpost and Dr. Thomas Walker’s 1750 exploration down the Cumberland. What was later called the Tennessee River is named the “Hugehego or Akansea R[iver]” on which an upstream “English Fort"—probably Fort Loudoun—is indicated.</abstract>
+   <abstract>Emanuel Bowen was an English map maker in the 18th century. He produced many well-known maps of the American colonies as well as county maps of England. His son was map maker Thomas Bowen. Two of his apprentices were renowned cartographers Thomas Kitchin and Thomas Jefferys. He served as geographer to King George II of England and Louis XV of France.</abstract>
+   <originInfo>
+      <dateCreated>1754</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Atlantic Coast (North America)</topic>
+   </subject>
+   <subject>
+      <topic>North America--Civilization--British influences</topic>
+   </subject>
+   <subject>
+      <topic>United States--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Great Britain--Colonies--America--Early works to 1800--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Colonies</topic>
+   </subject>
+   <subject>
+      <topic>Settlements</topic>
+   </subject>
+   <subject>
+      <geographic>East (U.S.)</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>84884978</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2437</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

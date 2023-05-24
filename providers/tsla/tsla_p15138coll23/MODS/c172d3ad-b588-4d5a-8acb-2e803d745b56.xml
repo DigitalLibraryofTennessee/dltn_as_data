@@ -1,0 +1,111 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new map of part of the United States of North America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/48</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/48</url>
+   </location>
+   <name>
+      <namePart>Cary, John, approximately 1754-1835</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map was contained in Cary's New Universal Atlas (London, 1808). Also note the spelling of Tennessee in this map (Tenassee) and the spelling of Fort Loudoun (Lowdon). Map shows many Indian towns and villages of the Cherokee, Creek, Chickasaw and Choctaw nations, as well as European forts of the frontier period.</abstract>
+   <abstract>Much of the data on this map dates from the earlier 18th century period of the Old Southwest frontier.</abstract>
+   <originInfo>
+      <dateCreated>1806</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>South Atlantic States</topic>
+   </subject>
+   <subject>
+      <topic>West Indies</topic>
+   </subject>
+   <subject>
+      <topic>Cherokee Nation</topic>
+   </subject>
+   <subject>
+      <topic>Creek Nation</topic>
+   </subject>
+   <subject>
+      <topic>Chickasaw Nation</topic>
+   </subject>
+   <subject>
+      <topic>Choctaw Nation</topic>
+   </subject>
+   <subject>
+      <topic>Native Americans</topic>
+   </subject>
+   <subject>
+      <topic>American frontier</topic>
+   </subject>
+   <subject>
+      <topic>Frontier and pioneer life--United States</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Bays (Bodies of Water)</topic>
+   </subject>
+   <subject>
+      <topic>Islands</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <topic>Oceans</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Indian encampments</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>18562685</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1497</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

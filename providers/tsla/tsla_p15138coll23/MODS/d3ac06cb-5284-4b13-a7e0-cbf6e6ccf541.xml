@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Geographically correct map of the United States issued by Union Pacific Railroad</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10257</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10257</url>
+   </location>
+   <name>
+      <namePart>Collins, C. J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This color 1942 map shows the locations of military installations in United States including air fields: bases and stations, naval bases, and army camps: forts and posts. There are also two inset maps showing connecting lines over Pacific and Atlantic Oceans. There are also notations made on various major cities, presumably made by the previous owner. The single and double lines of the Union Pacific railroad are indicated. All of this is overlaid on a standard map of the United States showing cities, roads, rivers, lakes, and national parks. There is a list of military posts on verso.</abstract>
+   <originInfo>
+      <dateCreated>1942</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Railroads--United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Military bases--United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Navy-yards and naval stations--United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Air bases--United States--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Union Pacific Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Military bases</topic>
+   </subject>
+   <subject>
+      <topic>Navy yards &amp; naval stations</topic>
+   </subject>
+   <subject>
+      <topic>Air bases</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>867</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>742019058</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 54</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

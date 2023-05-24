@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>United States (appr. 1798)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9065</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9065</url>
+   </location>
+   <name>
+      <namePart>Wyld, James, 1790-1836</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of the United States depicting approximately 1796-1798. Georgia still spans to the Mississippi River, the Northwest Territory exists, and Tennasee [Tennessee] has been admitted to the union. This map curiously shows "Franklinia" in East Tennessee, the site of the failed state of Franklin, one of the few published map to do so. It also depicts the Ohio Company as part of the Northwest Territory, and "Main," [Maine] seemingly unattached to "Massachusets" [Massachusetts]. Each state is outlined in color. Cities, towns, rivers, forts, Native American tribes, and a few notes related to the Lewis and Clark and Lt. Pike expeditions are also denoted in the map. An engraving of Niagara Falls is located in the bottom right. The map contains a number of errors including spelling of states' names, the location of Franklinia, the placement of Indiana, reference to the Northwest Territory as "Western Territory," and other geographical errors.</abstract>
+   <originInfo>
+      <dateCreated>1813</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Lewis and Clark Expedition</topic>
+   </subject>
+   <subject>
+      <topic>Franklin (State)</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Edinburgh (Scotland)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>775</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>993440645</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 51</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

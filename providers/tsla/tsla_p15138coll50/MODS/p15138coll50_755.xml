@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>C.C. Thompson General Store</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll50/id/755</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll50/id/755</url>
+  </location>
+  <abstract>C.C. Thompson General Store, located on Duplex Road. People are sitting outside on the porch of the store.</abstract>
+  <abstract>Clinton C. Thompson (1878-1952) was a groceryman and farmer and native of the Duplex community and of Thompsons Station. The Thompson Store is a property in Duplex, Tennessee that was listed on the National Register of Historic Places (NRHP) in 1988. and delisted in 2009. It is a one-story, wood-frame building dating from approximately 1890-1900 that was the general store and post office of the crossroads community of Duplex into the mid-1900s.</abstract>
+  <originInfo>
+    <dateCreated>1910</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>General stores</topic>
+  </subject>
+  <subject>
+    <topic>Stores &amp; shops</topic>
+  </subject>
+  <subject>
+    <topic>People</topic>
+  </subject>
+  <subject>
+    <topic>Barrels</topic>
+  </subject>
+  <subject>
+    <topic>Horses</topic>
+  </subject>
+  <subject>
+    <geographic>Spring Hill (Tenn.); Williamson County (Tenn.); Duplex (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Looking Back at Tennessee Photograph Collection, 1890-1981</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library &amp; Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

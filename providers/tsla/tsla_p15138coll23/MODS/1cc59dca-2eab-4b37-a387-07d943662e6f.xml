@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>State of Tennessee coal fields and producing districts (1919)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9015</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9015</url>
+   </location>
+   <name>
+      <namePart>Lesher, C. E. (Carl Eugene), 1885-</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This U.S. Geological Survey map of Tennessee illustrates the coal fields of the Cumberland Plateau in the early 1900s. Areas underlain by coal bearing rocks are shown in tan and principal coal producing districts are shown in red, with the names of large coal fields indicated by name. The map shows the states' counties, including cities, towns, railroads, rivers, and creeks.</abstract>
+   <abstract>Coal mining in Tennessee first began in the 1840s. However, it did not become an important industry until after the Civil War, when railroad construction made it easier for miners to reach deposits and for coal to reach cities. In the 1870s, Tennessee was tenth in bituminous, or soft, coal production, with output primarily in plateau counties. Around this time, investors purchased huge tracts of land and controlled the most fruitful mines. From 1909 to 1939, coal was the most valuable mineral resource in Tennessee. Production burgeoned during World War II and again in the 1970s, topping out at 11.2 million tons in 1972. During this time, Tennessee ranked eleventh nationally in production, but by the 1990s the value of coal production had fallen by approximately 66%.</abstract>
+   <originInfo>
+      <dateCreated>1919</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Geology--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Coalfields--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Coal</topic>
+   </subject>
+   <subject>
+      <topic>Geology</topic>
+   </subject>
+   <subject>
+      <topic>Industry</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Washington (D.C.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>50395080</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2135</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

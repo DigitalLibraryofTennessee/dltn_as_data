@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Town of Port Royal</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10179</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10179</url>
+   </location>
+   <name>
+      <namePart>Bailey, Henry L.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Microfilm copy of an 1836 deed book showing a plat of the small town of Port Royal, Tennessee on the Red River. Public square, streets and town lots are all denoted.</abstract>
+   <abstract>Port Royal is one of the earliest white settlements in Middle Tennessee. Incorporated in 1797, its position at the confluence of important upper MIddle Tennessee waterways saw it become an important regional commercial center. Because of this, one of Tennessee's most important stagecoach roads ran through Port Royal. The road, used by the Cherokee forced from their homeland on the Trail of Tears, crossed the Red River at Port Royal. The Civil War brought economic collapse to the South and when the railroad skipped Port Royal, its days as an important economic center were over. Its historic importance led to the creation of Port Royal State Park, which contains the town.</abstract>
+   <originInfo>
+      <dateCreated>1836</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Port Royal (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Microfilms</topic>
+   </subject>
+   <subject>
+      <geographic>Port Royal (Tenn.) Montgomery County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Montgomery County Deed Books</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Montgomery County Deed Books, Roll 111, Deed Book P, Page 119.</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

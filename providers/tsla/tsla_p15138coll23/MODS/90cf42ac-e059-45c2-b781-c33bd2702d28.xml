@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Town of Nashville</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9094</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9094</url>
+   </location>
+   <name>
+      <namePart>Cartwright, H. H.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A modified early 20th century reproduction of original Nashville town lots, which shows early Nashville lot owners. The Cumberland River is positioned at the bottom of the map, with the Public Square and later features such as City Hall and Transfer Station identified. Some recognizable names include Hardy Murfree, James Robertson, John Boyd, Martin Armstrong, Elijah Robertson, William Blount, John Rice, William Crutcher, Aubrey Crutcher, John Cockrill, Andrew Ewing, Russell Gower, James Thompson, Bennett Searcy, Boyd McNairy, John Overton, James Shaw, Thomas Deaderick, and Timothy Demonbreun, among others. Early street names are shown. "Plat made prior to the year 1800. From court records of Orange County, at Hillsboro, N.C. Copied from Nashville American, Oct. 26, 1902." This may be a revised derivative of the 1805 Robert Searcy plat map of Nashville.</abstract>
+   <originInfo>
+      <dateCreated>1902</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville (Tenn.)--History--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Plazas</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Plats</topic>
+   </subject>
+   <subject>
+      <topic>Blueprints</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2324</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

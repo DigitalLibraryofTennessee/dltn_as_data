@@ -1,0 +1,94 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Nashville. Plate 1 from G. M. Hopkins' Atlas of Nashville (1889)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10056</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10056</url>
+   </location>
+   <name>
+      <namePart>G.M. Hopkins &amp; Co.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Plate one from the 1889 Hopkins Atlas of Nashville showing downtown Nashville. The county court house, city hall, the State Capitol, and numerous churches are all named. Some businesses are indicated, as is the opera house, and a theater. Most buildings are brick, built after the 1856 fire that devastated the area around the public square.</abstract>
+   <abstract>Griffith Morgan Hopkins was born around 1836, however the exact date is unknown. He first began printing maps in 1857 and continued until his retirement in 1900. He founded G. M. Hopkins &amp; Co. with his brother Henry W. Hopkins, and together they produced many city and county atlases, primarily of the northeast, from their shop in Philadelphia. Their 1908 Atlas of Nashville is a fine, block-by-block depiction of the town in a period of growth to a modern urban center. G. M. Hopkins &amp; Co. continued on after the founders' retirements until the Great Depression ended the demand for their atlases. The company was sold to the Franklin Survey Company in 1943, with the name intact, due to its association with quality.</abstract>
+   <originInfo>
+      <dateCreated>1889</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Nashville and Davidson County (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Nashville (Tenn.)--History--Sources</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Cemeteries</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Enterprise</topic>
+   </subject>
+   <subject>
+      <topic>Transportation</topic>
+   </subject>
+   <subject>
+      <topic>Industry</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Hopkins Atlases</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Stack 8 - Oversize Volumes</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

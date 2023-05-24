@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Augusta Taurinorum</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10211</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10211</url>
+   </location>
+   <name>
+      <namePart>Blaeu, Joan, 1596-1673</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This early aerial city view shows the medieval city of Turin, Italy. The Dukes of Savoy heavily fortified the city, adding the massive walls and star fort in the bottom left in the 16th and 17th centuries. The ancient Roman road grid is still visible in the city.</abstract>
+   <abstract>This edition of the Theatre des Etats de son Altesse Royale le Duc de Savoye, Prince de Piémont, Roy de Cypre was published in 1700 by Adrien Motjens. He had acquired the copper plates of Joan Blaeu just a few years prior. Blaeu originally published the atlas before his death in 1673 and his heirs published versions until the sale to Motjens. It was financed by the Duke of Savoy to display his wealth and the grandeur of his kingdom.</abstract>
+   <originInfo>
+      <dateCreated>1700</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Turin (Italy)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Atlases</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Atlases</topic>
+   </subject>
+   <subject>
+      <topic>Aerial views</topic>
+   </subject>
+   <subject>
+      <geographic>Turin (Italy)</geographic>
+   </subject>
+   <subject>
+      <geographic>The Hague (Netherlands)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TNS Oversize</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>DG 616.3 q.B4 v.1</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

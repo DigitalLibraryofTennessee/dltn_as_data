@@ -1,0 +1,87 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Bird's-eye view of Nashville, Tenn. in the 1880s</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/334</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/334</url>
+   </location>
+   <name>
+      <namePart>Wellge, H. (Henry)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This is an illustrated, hand tinted map of Nashville, (Tenn.) during the 1880s from an eastern perspective. Map has detailed and color-coded illustrations of Nashville commercial buildings, churches, houses, and structures from an aerial view. There is a numbered key at the bottom that provides names of businesses and buildings. The Cumberland River runs through the lower section of the map with steam boats passing along it. The city is in the center of the map and hills are in the distance in the upper section.</abstract>
+   <abstract>The original map was drawn and published originally by H. Wellge &amp; Co., Milwaukee, in 1888. This is a facsimile of a print owned by Mr. Stanley F. Horn and reproduced with his kind permission in 1958 by First American National Bank of Nashville. It was tinted April 1969 by Katherine W. Ewing and presented to the Manuscript Division of the Tennessee State Library and Archives. A framed print of this map hangs in the Manuscripts area of the South Reading Room at TSLA.</abstract>
+   <originInfo>
+      <dateCreated>1958</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.) Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Schools</topic>
+   </subject>
+   <subject>
+      <topic>Dwellings</topic>
+   </subject>
+   <subject>
+      <topic>Stores and shops</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.16589</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.78417</geographic>
+   </subject>
+   <subject>
+      <geographic>Milwaukee (Wis.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>2013-039</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>39890126</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 484</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Illustrations</form>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

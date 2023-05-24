@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the city of Memphis from the latest survey</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9442</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9442</url>
+   </location>
+   <name>
+      <namePart>Murray, A. J.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This map of Memphis, just after the city's first widespread yellow fever epidemic of the 1870s, shows street names, market houses, railroad depots and cemeteries. Noted on the left side of the map is the Leath Orphan Asylum and the colored orphan asylum a few streets over. Civil districts are numbered. Circles radiate from city hall indicating distance. Originally from the 1874 Memphis City Directory.</abstract>
+   <abstract>John Rice was granted 5,000 acres along the Mississippi River on the Fourth Chickasaw Bluff in 1789 by the state of North Carolina. John Overton purchased it from Rice's brother Elisha Rice in 1794 for £1,000. Overton sold half of the tract to Andrew Jackson, who sold a portion of his claim to James Winchester for $5,000. The land along the river was set aside as public land to lay out the city of Memphis.</abstract>
+   <originInfo>
+      <dateCreated>1872</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Memphis (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi River</topic>
+   </subject>
+   <subject>
+      <topic>Elmwood Cemetery (Memphis, Tenn.) Wolf River (Miss. and Tenn.) Hatchie River (Miss. and Tenn.) Mobile and Ohio Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Memphis and Charleston Railroad Company</topic>
+   </subject>
+   <subject>
+      <topic>Mississippi and Tennessee Railroad</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Railroad stations</topic>
+   </subject>
+   <subject>
+      <topic>Cemeteries</topic>
+   </subject>
+   <subject>
+      <topic>Government facilities</topic>
+   </subject>
+   <subject>
+      <topic>Parks</topic>
+   </subject>
+   <subject>
+      <topic>Orphanages</topic>
+   </subject>
+   <subject>
+      <geographic>Memphis (Tenn.) Shelby County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1043916087</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 650A</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+      <form>Surveys</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of the ninth district in the state of Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10210</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10210</url>
+   </location>
+   <name>
+      <namePart>Wilson, Samuel</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map of Tennessee's 9th surveyor's district. The district comprises Hardin, Decatur, Henderson, McNairy, and Chester counties. Waterways include the Forked Deer and Tennessee rivers and their tributaries. On verso: "Original Surveys of Tennessee. 9th District." Manuscript; pen-and-ink. Mounted on cloth backing. Shows fitness of land for cultivation.</abstract>
+   <abstract>The Ninth District "“beg[a]n thirty-five miles west of the Tennessee River, on the south boundary of the State; to run north according to the true meridian fifty-five miles for its western boundary; thence east to the Tennessee River; thence [south] up the Tennessee, to the beginning; which shall be known and distinguished by the name of the Ninth District.” Samuel Wilson was elected surveyor of the district by the Tennessee Senate in November 1819, and kept his office in Reynoldsburg, Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>1819</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee, West--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Forked Deer River (Tenn.) Tennessee River</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Land use</topic>
+   </subject>
+   <subject>
+      <topic>Land grants</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee; Hardin County (Tenn.) Decatur County (Tenn.) McNairy County (Tenn.) Henderson County (Tenn.) Chester County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>39795685</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 404</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

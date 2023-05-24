@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Geological map of Davidson, Williamson and Maury Counties (1843)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/169</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/169</url>
+   </location>
+   <name>
+      <namePart>Troost, Gerard, 1776-1850</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Drawn by Gerard Troost, Tennessee's first State Geologist, this geological map of three Tennessee counties (Davidson, Williamson, and Maury) shows main waterways, county seats and towns, main roads, geographical identifications, and transversal sections of the land. Williamson County is outlined in red, while Maury and Davidson Counties are outlined in blue. The map appears to be hand-colored. Certain features such as the penitentiary, cedar glades and ""mastodon caves"" are shown.</abstract>
+   <abstract>This map was printed in the Seventh Report (to the Tennessee General Assembly) of Dr. Gerard Troost, State Geologist. Troost, a native of the Netherlands, was Tennessee's first state geologist and first president of the Philadelphia Academy of Natural Sciences. He served as professor of chemistry, geology, and mineralogy at the University of Nashville for 22 years. For more information on Troost, consult the article in the Peabody Journal of Education 30, no. 5 (March 1953) by Ellen V. Piers, called "Girard Troost, Pioneer Scientist," pages 265-274.</abstract>
+   <originInfo>
+      <dateCreated>1843</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Agriculture</topic>
+   </subject>
+   <subject>
+      <topic>Davidson County (Tenn.) Maury County (Tenn.) Williamson County (Tenn.) Geology--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>40115939</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 516</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

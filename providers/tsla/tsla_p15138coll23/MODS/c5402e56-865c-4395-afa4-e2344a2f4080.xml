@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A new and accurate map of America</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9373</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9373</url>
+   </location>
+   <name>
+      <namePart>Bowen, Emanuel, -1767</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Emanuel Bowen's map of North and South America and part of northern Africa. The coasts are depicted in detail, with some North American colonial boundaries included. Some tribal designations are shown. Geographic features include rivers, lakes, mountains, gulfs, oceans, banks, and bays. Western North America is called New Albion and most of Northwest North America is listed as "Parts Undiscovered" Includes Pacific Islands with dates and names of explorers. The cartouche depicts native peoples, a tropical scene, European colonists, and a wooden chest.</abstract>
+   <abstract>Emanuel Bowen was an English map maker in the 18th century. He produced many well-known maps of the American colonies as well as county maps of England. His son was map maker Thomas Bowen. Two of his apprentices were renowned cartographers Thomas Kitchin and Thomas Jefferys. He served as geographer to King George II of England and Louis XV of France.</abstract>
+   <originInfo>
+      <dateCreated>1748</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>North America--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Discoveries in geography</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Geography</topic>
+   </subject>
+   <subject>
+      <topic>Trade winds</topic>
+   </subject>
+   <subject>
+      <geographic>North America</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Book Stacks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>8463078</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>G160 q.H29 vol. 2</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Gallatin and Murfreesboro Railroad (1869)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9234</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9234</url>
+   </location>
+   <name>
+      <namePart>Foster, Wilbur F.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map showing the proposed route of the Gallatin and Murfreesboro Railroad, which was never actually built. The cities of Gallatin, Lebanon, and Murfreesboro are shown along with the roads that cross the proposed railroad. Geographic features such as the Cumberland River, various creeks, and topographical relief are depicted. Certain landowners, including an inordinate number of widows, tollgates, and churches along the proposed railroad are named.</abstract>
+   <abstract>The Gallatin and Murfreesboro Railroad was founded in 1867 but never constructed. The company sold stock and surveyed a potential route, but a combination of hostile railroad and business interests in Nashville and a lack of fundraising bankrupted the railroad.</abstract>
+   <originInfo>
+      <dateCreated>1869</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Gallatin (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Murfreesboro (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads--Tennessee--Gallatin</topic>
+   </subject>
+   <subject>
+      <topic>Railroads--Tennessee--Murfreesboro</topic>
+   </subject>
+   <subject>
+      <topic>Cumberland River (Ky. and Tenn.)</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Gallatin (Tenn.) Sumner County (Tenn.) Murfreesboro (Tenn.) Rutherford County (Tenn.) Wilson County (Tenn.) Lebanon (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.38838</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.44666</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1023036771</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 895</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

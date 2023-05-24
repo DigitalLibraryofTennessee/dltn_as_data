@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of US Army Forts and Indian Agencies in the Department of Dakota (1878)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/176</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/176</url>
+   </location>
+   <name>
+      <namePart>Buell, George Pearson, 1833-1883</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map on linen showing the locations of army posts, Sioux Indian agencies, and distances and transportation routes in the Dakotas during the Indian Wars of the 1860s and 1870s. Area shown extends from the Mississippi River in Minnesota to western Montana Territory, basically encompassing lands of the Sioux (Lakota) and Cheyenne tribes. Map drawn by US Army cartographer George Buell during the western Indian Wars and part of the rich Great Plains map collection in TSLA's Buell-Brien Papers.</abstract>
+   <originInfo>
+      <dateCreated>1878</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Dakota War, Minnesota, 1862</topic>
+   </subject>
+   <subject>
+      <topic>Dakota Territory</topic>
+   </subject>
+   <subject>
+      <topic>Fort Custer (Mont.)</topic>
+   </subject>
+   <subject>
+      <topic>Military bases--Dakota Territory--Maps, Manuscript--1878</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Military camps</topic>
+   </subject>
+   <subject>
+      <geographic>Dakota Territory</geographic>
+   </subject>
+   <subject>
+      <geographic>Minnesota</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Buell-Brien Papers 1805-1943</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Ac. No. 267</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>71341641</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>M-12-18</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

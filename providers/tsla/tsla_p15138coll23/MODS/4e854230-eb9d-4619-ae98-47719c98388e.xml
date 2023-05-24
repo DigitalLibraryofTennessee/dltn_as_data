@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Hand-drawn map of the United States by German prisoner of war</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10241</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10241</url>
+   </location>
+   <name>
+      <namePart>Ruffing</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Hand-drawn map of most of the contiguous United States drawn by a German prisoner of war Ruffing. The map includes state borders, some cities, rivers, and railroads. Many state names are spelled phonetically as they would be in German.</abstract>
+   <abstract>Harry Elliott Dudley was born in Corpus Christi, Texas, on July 27, 1895. During World War I he served as sergeant in the United States Marine Corps at its Noncommissioned Officers School at Parris Island, South Carolina. During the interbellum period, Dudley held a number of jobs including a teaching position at the Augusta Military Academy and a brief stint in minor league baseball. He joined the National Guard in 1924. In 1940, his unit was called into active service. From December 1941 until January 1943, he served as Post Inspector and Liaison Officer at Fort Ord. In January 1943, he was transferred to the Office of the Provost Marshal General, which administered internment camps for enemy prisoners of war. In March 1943, he was assigned to the internment camp in Crossville, Tennessee, and eventually made its commanding officer. Dudley retired from the Army in 1954 and died in Sikeston, Missouri, in 1967.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1943</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Prisoner-of-war camps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Dudley, Colonel Harry E. Papers,1916-1966</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Mf. 2050</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Mf. 2050, B.10, F.14</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Two horse-drawn carriages on a street</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll48/id/49</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll48/id/49</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll48/49/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Kinsall, J.Y.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Slide film (or reversal film) of two horse-drawn carriages on a paved road lined by palm trees. Kinsall was in Morocco when Japan surrendered during World War II, which brought the war to an end and would be known as Victory over Japan Day (or V-J Day).</abstract>
+  <abstract>Victory over Japan Day (also known as V-J Day) is the day when Imperial Japan surrendered to the Allies during World War II, which effectively brought the war to an end. The term has been applied to several different days. In Japan, their surrender was announced on the afternoon of August 15, 1945 and because of time zone differences, other countries such as the United States and United Kingdom heard word of Japan's surrender on August 14, 1945. The United States celebrates V-J Day on September 2nd when Japan formally surrendered, when the signing of the Japanese Instrument of Current took place on board of the USS Missouri in Tokyo Bay, thus officially ending World War II.</abstract>
+  <originInfo>
+    <dateCreated>approximately 1945</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Casablanca (Morocco)</topic>
+  </subject>
+  <subject>
+    <topic>World War, 1930-1945</topic>
+  </subject>
+  <subject>
+    <topic>V-J Day, 1945</topic>
+  </subject>
+  <subject>
+    <topic>Carriages &amp; coaches</topic>
+  </subject>
+  <subject>
+    <topic>Palms</topic>
+  </subject>
+  <subject>
+    <topic>People</topic>
+  </subject>
+  <subject>
+    <geographic>Casablanca (Morocco)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Lt. Col. J.Y. Kinsall Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>D-0025</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+    <form>Slides</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,97 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>The Appalachian Trail</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9335</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9335</url>
+   </location>
+   <name>
+      <namePart>Appalachian Trail Conference</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Barry, Steve</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Three maps of the Appalachian Trail in Tennessee. Map includes roads, cities, towns, contour lines, shelters, campgrounds, campsites, mileage, post offices, and other essential stops for trail-goers, mountains, elevation, county borders, rivers, creeks, and other hiking trails. An elevation cross-section is included below the trail map. Map 1. Cherokee and Jefferson National Forests, Tennessee Valley Authority, and National Park Service lands--Map 2. Moreland Gap Shelter to Sams Gap, U.S. 23, Cherokee and Pisgah National Forests--Map 3. Sams Gap, U.S. 23, to Davenport Gap, Tenn. 32, Cherokee and Pisgah National Forests. Text on verso of Map 1: Welcome to the Appalachian Trail! Relief shown by contours and spot heights. Includes 6 cross sections. 3 maps on 2 sheets.</abstract>
+   <originInfo>
+      <dateCreated>1995</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Trails--Tennessee--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Trails--North Carolina--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Appalachian Trail--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Trails</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Camps</topic>
+   </subject>
+   <subject>
+      <topic>Post offices</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee; North Carolina</geographic>
+   </subject>
+   <subject>
+      <geographic>Harpers Ferry (W. Va.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>99-044</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>41181503</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2930A-B</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

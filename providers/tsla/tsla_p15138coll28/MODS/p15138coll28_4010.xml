@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>4-H club</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4010</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4010</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4010/manifest.json</url>
+  </location>
+  <abstract>Photograph of Mrs. Fred Jackson and her Mt. Zion 4-H Club in Cheatham County. The group of children is composed of both girls and boys, and the children are holding cone shaped objects [hats]. They are watching the man lift up a wooden contraption.</abstract>
+  <abstract>The Home Food Supply Program was a war-relief program instituted by the administration of Gov. Prentice Cooper. The club had asked permission to sponsor the program in their community.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cooper, Prentice, 1895-1969</topic>
+  </subject>
+  <subject>
+    <topic>Boys--Societies and clubs</topic>
+  </subject>
+  <subject>
+    <topic>Girls--Societies and clubs</topic>
+  </subject>
+  <subject>
+    <topic>Young farmers' clubs</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>4-H clubs</topic>
+  </subject>
+  <subject>
+    <topic>Youth organizations</topic>
+  </subject>
+  <subject>
+    <geographic>Cheatham County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agriculture</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

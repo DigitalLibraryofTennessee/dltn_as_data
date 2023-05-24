@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>National Audobon Society membership card</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/536</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/536</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/536/manifest.json</url>
+  </location>
+  <abstract>Membership card for the National Audobon Society issued to Miss Margaret Croft. The expiration date is October 1973.</abstract>
+  <abstract>The National Audubon Society, founded in 1905, is a non-profit environmental organization which advocates the conservation of birds, other wildlife, and healthy ecosystems. The society has nearly 500 chapters in the United States and operates a number of nature centers, bird refuges, and natural areas.</abstract>
+  <originInfo>
+    <dateCreated>1973</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Membership cards</topic>
+  </subject>
+  <subject>
+    <topic>Audubon societies</topic>
+  </subject>
+  <subject>
+    <topic>Birds--Conservation--Societies, etc</topic>
+  </subject>
+  <subject>
+    <topic>Cards</topic>
+  </subject>
+  <subject>
+    <topic>Organizations</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Cards</form>
+    <form>Ephemera</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

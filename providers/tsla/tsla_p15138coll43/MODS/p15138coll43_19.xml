@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from William Frierson Cooper to David Reeve Arnell</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll43/id/19</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll43/id/19</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll43/19/manifest.json</url>
+  </location>
+  <abstract>This letter addresses the cholera epidemic in Tennessee and James K. Polk's death. It also provides a description of the funeral for Polk. This letter was included in a letter book, which were used to keep copies of letters that were sent and received by a person.</abstract>
+  <abstract>In January of 1849, a cholera epidemic began in Nashville, Tennessee and caused many deaths from 1849 to 1850. The Nashville cholera epidemic was part of a worldwide pandemic that occurred between 1842 and 1862. The sickness is transmitted through unsanitary water contaminated with cholera bacteria, usually from human waste. One of the Nashville residents that was afflicted with cholera was James K. Polk, who died of the disease not long after he left the presidency in 1849.</abstract>
+  <originInfo>
+    <dateCreated>1849 June 18</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Polk, James Knox, --1795 - 1849</topic>
+  </subject>
+  <subject>
+    <topic>Presidents</topic>
+  </subject>
+  <subject>
+    <topic>Cholera</topic>
+  </subject>
+  <subject>
+    <topic>Correspondence</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Cooper Family Papers (1716-1968)</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>67-192, 67-193, 67-195, 67-196, 69-186, 75-007</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

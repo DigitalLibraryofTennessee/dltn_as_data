@@ -1,0 +1,99 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Old Stone Fort near Manchester, Tennessee</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9121</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9121</url>
+   </location>
+   <name>
+      <namePart>Kocsis, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>19th century published map of the area near the so-called Old Stone Fort, a major Woodland prehistoric site near Manchester, Tennessee. Despite the name, reflecting early confusion among antiquarians about the origin and character of these native earthen works, Old Stone Fort at the fork of the Duck and the Little Duck Rivers was not a fortification. It was likely a ceremonial or gathering spot for southeastern native Americans some 1500-2000 years BP, as well as an historic mill site during the 1800s. Old Stone Fort is drawn on 40 acres within "walls" with an associated "ancient canal," "ancient stone dam," and "ancient mound." Nearby waterfalls, mill dams, and caves are denoted. The McMinnville [and Manchester] Railroad is shown as is the McMinnville Road, the Murfreesboro Road, Woodbury Road, and Mill Road. The town of Manchester is drawn along with the town spring and railroad depot.</abstract>
+   <abstract>The map's author, Alexander Kocsis, was a Hungarian immigrant and one of the first to argue that Old Stone Fort was a native American creation and that it had ceremonial rather than military significance. The site contains a Middle Woodland period earthen enclosure in Coffee County, Tennessee. Originally thought to have been constructed by the Spanish under de Soto, radiocarbon dating showed that it was built closer to 2,000 years ago.</abstract>
+   <originInfo>
+      <dateCreated>undated (approximately 1870)</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Manchester (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Duck River (Tenn.) Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Woodland Culture</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Railroads</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Caves</topic>
+   </subject>
+   <subject>
+      <topic>Dams</topic>
+   </subject>
+   <subject>
+      <topic>Excavation sites</topic>
+   </subject>
+   <subject>
+      <topic>Earthworks (Archaeology)</topic>
+   </subject>
+   <subject>
+      <topic>Archaeological sites</topic>
+   </subject>
+   <subject>
+      <geographic>Coffee County (Tenn.) Manchester (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>35.483186</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.107585</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Oversize</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 353</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Oversize 2</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>University of Tennessee-Memphis</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9270</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9270</url>
+   </location>
+   <name>
+      <namePart>Jones, Walk C. (architects)</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map showing the area of Memphis occupied by the University of Tennessee-Memphis campus. The various medical school buildings are shaded black, while all others are left unshaded. The legend also indicates university property, city property, and city buildings. Forrest Park, in the center of the map, has since been renamed Health Sciences Park. This map was created after 1936, the year that John Gaston Hospital opened, but before 1949, when the College of Dentistry moved locations.</abstract>
+   <abstract>The University of Tennessee College of Medicine in Memphis was established in 1911, when the College of Physicians and Surgeons and Nashville Medical College joined. It is the oldest public medical school in Tennessee.</abstract>
+   <originInfo>
+      <dateCreated>undated</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>University of Tennessee Center for the Health Sciences</topic>
+   </subject>
+   <subject>
+      <topic>Memphis (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Universities &amp; colleges</topic>
+   </subject>
+   <subject>
+      <topic>Medical education</topic>
+   </subject>
+   <subject>
+      <geographic>University of Tennessee, Memphis</geographic>
+   </subject>
+   <subject>
+      <geographic>35.139516</geographic>
+   </subject>
+   <subject>
+      <geographic>-90.033518</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>98-093</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1029201779</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2917</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

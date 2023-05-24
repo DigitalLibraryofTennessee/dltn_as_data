@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>A draught of the Cherokee Country: on the west side of the Twenty Four Mountains, commonly called Over the Hills</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/352</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/352</url>
+   </location>
+   <name>
+      <namePart>Timberlake, Henry, -1765</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A map drawn by British Army Lt. Henry Timberlake in 1762 that identifies the Cherokee villages on the Little Tennessee River and includes a list of the number of warriors available from each village.</abstract>
+   <abstract>British Lt. Henry Timberlake traveled to the Overhill Cherokee villages on the Little Tennessee river in late 1761 to explain the treaty signed at Fort Robinson to the Cherokees located there. He remained with the Cherokee until March 1762, keeping a journal that was published in 1765 and contains a detailed account of Cherokee life as well as this map. He later accompanied several Cherokee headmen, including Attakullakulla, the Little Carpenter, to London to meet with King George.</abstract>
+   <originInfo>
+      <dateCreated>approximately 1765</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Little Tennessee River Valley (Ga.-Tenn.)--Maps--Early works to 1800--Facsimiles</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America--Little Tennessee River Valley (Ga.-Tenn.)--Maps--Early works to 1800--Facsimiles</topic>
+   </subject>
+   <subject>
+      <topic>Indians of North America</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>562252067</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 332</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

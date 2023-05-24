@@ -1,0 +1,56 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Recipe for eye wash</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/371</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/371</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/371/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Polk, Margaret Phillips</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>One handwritten note, front and back, which has ingredients and instructions on to make eye wash for sore eyes. Recipe from Mrs. Rufus K. Polk.</abstract>
+  <abstract>Margaret Phillips Polk was the wife of Rufus King Polk (1866-1902) who was a Democratic member of the U.S. House of Representatives from Pennsylvania. He was born in Columbia, Tennessee, and attended Webb's Academy in Culleoka, Tennessee. Polk was related to Confederate States Army Brigadier General Lucius E. Polk (1833-1892), bishop and Lieutenant-General Leonidas Polk (1802-1864), and President James K. Polk (1795-1849).</abstract>
+  <originInfo>
+    <dateCreated>undated</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Traditional medicine</topic>
+  </subject>
+  <subject>
+    <topic>Eye--Care and hygiene</topic>
+  </subject>
+  <subject>
+    <topic/>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Recipes</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>

@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Home food supply</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4039</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4039</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4039/manifest.json</url>
+  </location>
+  <abstract>"Long" Bob Brown discussing with County Agent John McMahon of Cannon County methods that enable him always to have a home food supply on his farm. Mr. Brown, wearing overalls, shows his method of taking care of Irish potatoes in winter.</abstract>
+  <abstract>The Home Food Supply Program was a war-relief program instituted by the administration of Gov. Prentice Cooper.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Overalls</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Hats</topic>
+  </subject>
+  <subject>
+    <topic>Cooper, Prentice, 1895-1969</topic>
+  </subject>
+  <subject>
+    <topic>Food supply</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture</topic>
+  </subject>
+  <subject>
+    <topic>Home economics</topic>
+  </subject>
+  <subject>
+    <topic>Home food processing</topic>
+  </subject>
+  <subject>
+    <topic>Gardens</topic>
+  </subject>
+  <subject>
+    <topic>Potatoes</topic>
+  </subject>
+  <subject>
+    <topic>War relief</topic>
+  </subject>
+  <subject>
+    <geographic>Cannon County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agriculture</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

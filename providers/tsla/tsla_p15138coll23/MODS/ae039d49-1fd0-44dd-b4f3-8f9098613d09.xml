@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Movements of Gen. T. J. "Stonewall" Jackson, 1861-1863</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9705</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9705</url>
+   </location>
+   <name>
+      <namePart>Couper, William</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Map of the military movements of Thomas Jonathan "Stonewall" Jackson during the American Civil War. Depicts his route during the war along with the dates of his movements and battles in which he fought, and the route his body took from the time of his death until burial. The map is published compliments of Stonewall Jackson Memorial, Inc.,</abstract>
+   <abstract>Thomas Jonathan "Stonewall" Jackson was born on January 21, 1824 in Clarksburg, Virginia [West Virginia]. Jackson was accepted to United States Military Academy and graduated in 1846. He fought in the Mexican-American War, eventually gaining a brevet promotion to major. Following the war, he taught at the Virginia Military Institute until the outbreak of the Civil War. He was promoted to brigadier general by the end of June 1861 and earned his famous nickname at the First Battle of Bull Run on July 21, 1861. He was promoted to major general in October 1861, and given command of the Valley District where he earned fame and popularity in the South for his military success. After the Second Battle of Bull Run and Antietam, Jackson was promoted to lieutenant general, and was outranked only by Lee and Longstreet. At the Battle of Chancellorsville, he led a flanking maneuver that devastated the Union's right side. Jackson was shot by Confederate patrols upon returning to camp the night of the assault, May 2, and died eight days later from pneumonia on May 10, 1863.</abstract>
+   <originInfo>
+      <dateCreated>1933</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Jackson, Stonewall, 1824-1863</topic>
+   </subject>
+   <subject>
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>Virginia</geographic>
+   </subject>
+   <subject>
+      <geographic>Lexington (Va.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>806</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee Historical Society</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>THS 17</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

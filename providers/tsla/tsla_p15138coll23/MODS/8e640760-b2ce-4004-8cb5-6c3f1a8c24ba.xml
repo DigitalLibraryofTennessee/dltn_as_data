@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Road from Nashville to the Georgia Road</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/10016</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/10016</url>
+   </location>
+   <name>
+      <namePart>Drake, John</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>A map accompanying a letter from John Drake to Gov. John Sevier detailing the Road from the courthouse in Nashville to the Georgia Road. The surveyed road runs first from Nashville to Fort Nash, a short-lived military outpost near the Coffee and Cannon county border. It continues on through Marion and Hamilton counties, giving us one of the earliest glimpses into the area that would be come Chattanooga. Brown, of Brown's Ferry, and Daniel Ross, Chief John Ross's father, are indicated. The road continues into Georgia, showing some of James Vann's property and cattle ground. It ends at the intersection with the Georgia Road. "Submitted to Gov. Sevier on Feb. 23, 1807." At least one sheet missing.</abstract>
+   <abstract>John Drake was born in 1761 in North Carolina. He accompanied John Donelson and James Robertson on the Cumberland River to Fort Nashborough and was a signatory of the Cumberland Compact. He acquired over 1000 acres on White’s Creek. According to the 1829 tax rolls, he enslaved 9 individuals to work his 1056 acres. He, John Coffee, and John Strother surveyed unoccupied land together in Middle Tennessee in the early 19th century. He died on October 29, 1834.</abstract>
+   <originInfo>
+      <dateCreated>1807</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Nashville (Tenn.)--Maps, Manuscript</topic>
+   </subject>
+   <subject>
+      <topic>Sevier, John, 1745-1815</topic>
+   </subject>
+   <subject>
+      <topic/>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Boundaries</topic>
+   </subject>
+   <subject>
+      <topic>Surveying</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Ferries</topic>
+   </subject>
+   <subject>
+      <topic>Correspondence</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.) Coffee County (Tenn.) Rutherford County (Tenn.) Marion County (Tenn.) Hamilton County (Tenn.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 1316</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

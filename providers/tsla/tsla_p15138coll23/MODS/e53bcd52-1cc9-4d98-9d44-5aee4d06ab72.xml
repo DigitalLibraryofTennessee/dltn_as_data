@@ -1,0 +1,96 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>An accurate map of North and South Carolina with their Indian frontiers (1775)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9119</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9119</url>
+   </location>
+   <name>
+      <namePart>Mouzon, Henry</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Extremely detailed map of North Carolina and South Carolina depicting the two colonies on the eve of the Revolutionary War. It shows state borders, county or precinct borders and names townships, towns, Cherokee villages, roads, forts, mills, and landowners (primarily in South Carolina). Geographic features include rivers, creeks, swamps, lakes, inlets, sounds, hills, and mountains. Courthouses, chapels, meetinghouses, ferries, and bridges are also denoted. Quite detailed as to road network and Indian trails; shows the English backcountry trading entrepot Fort Prince George surrounded by towns and villages of the Carolina Cherokee east of the Appalachian Mountains.</abstract>
+   <abstract>Henry Mouzon's map of the Carolinas was undoubtedly the most important of this region for decades after its initial publication. Originally a part of Thomas Jefferys' American Atlas, it was used by George Washington, Comte de Rochambeau, and Henry Clinton during the Revolutionary War (each of these reside in archives across the United States).</abstract>
+   <originInfo>
+      <dateCreated>1775</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Harbors--South Carolina--Beaufort--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Harbors--South Carolina--Charleston--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>South Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Sea Islands--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>North Carolina--Administrative and political divisions--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>South Carolina--Administrative and political divisions--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>North Carolina--Maps--Early works to 1800</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Roads</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <topic>Cities &amp; towns</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Mountains</topic>
+   </subject>
+   <subject>
+      <geographic>North Carolina; South Carolina</geographic>
+   </subject>
+   <subject>
+      <geographic>London (England)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>5400891</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 299</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

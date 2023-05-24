@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>World War I German map of military operations around Luxembourg</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/414</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/414</url>
+   </location>
+   <name>
+      <namePart>S.G.A.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>German imperial map ("Karte des Deutschen Reiches") of the area surrounding Luxembourg and the French municipality Evrange, or Ewringen. Hand-drawn troop dispositions are shown, possibly of American units belonging to the 33rd Infantry Division. These units would include the 108th Engineers, the 132nd Inf. Regt./66 Inf. Brigade, and the 122nd Machine Gun Battalion, all of which were part of the 33rd Division. This high-quality German map also shows topographical features and contour lines, as well as towns and villages, roads, woods and fields, farms, roads, railroads, buildings, etc. This map was originally part of the Brown, Ellsworth Papers, 1918-1962.</abstract>
+   <abstract>This map comes from the Ellsworth Brown Papers. Lt. Brown served as the Regimental Telephone Officer (RTO) of the 114th Field Artillery. The 114th was mustered into service in July 1917. They trained at Camp Sevier, South Carolina and were then sent to France. The 114th participated in the St. Mihiel offensive and the Argonne-Verdun offensive. After the Armistice, the 114th was sent to Luxembourg until its return home in March 1919.</abstract>
+   <originInfo>
+      <dateCreated>1915</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>World War, 1914-1918--Europe--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <geographic>Europe; Luxembourg</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 493</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Map of Shiloh battlefield</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/11</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/11</url>
+   </location>
+   <name>
+      <namePart>Thompson, Atwell</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Shows Confederate and Union troops and artillery positions on the first day of the Battle of Shiloh, April 6, 1862. Prepared under the direction of the Secretary of War by the Shiloh National Military Park Commission, pursuant to the establishment of the national military park in 1894. Surveyed and drawn by Atwell Thompson, Engineer in Charge. Battle lines located by Major D. W. Reed.</abstract>
+   <originInfo>
+      <dateCreated>1900</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Shiloh, Battle of, Tenn., 1862--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Shiloh National Military Park (Tenn. and Miss." United States--Civil War, 1861-1865</topic>
+   </subject>
+   <subject>
+      <topic>Military camps--Tennessee</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Military camps</topic>
+   </subject>
+   <subject>
+      <topic>Military life</topic>
+   </subject>
+   <subject>
+      <topic>Artillery (Weaponry)</topic>
+   </subject>
+   <subject>
+      <topic>Artillery (Troops)</topic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>16794094</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 654</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

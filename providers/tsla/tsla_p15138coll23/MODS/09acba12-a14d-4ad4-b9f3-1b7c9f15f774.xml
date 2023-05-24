@@ -1,0 +1,92 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Entrance gateway to the estate of Miss Margaret and Miss Elise Croft - landscape plan</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/9342</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/9342</url>
+   </location>
+   <name>
+      <namePart>McBryde, Bolton</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>Landscape architectural plan for the entrance of the Grassmere estate. This plan details the flora chosen to flank the entrance, including trees, plants, flowers, and ivy. Originally from the Grassmere Collection.</abstract>
+   <abstract>William Dickson Shute purchased the Grassmere property from his father Lee Shute. He redesigned the home from federal style into Italianate, adding extensive porches. Shute's daughter, Kate, married William Croft and their daughters, Margaret and Elise, were responsible for bequeathing the property to the Children's Museum (Adventure Science Center) and turning much of the land into a nature reserve and later the Nashville Zoo."</abstract>
+   <originInfo>
+      <dateCreated>1952</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>Grassmere Wildlife Park (Tenn.) Real property--Nashville (Tenn.)--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Estates</topic>
+   </subject>
+   <subject>
+      <topic>Landscaping plans</topic>
+   </subject>
+   <subject>
+      <topic>Architecture</topic>
+   </subject>
+   <subject>
+      <topic>Gardening</topic>
+   </subject>
+   <subject>
+      <topic>Plants</topic>
+   </subject>
+   <subject>
+      <topic>Flowers</topic>
+   </subject>
+   <subject>
+      <topic>Trees</topic>
+   </subject>
+   <subject>
+      <geographic>Nashville (Tenn.) Davidson County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>36.16589</geographic>
+   </subject>
+   <subject>
+      <geographic>-86.78417</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>89-046</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>1041858545</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 3069B</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

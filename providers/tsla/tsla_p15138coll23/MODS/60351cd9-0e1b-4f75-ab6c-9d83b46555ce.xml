@@ -1,0 +1,81 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>John Melish's map of the United States of America (1818)</title>
+   </titleInfo>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+   <location>
+      <url usage="primary" access="object in context">http://teva.contentdm.oclc.org/cdm/ref/collection/p15138coll23/id/8975</url>
+      <url access="preview">http://teva.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll23/id/8975</url>
+   </location>
+   <name>
+      <namePart>Melish, John, 1771-1822</namePart>
+      <role>
+         <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <abstract>This color map depicts the United States in the 1810s, from the east coast to the front range of the Rocky Mountains. It shows the watershed of the Missouri River in detail; certain notations reflect information from the Lewis and Clark expedition used to create the Western features of this map. For example, the point on the front range where Lewis &amp; Clark's travel by canoe stopped is indicated, as are Fort Mandan and many other native villages they encountered. Melish identified Indian territories including the Black Foot Indians, Fox Indians and other named Native American villages west of the Mississippi River. Melish relied on remote sources of information that sometimes led to cartographic errors: in this map he seriously misconstrues the brand new state of Illinois and its border with Indiana and repeats�a mistake from his Tennessee map of the same year by placing the Earthquake Lake (modern day Reelfoot Lake) on the wrong side of the Mississippi River.</abstract>
+   <abstract>John Melish, a Scottish cartographer, moved to the United States in 1811. Shortly thereafter he began a cartography business and published his first map, along with Henry Tanner, in 1813, depicting the War of 1812. After the war, he began work on a comprehensive map of the United States and, with consultation from Thomas Jefferson, produced the first American-made map showing America from coast to coast. In the late 1810s and early 1820s he produced many state maps simultaneously with his nation-wide ones. He is considered to be one of, if not the most important of the early mapmakers in America. His map of the United States, first published in 1816, visualized the continentalist belief held by many Americans during this era. The map was used as a propaganda piece in the ""manifest destiny"" era of the 1840s.</abstract>
+   <originInfo>
+      <dateCreated>1818</dateCreated>
+   </originInfo>
+   <recordInfo>
+      <recordContentSource>Tennessee State Library &amp; Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <subject>
+      <topic>United States--History--19th century--Maps</topic>
+   </subject>
+   <subject>
+      <topic>Fox Indians</topic>
+   </subject>
+   <subject>
+      <topic>Missouri River</topic>
+   </subject>
+   <subject>
+      <topic>Lewis and Clark Expedition</topic>
+   </subject>
+   <subject>
+      <topic>Maps</topic>
+   </subject>
+   <subject>
+      <topic>Villages</topic>
+   </subject>
+   <subject>
+      <topic>Rivers</topic>
+   </subject>
+   <subject>
+      <topic>Forts &amp; fortifications</topic>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Philadelphia (Pa.)</geographic>
+   </subject>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>TSLA Map Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Tennessee State Library and Archives</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>83771710</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Map 2454</title>
+      </titleInfo>
+   </relatedItem>
+   <physicalDescription>
+      <form>Maps</form>
+   </physicalDescription>
+   <typeOfResource>still image</typeOfResource>
+</mods>

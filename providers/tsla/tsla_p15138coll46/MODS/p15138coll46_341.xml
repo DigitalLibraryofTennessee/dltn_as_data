@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Confederate Circle diagram</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll46/id/341</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll46/id/341</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll46/341/manifest.json</url>
+  </location>
+  <abstract>Hand-drawn Confederate Circle diagram from Mt. Olivet Cemetery. In the center of the circle a quote is written, "Here lies the mortal remains of those who were buried where they fell, reinterred here, they are the vast unknown."</abstract>
+  <abstract>Mount Olivet Cemetery is a 206-acre cemetery in Nashville, Tennessee. After the Civil War, the Ladies Memorial Society of Nashville purchased land and established the Confederate Circle for approximately fallen 1,500 Confederate soldiers.</abstract>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Burial</topic>
+  </subject>
+  <subject>
+    <topic>Death and burial</topic>
+  </subject>
+  <subject>
+    <topic>Cemeteries</topic>
+  </subject>
+  <subject>
+    <topic>Mount Olivet Cemetery (Nashville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Mount Olivet Cemetery Records, 1848-1978</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-123</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Maps</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

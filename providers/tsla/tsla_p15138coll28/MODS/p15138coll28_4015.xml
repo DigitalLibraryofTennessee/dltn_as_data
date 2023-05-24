@@ -1,0 +1,88 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Girls in clover patch</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll28/id/4015</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll28/id/4015</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll28/4015/manifest.json</url>
+  </location>
+  <abstract>A group of girls in button clover, in front of a barn located in Wilson County, Tenn. Three of the girls are standing up, holding bouquets of flowers. The other eight girls are seated in the grass, some holding clover. A few girls are wearing bows in hair.</abstract>
+  <originInfo>
+    <dateCreated>1941 April 21</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Skirts</topic>
+  </subject>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Photography of farms</topic>
+  </subject>
+  <subject>
+    <topic>Barns</topic>
+  </subject>
+  <subject>
+    <topic>Clover</topic>
+  </subject>
+  <subject>
+    <topic>Pearls</topic>
+  </subject>
+  <subject>
+    <topic>Pearl jewelry</topic>
+  </subject>
+  <subject>
+    <topic>Necklaces</topic>
+  </subject>
+  <subject>
+    <topic>Agriculture</topic>
+  </subject>
+  <subject>
+    <topic>Horticulture</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Plants</topic>
+  </subject>
+  <subject>
+    <topic>Jewelry</topic>
+  </subject>
+  <subject>
+    <topic>Accessories (Clothing &amp; dress)</topic>
+  </subject>
+  <subject>
+    <topic>Hair ornaments</topic>
+  </subject>
+  <subject>
+    <geographic>Wilson County (Tenn.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee Department of Conservation Photograph Collection, 1937-1976</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Agriculture</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Photographs</form>
+  </physicalDescription>
+  <typeOfResource>still image</typeOfResource>
+</mods>

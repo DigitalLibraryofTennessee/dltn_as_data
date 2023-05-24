@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Letter from Bradford Dallas to Elise Croft about sending funds to the Crofts</title>
+  </titleInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+  <location>
+    <url usage="primary" access="object in context">http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll31/id/224</url>
+    <url access="preview">http://cdm15138.contentdm.oclc.org/utils/getthumbnail/collection/p15138coll31/id/224</url>
+    <url note="iiif-manifest">https://cdm15138.contentdm.oclc.org/iiif/info/p15138coll31/224/manifest.json</url>
+  </location>
+  <name>
+    <namePart>Dallas, Bradford B.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>A letter from Bradford Dallas, manager of the General Concrete Construction Company of Cuba, informing Elise of the new banking regulations that make it difficult to send funds from Cuba to the United States. He also details new agricultural reforms, labor contracts and settling demands from workers for better pay and working conditions. He notes that the financial outlook for the year is "very poor" and other companies are having similar problems.</abstract>
+  <abstract>Bradford B. Dallas (b. 1924) is the son of Charles Frederick Dallas, who was owner of the Antillean Construction Company based in Havana. Bradford managed his father's company and William Croft's General Concrete Construction Company of Cuba until he was forced to leave the country in 1961.</abstract>
+  <originInfo>
+    <dateCreated>1959 June 10</dateCreated>
+  </originInfo>
+  <recordInfo>
+    <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <topic>Cuba--Politics and government</topic>
+  </subject>
+  <subject>
+    <topic>Agricultural laborers</topic>
+  </subject>
+  <subject>
+    <topic>Labor contract</topic>
+  </subject>
+  <subject>
+    <topic>Wages</topic>
+  </subject>
+  <subject>
+    <topic>Laborers</topic>
+  </subject>
+  <subject>
+    <topic>Business &amp; finance</topic>
+  </subject>
+  <subject>
+    <geographic>Havana (Cuba)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Grassmere Collection, 1786-1985</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>1989-046</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Tennessee State Library and Archives</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form>Correspondence</form>
+  </physicalDescription>
+  <typeOfResource>text</typeOfResource>
+</mods>
