@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Men serpent handling photograph, undated</title>
+  </titleInfo>
+  <abstract>Color photograph of two men serpent handling while other people watch.</abstract>
+  <name>
+    <namePart>Vance, Mary</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Vance, Mary</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region -- Religious life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Appalachian Region -- Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Snake cults (Holiness churches) -- Appalachian Region</topic>
+  </subject>
+  <subject>
+    <geographic>Appalachian Region</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <identifier type="local">MS-140-01-02-63</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1974</dateCreated>
+    <dateCreated encoding="edtf" point="end">1982</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll32/id/132</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll32/id/132</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll32/132/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Serpent handling photographs, 1970-1982</title>
+      <title>Mary Vance photographs, 1970-1982</title>
+      <title>Mary Vance papers</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Mary Vance Jesus Name Tradition photographs and home movies</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>3 1/2 x 4 1/4 inches</extent>
+    <form>Still Image</form>
+    <form>photographic prints</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

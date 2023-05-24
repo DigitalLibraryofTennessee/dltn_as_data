@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pre-Columbian ceramic figure whistle</title>
+  </titleInfo>
+  <abstract>Pre-Columbian ceramic object which may represent an animal. Two protrusions extend from behind two raised circles, which may depict ears and eyes. Between the raised circles is a flat indentation. A raised band extends around the object. On the other side, two holes leading to seperate air chambers suggests its function as a whistle.</abstract>
+  <abstract>One air chamber is broken and completely exposed. Raised band is chipped.</abstract>
+  <name>
+    <namePart>Hyde, Salem (1906-1969)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Antiquities, Prehistoric</topic>
+  </subject>
+  <subject>
+    <topic>Indians of Central America -- Antiquities</topic>
+  </subject>
+  <subject>
+    <topic>Indians of South America -- Antiquities</topic>
+  </subject>
+  <subject>
+    <geographic>Americas</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <identifier type="local">MS-022-01-02-032</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll34/id/404</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll34/id/404</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Pre-Columbian figurines</title>
+      <title>Pre-Columbian cultural artifacts</title>
+      <title>George and Louis Patten collection of Salem Hyde papers and cultural artifacts</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>George and Louise Patten collection of Salem Hyde cultural artifacts</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>3.8 centimeters</extent>
+    <extent>4.8 centimeters</extent>
+    <extent>2.5 centimeters</extent>
+    <extent>28 grams</extent>
+    <form>Physical Object</form>
+    <form>cultural artifacts  figurines</form>
+    <form>cultural artifacts  figurines</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

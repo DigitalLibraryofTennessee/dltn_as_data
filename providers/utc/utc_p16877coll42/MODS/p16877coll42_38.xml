@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Police arresting demonstrators eye-level view, 1960 February</title>
+  </titleInfo>
+  <abstract>Black-and-white photograph of white police officers walking alongside Black demonstrators in downtown Chattanooga, Tennessee.</abstract>
+  <name>
+    <namePart>Mooney, James</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Chattanooga Times Free Press</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Civil rights movements -- Southern States -- History -- 20th century</topic>
+  </subject>
+  <subject>
+    <topic>Social justice -- United States</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <identifier type="local">CHC-2007-083-001-mm</identifier>
+  <originInfo>
+    <publisher>Chattanooga News-Free Press</publisher>
+    <publisher>Chattanooga (Tenn.)</publisher>
+    <publisher>Chattanooga Public Library; University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1960-02</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll42/id/38</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll42/id/38</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Chattanooga Civil Rights Movement Demonstrations photographs</title>
+      <title>Chattanooga History Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Chattanooga Civil Rights Movement Demonstrations photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>4 x 5 inches</extent>
+    <form>Still Image</form>
+    <form>photographic prints  positives (photographs)</form>
+    <form>photographic prints  positives (photographs)</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

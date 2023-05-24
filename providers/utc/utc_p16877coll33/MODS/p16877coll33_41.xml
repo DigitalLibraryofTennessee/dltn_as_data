@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Eliza Frances Andrews portrait, undated</title>
+  </titleInfo>
+  <abstract>Black and white photograph of Eliza Frances Andrews affixed to a card board backing.</abstract>
+  <name>
+    <namePart>Bogardus</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Southern States -- Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Andrews, Eliza Frances, 1840-1931</topic>
+  </subject>
+  <subject>
+    <topic>Andrews family</topic>
+  </subject>
+  <subject>
+    <geographic>Washington (Ga.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-004-03-06-09</identifier>
+  <originInfo>
+    <publisher>New York (N.Y.)</publisher>
+    <publisher>Univerity of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1840</dateCreated>
+    <dateCreated encoding="edtf" point="end">1931</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll33/id/41</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll33/id/41</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll33/41/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Andrews family photographs, undated</title>
+      <title>Andrews family personal papers</title>
+      <title>Andrews family papers</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Andrews family papers</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>4 1/2 X 6 1/2 inches</extent>
+    <form>Still Image</form>
+    <form>photographs</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

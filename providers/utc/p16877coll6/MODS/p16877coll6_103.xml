@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Katharine "Little Catfish" Mirick, Carothersville, Mo. drawing, undated</title>
+  </titleInfo>
+  <abstract>Tone drawing of an infant girl, a relative of Emma Bell Miles on her mother's side of the family.</abstract>
+  <name>
+    <namePart>Miles, Emma Bell, 1879-1919</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Children -- Pictorial works</topic>
+  </subject>
+  <subject>
+    <topic>Children -- Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Pictorial works</topic>
+  </subject>
+  <subject>
+    <topic>Girls -- Portraits</topic>
+  </subject>
+  <subject>
+    <topic>Mirick, Katharine</topic>
+  </subject>
+  <subject>
+    <geographic>Caruthersville (Mo.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-078-02-07-02</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1879</dateCreated>
+    <dateCreated encoding="edtf" point="end">1919</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll6/id/103</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll6/id/103</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll6/103/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Emma Bell Miles portrait line drawings, undated</title>
+      <title>Emma Bell Miles correspondence, journals, and other material, 1874-1918</title>
+      <title>Jean Miles Catino and Emma Bell Miles papers</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Emma Bell Miles Southern Appalachia art and correspondence</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>8 3/16 x 4 7/8 inches</extent>
+    <form>Still Image</form>
+    <form>tone drawings</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

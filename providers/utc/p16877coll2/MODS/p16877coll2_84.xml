@@ -1,0 +1,112 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Church of the Lord Jesus Christ service, 1995 March 11</title>
+  </titleInfo>
+  <abstract>Video recording of a service that begins with singing by Carl and Carolyn Porter. When the singing ends, Carl Porter preaches to the congregation briefly before music begins again and members dance, sing and handle serpents. Serpents are handled by Junior McCormick, Carl Porter, Bill Pelfrey, and his Pelfrey's wife who handles briefly. As Bill Pelfrey places the serpents back into their box, members of the congregation are receiving an imposition of hands by Carl Porter. The music concludes with testimony by Carl Porter. He talks about the dangers of drinking strychnine and reemphasizes the dangers of serpent handling before the recording cuts. It resumes with Ralph W. Hood talking to the congregation about an independent report’s results on the chemical analysis of the church’s strychnine. He concludes his speech and the film resumes with dancing and singing by the congregation. Branden Nietzel is slain in the spirit and as the music continues, he is surrounded by fellow church members. He collapses to the ground and members pray over him. He rises and is helped as he walks then runs around the church, hands raised. The recording ends with Nietzel dancing, hands still upraised with others in the congregation.</abstract>
+  <name>
+    <namePart>Hood, Ralph W.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hood, Ralph W.  Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region, Southern -- Religious life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Dance -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Imposition of hands</topic>
+  </subject>
+  <subject>
+    <topic>Singing -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Snake cults (Holiness churches) -- Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Witness bearing (Christianity)</topic>
+  </subject>
+  <subject>
+    <topic>Hood, Ralph W.</topic>
+  </subject>
+  <subject>
+    <topic>Lemming, Billy</topic>
+  </subject>
+  <subject>
+    <topic>McCormick, Junior</topic>
+  </subject>
+  <subject>
+    <topic>Nietzel, Brandon</topic>
+  </subject>
+  <subject>
+    <topic>Pelfrey, Bill</topic>
+  </subject>
+  <subject>
+    <topic>Porter, Carl</topic>
+  </subject>
+  <subject>
+    <topic>Porter, Carolyn</topic>
+  </subject>
+  <subject>
+    <topic>Tucker, Diane</topic>
+  </subject>
+  <subject>
+    <topic>Church of the Lord Jesus Christ (Kingston, Ga.)</topic>
+  </subject>
+  <subject>
+    <geographic>Kingston (Ga.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-074-04-05</identifier>
+  <identifier type="local">K-5</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1995-03-11</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll2/id/84</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll2/id/84</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Church of the Lord Jesus Christ recordings and photographs</title>
+      <title>Ralph W. Hood and W. Paul Williamson field recordings, interviews, and photographs</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Ralph W. Hood and W. Paul Williamson Holiness Churches of Appalachia recordings and interviews</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>video/mp4</internetMediaType>
+    <extent>00:34:07</extent>
+    <form>Moving Image</form>
+    <form>field recordings</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

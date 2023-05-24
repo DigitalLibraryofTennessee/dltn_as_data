@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Black united front</title>
+    <title type="alternative">Black united front, vol.1, no. 2</title>
+  </titleInfo>
+  <abstract>Christmas edition of the Black United Front newsletter published by Black Knights, Inc., an organization dedicated to bringing news pertinent to the black community of Chattanooga. Contains hand-drawn advertisements for black-owned businesses in Chattanooga.</abstract>
+  <name>
+    <namePart>Moore, Ralph</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Moore, Ralph</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Black newspapers -- Tennessee -- Chattanooga</topic>
+  </subject>
+  <subject>
+    <topic>Black Knights (Chattanooga, Tenn.)</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-083-06-07-02</identifier>
+  <originInfo>
+    <publisher>Black Knights (Chattanooga, Tenn.)</publisher>
+    <publisher>Chattanooga (Tenn.)</publisher>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1969-12-25</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll20/id/10</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll20/id/10</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll20/10/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Black United Front newsletters, 1969-1970</title>
+      <title>Chattanooga Board of Education records and correspondence, 1965-1969</title>
+      <title>Raymond B. Witt records and correspondence</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Black United Front newsletters</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <internetMediaType>text/plain</internetMediaType>
+    <extent>4 leaves</extent>
+    <form>Text</form>
+    <form>newsletters</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

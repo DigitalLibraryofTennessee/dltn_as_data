@@ -1,0 +1,115 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Church of the Lord Jesus Christ service, 1996 June 8</title>
+  </titleInfo>
+  <abstract>Video recording of a service opening with Carl Porter who fixes microphone cords and arranges a box with a serpent before he begins. He welcomes everyone and asks that they turn their minds to God before asking the congregation to stand for the Lord’s Prayer. He follows this with a warning about serpents and strychnine. Porter also welcomes Arnold Saylor who has driven down from Indiana to be at the service. Carl Porter begins to sing as Billy Lemming plays guitar and many members of the congregation keep rhythm. Other singers take over as the music continues. Arnold Saylor exhorts and sings as well. Carl Porter starts a prayer and passes the collection plate around before he begins his sermon. This sermon ends with more song and guitar by Billy Lemming. While the music continues, Carl Porter removes a serpent from its enclosure and handles. He is followed by Shade Miller and his wife Ethel Miller. The music gives way to the testimony of several members of the church including Carl Porter and Arnold Saylor among others. A congregant speaks in tongues after Saylor's testimony. Bill Pelfrey takes up the microphone and preaches.</abstract>
+  <name>
+    <namePart>Hood, Ralph W.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hood, Ralph W.  Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region, Southern -- Religious life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Dance -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Expository preaching</topic>
+  </subject>
+  <subject>
+    <topic>Glossolalia</topic>
+  </subject>
+  <subject>
+    <topic>Lay preaching</topic>
+  </subject>
+  <subject>
+    <topic>Prayer</topic>
+  </subject>
+  <subject>
+    <topic>Singing -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Snake cults (Holiness churches) -- Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Witness bearing (Christianity)</topic>
+  </subject>
+  <subject>
+    <topic>Lemming, Billy</topic>
+  </subject>
+  <subject>
+    <topic>Miller, Ethel</topic>
+  </subject>
+  <subject>
+    <topic>Miller, Shade</topic>
+  </subject>
+  <subject>
+    <topic>Pelfrey, Bill</topic>
+  </subject>
+  <subject>
+    <topic>Porter, Carl</topic>
+  </subject>
+  <subject>
+    <topic>Saylor, Arnold</topic>
+  </subject>
+  <subject>
+    <topic>Church of the Lord Jesus Christ (Kingston, Ga.)</topic>
+  </subject>
+  <subject>
+    <geographic>Kingston (Ga.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-074-04-23</identifier>
+  <identifier type="local">K-23</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1996-06-08</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll2/id/99</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll2/id/99</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Church of the Lord Jesus Christ recordings and photographs</title>
+      <title>Ralph W. Hood and W. Paul Williamson field recordings, interviews, and photographs</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Ralph W. Hood and W. Paul Williamson Holiness Churches of Appalachia recordings and interviews</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>video/mp4</internetMediaType>
+    <extent>01:37:07</extent>
+    <form>Moving Image</form>
+    <form>field recordings</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

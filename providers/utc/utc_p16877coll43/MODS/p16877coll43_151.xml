@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>E.I. du Pont de Nemours &amp; Company occupational portrait, 1952 August 8</title>
+  </titleInfo>
+  <abstract>Black and white photograph of nine unidentified individuals standing by a beam of nylon. The sign in the image reads, "THE FIRST BEAM OF NYLON MANUFACTURED BY E.I. DU PONT DE NEMOURS &amp; CO. INC.; CHATTANOOGA, TENN; 840-140-1/2-Z-300DENIER; TOTAL WEIGHT 1350 LBS.; 4700 X 152 = 7,1400,000 YDS; AUGUST 8, 1952."</abstract>
+  <name>
+    <namePart>Continental Film Productions Corporation</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Chattanooga Public Library  University of Tennessee at Chattanooga</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Chemicals -- Manufacture and industry</topic>
+  </subject>
+  <subject>
+    <topic>Nylon</topic>
+  </subject>
+  <subject>
+    <topic>E.I. du Pont de Nemours &amp; Company</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <identifier type="local">CHC-1995-076-044</identifier>
+  <originInfo>
+    <publisher>Chattanooga Public Library; University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1952-08-08</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll43/id/151</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll43/id/151</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Continental Film Productions photographs</title>
+      <title>Chattanooga History Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Continental Film Productions photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>14 4/5 x 12 1/2 centimeters</extent>
+    <form>Still Image</form>
+    <form>gelatin silver negatives  negatives (photographs)</form>
+    <form>gelatin silver negatives  negatives (photographs)</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

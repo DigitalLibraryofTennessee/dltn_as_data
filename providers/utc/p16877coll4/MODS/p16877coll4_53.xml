@@ -1,0 +1,83 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>John Crowe Ransom corresondence with Lula Ulrica Whitaker, 1934 March 1</title>
+  </titleInfo>
+  <abstract>Letter from John Crowe Ransom to Lula Ulrica Whitaker that remarks on the coincidence of economic depression and increasingly popularity of the agrarian movement in the Southeastern United States.</abstract>
+  <name>
+    <namePart>Ransom, John Crowe, 1888-1974</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Whitaker, Lula Ulrica, 1902-1995</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Ransom, John Crowe, 1888-1974</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Agrarians (Group of writers)</topic>
+  </subject>
+  <subject>
+    <topic>American literature -- Southern States</topic>
+  </subject>
+  <subject>
+    <topic>American literature -- Southern States -- History and criticism</topic>
+  </subject>
+  <subject>
+    <topic>Southern States -- Intellectual life -- 1865-</topic>
+  </subject>
+  <subject>
+    <topic>Ransom, John Crowe, 1888-1974</topic>
+  </subject>
+  <subject>
+    <geographic>Nashville (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-045-01-11</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1934-03-01</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll4/id/53</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll4/id/53</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll4/53/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Lula Ulrica Whitaker correspondence with Southern Agrarians, 1934-1935</title>
+      <title>Lula Ulrica Whitaker papers</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Lula Ulrica Whitaker Southern Agrarian Writers correspondence</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <internetMediaType>text/plain</internetMediaType>
+    <extent>1 leaf</extent>
+    <form>Text</form>
+    <form>correspondence</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

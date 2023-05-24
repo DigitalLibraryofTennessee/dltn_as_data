@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Karen P. Stone interview, 2022 February 18</title>
+  </titleInfo>
+  <abstract>Oral history interview documenting the life of author, naturalist, and artist, Emma Bell Miles, a resident of Walden Ridge, Tennessee in the early 20th century.</abstract>
+  <name>
+    <namePart>Stone, Karen Paul</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Burks, Dalton</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>University of Tennessee at Chattanooga</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Appalachian Region, Southern -- Social life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Mountain life -- Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Miles, Emma Bell, 1879-1919</topic>
+  </subject>
+  <subject>
+    <topic>McCoy Farm and Gardens</topic>
+  </subject>
+  <subject>
+    <geographic>Signal Mountain (Tenn.)</geographic>
+  </subject>
+  <subject>
+    <geographic>Walden Ridge (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-146-03</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">2022-02-18</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll6/id/1364</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll6/id/1364</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Emma Bell Miles oral histories</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Emma Bell Miles Southern Appalachia art, correspondence, and journals</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>video/mp4</internetMediaType>
+    <internetMediaType>text/plain</internetMediaType>
+    <extent>00:36:42</extent>
+    <form>Sound</form>
+    <form>oral histories (literary works)</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

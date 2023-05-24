@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Church of the Lord Jesus Christ service, 1996 April 4</title>
+  </titleInfo>
+  <abstract>Video recording of a service opening with music. Singing is led by Bill Pelfrey. There are few in attendance. It is not long before the singing comes to an end and Carl Porter speaks. As he does, he places prayer cloths on the pulpit and asks if anyone has any prayer requests. Bill Pelfrey preaches a short sermon thereafter and leads the congregation in song. He follows his song with more preaching. A man is helped to the pulpit where Carl Porter and Bill Pelfrey anoint him with oil and many members come forward to pray over him. Carl Porter follows this with a sermon after which, Bobbie Sue Lynn sings. Porter follows the song with one of his own and as he sings, Billy Summerford takes up a serpent. Others quickly follow. Carl Porter follows this singing and handling with testimony after which he yields the microphone to Spencer Evans who preaches and later in his sermon handles serpents.</abstract>
+  <name>
+    <namePart>Hood, Ralph W.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hood, Ralph W.  Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region, Southern -- Religious life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Dance -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Extemporaneous preaching</topic>
+  </subject>
+  <subject>
+    <topic>Imposition of hands</topic>
+  </subject>
+  <subject>
+    <topic>Lay preaching</topic>
+  </subject>
+  <subject>
+    <topic>Pentecostal preaching</topic>
+  </subject>
+  <subject>
+    <topic>Prayer</topic>
+  </subject>
+  <subject>
+    <topic>Singing -- Religious aspects</topic>
+  </subject>
+  <subject>
+    <topic>Snake cults (Holiness churches) -- Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Witness bearing (Christianity)</topic>
+  </subject>
+  <subject>
+    <topic>Evans, Spencer</topic>
+  </subject>
+  <subject>
+    <topic>Lynn, Bobbie Sue</topic>
+  </subject>
+  <subject>
+    <topic>Miller, Shade</topic>
+  </subject>
+  <subject>
+    <topic>Pelfrey, Bill</topic>
+  </subject>
+  <subject>
+    <topic>Porter, Carl</topic>
+  </subject>
+  <subject>
+    <topic>Summerford, Billy</topic>
+  </subject>
+  <subject>
+    <topic>Church of the Lord Jesus Christ (Kingston, Ga.)</topic>
+  </subject>
+  <subject>
+    <geographic>Kingston (Ga.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-074-04-19</identifier>
+  <identifier type="local">K-19</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1996-04-06</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll2/id/95</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll2/id/95</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Church of the Lord Jesus Christ recordings and photographs</title>
+      <title>Ralph W. Hood and W. Paul Williamson field recordings, interviews, and photographs</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Ralph W. Hood and W. Paul Williamson Holiness Churches of Appalachia recordings and interviews</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>video/mp4</internetMediaType>
+    <extent>01:15:16</extent>
+    <form>Moving Image</form>
+    <form>field recordings</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

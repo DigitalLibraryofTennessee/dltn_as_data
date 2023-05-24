@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Brainerd Missionaries dedication ceremony photograph, 1935 March 31</title>
+  </titleInfo>
+  <abstract>Photograph of the dedication ceremony for the second roster tablet of missionaries installed at Brainerd Mission Cemetery.</abstract>
+  <subject>
+    <topic>Cemeteries</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians -- History</topic>
+  </subject>
+  <subject>
+    <topic>Cherokee Indians -- Missions</topic>
+  </subject>
+  <subject>
+    <topic>Historic preservation</topic>
+  </subject>
+  <subject>
+    <topic>Missionaries</topic>
+  </subject>
+  <subject>
+    <topic>Brainerd Mission</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-002-04-03-01</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1935-03-31</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll7/id/53</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll7/id/53</url>
+    <url note="iiif-manifest">https://cdm16877.contentdm.oclc.org/iiif/info/p16877coll7/53/manifest.json</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brainerd Mission Cemetery photographs, 1935-1964</title>
+      <title>Brainerd Mission photographs, 1817-1964</title>
+      <title>Penelope Johnson Allen papers</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Penelope Johnson Allen Brainerd Mission correspondence and photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <internetMediaType>text/plain</internetMediaType>
+    <extent>2 3/4 x 3 3/4 inches</extent>
+    <form>Still Image</form>
+    <form>photographic prints</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

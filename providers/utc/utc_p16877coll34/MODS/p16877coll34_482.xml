@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pre-Columbian Panamanian tripod vessel</title>
+  </titleInfo>
+  <abstract>Small Pre-Columbian vessel with a restricted rim. Four nodules incised with alternating slated lines protrude from the shoulder. Extending from the rim are two animal-like head appliqués with punctated features, which may represent turtle or bird figures. Legs are wide where they attach to the vessel and come to a point.</abstract>
+  <abstract>One leg is missing, and a thin outline of its impression remains. Roughly half of the rim is cracked and missing. One of the head appliqués appears to have broken off and been glued back on.</abstract>
+  <name>
+    <namePart>Hyde, Salem (1906-1969)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Indians of Central America -- Panama</topic>
+  </subject>
+  <subject>
+    <topic>Antiquities, Prehistoric</topic>
+  </subject>
+  <subject>
+    <topic>Containers, Prehistoric</topic>
+  </subject>
+  <subject>
+    <topic>Pottery, Prehistoric</topic>
+  </subject>
+  <subject>
+    <geographic>Panama</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+  </language>
+  <identifier type="local">MS-022-01-01-027</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll34/id/482</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll34/id/482</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Pre-Columbian vessels</title>
+      <title>Pre-Columbian cultural artifacts</title>
+      <title>George and Louis Patten collection of Salem Hyde papers and cultural artifacts</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>George and Louise Patten collection of Salem Hyde cultural artifacts</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>5.05 centimeters</extent>
+    <extent>4.17 centimeters</extent>
+    <extent>5.98 centimeters</extent>
+    <extent>18.78 cetimeters</extent>
+    <extent>3.61 centimeters</extent>
+    <extent>4.53 millimeters</extent>
+    <extent>62 grams</extent>
+    <form>Physical Object</form>
+    <form>cultural artifacts  storage vessels</form>
+    <form>cultural artifacts  storage vessels</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

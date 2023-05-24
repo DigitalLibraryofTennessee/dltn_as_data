@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Apostolic Church of God service, 1985 August 17</title>
+  </titleInfo>
+  <abstract>Video recording opening with a poor recording of a service which becomes garbled for a time before cutting to a group of people praying together in what seems to be a bedroom. An apparently stricken man sits on the floor as members pray near him. Members file out of the bedroom into the house and more members of the church are present in the living room and kitchen. A woman makes faces at the camera and a man identified as Jimbo speaks with the videographer. After a moment the camera returns to the stricken man who has been moved to the living room, and who still receives the prayers of many as he sits on a couch. A close up view of his left hand reveals the snakebite and shows how greatly his hand has swollen. One man rubs an ointment upon it and tells him that it will help. He then raises his arm above his heart and then head. The camera pans to others who have gathered in the room. Members discuss ways to help the man and ask the Lord to “take the pain”. More ointment is placed on the hand and arm and members sit quietly as the camera again pans around the room. The camera cuts then and reopens on the stricken man who is clearly in pain. Piles of paper towels lay beneth his chair as he leans back. Quiet prayers continue and members speak quietly together in groups. The film cuts and a blue and black screen appear for a time before reopening on the scene as members pray. A woman sitting on the floor places a hand over her face and bows her head as the prayer continues. Others file into the room to bow and pray as the extended prayer continues. Several wail and shake upon their knees, and when the camera pans back to the stricken man, he is quite still for a time before movement reveals him to be still among the living. A bucket is placed in front of the man and he is wiped down before he leans back again in his chair. He is given a drink before long and a member moves the bucket. In the background a woman can be heard speaking in tongues. While prayer continues, one man can be seen kowtowed upon the floor in worship before the camera fades out. It opens again in a different room as people sit around and speak to the recorder. One woman identified as Vicky asks to see the recording. Music plays for a few seconds before the recording ends. "</abstract>
+  <name>
+    <namePart>Hood, Ralph W.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Hood, Ralph W.  Williamson, W. Paul (William Paul)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators/cph">Copyright holder</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Appalachian Region, Southern -- Religious life and customs</topic>
+  </subject>
+  <subject>
+    <topic>Snake cults (Holiness churches) -- Appalachian Region, Southern</topic>
+  </subject>
+  <subject>
+    <topic>Prince, Ulysses Grant</topic>
+  </subject>
+  <subject>
+    <topic>Apostolic Church of God (Greeneville, Tenn.)</topic>
+  </subject>
+  <subject>
+    <geographic>Greeneville (Tenn.)</geographic>
+  </subject>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="local">MS-074-08-01</identifier>
+  <identifier type="local">F-1</identifier>
+  <originInfo>
+    <publisher>University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1985-08-17</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll2/id/162</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll2/id/162</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fatal bites, funerals, and wakes field records, 1985-1998</title>
+      <title>Ralph W. Hood and W. Paul Williamson field recordings, interviews, and photographs</title>
+      <title>Special Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Ralph W. Hood and W. Paul Williamson Holiness Churches of Appalachia recordings and interviews</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>video/mp4</internetMediaType>
+    <extent>00:27:17</extent>
+    <form>Moving Image</form>
+    <form>field recordings</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>

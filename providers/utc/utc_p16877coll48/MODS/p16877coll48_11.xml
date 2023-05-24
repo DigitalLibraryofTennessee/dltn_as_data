@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dltn="https://github.com/digitallibraryoftennessee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Standard Coosa Thatcher Company product model, 1947</title>
+  </titleInfo>
+  <abstract>Black-and-white photograph of a display from Standard Coosa Thatcher Company outlining the process of creating mercerized yarn.</abstract>
+  <subject>
+    <topic>Cotton manufacture</topic>
+  </subject>
+  <subject>
+    <topic>Cotton textiles</topic>
+  </subject>
+  <subject>
+    <topic>Cotton textile industry</topic>
+  </subject>
+  <subject>
+    <topic>Cotton thread</topic>
+  </subject>
+  <subject>
+    <topic>Display of merchandise</topic>
+  </subject>
+  <subject>
+    <topic>Factories</topic>
+  </subject>
+  <subject>
+    <topic>Industrial sites</topic>
+  </subject>
+  <subject>
+    <topic>Standard Coosa Thatcher Company</topic>
+  </subject>
+  <subject>
+    <geographic>Chattanooga (Tenn.)</geographic>
+  </subject>
+  <identifier type="local">CHC-1990-113-009-b</identifier>
+  <originInfo>
+    <publisher>Chattanooga Public Library; University of Tennessee at Chattanooga</publisher>
+    <dateCreated encoding="edtf" point="start">1947</dateCreated>
+  </originInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/"/>
+  <location>
+    <url usage="primary" access="object in context">http://cdm16877.contentdm.oclc.org/cdm/ref/collection/p16877coll48/id/11</url>
+    <url access="preview">http://cdm16877.contentdm.oclc.org/utils/getthumbnail/collection/p16877coll48/id/11</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Dixie Mercerizing Company photographs</title>
+      <title>Chattanooga History Collections</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection">
+    <titleInfo>
+      <title>Dixie Mercerizing Company photographs</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <internetMediaType>image/jp2</internetMediaType>
+    <extent>3 7/8 x 4 7/8 inches</extent>
+    <form>Still Image</form>
+    <form>gelatin silver negatives  negatives (photographs)</form>
+    <form>gelatin silver negatives  negatives (photographs)</form>
+  </physicalDescription>
+  <recordInfo>
+    <recordContentSource>University of Tennessee at Chattanooga</recordContentSource>
+    <recordChangeDate>2023-05-24-04:00</recordChangeDate>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Record has been transformed into MODS 3.5 from a Qualified Dublin Core record by the Digital Library of Tennessee, a service hub of the Digital Public Library of America, using a stylesheet available at https://github.com/digitallibraryoftennessee/DLTN_XSLT. Metadata originally created in a locally modified version of Qualified Dublin Core using ContentDM (data dictionary available: https://dltn-technical-docs.readthedocs.io).</recordOrigin>
+  </recordInfo>
+</mods>
