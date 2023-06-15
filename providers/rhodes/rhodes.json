@@ -1,0 +1,340 @@
+{
+    "CrossroadstoFreedomr0": [
+        {
+            "dataset_id": "crossroads_beale",
+            "last_ingest": "02/27/2019 08:05:55",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Beale Street Historic Documents Collection home page Logo The Beale Street collection features many different types of documents collected by the Beale Street Development Co. The documents, mostly from the 1950s-1960s, include grocery lists, posters, and contracts for entertainment at various clubs, including Club Handy, owned by Andrew \"Sunbeam\" Mitchell, a notable business owner in the area.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:05:55",
+                "end_time": "2019-02-27 08:05:55",
+                "duration": "00:00:00",
+                "records": "108",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_everett_cook",
+            "last_ingest": "02/06/2019 16:39:36",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "The Everett R. Cook Collection includes interviews conducted from 1979-2004 as part of the Everett R. Cook Oral History Collection on Civil Rights, made available through a partnership with the Memphis Public Library.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_33969"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:39:36",
+                "end_time": "2019-02-06 16:39:38",
+                "duration": "00:00:01",
+                "records": "93",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_family_and_friends",
+            "last_ingest": "02/06/2019 16:41:51",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Crossroads to Freedom Family and Friends",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_31328"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:41:51",
+                "end_time": "2019-02-06 16:41:53",
+                "duration": "00:00:01",
+                "records": "93",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_gaiety",
+            "last_ingest": "02/06/2019 16:44:36",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Gaiety Collection home page Logo Historical LGBT newspaper published in Memphis, TN.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_31329"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:44:36",
+                "end_time": "2019-02-06 16:44:38",
+                "duration": "00:00:01",
+                "records": "15",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_gaze",
+            "last_ingest": "02/06/2019 16:46:06",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Gaze was a print newspaper published in Memphis, Shelby County, Tennessee, from the late 1970s into the early 2000s, by Memphis Gay Media and later by the Memphis Gay Coalition.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_31330"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:46:06",
+                "end_time": "2019-02-06 16:46:09",
+                "duration": "00:00:02",
+                "records": "121",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_lavender",
+            "last_ingest": "02/06/2019 16:47:21",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Newspapers from the LGBTQ Memphis community where we have limited issues. (2001 - 2008)",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_31331"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:47:21",
+                "end_time": "2019-02-06 16:47:23",
+                "duration": "00:00:01",
+                "records": "5",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_lemoyne",
+            "last_ingest": "02/06/2019 16:52:36",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "The LeMoyne-Owen Collection consists of reflections written by students enrolled in Professor Michael P. Johnson\u00e2\u0080\u0099s History 202 and 204 classes at LeMoyne-Owen College in the spring of 1968. Many of the students were eye-witnesses to the events that took place in Memphis during the Sanitation Workers\u00e2\u0080\u0099 Strike.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_34009"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:52:36",
+                "end_time": "2019-02-06 16:52:38",
+                "duration": "00:00:01",
+                "records": "99",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_maps",
+            "last_ingest": "02/27/2019 08:29:55",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Historic Memphis Maps Collection home page Logo This collection of maps showing the geographic changes of Memphis over time in correlation with significant social factors.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:29:55",
+                "end_time": "2019-02-27 08:29:55",
+                "duration": "00:00:00",
+                "records": "21",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_memphis_star",
+            "last_ingest": "02/27/2019 08:28:55",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Memphis Star Collection home page Logo \"The MEMPHIS STAR is a monthly publication dedicated to the advancement and recognition of the many forms of music created and developed in and around our area. We are further dedicated to re-kindle public awareness of one of Memphis' most valuable natural resources...Memphis Music.\"",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:28:55",
+                "end_time": "2019-02-27 08:28:55",
+                "duration": "00:00:00",
+                "records": "88",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_memphis_world",
+            "last_ingest": "02/27/2019 08:28:25",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Memphis World Collection home page Logo \"The South's oldest and leading colored semi-weekly newspaper.\"",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:28:25",
+                "end_time": "2019-02-27 08:28:27",
+                "duration": "00:00:01",
+                "records": "1451",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_oral_histories",
+            "last_ingest": "02/06/2019 16:15:36",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Collection of oral histories conducted or filmed by the Crossroads to Freedom team of Rhodes College.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_30936"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 16:15:36",
+                "end_time": "2019-02-06 16:15:40",
+                "duration": "00:00:04",
+                "records": "321",
+                "deleted_records": "2"
+            }
+        },
+        {
+            "dataset_id": "crossroads_sanitation",
+            "last_ingest": "02/27/2019 08:27:40",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Collection of interviews and news broadcasts covering Martin Luther King's assassination, the 1968 Memphis Sanitation Workers' Strike, and other civil rights related news and events. Audio collected by the Memphis Search for Meaning Committee from 1968-1973.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:27:40",
+                "end_time": "2019-02-27 08:27:40",
+                "duration": "00:00:00",
+                "records": "174",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_sugarmon",
+            "last_ingest": "02/06/2019 17:00:36",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Russell B. Sugarmon Collection Collection home page Logo The Russell B. Sugarmon Collection consists of a wide assortment of documents centered largely on the career of Judge Russell B. Sugarmon, a Memphis civil rights lawyer and activist. The documents\u00e2\u0080\u0094including letters, pamphlets, memos, campaign materials, and more\u00e2\u0080\u0094feature the contributions of many notable civil rights figures such as Jesse H. Turner, Roy Wilkins, and A.W. Willis, Jr. The collection focuses on the civil rights efforts made in Memphis and Shelby County.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": "http://dlynx.rhodes.edu:8080/oai/request",
+                "original_oai_set_name": "col_10267_34159"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-06 17:00:36",
+                "end_time": "2019-02-06 17:00:38",
+                "duration": "00:00:01",
+                "records": "56",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "crossroads_triangle",
+            "last_ingest": "02/27/2019 08:27:10",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.lyncode.com/xsd/xoai.xsd",
+                "namespace": "http://www.lyncode.com/xoai",
+                "description": "Triangle Journal News Collection home page Logo Triangle Journal News (1990) changed title to Triangle Journal in 2006. Changed title again to Triangle Quarterly in 2009.",
+                "metadata_format": "xoai",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-27 08:27:10",
+                "end_time": "2019-02-27 08:27:10",
+                "duration": "00:00:00",
+                "records": "217",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "rhodes_fansworth_MODS",
+            "last_ingest": "06/05/2019 13:33:22",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "rhodes_fansworth_MODS",
+                "metadata_format": "MODS",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-06-05 13:33:22",
+                "end_time": "2019-06-05 13:33:22",
+                "duration": "00:00:00",
+                "records": "762",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "rhodes_sternberg_MODS",
+            "last_ingest": "06/05/2019 14:34:37",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "rhodes_sternberg_MODS",
+                "metadata_format": "MODS",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-06-05 14:34:37",
+                "end_time": "2019-06-05 14:34:38",
+                "duration": "00:00:00",
+                "records": "738",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

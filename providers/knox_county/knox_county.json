@@ -1,0 +1,235 @@
+{
+    "KnoxPLr0": [
+        {
+            "dataset_id": "KnoxCountyPublicLibrary_p15136coll3",
+            "last_ingest": "03/09/2021 18:53:07",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "George F. Barber Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15136coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-09 18:53:07",
+                "end_time": "2021-03-09 18:53:09",
+                "duration": "00:00:02",
+                "records": "135",
+                "deleted_records": "4"
+            }
+        },
+        {
+            "dataset_id": "KnoxCountyPublicLibrary_p15136coll4",
+            "last_ingest": "03/09/2021 18:49:37",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Selected Materials from the McClung Historical Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15136coll4"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-09 18:49:37",
+                "end_time": "2021-03-09 18:49:43",
+                "duration": "00:00:06",
+                "records": "415",
+                "deleted_records": "24"
+            }
+        },
+        {
+            "dataset_id": "KnoxCountyPublicLibrary_p16311coll3",
+            "last_ingest": "03/09/2021 18:46:37",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Knoxville College Archives",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p16311coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-09 18:46:36",
+                "end_time": "2021-03-09 18:46:44",
+                "duration": "00:00:07",
+                "records": "746",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "KnoxCountyPublicLibrary_p265301coll8",
+            "last_ingest": "03/09/2021 16:40:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Woman Suffrage",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p265301coll8"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-09 16:40:50",
+                "end_time": "2021-03-09 16:40:59",
+                "duration": "00:00:08",
+                "records": "593",
+                "deleted_records": "15"
+            }
+        },
+        {
+            "dataset_id": "p15136coll1",
+            "last_ingest": "07/10/2015 16:11:06",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Hugh Tyler Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15136coll1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:06",
+                "end_time": "2015-07-10 16:11:10",
+                "duration": "00:00:03",
+                "records": "108",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p15136coll2",
+            "last_ingest": "07/10/2015 16:11:06",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Great Smoky Mountains Photograph Collection - Thompson Brothers",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15136coll2"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:06",
+                "end_time": "2015-07-10 16:11:15",
+                "duration": "00:00:08",
+                "records": "280",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16311coll1",
+            "last_ingest": "07/10/2015 16:11:21",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "C.A. Wayland Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16311coll1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:21",
+                "end_time": "2015-07-10 16:11:31",
+                "duration": "00:00:09",
+                "records": "328",
+                "deleted_records": "1"
+            }
+        },
+        {
+            "dataset_id": "p16311coll2",
+            "last_ingest": "07/10/2015 16:11:21",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Roger H. Howell Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16311coll2"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:21",
+                "end_time": "2015-07-10 16:11:42",
+                "duration": "00:00:20",
+                "records": "535",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p265301coll005",
+            "last_ingest": "07/10/2015 16:11:21",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Knox County Two Centuries Photograph Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p265301coll005"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:21",
+                "end_time": "2015-07-10 16:13:28",
+                "duration": "00:02:06",
+                "records": "2649",
+                "deleted_records": "62"
+            }
+        },
+        {
+            "dataset_id": "p265301coll7",
+            "last_ingest": "07/10/2015 17:43:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Thompson Photograph Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p265301coll7"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:43:23",
+                "end_time": "2015-07-10 17:43:52",
+                "duration": "00:00:29",
+                "records": "804",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p265301coll9",
+            "last_ingest": "07/10/2015 16:11:21",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Selected Photographs",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16311.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p265301coll9"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 16:11:21",
+                "end_time": "2015-07-10 16:11:58",
+                "duration": "00:00:36",
+                "records": "947",
+                "deleted_records": "7"
+            }
+        }
+    ]
+}

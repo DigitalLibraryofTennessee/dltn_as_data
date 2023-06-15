@@ -1,0 +1,25 @@
+{
+    "ChristianBrothersUniversityr0": [
+        {
+            "dataset_id": "cbu_p15916coll1",
+            "last_ingest": "03/17/2022 13:34:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Christian Brothers University History Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "https://cdm15916.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15916coll1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2022-03-17 13:34:02",
+                "end_time": "2022-03-17 13:34:19",
+                "duration": "00:00:16",
+                "records": "1015",
+                "deleted_records": "43"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2062 @@
+{
+    "UTKr0": [
+        {
+            "dataset_id": "bcpl",
+            "last_ingest": "09/28/2020 08:53:51",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "bcpl",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "bcpl"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-28 08:53:51",
+                "end_time": "2020-09-28 08:53:52",
+                "duration": "00:00:01",
+                "records": "93",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_3d",
+            "last_ingest": "03/07/2019 09:01:00",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Art of Arrowmont",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "3d"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-07 09:01:00",
+                "end_time": "2019-03-07 09:01:02",
+                "duration": "00:00:01",
+                "records": "19",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_acwiley",
+            "last_ingest": "02/24/2019 13:22:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Anna Catherine Wiley Sketches",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "acwiley"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-24 13:22:31",
+                "end_time": "2019-02-24 13:22:34",
+                "duration": "00:00:03",
+                "records": "195",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_adams",
+            "last_ingest": "03/10/2021 09:14:29",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_adams",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "adams"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:14:29",
+                "end_time": "2021-03-10 09:14:31",
+                "duration": "00:00:01",
+                "records": "25",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_agee",
+            "last_ingest": "11/09/2018 09:36:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Photo Album of Dedication of Agee Library",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "agee"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-11-09 09:36:23",
+                "end_time": "2018-11-09 09:36:24",
+                "duration": "00:00:01",
+                "records": "1",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_agrtfhs",
+            "last_ingest": "03/10/2021 09:21:29",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Farm and Home Science",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "agrtfhs"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:21:29",
+                "end_time": "2021-03-10 09:21:31",
+                "duration": "00:00:01",
+                "records": "135",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_agrtfn",
+            "last_ingest": "06/10/2020 14:37:51",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Farm News",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "agrtfn"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-10 14:37:51",
+                "end_time": "2020-06-10 14:38:05",
+                "duration": "00:00:14",
+                "records": "3450",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_agrutesc",
+            "last_ingest": "03/10/2021 09:20:29",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Extension Special Circulars",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "agrutesc"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:20:29",
+                "end_time": "2021-03-10 09:20:31",
+                "duration": "00:00:01",
+                "records": "225",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_airscoop",
+            "last_ingest": "03/10/2021 09:33:44",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_airscoop",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ascoop"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:33:44",
+                "end_time": "2021-03-10 09:33:46",
+                "duration": "00:00:01",
+                "records": "26",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_alumnus",
+            "last_ingest": "06/09/2020 15:10:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_alumnus",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "alumnus"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-09 15:10:47",
+                "end_time": "2020-06-09 15:10:50",
+                "duration": "00:00:02",
+                "records": "397",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_arrpgimg",
+            "last_ingest": "11/18/2020 15:26:57",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Arrowmont Scrapbook Photos",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "arrpgimg"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-11-18 15:26:57",
+                "end_time": "2020-11-18 15:27:00",
+                "duration": "00:00:02",
+                "records": "455",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_arrsimple",
+            "last_ingest": "05/04/2021 15:46:54",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Images: From Pi Beta Phi to Arrowmont",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "arrsimple"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-05-04 15:46:54",
+                "end_time": "2021-05-04 15:46:58",
+                "duration": "00:00:03",
+                "records": "460",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_boydcs",
+            "last_ingest": "06/19/2022 11:11:00",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Dr. Charles S. Boyd Photograph Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "https://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "boydcs"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2022-06-19 11:11:00",
+                "end_time": "2022-06-19 11:11:02",
+                "duration": "00:00:01",
+                "records": "41",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_brehm",
+            "last_ingest": "03/07/2019 10:03:46",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "brehm"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-07 10:03:46",
+                "end_time": "2019-03-07 10:03:47",
+                "duration": "00:00:01",
+                "records": "34",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_burford",
+            "last_ingest": "11/18/2020 15:21:12",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "David Burford Letters",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "burford"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-11-18 15:21:12",
+                "end_time": "2020-11-18 15:21:14",
+                "duration": "00:00:02",
+                "records": "77",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_calahan",
+            "last_ingest": "09/21/2020 15:50:41",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Calahan Family Postcards",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "calahan"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-21 15:50:41",
+                "end_time": "2020-09-21 15:50:43",
+                "duration": "00:00:01",
+                "records": "8",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_cdf",
+            "last_ingest": "03/18/2019 09:54:49",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_cdf",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "cdf"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-18 09:54:49",
+                "end_time": "2019-03-18 09:54:52",
+                "duration": "00:00:02",
+                "records": "199",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_charlie",
+            "last_ingest": "12/04/2017 10:41:59",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_charlie",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "cDanielCartoon"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-04 10:41:59",
+                "end_time": "2017-12-04 10:42:07",
+                "duration": "00:00:08",
+                "records": "1759",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_civilwar",
+            "last_ingest": "09/28/2020 08:37:20",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "American Civil War Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "civilwar"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-28 08:37:20",
+                "end_time": "2020-09-28 08:37:23",
+                "duration": "00:00:02",
+                "records": "298",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_colloquy",
+            "last_ingest": "02/24/2019 19:40:48",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_colloquy",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "colloquy"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-02-24 19:40:48",
+                "end_time": "2019-02-24 19:40:50",
+                "duration": "00:00:01",
+                "records": "34",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_comm",
+            "last_ingest": "12/01/2020 11:38:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_comm",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "utkcomm"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-01 11:38:32",
+                "end_time": "2020-12-01 11:38:35",
+                "duration": "00:00:02",
+                "records": "318",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_dabney",
+            "last_ingest": "09/11/2019 10:50:37",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Charles W. Dabney, University of Tennessee Office of the President Records, 1867-1954",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "dabney"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-09-11 10:50:37",
+                "end_time": "2019-09-11 10:50:39",
+                "duration": "00:00:02",
+                "records": "196",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_derris",
+            "last_ingest": "09/05/2018 13:33:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The William Derris Slide Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "https://digital.lib.utk.edu/collections/oai2",
+                "original_oai_set_name": "gsmrc_derris"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-09-05 13:33:38",
+                "end_time": "2018-09-05 13:33:40",
+                "duration": "00:00:02",
+                "records": "334",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_druid",
+            "last_ingest": "03/07/2019 10:17:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Druid: A Humanities Magazine",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "druid"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-07 10:17:31",
+                "end_time": "2019-03-07 10:17:32",
+                "duration": "00:00:01",
+                "records": "4",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_egypt",
+            "last_ingest": "03/19/2018 10:31:04",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_egypt",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "egypt"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-03-19 10:31:04",
+                "end_time": "2018-03-19 10:31:06",
+                "duration": "00:00:01",
+                "records": "231",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ekcd",
+            "last_ingest": "03/10/2021 09:29:44",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_ekcd",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ekcd"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:29:44",
+                "end_time": "2021-03-10 09:29:46",
+                "duration": "00:00:01",
+                "records": "82",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_emancip",
+            "last_ingest": "03/07/2019 11:11:16",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Emancipator Newsletter",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "emancip"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-07 11:11:16",
+                "end_time": "2019-03-07 11:11:18",
+                "duration": "00:00:01",
+                "records": "7",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_fbpro",
+            "last_ingest": "12/10/2021 13:24:11",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Football Programs",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "fbpro"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-12-10 13:24:11",
+                "end_time": "2021-12-10 13:24:15",
+                "duration": "00:00:04",
+                "records": "600",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_fiftyyears",
+            "last_ingest": "12/01/2017 15:51:20",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_fiftyyears",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "50yrcove"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 15:51:20",
+                "end_time": "2017-12-01 15:51:21",
+                "duration": "00:00:01",
+                "records": "0",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_gamble",
+            "last_ingest": "12/12/2022 08:52:43",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Ed Gamble",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "gamble"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2022-12-12 08:52:43",
+                "end_time": "2022-12-12 08:52:59",
+                "duration": "00:00:16",
+                "records": "4628",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_garner",
+            "last_ingest": "09/12/2019 15:51:22",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "W. O. Garner Photograph Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "garner"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-09-12 15:51:22",
+                "end_time": "2019-09-12 15:51:24",
+                "duration": "00:00:01",
+                "records": "119",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_harp",
+            "last_ingest": "09/21/2020 15:54:26",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Harp of Columbia",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "harp"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-21 15:54:26",
+                "end_time": "2020-09-21 15:54:27",
+                "duration": "00:00:01",
+                "records": "1",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_hbs",
+            "last_ingest": "06/07/2018 14:46:57",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Howard Baker Speeches",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "hbs"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-06-07 14:46:57",
+                "end_time": "2018-06-07 14:46:59",
+                "duration": "00:00:01",
+                "records": "207",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_heilman",
+            "last_ingest": "12/01/2017 16:06:35",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_heilman",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "heilman"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 16:06:35",
+                "end_time": "2017-12-01 16:06:45",
+                "duration": "00:00:09",
+                "records": "1120",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_hesler",
+            "last_ingest": "06/12/2020 08:04:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "L.R. Hesler's Mushroom Research Notebooks",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "hesler"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-12 08:04:47",
+                "end_time": "2020-06-12 08:04:49",
+                "duration": "00:00:01",
+                "records": "212",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_humbug",
+            "last_ingest": "12/14/2018 09:54:03",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Humming Humbug",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "humbug"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 09:54:03",
+                "end_time": "2018-12-14 09:54:04",
+                "duration": "00:00:01",
+                "records": "2",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_indtruth",
+            "last_ingest": "03/07/2019 10:13:46",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Independent Truth",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "indtruth"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-03-07 10:13:46",
+                "end_time": "2019-03-07 10:13:47",
+                "duration": "00:00:01",
+                "records": "3",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_insurancena",
+            "last_ingest": "09/28/2020 09:39:51",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Insurance Company of North America",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "insurancena"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-28 09:39:51",
+                "end_time": "2020-09-28 09:39:53",
+                "duration": "00:00:01",
+                "records": "141",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_jsevier",
+            "last_ingest": "06/15/2020 12:02:16",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "John Sevier Papers",
+                "metadata_format": "mods",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-15 12:02:16",
+                "end_time": "2020-06-15 12:02:16",
+                "duration": "00:00:00",
+                "records": "22",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_kefauver",
+            "last_ingest": "04/25/2019 10:08:07",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_kefauver",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "kefauver"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-04-25 10:08:07",
+                "end_time": "2019-04-25 10:08:09",
+                "duration": "00:00:02",
+                "records": "315",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_kintner",
+            "last_ingest": "09/25/2020 14:15:17",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Panoramic Images of Elgin P. Kintner",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "kintner"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:15:17",
+                "end_time": "2020-09-25 14:15:17",
+                "duration": "00:00:00",
+                "records": "55",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_knoxgardens",
+            "last_ingest": "09/04/2018 16:41:52",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Knoxville Garden Slides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "knoxgardens"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-09-04 16:41:52",
+                "end_time": "2018-09-04 16:41:54",
+                "duration": "00:00:01",
+                "records": "99",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladycross",
+            "last_ingest": "09/25/2020 13:22:01",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Cross Country Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladycross"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 13:22:01",
+                "end_time": "2020-09-25 13:22:03",
+                "duration": "00:00:01",
+                "records": "26",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladyrowing",
+            "last_ingest": "11/19/2021 10:33:48",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Rowing Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladyrowing"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 10:33:48",
+                "end_time": "2021-11-19 10:33:49",
+                "duration": "00:00:01",
+                "records": "17",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladysoccer",
+            "last_ingest": "11/22/2021 13:54:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Soccer Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladysoccer"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-22 13:54:32",
+                "end_time": "2021-11-22 13:54:34",
+                "duration": "00:00:01",
+                "records": "14",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladysoft",
+            "last_ingest": "11/19/2021 09:23:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Softball Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladysoft"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 09:23:02",
+                "end_time": "2021-11-19 09:23:03",
+                "duration": "00:00:01",
+                "records": "14",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladyswim",
+            "last_ingest": "11/19/2021 10:28:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Swimming and Diving Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladyswim"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 10:28:32",
+                "end_time": "2021-11-19 10:28:34",
+                "duration": "00:00:01",
+                "records": "31",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladytennis",
+            "last_ingest": "09/25/2020 13:41:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Tennis Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladytennis"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 13:41:02",
+                "end_time": "2020-09-25 13:41:03",
+                "duration": "00:00:01",
+                "records": "32",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladytrack",
+            "last_ingest": "11/22/2021 13:52:17",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Track and Field Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladytrack"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-22 13:52:17",
+                "end_time": "2021-11-22 13:52:19",
+                "duration": "00:00:01",
+                "records": "32",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ladyvolley",
+            "last_ingest": "11/19/2021 09:45:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Volleyball Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ladyvolley"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 09:45:32",
+                "end_time": "2021-11-19 09:45:34",
+                "duration": "00:00:01",
+                "records": "35",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_marchingband",
+            "last_ingest": "11/19/2019 09:25:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Marching Band Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "marchingband"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-11-19 09:25:50",
+                "end_time": "2019-11-19 09:25:51",
+                "duration": "00:00:01",
+                "records": "98",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_menbase",
+            "last_ingest": "09/25/2020 13:58:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Baseball Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "menbase"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 13:58:02",
+                "end_time": "2020-09-25 13:58:03",
+                "duration": "00:00:01",
+                "records": "0",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_menbball",
+            "last_ingest": "12/11/2020 15:42:45",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Basketball Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "menbball"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-11 15:42:45",
+                "end_time": "2020-12-11 15:42:47",
+                "duration": "00:00:01",
+                "records": "100",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mencross",
+            "last_ingest": "09/25/2020 14:02:17",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Cross Country Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mencross"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:02:17",
+                "end_time": "2020-09-25 14:02:18",
+                "duration": "00:00:01",
+                "records": "30",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mengolf",
+            "last_ingest": "11/19/2021 09:53:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Golf Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mengolf"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 09:53:47",
+                "end_time": "2021-11-19 09:53:49",
+                "duration": "00:00:01",
+                "records": "20",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mentennis",
+            "last_ingest": "11/19/2021 09:57:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Tennis Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mentennis"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 09:57:02",
+                "end_time": "2021-11-19 09:57:04",
+                "duration": "00:00:01",
+                "records": "9",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mentrack",
+            "last_ingest": "09/25/2020 14:07:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Track and Field Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mentrack"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:07:47",
+                "end_time": "2020-09-25 14:07:48",
+                "duration": "00:00:01",
+                "records": "36",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mpabaker",
+            "last_ingest": "12/01/2017 16:17:05",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_mpabaker",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mpabaker"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 16:17:05",
+                "end_time": "2017-12-01 16:17:08",
+                "duration": "00:00:03",
+                "records": "245",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_mugwump",
+            "last_ingest": "12/14/2018 09:56:18",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Tennessee Mugwump",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "mugwump"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 09:56:18",
+                "end_time": "2018-12-14 09:56:20",
+                "duration": "00:00:01",
+                "records": "95",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_phoenix",
+            "last_ingest": "06/09/2020 15:13:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Phoenix",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "phoenix"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-09 15:13:32",
+                "end_time": "2020-06-09 15:13:34",
+                "duration": "00:00:01",
+                "records": "136",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_playbills",
+            "last_ingest": "06/09/2020 15:09:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_playbills",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "playbills"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-09 15:09:31",
+                "end_time": "2020-06-09 15:09:35",
+                "duration": "00:00:03",
+                "records": "678",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_postcards",
+            "last_ingest": "12/01/2017 16:27:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_postcards",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "pcard00"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 16:27:50",
+                "end_time": "2017-12-01 16:28:03",
+                "duration": "00:00:12",
+                "records": "1458",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ramseyfp",
+            "last_ingest": "06/15/2020 12:00:46",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Ramsey Family Letters",
+                "metadata_format": "mods",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-15 12:00:46",
+                "end_time": "2020-06-15 12:00:46",
+                "duration": "00:00:00",
+                "records": "210",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_revwar",
+            "last_ingest": "03/16/2021 08:32:53",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Greer and Vinsinger Family Collection of American Revolutionary War Documents",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "revwar"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-16 08:32:53",
+                "end_time": "2021-03-16 08:32:55",
+                "duration": "00:00:01",
+                "records": "14",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_rfj",
+            "last_ingest": "12/14/2018 10:00:33",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tales from the Woods",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "rfj"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 10:00:33",
+                "end_time": "2018-12-14 10:00:34",
+                "duration": "00:00:01",
+                "records": "1",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_rfta",
+            "last_ingest": "03/17/2022 13:18:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Rising from the Ashes",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "rfta"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2022-03-17 13:18:47",
+                "end_time": "2022-03-17 13:18:50",
+                "duration": "00:00:02",
+                "records": "109",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_rmtravis",
+            "last_ingest": "09/25/2020 14:19:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Robert Morris Travis Letters",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "rmtravis"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:19:47",
+                "end_time": "2020-09-25 14:19:48",
+                "duration": "00:00:01",
+                "records": "5",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_roth",
+            "last_ingest": "01/21/2021 16:54:12",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_roth",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "roth"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-01-21 16:54:12",
+                "end_time": "2021-01-21 16:54:42",
+                "duration": "00:00:29",
+                "records": "7603",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_ruskin",
+            "last_ingest": "09/05/2018 09:16:52",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Photographs of the Ruskin Cooperative Association",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "ruskin"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-09-05 09:16:52",
+                "end_time": "2018-09-05 09:16:53",
+                "duration": "00:00:01",
+                "records": "104",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_sanborn",
+            "last_ingest": "12/01/2017 16:34:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "UTK Sanborn",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "sanborn"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 16:34:50",
+                "end_time": "2017-12-01 16:34:53",
+                "duration": "00:00:03",
+                "records": "256",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_scopes",
+            "last_ingest": "09/25/2020 13:49:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_scopes",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "scopes"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 13:49:47",
+                "end_time": "2020-09-25 13:49:51",
+                "duration": "00:00:03",
+                "records": "678",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_smhc",
+            "last_ingest": "03/10/2021 09:40:44",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_smhc",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "smhc"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:40:44",
+                "end_time": "2021-03-10 09:40:46",
+                "duration": "00:00:01",
+                "records": "184",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_sturley",
+            "last_ingest": "06/09/2020 15:04:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Ruth Sturley's Letters and Diary",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "sturley"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-09 15:04:31",
+                "end_time": "2020-06-09 15:04:33",
+                "duration": "00:00:01",
+                "records": "67",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_swim",
+            "last_ingest": "06/01/2018 16:51:15",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Swimming-Diving media guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "swim"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-06-01 16:51:15",
+                "end_time": "2018-06-01 16:51:17",
+                "duration": "00:00:01",
+                "records": "42",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tatum",
+            "last_ingest": "09/25/2020 14:28:32",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Robert G. Tatum Papers",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tatum"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:28:32",
+                "end_time": "2020-09-25 14:28:33",
+                "duration": "00:00:01",
+                "records": "0",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tdh",
+            "last_ingest": "08/05/2021 09:40:34",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Documentary History",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tdh"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-08-05 09:40:34",
+                "end_time": "2021-08-05 09:40:41",
+                "duration": "00:00:07",
+                "records": "1604",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tenncities",
+            "last_ingest": "03/10/2021 09:42:59",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Images of East Tennessee",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tenncities"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-03-10 09:42:59",
+                "end_time": "2021-03-10 09:43:02",
+                "duration": "00:00:02",
+                "records": "493",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tennessean",
+            "last_ingest": "06/06/2019 15:05:56",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Tennessean: New Literary Magazine of the University of Tennessee",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tennessean"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-06-06 15:05:56",
+                "end_time": "2019-06-06 15:05:58",
+                "duration": "00:00:01",
+                "records": "12",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tenngirl",
+            "last_ingest": "12/17/2018 10:25:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Girl Student Handbook",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tenngirl"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-17 10:25:31",
+                "end_time": "2018-12-17 10:25:32",
+                "duration": "00:00:01",
+                "records": "24",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_tennvolsmag",
+            "last_ingest": "06/06/2021 10:28:29",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Volunteers Magazine",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "tennvolsmag"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-06-06 10:28:29",
+                "end_time": "2021-06-06 10:28:31",
+                "duration": "00:00:01",
+                "records": "217",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_thompson",
+            "last_ingest": "12/02/2020 17:06:40",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Thompson Brothers Photography Colleciton",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "thompson"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-02 17:06:40",
+                "end_time": "2020-12-02 17:06:43",
+                "duration": "00:00:02",
+                "records": "399",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_torch",
+            "last_ingest": "06/09/2020 15:15:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Torchbearer",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "torch"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-09 15:15:47",
+                "end_time": "2020-06-09 15:15:49",
+                "duration": "00:00:01",
+                "records": "191",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_univmonthly",
+            "last_ingest": "12/14/2018 09:53:03",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University Monthly",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "univmonthly"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 09:53:03",
+                "end_time": "2018-12-14 09:53:04",
+                "duration": "00:00:01",
+                "records": "13",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_utrecord",
+            "last_ingest": "06/07/2022 14:34:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Record",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "utrecord"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2022-06-07 14:34:23",
+                "end_time": "2022-06-07 14:34:27",
+                "duration": "00:00:03",
+                "records": "443",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_utsmc",
+            "last_ingest": "12/14/2018 09:50:33",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_utsmc",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "utsmc"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 09:50:33",
+                "end_time": "2018-12-14 09:50:54",
+                "duration": "00:00:21",
+                "records": "2373",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_vanvactor",
+            "last_ingest": "11/18/2020 15:31:27",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "David Van Vactor Music Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "vanvactor"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-11-18 15:31:27",
+                "end_time": "2020-11-18 15:31:33",
+                "duration": "00:00:05",
+                "records": "476",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_voice",
+            "last_ingest": "12/14/2018 09:52:03",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Vocational Voice: Journal of Ex-Service Men of UT",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "voice"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2018-12-14 09:52:03",
+                "end_time": "2018-12-14 09:52:04",
+                "duration": "00:00:01",
+                "records": "24",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_voloh",
+            "last_ingest": "02/13/2020 16:25:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Voices Out Loud Oral Histories",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "voloh"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-02-13 16:25:47",
+                "end_time": "2020-02-13 16:25:49",
+                "duration": "00:00:01",
+                "records": "9",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_volvoices",
+            "last_ingest": "04/24/2019 12:33:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_volvoices",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "volvoices"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-04-24 12:33:38",
+                "end_time": "2019-04-24 12:33:56",
+                "duration": "00:00:18",
+                "records": "4399",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_vpmoore",
+            "last_ingest": "12/01/2017 14:59:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_vpmoore",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "vpmoore"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-12-01 14:59:50",
+                "end_time": "2017-12-01 14:59:52",
+                "duration": "00:00:02",
+                "records": "101",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_walden",
+            "last_ingest": "09/25/2020 14:35:02",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Catalogues of Walden University Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "walden"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-09-25 14:35:02",
+                "end_time": "2020-09-25 14:35:03",
+                "duration": "00:00:01",
+                "records": "5",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_wcc",
+            "last_ingest": "03/10/2020 13:34:09",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "William Cox Cochran Photographic Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "wcc"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-03-10 13:34:09",
+                "end_time": "2020-03-10 13:34:10",
+                "duration": "00:00:01",
+                "records": "90",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_wderfilms",
+            "last_ingest": "06/06/2019 15:10:11",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "utk_wderfilms",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "https://digital.lib.utk.edu/collections/oai2",
+                "original_oai_set_name": "gsmrc_wderfilms"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-06-06 15:10:11",
+                "end_time": "2019-06-06 15:10:13",
+                "duration": "00:00:01",
+                "records": "14",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_webster",
+            "last_ingest": "06/11/2020 10:16:06",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Herbert M. Webster Photograph Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "webster"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-11 10:16:06",
+                "end_time": "2020-06-11 10:16:10",
+                "duration": "00:00:03",
+                "records": "514",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_womenbball",
+            "last_ingest": "05/13/2020 13:56:17",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Lady Volunteers Basketball Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "womenbball"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-05-13 13:56:17",
+                "end_time": "2020-05-13 13:56:19",
+                "duration": "00:00:01",
+                "records": "29",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_wrestling",
+            "last_ingest": "11/19/2021 10:21:47",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "University of Tennessee Volunteers Wrestling Media Guides",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "wrestling"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-11-19 10:21:47",
+                "end_time": "2021-11-19 10:21:49",
+                "duration": "00:00:01",
+                "records": "16",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_wwiioh",
+            "last_ingest": "06/12/2020 07:36:17",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "World War II Oral Histories Collection",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "wwiioh"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-06-12 07:36:17",
+                "end_time": "2020-06-12 07:36:21",
+                "duration": "00:00:03",
+                "records": "630",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "utk_yrb",
+            "last_ingest": "06/06/2019 15:10:26",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "The Volunteer - University of Tennessee Yearbooks",
+                "metadata_format": "mods",
+                "oai_endpoint_url": "http://dloai.lib.utk.edu/cgi-bin/XMLFile/dlmodsoai/oai.pl",
+                "original_oai_set_name": "yrb"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-06-06 15:10:26",
+                "end_time": "2019-06-06 15:10:28",
+                "duration": "00:00:01",
+                "records": "112",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

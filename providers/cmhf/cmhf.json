@@ -1,0 +1,46 @@
+{
+    "CountryMusicHallofFamer0": [
+        {
+            "dataset_id": "cmhf_hatch",
+            "last_ingest": "03/13/2020 16:33:05",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd",
+                "namespace": "http://worldcat.org/xmlschemas/qdc-1.0",
+                "description": "cmhf_hatch",
+                "metadata_format": "oai_qdc",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-03-13 16:33:05",
+                "end_time": "2020-03-13 16:33:32",
+                "duration": "00:00:26",
+                "records": "26534",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "cmhf_musicaudio",
+            "last_ingest": "09/16/2019 12:09:34",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd",
+                "namespace": "http://worldcat.org/xmlschemas/qdc-1.0",
+                "description": "cmhf_musicaudio",
+                "metadata_format": "oai_qdc",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2019-09-16 12:09:34",
+                "end_time": "2019-09-16 12:09:51",
+                "duration": "00:00:16",
+                "records": "9255",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

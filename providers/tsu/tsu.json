@@ -1,0 +1,67 @@
+{
+    "TennesseeStateUniversityr0": [
+        {
+            "dataset_id": "tsupublicationallcatalgouesr0",
+            "last_ingest": "12/11/2020 16:35:45",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "tsu_publication:allcatalgoues",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "https://digitalscholarship.tnstate.edu/do/oai/",
+                "original_oai_set_name": "publication:allcatalogues"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-11 16:35:45",
+                "end_time": "2020-12-11 16:35:52",
+                "duration": "00:00:06",
+                "records": "78",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "tsulibrarydigitalcollections",
+            "last_ingest": "12/09/2020 19:05:28",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Tennessee State University Library Digital Collections",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "https://digitalscholarship.tnstate.edu/do/oai/",
+                "original_oai_set_name": "publication:library-digital-collections"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-09 19:05:28",
+                "end_time": "2020-12-09 19:05:50",
+                "duration": "00:00:21",
+                "records": "212",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "tsupublicationyearbooksr0",
+            "last_ingest": "12/09/2020 18:50:43",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Tennessee State University Yearbooks",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "https://digitalscholarship.tnstate.edu/do/oai/",
+                "original_oai_set_name": "publication:yearbooks"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-09 18:50:43",
+                "end_time": "2020-12-09 18:50:49",
+                "duration": "00:00:06",
+                "records": "67",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "TennesseeTechr0": [
+        {
+            "dataset_id": "tntech",
+            "last_ingest": "09/03/2021 16:56:38",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Tech",
+                "metadata_format": "oai_mods",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-09-03 16:56:38",
+                "end_time": "2021-09-03 16:56:38",
+                "duration": "00:00:00",
+                "records": "130",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "tntech2",
+            "last_ingest": "12/10/2021 13:19:56",
+            "details": {
+                "acquisition_method": "DIR",
+                "schema": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+                "namespace": "http://www.loc.gov/mods/v3",
+                "description": "Tennessee Tech 2",
+                "metadata_format": "mods",
+                "oai_endpoint_url": null,
+                "original_oai_set_name": null
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-12-10 13:19:56",
+                "end_time": "2021-12-10 13:19:56",
+                "duration": "00:00:00",
+                "records": "39",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

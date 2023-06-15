@@ -1,0 +1,487 @@
+{
+    "memphispublicr0": [
+        {
+            "dataset_id": "p13039coll2",
+            "last_ingest": "07/10/2015 17:33:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Civil Rights Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p13039coll2"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:33:23",
+                "end_time": "2015-07-10 17:33:30",
+                "duration": "00:00:06",
+                "records": "633",
+                "deleted_records": "401"
+            }
+        },
+        {
+            "dataset_id": "p13039coll3",
+            "last_ingest": "07/12/2015 12:38:49",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Memphis Parks",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p13039coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-12 12:38:49",
+                "end_time": "2015-07-12 12:38:55",
+                "duration": "00:00:06",
+                "records": "880",
+                "deleted_records": "738"
+            }
+        },
+        {
+            "dataset_id": "p13039coll5",
+            "last_ingest": "07/10/2015 17:39:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "The M Files",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p13039coll5"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:39:38",
+                "end_time": "2015-07-10 17:40:12",
+                "duration": "00:00:33",
+                "records": "1438",
+                "deleted_records": "35"
+            }
+        },
+        {
+            "dataset_id": "p13039dc",
+            "last_ingest": "07/10/2015 17:45:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Memphis Streetscapes",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p13039dc"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:45:08",
+                "end_time": "2015-07-10 17:45:37",
+                "duration": "00:00:29",
+                "records": "1162",
+                "deleted_records": "84"
+            }
+        },
+        {
+            "dataset_id": "p15342coll1",
+            "last_ingest": "07/10/2015 17:45:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Britton Duke Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:45:08",
+                "end_time": "2015-07-10 17:45:11",
+                "duration": "00:00:02",
+                "records": "48",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p15342coll10",
+            "last_ingest": "07/10/2015 17:48:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Pink Palace Photograph Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll10"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:48:38",
+                "end_time": "2015-07-10 17:49:13",
+                "duration": "00:00:34",
+                "records": "1473",
+                "deleted_records": "1"
+            }
+        },
+        {
+            "dataset_id": "p15342coll3",
+            "last_ingest": "07/10/2015 17:48:53",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Postcards from Memphis",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:48:53",
+                "end_time": "2015-07-10 17:49:05",
+                "duration": "00:00:11",
+                "records": "295",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p15342coll4",
+            "last_ingest": "07/12/2015 12:35:19",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Library History",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll4"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-12 12:35:19",
+                "end_time": "2015-07-12 12:35:47",
+                "duration": "00:00:28",
+                "records": "1274",
+                "deleted_records": "5"
+            }
+        },
+        {
+            "dataset_id": "p15342coll7",
+            "last_ingest": "07/10/2015 17:56:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "George W. Lee Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll7"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:56:38",
+                "end_time": "2015-07-10 17:56:48",
+                "duration": "00:00:09",
+                "records": "359",
+                "deleted_records": "6"
+            }
+        },
+        {
+            "dataset_id": "p15342coll8",
+            "last_ingest": "07/10/2015 17:56:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "The Schoolyard",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll8"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:56:38",
+                "end_time": "2015-07-10 17:56:47",
+                "duration": "00:00:08",
+                "records": "249",
+                "deleted_records": "1"
+            }
+        },
+        {
+            "dataset_id": "p15342coll9",
+            "last_ingest": "07/10/2015 17:58:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "German Heritage",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p15342coll9"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:58:08",
+                "end_time": "2015-07-10 17:58:14",
+                "duration": "00:00:05",
+                "records": "70",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll1",
+            "last_ingest": "07/10/2015 18:03:53",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Mid-South Flood Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:03:53",
+                "end_time": "2015-07-10 18:04:37",
+                "duration": "00:00:43",
+                "records": "1529",
+                "deleted_records": "10"
+            }
+        },
+        {
+            "dataset_id": "p16108coll10",
+            "last_ingest": "07/10/2015 18:05:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Colton Greene Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll10"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:05:08",
+                "end_time": "2015-07-10 18:05:14",
+                "duration": "00:00:05",
+                "records": "185",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll12",
+            "last_ingest": "07/10/2015 18:09:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Memphis Chamber of Commerce Files",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll12"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:09:08",
+                "end_time": "2015-07-10 18:09:20",
+                "duration": "00:00:11",
+                "records": "463",
+                "deleted_records": "9"
+            }
+        },
+        {
+            "dataset_id": "p16108coll14",
+            "last_ingest": "07/10/2015 18:09:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Robert Lanier Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll14"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:09:23",
+                "end_time": "2015-07-10 18:09:32",
+                "duration": "00:00:08",
+                "records": "295",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll15",
+            "last_ingest": "07/10/2015 18:09:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Benjamin L. Hooks Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll15"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:09:23",
+                "end_time": "2015-07-10 18:09:33",
+                "duration": "00:00:10",
+                "records": "466",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll2",
+            "last_ingest": "07/10/2015 18:05:23",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Perre Magness Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll2"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 18:05:23",
+                "end_time": "2015-07-10 18:05:30",
+                "duration": "00:00:06",
+                "records": "238",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll3",
+            "last_ingest": "07/10/2015 17:59:53",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Arthur Webb Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:59:53",
+                "end_time": "2015-07-10 17:59:56",
+                "duration": "00:00:02",
+                "records": "84",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll4",
+            "last_ingest": "07/10/2015 17:59:53",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Saul Brown Photograph Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll4"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:59:53",
+                "end_time": "2015-07-10 18:00:07",
+                "duration": "00:00:13",
+                "records": "521",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll9",
+            "last_ingest": "07/10/2015 17:40:38",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Hallelujah!",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll9"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:40:38",
+                "end_time": "2015-07-10 17:40:42",
+                "duration": "00:00:03",
+                "records": "107",
+                "deleted_records": "1"
+            }
+        },
+        {
+            "dataset_id": "memphispublic_p16108coll5",
+            "last_ingest": "12/02/2020 11:36:22",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Restaurant and Menus Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p16108coll5"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2020-12-02 11:36:22",
+                "end_time": "2020-12-02 11:36:36",
+                "duration": "00:00:13",
+                "records": "1121",
+                "deleted_records": "9"
+            }
+        },
+        {
+            "dataset_id": "p16108coll6",
+            "last_ingest": "07/10/2015 17:48:08",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "memphis p16108coll6",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll6"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-10 17:48:08",
+                "end_time": "2015-07-10 17:48:14",
+                "duration": "00:00:06",
+                "records": "211",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "p16108coll8",
+            "last_ingest": "07/12/2015 12:54:34",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Memphis Public p16108coll8",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm16108.contentdm.oclc.org:80/oai/oai.php",
+                "original_oai_set_name": "p16108coll8"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2015-07-12 12:54:34",
+                "end_time": "2015-07-12 12:54:44",
+                "duration": "00:00:09",
+                "records": "305",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}

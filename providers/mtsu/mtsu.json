@@ -1,0 +1,193 @@
+{
+    "MTSUr0": [
+        {
+            "dataset_id": "mtsu_buchanan",
+            "last_ingest": "09/22/2016 21:22:05",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "MTSU Buchanan",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "buchanan"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2016-09-22 21:22:05",
+                "end_time": "2016-09-22 21:22:07",
+                "duration": "00:00:01",
+                "records": "74",
+                "deleted_records": "46"
+            }
+        },
+        {
+            "dataset_id": "mtsu_cannon",
+            "last_ingest": "04/13/2017 15:59:31",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Cannon County (TN) Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "cannon"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-04-13 15:59:31",
+                "end_time": "2017-04-13 15:59:35",
+                "duration": "00:00:04",
+                "records": "0",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "mtsu_mtsu1",
+            "last_ingest": "09/22/2016 21:22:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "MTSU mtsu1",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "mtsu1"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2016-09-22 21:22:50",
+                "end_time": "2016-09-22 21:23:02",
+                "duration": "00:00:11",
+                "records": "1695",
+                "deleted_records": "1177"
+            }
+        },
+        {
+            "dataset_id": "mtsu_p15838coll3",
+            "last_ingest": "09/22/2016 21:25:50",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "MTSU p15838coll3",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15838coll3"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2016-09-22 21:25:50",
+                "end_time": "2016-09-22 21:25:57",
+                "duration": "00:00:06",
+                "records": "1538",
+                "deleted_records": "1459"
+            }
+        },
+        {
+            "dataset_id": "mtsu_p15838coll4",
+            "last_ingest": "04/13/2017 16:05:16",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "MTSU p15838coll4",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15838coll4"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-04-13 16:05:16",
+                "end_time": "2017-04-13 16:05:18",
+                "duration": "00:00:01",
+                "records": "1",
+                "deleted_records": "0"
+            }
+        },
+        {
+            "dataset_id": "mtsu_p15838coll7",
+            "last_ingest": "03/20/2017 15:04:13",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "MTSU p15838coll7",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15838coll7"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2017-03-20 15:04:13",
+                "end_time": "2017-03-20 15:04:17",
+                "duration": "00:00:04",
+                "records": "297",
+                "deleted_records": "7"
+            }
+        },
+        {
+            "dataset_id": "mtsu_schools",
+            "last_ingest": "09/22/2016 21:30:05",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Rutherford County Schools Collection",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "schools"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2016-09-22 21:30:05",
+                "end_time": "2016-09-22 21:30:07",
+                "duration": "00:00:01",
+                "records": "48",
+                "deleted_records": "1"
+            }
+        },
+        {
+            "dataset_id": "mtsu_shades",
+            "last_ingest": "09/22/2016 21:31:35",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Shades of Gray and Blue",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "shades"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2016-09-22 21:31:35",
+                "end_time": "2016-09-22 21:31:41",
+                "duration": "00:00:05",
+                "records": "304",
+                "deleted_records": "10"
+            }
+        },
+        {
+            "dataset_id": "mtsu_p15838coll16",
+            "last_ingest": "06/04/2021 09:42:59",
+            "details": {
+                "acquisition_method": "OAI",
+                "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                "namespace": "http://www.openarchives.org/OAI/2.0/",
+                "description": "Historic Clothing",
+                "metadata_format": "oai_dc",
+                "oai_endpoint_url": "http://cdm15838.contentdm.oclc.org/oai/oai.php",
+                "original_oai_set_name": "p15838coll16"
+            },
+            "log": {
+                "status": "OK",
+                "start_time": "2021-06-04 09:42:59",
+                "end_time": "2021-06-04 09:43:05",
+                "duration": "00:00:05",
+                "records": "391",
+                "deleted_records": "0"
+            }
+        }
+    ]
+}
