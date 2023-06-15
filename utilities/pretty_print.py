@@ -19,5 +19,5 @@ class DirectoryOfFiles:
 
 
 if __name__ == "__main__":
-    x = DirectoryOfFiles('providers/memphis_public/')
+    x = DirectoryOfFiles('providers/utk/')
     x.pretty_print_directory()
