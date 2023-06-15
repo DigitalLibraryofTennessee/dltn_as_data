@@ -61,7 +61,7 @@ class DataSet:
 
 
 if __name__ == '__main__':
-    r = Repox('https://dpla.lib.utk.edu', 'admin', 'for8s4non')
+    r = Repox('https://dpla.lib.utk.edu', 'user', 'pass')
     good_sets = []
     with open('sets.yml', 'r') as file:
         # Read the contents of the YAML file
